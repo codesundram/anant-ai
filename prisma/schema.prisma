@@ -1,0 +1,115 @@
+// Content plane only (ARCHITECTURE.md §4). User progress — NoteCard, QuizAttempt,
+// Streak, IndustryProgress — is kept on the device in Phase 1 with the same
+// shapes (src/lib/progress.ts) and moves here when accounts arrive in Phase 2.
+//
+// SQLite has no enums or JSON columns, so those are Strings validated by the
+// seed script. To move to Postgres, change `provider` and DATABASE_URL.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Industry {
+  id        String    @id
+  slug      String    @unique
+  name      String
+  companies Company[]
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+}
+
+model Company {
+  id         String      @id
+  slug       String      @unique
+  name       String
+  type       String // listed | startup | model
+  status     String      @default("published") // draft | published
+  industryId String      @map("industry_id")
+  industry   Industry    @relation(fields: [industryId], references: [id])
+  explainers Explainer[]
+  createdAt  DateTime    @default(now()) @map("created_at")
+  updatedAt  DateTime    @updatedAt @map("updated_at")
+
+  @@index([industryId])
+}
+
+model Explainer {
+  id          String          @id
+  companyId   String          @map("company_id")
+  company     Company         @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  version     Int             @default(1)
+  status      String          @default("published") // draft | in_review | published
+  publishedAt DateTime?       @map("published_at")
+  reviewedBy  String?         @map("reviewed_by")
+  note30w     String          @map("note_30w")
+  parts       ExplainerPart[]
+  questions   QuizQuestion[]
+  createdAt   DateTime        @default(now()) @map("created_at")
+  updatedAt   DateTime        @updatedAt @map("updated_at")
+
+  @@unique([companyId, version])
+}
+
+model ExplainerPart {
+  id          String    @id
+  explainerId String    @map("explainer_id")
+  explainer   Explainer @relation(fields: [explainerId], references: [id], onDelete: Cascade)
+  kind        String // SELLS | EARNS | SIZE | RIVALS | WATCH
+  order       Int
+  body        String
+  figures     Figure[]
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  @@unique([explainerId, kind])
+  @@unique([explainerId, order])
+}
+
+// The hard rule as a constraint: source_id is required, never nullable.
+model Figure {
+  id        String        @id
+  partId    String        @map("part_id")
+  part      ExplainerPart @relation(fields: [partId], references: [id], onDelete: Cascade)
+  label     String
+  value     String
+  unit      String
+  period    String
+  sourceId  String        @map("source_id")
+  source    Source        @relation(fields: [sourceId], references: [id])
+  createdAt DateTime      @default(now()) @map("created_at")
+  updatedAt DateTime      @updatedAt @map("updated_at")
+
+  @@index([partId])
+}
+
+model Source {
+  id        String   @id
+  title     String
+  docType   String   @map("doc_type")
+  period    String
+  url       String?
+  fileRef   String?  @map("file_ref")
+  figures   Figure[]
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+}
+
+model QuizQuestion {
+  id          String    @id
+  explainerId String    @map("explainer_id")
+  explainer   Explainer @relation(fields: [explainerId], references: [id], onDelete: Cascade)
+  order       Int
+  partKind    String    @map("part_kind")
+  prompt      String
+  correctIdx  Int       @map("correct_idx")
+  options     String // JSON array of strings
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  @@unique([explainerId, order])
+}

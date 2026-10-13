@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The Sixty: five colours, exactly. Brass is the only accent. */
+:root {
+  --black-room: #0e0d0c;
+  --bone: #e8dfcf;
+  --paper: #f1eadc;
+  --ash: #7a746a;
+  --brass: #b8956a;
+  --bg: var(--black-room);
+  --fg: var(--bone);
+}
+
+/* Two theme contexts: dark is for watching, Paper is for keeping. */
+[data-theme="watch"] {
+  --bg: var(--black-room);
+  --fg: var(--bone);
+}
+[data-theme="keep"] {
+  --bg: var(--paper);
+  --fg: var(--black-room);
+}
+
+html {
+  background: var(--black-room);
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  .screen {
+    @apply min-h-[100svh] bg-bg text-fg font-sans;
+  }
+  .column {
+    @apply mx-auto w-full max-w-[480px] px-6;
+  }
+  .label {
+    @apply text-[12px] uppercase tracking-label text-ash;
+  }
+  .btn {
+    @apply flex h-[52px] w-full items-center justify-center rounded-[4px] bg-fg font-display text-[16px] font-semibold text-bg;
+  }
+  .btn-quiet {
+    @apply flex h-[52px] w-full items-center justify-center rounded-[4px] border border-ash font-display text-[16px] font-semibold text-fg;
+  }
+  .hairline {
+    @apply border-0 border-t border-solid border-ash;
+  }
+  .source-line {
+    @apply text-[12px] leading-[1.4] text-ash;
+  }
+}
+
+:focus-visible {
+  outline: 1px solid var(--brass);
+  outline-offset: 3px;
+}
+
+/* Kinetic type: each line of a part cuts in. */
+@keyframes cut-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.cut > * {
+  animation: cut-in 150ms ease-out both;
+}
+.cut > *:nth-child(2) {
+  animation-delay: 70ms;
+}
+.cut > *:nth-child(3) {
+  animation-delay: 140ms;
+}
+.cut > *:nth-child(4) {
+  animation-delay: 210ms;
+}
+
+/* The reward: Black Room fades to Paper, then the note slides up and settles. */
+.reward {
+  transition: background-color 600ms ease, color 600ms ease;
+}
+@keyframes settle {
+  from {
+    opacity: 0;
+    transform: translateY(48px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.settle {
+  animation: settle 500ms cubic-bezier(0.2, 0.7, 0.2, 1) 600ms both;
+}
+
+@keyframes fill {
+  from {
+    transform: scaleY(0);
+  }
+  to {
+    transform: scaleY(1);
+  }
+}
+.streak-fill {
+  transform-origin: bottom;
+  animation: fill 600ms ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cut > *,
+  .settle,
+  .streak-fill {
+    animation: none;
+  }
+  .reward {
+    transition: none;
+  }
+}

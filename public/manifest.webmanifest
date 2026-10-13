@@ -1,0 +1,9 @@
+{
+  "name": "ANANT.AI",
+  "short_name": "ANANT.AI",
+  "description": "Understand any Indian company in 60 seconds",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0D0C",
+  "theme_color": "#0E0D0C"
+}
