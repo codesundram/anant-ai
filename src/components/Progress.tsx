@@ -40,9 +40,7 @@ export function Progress({ industries }: { industries: IndustryTotal[] }) {
                   </span>
                 </div>
                 {n > 0 && (
-                  <div className="mt-3 h-px w-full bg-ash" aria-hidden="true">
-                    <div className="h-px bg-fg" style={{ width: `${(n / r.total) * 100}%` }} />
-                  </div>
+                  <div className="mt-3 h-[2px] bg-fg" style={{ width: `${(n / r.total) * 100}%` }} aria-hidden="true" />
                 )}
               </li>
             );
