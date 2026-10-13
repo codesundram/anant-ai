@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "about": "ANANT.AI first seed batch — 8 real Indian companies, placement-relevant, across quick commerce, fintech, retail, beauty, eyewear and insurtech.",
+    "schema": "Matches ARCHITECTURE.md §4. One record per company. Every figure carries a source + period. No figure without a source.",
+    "figure_source_caveat": "Figures below are as reported by business media citing company filings / RoC (Registrar of Companies) accounts. BEFORE PRODUCTION, replace each source URL with the exact annual-report or RoC filing PDF and the line-item/page reference. Media-reported numbers are a staging step, not the final citation.",
+    "units": "All figures in INR crore (₹ crore). FY = financial year ended 31 March.",
+    "generated": "2026-10-13"
+  },
+  "companies": [
+    {
+      "slug": "eternal",
+      "name": "Eternal (Zomato)",
+      "type": "listed",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "The parent of Zomato (food delivery) and Blinkit (10-minute grocery). Also runs Hyperpure (B2B supplies to restaurants) and District (going-out and events).",
+        "EARNS": "Takes commissions and delivery fees from restaurants, sells ads to them, and earns product margins through Blinkit and Hyperpure. Quick commerce is now the growth engine.",
+        "SIZE": "FY25 consolidated revenue of about ₹20,243 crore, up 67%, with profit after tax of ₹527 crore.",
+        "RIVALS": "Swiggy in food delivery; Blinkit competes with Zepto and Swiggy Instamart in quick commerce.",
+        "WATCH": "How fast Blinkit scales dark stores without burning cash, and whether quick commerce stays profitable as competition intensifies."
+      },
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "20243", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Eternal FY25 Annual Report (reported by Medianama)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.medianama.com/2025/07/223-eternal-fy25-annual-report-highlights-zomato-blinkit/" } },
+        { "label": "Profit after tax", "value": "527", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Eternal FY25 Annual Report (reported by Medianama)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.medianama.com/2025/07/223-eternal-fy25-annual-report-highlights-zomato-blinkit/" } }
+      ],
+      "quiz": [
+        { "prompt": "How does Eternal mainly earn from Zomato?", "options": ["Selling food it cooks", "Commissions, delivery fees and ads from restaurants", "Monthly fees from diners", "Stock trading"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which Eternal business is its quick-commerce arm?", "options": ["Hyperpure", "District", "Blinkit", "Zomato"], "correct_idx": 2, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Eternal owns Zomato and Blinkit. It earns commissions, delivery fees and ads, plus grocery margins. FY25 revenue near ₹20,243 crore, profit ₹527 crore. Quick commerce is the growth story to watch."
+    },
+    {
+      "slug": "swiggy",
+      "name": "Swiggy",
+      "type": "listed",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "Food delivery plus Instamart (quick-commerce grocery), dining-out bookings and a pick-up-and-drop service, Genie. Listed on the exchanges in late 2024.",
+        "EARNS": "Commissions and delivery fees from restaurants, advertising, and product margins through Instamart. Instamart is the big bet and the big cost.",
+        "SIZE": "FY25 consolidated revenue of about ₹15,227 crore, up 35%, with a net loss of about ₹3,117 crore.",
+        "RIVALS": "Zomato in food delivery; Instamart competes with Blinkit and Zepto in quick commerce.",
+        "WATCH": "Whether Instamart's losses narrow as it scales, and the path to profitability now that the company is public."
+      },
+      "figures": [
+        { "label": "Revenue from operations", "value": "15226.75", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Swiggy FY25 results (reported by Indian Retailer)", "doc_type": "filing", "period": "FY25", "url": "https://www.indianretailer.com/news/swiggy-q4-loss-doubles-rs-1081-cr-fy25-revenue-rises-35-rs-5227-cr" } },
+        { "label": "Net loss", "value": "3116.79", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Swiggy FY25 results (reported by Indian Retailer)", "doc_type": "filing", "period": "FY25", "url": "https://www.indianretailer.com/news/swiggy-q4-loss-doubles-rs-1081-cr-fy25-revenue-rises-35-rs-5227-cr" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Swiggy Instamart?", "options": ["A dining loyalty card", "Its quick-commerce grocery service", "A restaurant chain", "A payments app"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What was Swiggy's FY25 position on profit?", "options": ["Large profit", "Break-even", "A net loss of about ₹3,117 crore", "No revenue"], "correct_idx": 2, "part_kind": "SIZE" }
+      ],
+      "note_30w": "Swiggy does food delivery plus Instamart quick commerce. It earns commissions, fees and ads. FY25 revenue about ₹15,227 crore but a net loss near ₹3,117 crore. Watch Instamart's path to profit."
+    },
+    {
+      "slug": "zepto",
+      "name": "Zepto",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "A quick-commerce app promising grocery and essentials in about ten minutes, run through a network of small local warehouses called dark stores.",
+        "EARNS": "Product margins on what it sells, plus delivery and handling fees, platform charges and advertising from brands. Dark-store density drives the economics.",
+        "SIZE": "Revenue of about ₹11,110 crore in FY25 (from its RoC filing); net loss of about ₹1,249 crore in FY24.",
+        "RIVALS": "Blinkit (Eternal), Swiggy Instamart, and BigBasket's quick-commerce push.",
+        "WATCH": "Whether dark-store unit economics turn positive as it scales, how fast losses narrow, and its reported move toward an IPO."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "11110", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zepto FY25 RoC filing (reported by Entrackr)", "doc_type": "filing", "period": "FY25", "url": "https://entrackr.com/news/zepto-revenue-soars-25x-to-rs-11110-cr-in-fy25-9602729" } },
+        { "label": "Net loss", "value": "1248.6", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Zepto FY24 RoC filing (reported by Entrackr)", "doc_type": "filing", "period": "FY24", "url": "https://entrackr.com/fintrackr/zepto-spent-rs-5747-cr-to-earn-rs-4454-cr-in-fy24-8438575" } }
+      ],
+      "quiz": [
+        { "prompt": "What is a 'dark store' in Zepto's model?", "options": ["A shop with no lights", "A small local warehouse for fast delivery", "A competitor", "A payment method"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "How does Zepto make money beyond product margins?", "options": ["Only subscriptions", "Delivery and handling fees, plus ads from brands", "Stock tips", "Cooking food"], "correct_idx": 1, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Zepto is ten-minute quick commerce built on dark stores. It earns product margins, delivery and handling fees, and brand ads. FY25 revenue about ₹11,110 crore. Watch dark-store economics and a possible IPO."
+    },
+    {
+      "slug": "dmart",
+      "name": "Avenue Supermarts (DMart)",
+      "type": "listed",
+      "industry": "retail",
+      "parts": {
+        "SELLS": "A value-retail chain of large DMart stores selling groceries, staples, household goods, apparel and general merchandise at low everyday prices.",
+        "EARNS": "Thin retail margins on huge volumes. It keeps costs low by owning most stores rather than renting, and turning inventory quickly.",
+        "SIZE": "FY25 net sales of about ₹53,333 crore, with net profit of about ₹2,707 crore.",
+        "RIVALS": "Reliance Retail, local kirana stores, and online and quick-commerce grocery players.",
+        "WATCH": "How value retail holds up against quick commerce for grocery, and how fast it grows DMart Ready, its online arm."
+      },
+      "figures": [
+        { "label": "Net sales", "value": "53333.2", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Avenue Supermarts FY25 Annual Report (analysis, Equitymaster)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.equitymaster.com/research-it/annual-results-analysis/DMART/AVENUE-SUPERMARTS--2024-25-Annual-Report-Analysis/12495" } },
+        { "label": "Net profit", "value": "2707.5", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Avenue Supermarts FY25 Annual Report (analysis, Equitymaster)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.equitymaster.com/research-it/annual-results-analysis/DMART/AVENUE-SUPERMARTS--2024-25-Annual-Report-Analysis/12495" } }
+      ],
+      "quiz": [
+        { "prompt": "What keeps DMart's costs low?", "options": ["Renting premium malls", "Owning most stores and turning inventory fast", "High prices", "Only online sales"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "DMart's model is best described as:", "options": ["Luxury retail", "Value retail at low everyday prices", "A food-delivery app", "A bank"], "correct_idx": 1, "part_kind": "SELLS" }
+      ],
+      "note_30w": "DMart is value retail: large stores, low everyday prices, thin margins on big volumes. It owns most stores and turns inventory fast. FY25 net sales about ₹53,333 crore, profit ₹2,707 crore."
+    },
+    {
+      "slug": "nykaa",
+      "name": "Nykaa (FSN E-Commerce)",
+      "type": "listed",
+      "industry": "beauty-ecommerce",
+      "parts": {
+        "SELLS": "An online retailer of beauty and personal care, plus a fashion arm. It stocks and sells products directly and also runs owned brands and physical stores.",
+        "EARNS": "Product margins on beauty it holds as inventory, commissions on marketplace items, advertising from brands, and higher margins on its own private labels.",
+        "SIZE": "FY25 revenue of about ₹7,950 crore, up 24%, with net profit of about ₹72 crore.",
+        "RIVALS": "Tira (Reliance), Myntra Beauty, Purplle, and Amazon and Flipkart's beauty sections.",
+        "WATCH": "Whether the fashion business turns profitable, and how it defends beauty against Tira's well-funded push."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "7950", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "FSN E-Commerce FY25 results (reported by Apparel Resources)", "doc_type": "filing", "period": "FY25", "url": "https://apparelresources.com/business-news/retail/nykaa-sees-profit-growth-110-per-cent-q4-fashion-segment-sees-recovery/" } },
+        { "label": "Net profit", "value": "72", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "FSN E-Commerce FY25 results (reported by Apparel Resources)", "doc_type": "filing", "period": "FY25", "url": "https://apparelresources.com/business-news/retail/nykaa-sees-profit-growth-110-per-cent-q4-fashion-segment-sees-recovery/" } }
+      ],
+      "quiz": [
+        { "prompt": "Why can Nykaa's beauty margins differ from a pure marketplace?", "options": ["It gives products free", "It holds beauty as inventory and sells private labels", "It only shows ads", "It is a bank"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who is a major new rival in beauty for Nykaa?", "options": ["DMart", "Tira (Reliance)", "Paytm", "Swiggy"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Nykaa sells beauty online, holding inventory and owning brands, plus a fashion arm. It earns product margins, commissions, ads and private-label margins. FY25 revenue about ₹7,950 crore, profit ₹72 crore. Watch Tira's challenge."
+    },
+    {
+      "slug": "paytm",
+      "name": "Paytm (One97 Communications)",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "Digital payments for consumers and merchants — QR codes, soundboxes and card machines — plus distribution of financial services like loans and insurance.",
+        "EARNS": "Margins on payment processing, subscriptions and rentals on merchant devices, and commissions for distributing loans and other financial products.",
+        "SIZE": "FY25 revenue of about ₹6,900 crore (down 31%), with net loss narrowing to about ₹663 crore.",
+        "RIVALS": "PhonePe and Google Pay in payments; BharatPe among merchants.",
+        "WATCH": "The reshaped lending model, fallout from the Paytm Payments Bank wind-down, and the timeline to steady profit."
+      },
+      "figures": [
+        { "label": "Revenue from operations", "value": "6900", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "One97 Communications FY25 results (reported by The Head and Tale)", "doc_type": "filing", "period": "FY25", "url": "https://theheadandtale.com/news/paytm-financials-fy25-revenue-dips-31-to-rs-6900-crore-loss-narrows-50-/" } },
+        { "label": "Net loss", "value": "663", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "One97 Communications FY25 results (reported by The Head and Tale)", "doc_type": "filing", "period": "FY25", "url": "https://theheadandtale.com/news/paytm-financials-fy25-revenue-dips-31-to-rs-6900-crore-loss-narrows-50-/" } }
+      ],
+      "quiz": [
+        { "prompt": "Besides payments, how does Paytm earn?", "options": ["Selling groceries", "Device rentals and distributing loans and insurance", "Food delivery", "Mining"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who are Paytm's main payment rivals?", "options": ["Zomato and Swiggy", "PhonePe and Google Pay", "DMart and Nykaa", "Lenskart and Zepto"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Paytm runs consumer and merchant payments with QR, soundboxes and devices, and distributes loans and insurance. FY25 revenue about ₹6,900 crore, loss narrowing to ₹663 crore. Watch the lending reset and profit timeline."
+    },
+    {
+      "slug": "lenskart",
+      "name": "Lenskart",
+      "type": "startup",
+      "industry": "eyewear-retail",
+      "parts": {
+        "SELLS": "Eyewear — spectacles, lenses and sunglasses — sold both online and through a large store network, under its own brands including Lenskart and John Jacobs.",
+        "EARNS": "Product margins on frames and lenses, widened by making much of its own eyewear, plus a membership plan. Omnichannel reach drives volume.",
+        "SIZE": "FY24 revenue of about ₹5,427 crore, with a small net loss of about ₹10 crore (from its RoC filing).",
+        "RIVALS": "Titan Eyeplus, independent opticians, and other online eyewear brands.",
+        "WATCH": "Store expansion in India and abroad (Southeast Asia and the Middle East), and margins as it scales after going public."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "5427", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Lenskart FY24 RoC filing (reported by Entrackr)", "doc_type": "filing", "period": "FY24", "url": "https://entrackr.com/fintrackr/lenskart-reports-rs-5427-cr-revenue-and-rs-10-cr-loss-in-fy24-7510705" } },
+        { "label": "Net loss", "value": "10", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Lenskart FY24 RoC filing (reported by Entrackr)", "doc_type": "filing", "period": "FY24", "url": "https://entrackr.com/fintrackr/lenskart-reports-rs-5427-cr-revenue-and-rs-10-cr-loss-in-fy24-7510705" } }
+      ],
+      "quiz": [
+        { "prompt": "What widens Lenskart's margins versus a pure reseller?", "options": ["It imports everything", "It makes much of its own eyewear", "It only sells online", "It avoids stores"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Lenskart's sales model is:", "options": ["Online only", "Stores only", "Omnichannel — online and a large store network", "Wholesale only"], "correct_idx": 2, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Lenskart sells eyewear online and through many stores, under its own brands, making much of its product to widen margins. FY24 revenue about ₹5,427 crore, near break-even. Watch store expansion and overseas growth."
+    },
+    {
+      "slug": "pb-fintech",
+      "name": "PB Fintech (Policybazaar)",
+      "type": "listed",
+      "industry": "insurtech-fintech",
+      "parts": {
+        "SELLS": "Runs Policybazaar, an online marketplace to compare and buy insurance, and Paisabazaar, a marketplace for loans and credit products.",
+        "EARNS": "Commissions from insurers on policies sold, lead-generation and distribution fees, and newer lines like its agent platform and healthcare push.",
+        "SIZE": "FY25 revenue of about ₹4,977 crore, with net profit of about ₹345 crore.",
+        "RIVALS": "Insurers' own websites, banks, and direct digital insurers such as Acko and Digit.",
+        "WATCH": "Spending on new initiatives, insurance regulation, and how fast higher-margin health insurance grows."
+      },
+      "figures": [
+        { "label": "Revenue from operations", "value": "4977", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "PB Fintech FY25 results (reported by The Head and Tale)", "doc_type": "filing", "period": "FY25", "url": "https://theheadandtale.com/news/policybazaar-parent-posts-rs-4977-crore-revenue-and-rs-345-crore-profit-in-fy25/" } },
+        { "label": "Net profit", "value": "345", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "PB Fintech FY25 results (reported by The Head and Tale)", "doc_type": "filing", "period": "FY25", "url": "https://theheadandtale.com/news/policybazaar-parent-posts-rs-4977-crore-revenue-and-rs-345-crore-profit-in-fy25/" } }
+      ],
+      "quiz": [
+        { "prompt": "How does Policybazaar mainly earn?", "options": ["Underwriting its own insurance", "Commissions from insurers and distribution fees", "Selling groceries", "Charging buyers a subscription"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "What does Paisabazaar help users with?", "options": ["Booking flights", "Comparing loans and credit products", "Ordering food", "Buying eyewear"], "correct_idx": 1, "part_kind": "SELLS" }
+      ],
+      "note_30w": "PB Fintech runs Policybazaar for insurance and Paisabazaar for loans. It earns insurer commissions and distribution fees. FY25 revenue about ₹4,977 crore, profit ₹345 crore. Watch new-initiative spend and health-insurance growth."
+    }
+  ]
+}

@@ -1,0 +1,4498 @@
+{
+  "_meta": {
+    "about": "ANANT.AI seed library. Content (5 parts, quiz, note) written from stable business knowledge. Figures populated only where verified with a citable source + period; all other companies carry needs_figures:true with empty figures so the sourcing rule holds.",
+    "schema": "Matches ARCHITECTURE.md section 4.",
+    "units": "Figures in INR crore. FY = financial year ended 31 March.",
+    "figure_source_caveat": "Verified figures are cited to business-media reports of each company's filing / RoC accounts. Before production, replace each source.url with the actual annual-report or RoC filing PDF and the line-item/page reference.",
+    "companies_total": 104,
+    "companies_with_figures": 14,
+    "companies_need_figures": 90,
+    "generated": "2026-10-13"
+  },
+  "companies": [
+    {
+      "slug": "eternal",
+      "name": "Eternal (Zomato)",
+      "type": "listed",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "Parent of Zomato (food delivery) and Blinkit (10-minute grocery); also Hyperpure (B2B restaurant supplies) and District (going-out).",
+        "EARNS": "Commissions, delivery fees and ads from restaurants, plus product margins through Blinkit and Hyperpure.",
+        "SIZE": "Among India's largest food-tech groups; quick commerce is now the growth engine.",
+        "RIVALS": "Swiggy in food delivery; Blinkit versus Zepto and Swiggy Instamart in quick commerce.",
+        "WATCH": "How fast Blinkit scales dark stores without heavy losses as quick commerce competition rises."
+      },
+      "figures": [
+        {
+          "label": "Revenue (consolidated)",
+          "value": "20243",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Eternal FY25 Annual Report (via Medianama)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.medianama.com/2025/07/223-eternal-fy25-annual-report-highlights-zomato-blinkit/"
+          }
+        },
+        {
+          "label": "Profit after tax",
+          "value": "527",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Eternal FY25 Annual Report (via Medianama)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.medianama.com/2025/07/223-eternal-fy25-annual-report-highlights-zomato-blinkit/"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Eternal (Zomato) mainly make money?",
+          "options": [
+            "Commissions, delivery fees and ads from restaurants",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Eternal (Zomato) primarily sell or offer?",
+          "options": [
+            "Food delivery and quick-commerce grocery",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Eternal owns Zomato and Blinkit. It earns commissions, delivery fees and ads, plus grocery margins. FY25 revenue near ₹20,243 crore, profit ₹527 crore. Quick commerce is the story to watch."
+    },
+    {
+      "slug": "swiggy",
+      "name": "Swiggy",
+      "type": "listed",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "Food delivery plus Instamart (quick-commerce grocery), dining-out bookings and the Genie pickup service; listed in late 2024.",
+        "EARNS": "Commissions and delivery fees from restaurants, advertising, and product margins through Instamart.",
+        "SIZE": "A top-two food-delivery player; Instamart is its big, costly bet.",
+        "RIVALS": "Zomato in food delivery; Instamart versus Blinkit and Zepto.",
+        "WATCH": "Whether Instamart losses narrow with scale and the path to profit as a public company."
+      },
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "15226.75",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Swiggy FY25 results (via Indian Retailer)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.indianretailer.com/news/swiggy-q4-loss-doubles-rs-1081-cr-fy25-revenue-rises-35-rs-5227-cr"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "3116.79",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Swiggy FY25 results (via Indian Retailer)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.indianretailer.com/news/swiggy-q4-loss-doubles-rs-1081-cr-fy25-revenue-rises-35-rs-5227-cr"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Swiggy mainly make money?",
+          "options": [
+            "Commissions, delivery fees and ads",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Swiggy primarily sell or offer?",
+          "options": [
+            "Food delivery and quick-commerce grocery",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Swiggy does food delivery plus Instamart quick commerce, earning commissions, fees and ads. FY25 revenue about ₹15,227 crore but a net loss near ₹3,117 crore. Watch Instamart's path to profit."
+    },
+    {
+      "slug": "zepto",
+      "name": "Zepto",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "A quick-commerce app promising groceries and essentials in about ten minutes via a network of local dark stores.",
+        "EARNS": "Product margins, plus delivery and handling fees, platform charges and advertising from brands.",
+        "SIZE": "One of the fastest-scaling quick-commerce names in India.",
+        "RIVALS": "Blinkit (Eternal), Swiggy Instamart, and BigBasket's quick-commerce push.",
+        "WATCH": "Whether dark-store economics turn positive as it scales, and its reported move toward an IPO."
+      },
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "11110",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Zepto FY25 RoC filing (via Entrackr)",
+            "doc_type": "filing",
+            "period": "FY25",
+            "url": "https://entrackr.com/news/zepto-revenue-soars-25x-to-rs-11110-cr-in-fy25-9602729"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "1248.6",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Zepto FY24 RoC filing (via Entrackr)",
+            "doc_type": "filing",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/zepto-spent-rs-5747-cr-to-earn-rs-4454-cr-in-fy24-8438575"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Zepto mainly make money?",
+          "options": [
+            "Product margins plus delivery and handling fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Zepto primarily sell or offer?",
+          "options": [
+            "Ten-minute quick-commerce grocery",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Zepto is ten-minute quick commerce built on dark stores, earning product margins, delivery and handling fees, and brand ads. FY25 revenue about ₹11,110 crore. Watch dark-store economics and a possible IPO."
+    },
+    {
+      "slug": "dmart",
+      "name": "Avenue Supermarts (DMart)",
+      "type": "listed",
+      "industry": "retail",
+      "parts": {
+        "SELLS": "A value-retail chain of large DMart stores selling groceries, staples, household goods, apparel and general merchandise at low prices.",
+        "EARNS": "Thin retail margins on huge volumes, kept low by owning most stores and turning inventory fast.",
+        "SIZE": "India's most profitable large-format value retailer.",
+        "RIVALS": "Reliance Retail, local kirana stores, and online and quick-commerce grocery.",
+        "WATCH": "How value retail holds up against quick commerce, and how fast DMart Ready (online) grows."
+      },
+      "figures": [
+        {
+          "label": "Net sales",
+          "value": "53333.2",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Avenue Supermarts FY25 Annual Report (analysis, Equitymaster)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.equitymaster.com/research-it/annual-results-analysis/DMART/AVENUE-SUPERMARTS--2024-25-Annual-Report-Analysis/12495"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2707.5",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Avenue Supermarts FY25 Annual Report (analysis, Equitymaster)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.equitymaster.com/research-it/annual-results-analysis/DMART/AVENUE-SUPERMARTS--2024-25-Annual-Report-Analysis/12495"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Avenue Supermarts (DMart) mainly make money?",
+          "options": [
+            "Thin margins on high-volume low-price retail",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Avenue Supermarts (DMart) primarily sell or offer?",
+          "options": [
+            "Value retail across large stores",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "DMart is value retail: large stores, low everyday prices, thin margins on big volumes. It owns most stores and turns inventory fast. FY25 net sales about ₹53,333 crore, profit ₹2,707 crore."
+    },
+    {
+      "slug": "nykaa",
+      "name": "Nykaa (FSN E-Commerce)",
+      "type": "listed",
+      "industry": "beauty-ecommerce",
+      "parts": {
+        "SELLS": "An online retailer of beauty and personal care, with a fashion arm, owned brands and physical stores.",
+        "EARNS": "Product margins on beauty held as inventory, marketplace commissions, brand advertising, and private-label margins.",
+        "SIZE": "India's leading online beauty retailer, now profitable.",
+        "RIVALS": "Tira (Reliance), Myntra Beauty, Purplle, and Amazon and Flipkart beauty.",
+        "WATCH": "Whether fashion turns profitable and how it defends beauty against Tira's well-funded push."
+      },
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "7950",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "FSN E-Commerce FY25 results (via Apparel Resources)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://apparelresources.com/business-news/retail/nykaa-sees-profit-growth-110-per-cent-q4-fashion-segment-sees-recovery/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "72",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "FSN E-Commerce FY25 results (via Apparel Resources)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://apparelresources.com/business-news/retail/nykaa-sees-profit-growth-110-per-cent-q4-fashion-segment-sees-recovery/"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Nykaa (FSN E-Commerce) mainly make money?",
+          "options": [
+            "Product margins, commissions, ads and private labels",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Nykaa (FSN E-Commerce) primarily sell or offer?",
+          "options": [
+            "Online beauty and fashion retail",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Nykaa sells beauty online, holding inventory and owning brands, plus a fashion arm. FY25 revenue about ₹7,950 crore, profit ₹72 crore. Watch Tira's challenge and fashion profitability."
+    },
+    {
+      "slug": "paytm",
+      "name": "Paytm (One97 Communications)",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "Consumer and merchant digital payments (QR, soundboxes, card machines) plus distribution of loans and insurance.",
+        "EARNS": "Payment-processing margins, device subscriptions and rentals, and commissions for distributing financial products.",
+        "SIZE": "A leading merchant-payments brand working toward steady profit.",
+        "RIVALS": "PhonePe and Google Pay in payments; BharatPe among merchants.",
+        "WATCH": "The reshaped lending model, Paytm Payments Bank fallout, and the timeline to steady profit."
+      },
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "6900",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "One97 Communications FY25 results (via The Head and Tale)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://theheadandtale.com/news/paytm-financials-fy25-revenue-dips-31-to-rs-6900-crore-loss-narrows-50-/"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "663",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "One97 Communications FY25 results (via The Head and Tale)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://theheadandtale.com/news/paytm-financials-fy25-revenue-dips-31-to-rs-6900-crore-loss-narrows-50-/"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Paytm (One97 Communications) mainly make money?",
+          "options": [
+            "Payment margins, device rentals and loan distribution",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Paytm (One97 Communications) primarily sell or offer?",
+          "options": [
+            "Digital payments and financial-services distribution",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Paytm runs consumer and merchant payments and distributes loans and insurance. FY25 revenue about ₹6,900 crore, loss narrowing to ₹663 crore. Watch the lending reset and profit timeline."
+    },
+    {
+      "slug": "lenskart",
+      "name": "Lenskart",
+      "type": "startup",
+      "industry": "eyewear-retail",
+      "parts": {
+        "SELLS": "Eyewear — spectacles, lenses and sunglasses — sold online and through a large store network under its own brands.",
+        "EARNS": "Product margins widened by making much of its own eyewear, plus a membership plan; omnichannel reach drives volume.",
+        "SIZE": "India's largest organised eyewear retailer.",
+        "RIVALS": "Titan Eyeplus, independent opticians, and other online eyewear brands.",
+        "WATCH": "Store expansion in India and abroad, and margins as it scales after going public."
+      },
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "5427",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Lenskart FY24 RoC filing (via Entrackr)",
+            "doc_type": "filing",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/lenskart-reports-rs-5427-cr-revenue-and-rs-10-cr-loss-in-fy24-7510705"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "10",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Lenskart FY24 RoC filing (via Entrackr)",
+            "doc_type": "filing",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/lenskart-reports-rs-5427-cr-revenue-and-rs-10-cr-loss-in-fy24-7510705"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Lenskart mainly make money?",
+          "options": [
+            "Product margins from vertically integrated eyewear",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Lenskart primarily sell or offer?",
+          "options": [
+            "Omnichannel eyewear retail",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Lenskart sells eyewear online and through many stores, making much of its own product to widen margins. FY24 revenue about ₹5,427 crore, near break-even. Watch store and overseas expansion."
+    },
+    {
+      "slug": "pb-fintech",
+      "name": "PB Fintech (Policybazaar)",
+      "type": "listed",
+      "industry": "insurtech",
+      "parts": {
+        "SELLS": "Runs Policybazaar, an online insurance marketplace, and Paisabazaar, a marketplace for loans and credit.",
+        "EARNS": "Commissions from insurers, lead-generation and distribution fees, and newer lines like its agent platform.",
+        "SIZE": "India's largest online insurance aggregator, recently profitable.",
+        "RIVALS": "Insurers' own sites, banks, and direct digital insurers such as Acko and Digit.",
+        "WATCH": "Spending on new initiatives, insurance regulation, and health-insurance growth."
+      },
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "4977",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "PB Fintech FY25 results (via The Head and Tale)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://theheadandtale.com/news/policybazaar-parent-posts-rs-4977-crore-revenue-and-rs-345-crore-profit-in-fy25/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "345",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "PB Fintech FY25 results (via The Head and Tale)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://theheadandtale.com/news/policybazaar-parent-posts-rs-4977-crore-revenue-and-rs-345-crore-profit-in-fy25/"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does PB Fintech (Policybazaar) mainly make money?",
+          "options": [
+            "Commissions from insurers and distribution fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does PB Fintech (Policybazaar) primarily sell or offer?",
+          "options": [
+            "Online insurance and loan marketplaces",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "PB Fintech runs Policybazaar for insurance and Paisabazaar for loans, earning insurer commissions and distribution fees. FY25 revenue about ₹4,977 crore, profit ₹345 crore. Watch new-initiative spend."
+    },
+    {
+      "slug": "reliance",
+      "name": "Reliance Industries",
+      "type": "listed",
+      "industry": "conglomerate",
+      "parts": {
+        "SELLS": "A conglomerate spanning oil-to-chemicals, Jio (telecom), Reliance Retail, and new energy.",
+        "EARNS": "Fuel and petrochemical margins, telecom subscriptions and data, retail margins, and media.",
+        "SIZE": "India's largest company by revenue.",
+        "RIVALS": "BP and ONGC in energy; Airtel and Vi in telecom; DMart and Amazon in retail.",
+        "WATCH": "New-energy build-out, and possible listings of Jio and Reliance Retail."
+      },
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1071174",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Reliance FY25 results overview (Finology Ticker)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://ticker.finology.in/discover/market-update/reliance-fy25-results-overview"
+          }
+        },
+        {
+          "label": "Profit after tax",
+          "value": "81309",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Reliance FY25 results overview (Finology Ticker)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://ticker.finology.in/discover/market-update/reliance-fy25-results-overview"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Reliance Industries mainly make money?",
+          "options": [
+            "Energy, telecom and retail margins combined",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Reliance Industries primarily sell or offer?",
+          "options": [
+            "A conglomerate across energy, telecom and retail",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Reliance spans oil-to-chemicals, Jio telecom, Reliance Retail and new energy. It earns fuel and chemical margins, telecom and retail revenue. FY25 revenue about ₹10.7 lakh crore, profit ₹81,309 crore."
+    },
+    {
+      "slug": "tcs",
+      "name": "Tata Consultancy Services",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "India's largest IT services firm, selling software development, consulting and outsourcing to global clients.",
+        "EARNS": "Billing clients for technology projects and managed services, priced per hour or per contract.",
+        "SIZE": "India's biggest IT exporter, crossing $30 billion in annual revenue.",
+        "RIVALS": "Infosys, HCLTech, Wipro, and global firms like Accenture.",
+        "WATCH": "AI's effect on deal sizes and pricing, and demand from US and European clients."
+      },
+      "figures": [
+        {
+          "label": "Revenue (consolidated)",
+          "value": "255324",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "TCS FY25 financial report (Tata World)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.tataworld.com/news/openinside/tcs-financial-report-fy2024-25"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Tata Consultancy Services mainly make money?",
+          "options": [
+            "Billing global clients for IT projects and services",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Tata Consultancy Services primarily sell or offer?",
+          "options": [
+            "Software development, consulting and outsourcing",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "TCS is India's largest IT services firm, earning by billing global clients for software and managed services. FY25 revenue about ₹2,55,324 crore. Watch how AI reshapes deal sizes and pricing."
+    },
+    {
+      "slug": "infosys",
+      "name": "Infosys",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "A global IT services and consulting firm selling software, digital transformation and outsourcing.",
+        "EARNS": "Billing enterprise clients for technology projects and managed services.",
+        "SIZE": "A top-tier Indian IT exporter.",
+        "RIVALS": "TCS, HCLTech, Wipro, and global firms like Accenture.",
+        "WATCH": "AI-led productivity pressure on pricing, and discretionary IT spending in the West."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Infosys mainly make money?",
+          "options": [
+            "Billing enterprise clients for IT services",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Infosys primarily sell or offer?",
+          "options": [
+            "IT services, consulting and digital transformation",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Infosys is a global IT services and consulting firm, earning by billing enterprise clients for software and managed services. Watch AI's effect on pricing and Western IT budgets.",
+      "needs_figures": true
+    },
+    {
+      "slug": "hdfc-bank",
+      "name": "HDFC Bank",
+      "type": "listed",
+      "industry": "banking",
+      "parts": {
+        "SELLS": "India's largest private-sector bank, offering deposits, loans, cards and wealth services to retail and corporate customers.",
+        "EARNS": "Net interest income (the spread between lending and deposit rates) plus fees and card income.",
+        "SIZE": "India's largest private bank by assets.",
+        "RIVALS": "ICICI Bank, Axis Bank, Kotak Mahindra Bank, and SBI.",
+        "WATCH": "Deposit growth after the HDFC merger, and net interest margins."
+      },
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "470915.93",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "HDFC Bank FY25 results (via TipRanks)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.tipranks.com/news/company-announcements/hdfc-bank-reports-strong-financial-performance-in-fy-2025"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "70792.25",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "HDFC Bank FY25 results (via TipRanks)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.tipranks.com/news/company-announcements/hdfc-bank-reports-strong-financial-performance-in-fy-2025"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does HDFC Bank mainly make money?",
+          "options": [
+            "Net interest income plus fees and card income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does HDFC Bank primarily sell or offer?",
+          "options": [
+            "Deposits, loans, cards and wealth services",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "HDFC Bank is India's largest private bank, earning net interest income plus fees. FY25 total income about ₹4,70,916 crore, profit ₹70,792 crore. Watch deposit growth after the HDFC merger."
+    },
+    {
+      "slug": "icici-bank",
+      "name": "ICICI Bank",
+      "type": "listed",
+      "industry": "banking",
+      "parts": {
+        "SELLS": "A large private-sector bank offering deposits, loans, cards, and digital banking to retail and corporate customers.",
+        "EARNS": "Net interest income plus fees from cards, transactions and distribution.",
+        "SIZE": "India's second-largest private bank.",
+        "RIVALS": "HDFC Bank, Axis Bank, Kotak Mahindra Bank, and SBI.",
+        "WATCH": "Asset quality through the credit cycle, and net interest margins."
+      },
+      "figures": [
+        {
+          "label": "Profit after tax (standalone)",
+          "value": "47227",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "ICICI Bank FY25 performance review",
+            "doc_type": "filing",
+            "period": "FY25",
+            "url": "https://www.icici.bank.in/about-us/news-room/2025/performance-review-quarter-ended-march-31-2025"
+          }
+        },
+        {
+          "label": "Net interest income",
+          "value": "81165",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "ICICI Bank FY25 performance review",
+            "doc_type": "filing",
+            "period": "FY25",
+            "url": "https://www.icici.bank.in/about-us/news-room/2025/performance-review-quarter-ended-march-31-2025"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does ICICI Bank mainly make money?",
+          "options": [
+            "Net interest income plus card and fee income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does ICICI Bank primarily sell or offer?",
+          "options": [
+            "Deposits, loans, cards and digital banking",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "ICICI Bank is a large private bank earning net interest income plus fees. FY25 standalone profit about ₹47,227 crore on net interest income near ₹81,165 crore. Watch asset quality and margins."
+    },
+    {
+      "slug": "itc",
+      "name": "ITC",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "A diversified group: cigarettes, packaged foods and personal care (FMCG), hotels, paperboards and agri-business.",
+        "EARNS": "Cigarette profits fund growth; plus margins from foods, personal care, paper, hotels and agri.",
+        "SIZE": "A diversified FMCG-to-hotels major.",
+        "RIVALS": "HUL and Nestlé in FMCG; Britannia in foods; Taj in hotels.",
+        "WATCH": "FMCG margin growth, cigarette taxation, and the demerged hotels business."
+      },
+      "figures": [
+        {
+          "label": "Gross revenue",
+          "value": "73465",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "ITC Q4 & FY25 results report (TradingView)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://in.tradingview.com/chart/ITC/cDkyeYwM-ITC-Q4-FY25-and-FY25-Full-Year-Results-Report"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "20092",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "ITC Q4 & FY25 results report (TradingView)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://in.tradingview.com/chart/ITC/cDkyeYwM-ITC-Q4-FY25-and-FY25-Full-Year-Results-Report"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does ITC mainly make money?",
+          "options": [
+            "Cigarette profits plus FMCG, paper and hotels",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does ITC primarily sell or offer?",
+          "options": [
+            "Cigarettes, packaged foods, hotels and paper",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "ITC spans cigarettes, packaged foods, personal care, hotels, paper and agri. Cigarettes fund growth while FMCG scales. FY25 gross revenue about ₹73,465 crore, profit ₹20,092 crore. Watch FMCG margins."
+    },
+    {
+      "slug": "hul",
+      "name": "Hindustan Unilever",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "India's largest FMCG company, selling soaps, detergents, shampoos, packaged foods and beverages.",
+        "EARNS": "Margins on everyday branded products sold at huge volume through a vast distribution network.",
+        "SIZE": "India's biggest consumer-goods company.",
+        "RIVALS": "ITC, Nestlé India, P&G, Dabur and Marico.",
+        "WATCH": "Rural demand recovery, premiumisation, and competition from smaller D2C brands."
+      },
+      "figures": [
+        {
+          "label": "Turnover",
+          "value": "60680",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "HUL FY25 financial results (hul.co.in)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.hul.co.in/news/press-releases/2025/financial-results-for-march-quarter-and-financial-year-2025/"
+          }
+        },
+        {
+          "label": "Profit after tax",
+          "value": "10644",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "HUL FY25 financial results (hul.co.in)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.hul.co.in/news/press-releases/2025/financial-results-for-march-quarter-and-financial-year-2025/"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How does Hindustan Unilever mainly make money?",
+          "options": [
+            "Margins on high-volume branded consumer goods",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Hindustan Unilever primarily sell or offer?",
+          "options": [
+            "Soaps, detergents, foods and personal care",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "HUL is India's largest FMCG firm, earning margins on everyday branded goods sold at scale. FY25 turnover about ₹60,680 crore, profit ₹10,644 crore. Watch rural demand and premiumisation."
+    },
+    {
+      "slug": "sbi",
+      "name": "State Bank of India",
+      "type": "listed",
+      "industry": "banking",
+      "parts": {
+        "SELLS": "India's largest public-sector bank, offering deposits, loans, cards and government banking nationwide.",
+        "EARNS": "Net interest income plus fees, on the country's largest deposit and loan base.",
+        "SIZE": "India's biggest bank by assets and branches.",
+        "RIVALS": "HDFC Bank, ICICI Bank, and other public-sector banks.",
+        "WATCH": "Asset quality, credit growth, and provisioning."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does State Bank of India mainly make money?",
+          "options": [
+            "Net interest income plus fees at national scale",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does State Bank of India primarily sell or offer?",
+          "options": [
+            "Deposits, loans and government banking",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "SBI is India's largest bank, earning net interest income plus fees on the biggest deposit and loan base. Watch asset quality and credit growth across the cycle.",
+      "needs_figures": true
+    },
+    {
+      "slug": "bharti-airtel",
+      "name": "Bharti Airtel",
+      "type": "listed",
+      "industry": "telecom",
+      "parts": {
+        "SELLS": "A leading telecom operator selling mobile, broadband, and enterprise connectivity in India and Africa.",
+        "EARNS": "Monthly subscriptions and data charges, enterprise contracts, and tower/infrastructure revenue.",
+        "SIZE": "One of India's top two telecom operators.",
+        "RIVALS": "Reliance Jio and Vodafone Idea.",
+        "WATCH": "Tariff hikes lifting revenue per user, 5G monetisation, and the Africa business."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Bharti Airtel mainly make money?",
+          "options": [
+            "Subscriptions, data charges and enterprise deals",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Bharti Airtel primarily sell or offer?",
+          "options": [
+            "Mobile, broadband and enterprise connectivity",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Airtel sells mobile, broadband and enterprise connectivity in India and Africa, earning subscriptions, data and enterprise revenue. Watch tariff-led ARPU gains and 5G monetisation.",
+      "needs_figures": true
+    },
+    {
+      "slug": "asian-paints",
+      "name": "Asian Paints",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "India's largest paints company, selling decorative and industrial coatings plus a growing home-decor range.",
+        "EARNS": "Margins on paint sold through a huge dealer network, with pricing power from brand and distribution.",
+        "SIZE": "India's market-leading paints maker.",
+        "RIVALS": "Berger Paints, Kansai Nerolac, and new entrant Birla Opus.",
+        "WATCH": "Birla Opus's aggressive entry, raw-material costs, and demand recovery."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Asian Paints mainly make money?",
+          "options": [
+            "Margins on paint via a large dealer network",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Asian Paints primarily sell or offer?",
+          "options": [
+            "Decorative and industrial paints and decor",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Asian Paints is India's largest paints company, earning margins on paint sold through a vast dealer network. Watch Birla Opus's entry, input costs, and the home-decor push.",
+      "needs_figures": true
+    },
+    {
+      "slug": "maruti-suzuki",
+      "name": "Maruti Suzuki",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "India's largest carmaker, selling small cars, SUVs and vans through a wide dealer and service network.",
+        "EARNS": "Margins on vehicles sold, plus spare parts and service, with scale keeping costs low.",
+        "SIZE": "India's biggest passenger-vehicle maker by volume.",
+        "RIVALS": "Hyundai, Tata Motors, Mahindra, and Kia.",
+        "WATCH": "The shift to SUVs and hybrids/EVs, and rural demand."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Maruti Suzuki mainly make money?",
+          "options": [
+            "Margins on vehicles, parts and service",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Maruti Suzuki primarily sell or offer?",
+          "options": [
+            "Small cars, SUVs and vans",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Maruti Suzuki is India's largest carmaker, earning margins on vehicles plus parts and service. Watch its SUV and hybrid/EV shift and rural demand.",
+      "needs_figures": true
+    },
+    {
+      "slug": "tata-motors",
+      "name": "Tata Motors",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "Maker of commercial vehicles and passenger cars in India, and owner of Jaguar Land Rover.",
+        "EARNS": "Margins on trucks, buses and cars in India, plus JLR's premium global sales.",
+        "SIZE": "A top Indian auto group with a global luxury arm.",
+        "RIVALS": "Ashok Leyland in trucks; Maruti, Hyundai, Mahindra in cars; JLR versus BMW and Mercedes.",
+        "WATCH": "JLR demand in China and the West, and its EV transition."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Tata Motors mainly make money?",
+          "options": [
+            "Margins on India vehicles plus JLR luxury sales",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Tata Motors primarily sell or offer?",
+          "options": [
+            "Trucks, buses, cars and Jaguar Land Rover",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Tata Motors makes commercial and passenger vehicles and owns Jaguar Land Rover, earning India auto margins plus JLR's premium sales. Watch JLR demand and the EV transition.",
+      "needs_figures": true
+    },
+    {
+      "slug": "mahindra",
+      "name": "Mahindra & Mahindra",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "Maker of SUVs and tractors, plus farm equipment and a group spanning finance and IT.",
+        "EARNS": "Margins on SUVs and tractors, where it holds strong share, plus group businesses.",
+        "SIZE": "India's leading SUV and tractor maker.",
+        "RIVALS": "Maruti, Hyundai, Tata in SUVs; Escorts and TAFE in tractors.",
+        "WATCH": "SUV demand and launches, EV plans, and the tractor cycle."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Mahindra & Mahindra mainly make money?",
+          "options": [
+            "Margins on SUVs and tractors",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Mahindra & Mahindra primarily sell or offer?",
+          "options": [
+            "SUVs, tractors and farm equipment",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Mahindra makes SUVs and tractors with strong share in both, earning vehicle and equipment margins. Watch SUV launches, EV plans and the tractor cycle.",
+      "needs_figures": true
+    },
+    {
+      "slug": "bajaj-finance",
+      "name": "Bajaj Finance",
+      "type": "listed",
+      "industry": "lending-fintech",
+      "parts": {
+        "SELLS": "India's largest retail-focused non-bank lender, financing consumer purchases, personal and business loans.",
+        "EARNS": "Interest on loans plus fees, with fast digital underwriting and a huge customer base.",
+        "SIZE": "India's biggest non-bank consumer lender.",
+        "RIVALS": "Banks like HDFC and ICICI, and other NBFCs.",
+        "WATCH": "Asset quality in unsecured lending, and regulatory limits on growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Bajaj Finance mainly make money?",
+          "options": [
+            "Interest on loans plus fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Bajaj Finance primarily sell or offer?",
+          "options": [
+            "Consumer, personal and business lending",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Bajaj Finance is India's largest retail NBFC, earning interest and fees on consumer and business loans with fast digital underwriting. Watch unsecured-loan asset quality and regulation.",
+      "needs_figures": true
+    },
+    {
+      "slug": "larsen-toubro",
+      "name": "Larsen & Toubro",
+      "type": "listed",
+      "industry": "conglomerate",
+      "parts": {
+        "SELLS": "India's largest engineering and construction firm, building infrastructure, plus IT services and defence.",
+        "EARNS": "Margins on large construction and engineering projects, plus IT subsidiaries and services.",
+        "SIZE": "India's biggest infrastructure builder.",
+        "RIVALS": "Other EPC firms domestically and in the Middle East.",
+        "WATCH": "Order inflows, project execution, and Middle East demand."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Larsen & Toubro mainly make money?",
+          "options": [
+            "Margins on engineering and construction projects",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Larsen & Toubro primarily sell or offer?",
+          "options": [
+            "Infrastructure, engineering, IT and defence",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "L&T is India's largest engineering and construction firm, earning project margins plus IT and defence. Watch order inflows, execution and Middle East demand.",
+      "needs_figures": true
+    },
+    {
+      "slug": "sun-pharma",
+      "name": "Sun Pharmaceutical",
+      "type": "listed",
+      "industry": "pharma",
+      "parts": {
+        "SELLS": "India's largest drugmaker, selling generics and specialty medicines in India and the US.",
+        "EARNS": "Margins on branded generics in India and generic plus specialty drugs abroad.",
+        "SIZE": "India's biggest pharma company.",
+        "RIVALS": "Dr Reddy's, Cipla, Lupin, and global generic makers.",
+        "WATCH": "US specialty launches, pricing pressure, and regulatory inspections."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Sun Pharmaceutical mainly make money?",
+          "options": [
+            "Margins on generics and specialty medicines",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Sun Pharmaceutical primarily sell or offer?",
+          "options": [
+            "Generic and specialty pharmaceuticals",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Sun Pharma is India's largest drugmaker, earning on branded generics in India and generics plus specialty drugs abroad. Watch US specialty launches and regulatory inspections.",
+      "needs_figures": true
+    },
+    {
+      "slug": "titan",
+      "name": "Titan Company",
+      "type": "listed",
+      "industry": "retail",
+      "parts": {
+        "SELLS": "A Tata consumer company best known for jewellery (Tanishq), plus watches and eyewear.",
+        "EARNS": "Margins on jewellery, watches and eyewear sold through branded retail.",
+        "SIZE": "India's leading branded jewellery retailer.",
+        "RIVALS": "Kalyan Jewellers, Malabar, and regional jewellers.",
+        "WATCH": "Gold prices and demand, and studded-jewellery mix."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Titan Company mainly make money?",
+          "options": [
+            "Margins on jewellery, watches and eyewear",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Titan Company primarily sell or offer?",
+          "options": [
+            "Jewellery, watches and eyewear retail",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Titan sells jewellery (Tanishq), watches and eyewear, earning branded-retail margins. Watch gold prices, demand, and the studded-jewellery mix.",
+      "needs_figures": true
+    },
+    {
+      "slug": "adani-enterprises",
+      "name": "Adani Enterprises",
+      "type": "listed",
+      "industry": "conglomerate",
+      "parts": {
+        "SELLS": "The Adani group's incubator, spanning new businesses like airports, roads, data centres and green hydrogen.",
+        "EARNS": "Revenue from incubated infrastructure businesses before they are spun off or scaled.",
+        "SIZE": "The flagship incubator of a large infrastructure group.",
+        "RIVALS": "Other infrastructure developers across each segment.",
+        "WATCH": "Execution of new ventures, debt levels, and governance scrutiny."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Adani Enterprises mainly make money?",
+          "options": [
+            "Revenue from incubated infrastructure ventures",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Adani Enterprises primarily sell or offer?",
+          "options": [
+            "Incubating airports, roads and energy ventures",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Adani Enterprises incubates new infrastructure businesses — airports, roads, data centres, green hydrogen — before scaling them. Watch execution, debt and governance.",
+      "needs_figures": true
+    },
+    {
+      "slug": "bajaj-auto",
+      "name": "Bajaj Auto",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "A leading maker of motorcycles and three-wheelers, with a large export business.",
+        "EARNS": "Margins on two- and three-wheelers sold in India and exported across Asia, Africa and Latin America.",
+        "SIZE": "A top Indian two-wheeler and three-wheeler maker.",
+        "RIVALS": "Hero MotoCorp, TVS, Honda, and Ola Electric.",
+        "WATCH": "Exports recovery, EV scooters, and premium motorcycle demand."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Bajaj Auto mainly make money?",
+          "options": [
+            "Margins on two- and three-wheelers plus exports",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Bajaj Auto primarily sell or offer?",
+          "options": [
+            "Motorcycles and three-wheelers",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Bajaj Auto makes motorcycles and three-wheelers with a big export base, earning vehicle margins. Watch export recovery, EV scooters and premium bikes.",
+      "needs_figures": true
+    },
+    {
+      "slug": "hero-motocorp",
+      "name": "Hero MotoCorp",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "The world's largest two-wheeler maker by volume, focused on commuter motorcycles in India.",
+        "EARNS": "Margins on high-volume commuter motorcycles plus spares and service.",
+        "SIZE": "The world's largest motorcycle maker by units.",
+        "RIVALS": "Honda, TVS, Bajaj, and EV players.",
+        "WATCH": "The EV transition, premium-bike push, and rural demand."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Hero MotoCorp mainly make money?",
+          "options": [
+            "Margins on commuter motorcycles plus spares",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Hero MotoCorp primarily sell or offer?",
+          "options": [
+            "Commuter motorcycles and scooters",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Hero MotoCorp is the world's largest two-wheeler maker, earning margins on commuter motorcycles plus spares. Watch its EV transition and premium push.",
+      "needs_figures": true
+    },
+    {
+      "slug": "nestle-india",
+      "name": "Nestlé India",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "A packaged-foods maker known for Maggi, KitKat, Nescafé and infant nutrition.",
+        "EARNS": "Margins on branded packaged foods and beverages sold at scale.",
+        "SIZE": "A leading packaged-foods company in India.",
+        "RIVALS": "HUL, Britannia, ITC, and Mondelez.",
+        "WATCH": "Rural demand, pricing, and premium product launches."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Nestlé India mainly make money?",
+          "options": [
+            "Margins on branded packaged foods",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Nestlé India primarily sell or offer?",
+          "options": [
+            "Packaged foods, beverages and nutrition",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Nestlé India sells packaged foods and beverages — Maggi, KitKat, Nescafé — earning branded margins at scale. Watch rural demand, pricing and premium launches.",
+      "needs_figures": true
+    },
+    {
+      "slug": "britannia",
+      "name": "Britannia Industries",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "A leading maker of biscuits, bread, dairy and snacks.",
+        "EARNS": "Margins on branded biscuits and baked goods sold through wide distribution.",
+        "SIZE": "One of India's top biscuit and bakery brands.",
+        "RIVALS": "Parle, ITC, Mondelez, and regional players.",
+        "WATCH": "Input costs, rural demand, and adjacency expansion into dairy and snacks."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Britannia Industries mainly make money?",
+          "options": [
+            "Margins on branded biscuits and baked goods",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Britannia Industries primarily sell or offer?",
+          "options": [
+            "Biscuits, bread, dairy and snacks",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Britannia makes biscuits, bread, dairy and snacks, earning branded margins through wide distribution. Watch input costs, rural demand and dairy/snacks expansion.",
+      "needs_figures": true
+    },
+    {
+      "slug": "kotak-bank",
+      "name": "Kotak Mahindra Bank",
+      "type": "listed",
+      "industry": "banking",
+      "parts": {
+        "SELLS": "A private-sector bank offering deposits, loans, and a broad financial-services group (broking, insurance, asset management).",
+        "EARNS": "Net interest income plus fees, and profits from group financial businesses.",
+        "SIZE": "A leading private bank with a diversified group.",
+        "RIVALS": "HDFC Bank, ICICI Bank, Axis Bank.",
+        "WATCH": "Deposit growth, digital expansion, and any lifting of regulatory curbs."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Kotak Mahindra Bank mainly make money?",
+          "options": [
+            "Net interest income plus group fee businesses",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Kotak Mahindra Bank primarily sell or offer?",
+          "options": [
+            "Banking plus broking, insurance and AMC",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Kotak Mahindra Bank earns net interest income plus fees, with a broad financial-services group. Watch deposit growth, digital expansion and regulatory curbs.",
+      "needs_figures": true
+    },
+    {
+      "slug": "axis-bank",
+      "name": "Axis Bank",
+      "type": "listed",
+      "industry": "banking",
+      "parts": {
+        "SELLS": "A large private-sector bank offering deposits, loans, cards and digital banking.",
+        "EARNS": "Net interest income plus fees from cards, transactions and distribution.",
+        "SIZE": "A top-four Indian private bank.",
+        "RIVALS": "HDFC Bank, ICICI Bank, Kotak Mahindra Bank.",
+        "WATCH": "Deposit growth, asset quality, and card-business performance."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Axis Bank mainly make money?",
+          "options": [
+            "Net interest income plus card and fee income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Axis Bank primarily sell or offer?",
+          "options": [
+            "Deposits, loans, cards and digital banking",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Axis Bank earns net interest income plus fees from cards and transactions. Watch deposit growth, asset quality and the card business.",
+      "needs_figures": true
+    },
+    {
+      "slug": "hcltech",
+      "name": "HCLTech",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "A global IT services firm strong in infrastructure services, engineering and software.",
+        "EARNS": "Billing global clients for IT services, engineering and products.",
+        "SIZE": "A top-three Indian IT exporter.",
+        "RIVALS": "TCS, Infosys, Wipro, and Accenture.",
+        "WATCH": "AI's pricing effect, engineering-services demand, and large-deal wins."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does HCLTech mainly make money?",
+          "options": [
+            "Billing clients for IT and engineering services",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does HCLTech primarily sell or offer?",
+          "options": [
+            "IT services, engineering and software",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "HCLTech is a global IT services firm strong in infrastructure and engineering, earning by billing clients. Watch AI pricing effects and large-deal wins.",
+      "needs_figures": true
+    },
+    {
+      "slug": "wipro",
+      "name": "Wipro",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "A global IT services and consulting firm serving enterprise clients.",
+        "EARNS": "Billing clients for technology projects, consulting and managed services.",
+        "SIZE": "A large Indian IT exporter.",
+        "RIVALS": "TCS, Infosys, HCLTech, and Accenture.",
+        "WATCH": "Growth recovery, AI-led pricing, and Western IT budgets."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Wipro mainly make money?",
+          "options": [
+            "Billing clients for IT services and consulting",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Wipro primarily sell or offer?",
+          "options": [
+            "IT services, consulting and managed services",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Wipro is a global IT services and consulting firm earning by billing enterprise clients. Watch its growth recovery and AI's effect on pricing.",
+      "needs_figures": true
+    },
+    {
+      "slug": "larsen-infotech",
+      "name": "LTIMindtree",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "An IT services firm formed by merging L&T Infotech and Mindtree, serving global enterprises.",
+        "EARNS": "Billing enterprise clients for digital transformation and managed services.",
+        "SIZE": "A large-cap Indian IT services firm.",
+        "RIVALS": "TCS, Infosys, HCLTech, Wipro.",
+        "WATCH": "Merger synergies, large-deal momentum, and AI pricing."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does LTIMindtree mainly make money?",
+          "options": [
+            "Billing enterprises for digital services",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does LTIMindtree primarily sell or offer?",
+          "options": [
+            "Digital transformation and managed services",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "LTIMindtree is an IT services firm from the LTI–Mindtree merger, earning by billing enterprises. Watch merger synergies and large-deal momentum.",
+      "needs_figures": true
+    },
+    {
+      "slug": "ultratech",
+      "name": "UltraTech Cement",
+      "type": "listed",
+      "industry": "metals-materials",
+      "parts": {
+        "SELLS": "India's largest cement maker, supplying grey cement, white cement and ready-mix concrete.",
+        "EARNS": "Margins on cement sold to builders and infrastructure projects, with scale advantages.",
+        "SIZE": "India's biggest cement producer by capacity.",
+        "RIVALS": "Ambuja/ACC (Adani), Shree Cement, Dalmia Bharat.",
+        "WATCH": "Capacity additions, the Adani cement push, and construction demand."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does UltraTech Cement mainly make money?",
+          "options": [
+            "Margins on cement at large scale",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does UltraTech Cement primarily sell or offer?",
+          "options": [
+            "Grey and white cement and concrete",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "UltraTech is India's largest cement maker, earning margins on cement for builders and infrastructure. Watch capacity additions, Adani's cement push and construction demand.",
+      "needs_figures": true
+    },
+    {
+      "slug": "jsw-steel",
+      "name": "JSW Steel",
+      "type": "listed",
+      "industry": "metals-materials",
+      "parts": {
+        "SELLS": "One of India's largest steelmakers, supplying flat and long steel products.",
+        "EARNS": "Margins on steel sold to construction, auto and infrastructure, tied to global steel prices.",
+        "SIZE": "A top Indian steel producer.",
+        "RIVALS": "Tata Steel, SAIL, JSPL.",
+        "WATCH": "Steel prices, Chinese exports, and capacity expansion."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does JSW Steel mainly make money?",
+          "options": [
+            "Margins on steel tied to global prices",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does JSW Steel primarily sell or offer?",
+          "options": [
+            "Flat and long steel products",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "JSW Steel is a large Indian steelmaker earning margins on steel for construction, auto and infrastructure. Watch steel prices, Chinese exports and expansion.",
+      "needs_figures": true
+    },
+    {
+      "slug": "tata-steel",
+      "name": "Tata Steel",
+      "type": "listed",
+      "industry": "metals-materials",
+      "parts": {
+        "SELLS": "A major global steelmaker with large operations in India and Europe.",
+        "EARNS": "Margins on steel across India and Europe, sensitive to global prices and costs.",
+        "SIZE": "A leading Indian steel producer with European operations.",
+        "RIVALS": "JSW Steel, SAIL, JSPL, and global mills.",
+        "WATCH": "European restructuring, steel prices, and green-steel investment."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Tata Steel mainly make money?",
+          "options": [
+            "Margins on steel across India and Europe",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Tata Steel primarily sell or offer?",
+          "options": [
+            "Flat and long steel products",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Tata Steel is a global steelmaker with India and Europe operations, earning steel margins. Watch European restructuring, steel prices and green-steel plans.",
+      "needs_figures": true
+    },
+    {
+      "slug": "power-grid",
+      "name": "Power Grid Corporation",
+      "type": "listed",
+      "industry": "energy-utilities",
+      "parts": {
+        "SELLS": "India's main electricity-transmission utility, moving power across states on its grid.",
+        "EARNS": "Regulated returns on transmission assets it builds and operates.",
+        "SIZE": "India's largest power-transmission company.",
+        "RIVALS": "Private transmission developers in competitive bids.",
+        "WATCH": "Transmission capex for renewables, and project wins."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Power Grid Corporation mainly make money?",
+          "options": [
+            "Regulated returns on transmission assets",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Power Grid Corporation primarily sell or offer?",
+          "options": [
+            "Inter-state electricity transmission",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Power Grid is India's main transmission utility, earning regulated returns on the grid it builds and operates. Watch transmission capex for renewables and project wins.",
+      "needs_figures": true
+    },
+    {
+      "slug": "ntpc",
+      "name": "NTPC",
+      "type": "listed",
+      "industry": "energy-utilities",
+      "parts": {
+        "SELLS": "India's largest power generator, running thermal plants and expanding into renewables.",
+        "EARNS": "Regulated returns on power sold to state utilities, plus growing renewable capacity.",
+        "SIZE": "India's biggest electricity generator.",
+        "RIVALS": "Adani Power, Tata Power, and state generators.",
+        "WATCH": "The renewables build-out and the NTPC Green listing."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does NTPC mainly make money?",
+          "options": [
+            "Regulated returns on power generation",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does NTPC primarily sell or offer?",
+          "options": [
+            "Thermal and renewable electricity generation",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "NTPC is India's largest power generator, earning regulated returns on electricity sold to states, and is growing renewables. Watch the green-energy build-out.",
+      "needs_figures": true
+    },
+    {
+      "slug": "coal-india",
+      "name": "Coal India",
+      "type": "listed",
+      "industry": "energy-utilities",
+      "parts": {
+        "SELLS": "The state-owned near-monopoly supplier of coal in India.",
+        "EARNS": "Margins on coal sold mainly to power producers and industry.",
+        "SIZE": "The world's largest coal producer.",
+        "RIVALS": "Imported coal and captive mines.",
+        "WATCH": "Coal demand versus the renewables shift, and production growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Coal India mainly make money?",
+          "options": [
+            "Margins on coal sold to power and industry",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Coal India primarily sell or offer?",
+          "options": [
+            "Coal mining and supply",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Coal India is the state near-monopoly coal supplier, earning margins on coal sold to power and industry. Watch demand against the renewables shift.",
+      "needs_figures": true
+    },
+    {
+      "slug": "ongc",
+      "name": "ONGC",
+      "type": "listed",
+      "industry": "energy-utilities",
+      "parts": {
+        "SELLS": "India's largest crude-oil and natural-gas producer, state-owned.",
+        "EARNS": "Revenue from selling crude oil and gas it extracts, tied to global prices.",
+        "SIZE": "India's biggest oil and gas explorer.",
+        "RIVALS": "Oil India, and private players like Cairn.",
+        "WATCH": "Crude prices, output decline at ageing fields, and new discoveries."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does ONGC mainly make money?",
+          "options": [
+            "Revenue from crude oil and gas sales",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does ONGC primarily sell or offer?",
+          "options": [
+            "Oil and gas exploration and production",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "ONGC is India's largest oil and gas producer, earning from crude and gas it extracts at global-linked prices. Watch crude prices and output at ageing fields.",
+      "needs_figures": true
+    },
+    {
+      "slug": "bajaj-finserv",
+      "name": "Bajaj Finserv",
+      "type": "listed",
+      "industry": "lending-fintech",
+      "parts": {
+        "SELLS": "A financial-services holding company spanning lending (Bajaj Finance), insurance and investments.",
+        "EARNS": "Profits from its lending arm plus general and life insurance businesses.",
+        "SIZE": "A large diversified financial-services group.",
+        "RIVALS": "HDFC group, SBI group, and ICICI group.",
+        "WATCH": "Insurance growth, lending asset quality, and new fintech initiatives."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Bajaj Finserv mainly make money?",
+          "options": [
+            "Profits from lending plus insurance",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Bajaj Finserv primarily sell or offer?",
+          "options": [
+            "Lending, insurance and investments",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Bajaj Finserv is a financial-services holding group with lending, insurance and investments. It earns from Bajaj Finance plus insurance. Watch insurance growth and asset quality.",
+      "needs_figures": true
+    },
+    {
+      "slug": "dr-reddys",
+      "name": "Dr Reddy's Laboratories",
+      "type": "listed",
+      "industry": "pharma",
+      "parts": {
+        "SELLS": "A major drugmaker focused on generics and active ingredients for India, the US and other markets.",
+        "EARNS": "Margins on generic medicines and ingredients sold in India and abroad.",
+        "SIZE": "A top Indian pharma company.",
+        "RIVALS": "Sun Pharma, Cipla, Lupin, and global generic makers.",
+        "WATCH": "US generic pricing, big launches, and biosimilars."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Dr Reddy's Laboratories mainly make money?",
+          "options": [
+            "Margins on generic medicines and ingredients",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Dr Reddy's Laboratories primarily sell or offer?",
+          "options": [
+            "Generic drugs and active ingredients",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Dr Reddy's makes generics and active ingredients for India, the US and others, earning on medicines sold. Watch US pricing, launches and biosimilars.",
+      "needs_figures": true
+    },
+    {
+      "slug": "cipla",
+      "name": "Cipla",
+      "type": "listed",
+      "industry": "pharma",
+      "parts": {
+        "SELLS": "A major drugmaker strong in respiratory and chronic-care medicines, selling in India, the US and Africa.",
+        "EARNS": "Margins on branded generics in India and generics abroad, with a strong respiratory franchise.",
+        "SIZE": "A leading Indian pharma company.",
+        "RIVALS": "Sun Pharma, Dr Reddy's, Lupin.",
+        "WATCH": "US launches, respiratory demand, and regulatory inspections."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Cipla mainly make money?",
+          "options": [
+            "Margins on branded generics and respiratory drugs",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Cipla primarily sell or offer?",
+          "options": [
+            "Respiratory and chronic-care medicines",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Cipla is strong in respiratory and chronic care, selling in India, the US and Africa, earning on branded and generic drugs. Watch US launches and inspections.",
+      "needs_figures": true
+    },
+    {
+      "slug": "adani-ports",
+      "name": "Adani Ports & SEZ",
+      "type": "listed",
+      "industry": "logistics-delivery",
+      "parts": {
+        "SELLS": "India's largest private ports operator, running cargo terminals and logistics.",
+        "EARNS": "Fees on cargo handled at its ports, plus logistics and SEZ revenue.",
+        "SIZE": "India's biggest private port operator.",
+        "RIVALS": "JNPT and other state and private ports.",
+        "WATCH": "Cargo volume growth, new port wins, and group debt."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Adani Ports & SEZ mainly make money?",
+          "options": [
+            "Fees on cargo handled plus logistics",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Adani Ports & SEZ primarily sell or offer?",
+          "options": [
+            "Ports, terminals and logistics",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Adani Ports is India's largest private ports operator, earning cargo-handling fees plus logistics. Watch cargo volumes, new port wins and group debt.",
+      "needs_figures": true
+    },
+    {
+      "slug": "vedanta",
+      "name": "Vedanta",
+      "type": "listed",
+      "industry": "metals-materials",
+      "parts": {
+        "SELLS": "A natural-resources group producing zinc, aluminium, oil and gas, and other metals.",
+        "EARNS": "Margins on metals and commodities it mines and processes, tied to global prices.",
+        "SIZE": "A diversified Indian mining and metals group.",
+        "RIVALS": "Hindalco, Hindustan Zinc peers, and global miners.",
+        "WATCH": "Commodity prices, the proposed demerger, and group debt."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Vedanta mainly make money?",
+          "options": [
+            "Margins on mined metals and commodities",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Vedanta primarily sell or offer?",
+          "options": [
+            "Zinc, aluminium, oil and other metals",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Vedanta produces zinc, aluminium, oil and gas, earning commodity margins at global prices. Watch prices, the demerger and group debt.",
+      "needs_figures": true
+    },
+    {
+      "slug": "hindalco",
+      "name": "Hindalco Industries",
+      "type": "listed",
+      "industry": "metals-materials",
+      "parts": {
+        "SELLS": "An Aditya Birla metals company making aluminium and copper, and owner of Novelis (global rolled aluminium).",
+        "EARNS": "Margins on aluminium and copper in India plus Novelis's global packaging and auto sheet.",
+        "SIZE": "A leading aluminium producer with a global arm.",
+        "RIVALS": "Vedanta, Nalco, and global aluminium makers.",
+        "WATCH": "Aluminium prices, Novelis demand, and green-aluminium plans."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Hindalco Industries mainly make money?",
+          "options": [
+            "Margins on aluminium, copper and Novelis sheet",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Hindalco Industries primarily sell or offer?",
+          "options": [
+            "Aluminium, copper and rolled products",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Hindalco makes aluminium and copper and owns Novelis, earning metal margins plus global rolled-aluminium sales. Watch aluminium prices and Novelis demand.",
+      "needs_figures": true
+    },
+    {
+      "slug": "dlf",
+      "name": "DLF",
+      "type": "listed",
+      "industry": "real-estate",
+      "parts": {
+        "SELLS": "India's largest listed real-estate developer, building homes, offices and retail.",
+        "EARNS": "Revenue from selling homes and leasing offices and malls (rental income).",
+        "SIZE": "India's biggest listed property developer.",
+        "RIVALS": "Godrej Properties, Prestige, Oberoi Realty, Macrotech.",
+        "WATCH": "Luxury-housing demand, office leasing, and new launches."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does DLF mainly make money?",
+          "options": [
+            "Home sales plus office and mall rentals",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does DLF primarily sell or offer?",
+          "options": [
+            "Homes, offices and retail real estate",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "DLF is India's largest listed developer, earning from home sales and office/mall rentals. Watch luxury-housing demand and office leasing.",
+      "needs_figures": true
+    },
+    {
+      "slug": "godrej-consumer",
+      "name": "Godrej Consumer Products",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "An FMCG maker of home and personal care — insecticides, soaps, hair colour — across India, Africa and Indonesia.",
+        "EARNS": "Margins on branded household and personal-care products across emerging markets.",
+        "SIZE": "A leading home and personal-care FMCG firm.",
+        "RIVALS": "HUL, Dabur, Marico, and regional players.",
+        "WATCH": "Rural demand, Africa performance, and the insecticides category."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Godrej Consumer Products mainly make money?",
+          "options": [
+            "Margins on home and personal-care brands",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Godrej Consumer Products primarily sell or offer?",
+          "options": [
+            "Insecticides, soaps and hair care",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Godrej Consumer sells home and personal care across India, Africa and Indonesia, earning branded margins. Watch rural demand, Africa and insecticides.",
+      "needs_figures": true
+    },
+    {
+      "slug": "dabur",
+      "name": "Dabur India",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "An Ayurveda-led FMCG maker of health, personal care and foods — Chyawanprash, Dabur Honey, Real juices.",
+        "EARNS": "Margins on branded natural/Ayurvedic products sold through wide distribution.",
+        "SIZE": "A leading Ayurveda-led FMCG firm.",
+        "RIVALS": "HUL, ITC, Patanjali, and Marico.",
+        "WATCH": "Rural demand, the natural-products trend, and juice/foods growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Dabur India mainly make money?",
+          "options": [
+            "Margins on Ayurvedic and natural brands",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Dabur India primarily sell or offer?",
+          "options": [
+            "Health, personal care and packaged foods",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Dabur is an Ayurveda-led FMCG firm selling health, personal care and foods, earning branded margins. Watch rural demand and the natural-products trend.",
+      "needs_figures": true
+    },
+    {
+      "slug": "marico",
+      "name": "Marico",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "An FMCG maker of hair and edible oils and foods — Parachute, Saffola — plus newer D2C brands.",
+        "EARNS": "Margins on branded oils and foods, with a growing premium and D2C portfolio.",
+        "SIZE": "A leading hair-and-edible-oil FMCG firm.",
+        "RIVALS": "HUL, Dabur, Adani Wilmar, and D2C brands.",
+        "WATCH": "Copra and oil costs, premiumisation, and D2C scale-up."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Marico mainly make money?",
+          "options": [
+            "Margins on branded oils and foods",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Marico primarily sell or offer?",
+          "options": [
+            "Hair oils, edible oils and foods",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Marico sells hair and edible oils and foods (Parachute, Saffola), earning branded margins with a growing D2C arm. Watch input costs and premiumisation.",
+      "needs_figures": true
+    },
+    {
+      "slug": "pidilite",
+      "name": "Pidilite Industries",
+      "type": "listed",
+      "industry": "metals-materials",
+      "parts": {
+        "SELLS": "The maker of Fevicol and adhesives, sealants and construction chemicals.",
+        "EARNS": "Margins on branded adhesives and chemicals with strong pricing power and distribution.",
+        "SIZE": "India's dominant adhesives maker.",
+        "RIVALS": "Smaller adhesive and chemical makers.",
+        "WATCH": "Construction and renovation demand, and input costs."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Pidilite Industries mainly make money?",
+          "options": [
+            "Margins on branded adhesives and chemicals",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Pidilite Industries primarily sell or offer?",
+          "options": [
+            "Adhesives, sealants and construction chemicals",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Pidilite makes Fevicol and construction chemicals, earning strong branded margins. Watch construction and renovation demand and input costs.",
+      "needs_figures": true
+    },
+    {
+      "slug": "irctc",
+      "name": "IRCTC",
+      "type": "listed",
+      "industry": "travel-hospitality",
+      "parts": {
+        "SELLS": "The Indian Railways arm for online ticketing, catering, and packaged tourism.",
+        "EARNS": "Convenience fees on train tickets, catering revenue, and tourism packages.",
+        "SIZE": "The monopoly online rail-ticketing platform in India.",
+        "RIVALS": "Limited direct rivals; OTAs for tourism.",
+        "WATCH": "Ticketing-fee policy, catering growth, and new travel products."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does IRCTC mainly make money?",
+          "options": [
+            "Convenience fees, catering and tourism revenue",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does IRCTC primarily sell or offer?",
+          "options": [
+            "Online rail ticketing, catering and tourism",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "IRCTC runs online rail ticketing, catering and tourism for Indian Railways, earning convenience fees and catering revenue. Watch ticketing-fee policy and catering growth.",
+      "needs_figures": true
+    },
+    {
+      "slug": "indigo",
+      "name": "InterGlobe Aviation (IndiGo)",
+      "type": "listed",
+      "industry": "aviation",
+      "parts": {
+        "SELLS": "India's largest airline, flying a low-cost, high-frequency domestic and growing international network.",
+        "EARNS": "Ticket fares plus ancillary fees (baggage, seats, meals), with low costs per seat.",
+        "SIZE": "India's biggest airline by market share.",
+        "RIVALS": "Air India, Akasa, SpiceJet.",
+        "WATCH": "Fuel prices, international expansion, and fleet growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does InterGlobe Aviation (IndiGo) mainly make money?",
+          "options": [
+            "Fares plus ancillary fees at low cost",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does InterGlobe Aviation (IndiGo) primarily sell or offer?",
+          "options": [
+            "Low-cost domestic and international flights",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "IndiGo is India's largest airline, earning fares plus ancillary fees on a low-cost network. Watch fuel prices, international expansion and fleet growth.",
+      "needs_figures": true
+    },
+    {
+      "slug": "trent",
+      "name": "Trent",
+      "type": "listed",
+      "industry": "retail",
+      "parts": {
+        "SELLS": "A Tata retail company running Westside and the fast-fashion chain Zudio, plus other formats.",
+        "EARNS": "Margins on apparel and lifestyle goods sold through its own fast-growing store network.",
+        "SIZE": "One of India's fastest-growing fashion retailers.",
+        "RIVALS": "Reliance Trends, Shoppers Stop, Zara, and H&M.",
+        "WATCH": "Zudio's rapid store expansion and same-store growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Trent mainly make money?",
+          "options": [
+            "Margins on apparel and lifestyle retail",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Trent primarily sell or offer?",
+          "options": [
+            "Westside and Zudio fashion stores",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Trent runs Westside and Zudio, earning apparel and lifestyle margins through a fast-growing store network. Watch Zudio's expansion and same-store growth.",
+      "needs_figures": true
+    },
+    {
+      "slug": "varun-beverages",
+      "name": "Varun Beverages",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "The largest PepsiCo bottler outside the US, making and distributing Pepsi, Sting and other drinks.",
+        "EARNS": "Margins on bottling and distributing beverages across India and other markets.",
+        "SIZE": "A leading beverage bottler and distributor.",
+        "RIVALS": "Coca-Cola's bottlers and regional drink makers.",
+        "WATCH": "Summer demand, new territories, and the energy-drink push."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Varun Beverages mainly make money?",
+          "options": [
+            "Margins on bottling and distributing drinks",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Varun Beverages primarily sell or offer?",
+          "options": [
+            "Pepsi, Sting and other beverages",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Varun Beverages is PepsiCo's largest bottler outside the US, earning on making and distributing drinks. Watch summer demand, new territories and energy drinks.",
+      "needs_figures": true
+    },
+    {
+      "slug": "page-industries",
+      "name": "Page Industries",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "The exclusive Indian licensee of Jockey innerwear and Speedo swimwear.",
+        "EARNS": "Margins on branded innerwear and leisurewear sold through wide retail.",
+        "SIZE": "India's leading premium innerwear brand operator.",
+        "RIVALS": "Rupa, Dollar, and other innerwear brands.",
+        "WATCH": "Premium demand, distribution expansion, and athleisure."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Page Industries mainly make money?",
+          "options": [
+            "Margins on Jockey and Speedo products",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Page Industries primarily sell or offer?",
+          "options": [
+            "Innerwear, leisurewear and swimwear",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Page Industries runs Jockey and Speedo in India, earning branded innerwear and leisurewear margins. Watch premium demand and distribution expansion.",
+      "needs_figures": true
+    },
+    {
+      "slug": "info-edge",
+      "name": "Info Edge (Naukri)",
+      "type": "listed",
+      "industry": "saas",
+      "parts": {
+        "SELLS": "Runs Naukri (jobs), 99acres (property), Jeevansathi (matrimony), and invests in startups like Zomato and PolicyBazaar.",
+        "EARNS": "Subscription and listing fees from its platforms, plus gains from startup investments.",
+        "SIZE": "India's leading online-classifieds group.",
+        "RIVALS": "LinkedIn, Indeed, MagicBricks, Shaadi.com.",
+        "WATCH": "Hiring demand (Naukri), property cycle, and investment portfolio value."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Info Edge (Naukri) mainly make money?",
+          "options": [
+            "Listing and subscription fees plus investment gains",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Info Edge (Naukri) primarily sell or offer?",
+          "options": [
+            "Jobs, property and matrimony platforms",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Info Edge runs Naukri, 99acres and Jeevansathi and backs startups, earning listing/subscription fees plus investment gains. Watch hiring demand and its portfolio.",
+      "needs_figures": true
+    },
+    {
+      "slug": "delhivery",
+      "name": "Delhivery",
+      "type": "listed",
+      "industry": "logistics-delivery",
+      "parts": {
+        "SELLS": "India's largest integrated logistics firm, handling e-commerce parcels, freight and supply-chain services.",
+        "EARNS": "Fees on parcels and freight moved, plus warehousing and supply-chain services.",
+        "SIZE": "A leading third-party logistics provider in India.",
+        "RIVALS": "Blue Dart, Ecom Express, XpressBees, India Post.",
+        "WATCH": "E-commerce volume, the Ecom Express integration, and path to steady profit."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Delhivery mainly make money?",
+          "options": [
+            "Fees on parcels, freight and supply chain",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Delhivery primarily sell or offer?",
+          "options": [
+            "E-commerce parcels, freight and warehousing",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Delhivery is India's largest integrated logistics firm, earning on parcels, freight and supply-chain services. Watch e-commerce volumes and the push to steady profit.",
+      "needs_figures": true
+    },
+    {
+      "slug": "honasa",
+      "name": "Honasa Consumer (Mamaearth)",
+      "type": "listed",
+      "industry": "consumer-electronics-d2c",
+      "parts": {
+        "SELLS": "A D2C beauty and personal-care group led by Mamaearth, with brands like The Derma Co.",
+        "EARNS": "Margins on natural-positioned personal-care products sold online and in stores.",
+        "SIZE": "A leading digital-first personal-care group.",
+        "RIVALS": "Nykaa brands, HUL, and other D2C players.",
+        "WATCH": "Mamaearth growth, offline expansion, and newer-brand scale-up."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Honasa Consumer (Mamaearth) mainly make money?",
+          "options": [
+            "Margins on D2C personal-care brands",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Honasa Consumer (Mamaearth) primarily sell or offer?",
+          "options": [
+            "Natural-positioned beauty and personal care",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Honasa runs Mamaearth and The Derma Co, earning margins on natural-positioned personal care sold online and offline. Watch Mamaearth growth and offline expansion.",
+      "needs_figures": true
+    },
+    {
+      "slug": "ola-electric",
+      "name": "Ola Electric",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "An electric two-wheeler maker selling e-scooters, with its own battery and manufacturing push.",
+        "EARNS": "Margins on e-scooters sold, aiming for scale and in-house cell manufacturing.",
+        "SIZE": "A leading Indian electric-scooter maker.",
+        "RIVALS": "Bajaj, TVS, Ather, and Hero.",
+        "WATCH": "Service quality, margins, and the cell-manufacturing plan."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Ola Electric mainly make money?",
+          "options": [
+            "Margins on electric scooters",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Ola Electric primarily sell or offer?",
+          "options": [
+            "Electric two-wheelers and batteries",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Ola Electric makes e-scooters with an in-house battery push, earning on vehicles sold. Watch service quality, margins and cell manufacturing.",
+      "needs_figures": true
+    },
+    {
+      "slug": "firstcry",
+      "name": "FirstCry (Brainbees)",
+      "type": "listed",
+      "industry": "fashion-ecommerce",
+      "parts": {
+        "SELLS": "A retailer of baby and kids' products — clothing, toys, gear — online and through stores.",
+        "EARNS": "Product margins online and in franchised stores, plus private labels.",
+        "SIZE": "India's largest kids and baby products retailer.",
+        "RIVALS": "Amazon, Flipkart, Hopscotch, and local stores.",
+        "WATCH": "Store expansion, private-label mix, and profitability."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does FirstCry (Brainbees) mainly make money?",
+          "options": [
+            "Product and private-label margins",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does FirstCry (Brainbees) primarily sell or offer?",
+          "options": [
+            "Baby and kids' clothing, toys and gear",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "FirstCry sells baby and kids' products online and through stores, earning product and private-label margins. Watch store expansion and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "ixigo",
+      "name": "ixigo (Le Travenues)",
+      "type": "listed",
+      "industry": "travel-hospitality",
+      "parts": {
+        "SELLS": "An online travel app strong in train, bus and flight bookings for value-conscious travellers.",
+        "EARNS": "Convenience fees and commissions on train, bus and flight bookings, plus ads.",
+        "SIZE": "A fast-growing online travel platform in India.",
+        "RIVALS": "MakeMyTrip, EaseMyTrip, and RedBus.",
+        "WATCH": "Train/bus booking growth, flight mix, and margins."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does ixigo (Le Travenues) mainly make money?",
+          "options": [
+            "Convenience fees and booking commissions",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does ixigo (Le Travenues) primarily sell or offer?",
+          "options": [
+            "Train, bus and flight bookings",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "ixigo is an online travel app strong in trains and buses, earning booking fees, commissions and ads. Watch booking growth, flight mix and margins.",
+      "needs_figures": true
+    },
+    {
+      "slug": "zaggle",
+      "name": "Zaggle Prepaid",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A spend-management and corporate-expense platform using prepaid cards and software.",
+        "EARNS": "Fees and interchange on corporate spend, plus software subscriptions.",
+        "SIZE": "A growing B2B spend-management fintech.",
+        "RIVALS": "Happay, Pine Labs, and bank expense tools.",
+        "WATCH": "Corporate client growth and the software-plus-cards mix."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Zaggle Prepaid mainly make money?",
+          "options": [
+            "Fees, interchange and software subscriptions",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Zaggle Prepaid primarily sell or offer?",
+          "options": [
+            "Corporate spend and expense management",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Zaggle offers corporate spend management via prepaid cards and software, earning fees, interchange and subscriptions. Watch client growth and the software mix.",
+      "needs_figures": true
+    },
+    {
+      "slug": "mankind-pharma",
+      "name": "Mankind Pharma",
+      "type": "listed",
+      "industry": "pharma",
+      "parts": {
+        "SELLS": "A drugmaker strong in the domestic market, known for mass-market brands like Manforce and consumer health.",
+        "EARNS": "Margins on branded generics and consumer-health products sold mainly in India.",
+        "SIZE": "A leading domestic-focused pharma company.",
+        "RIVALS": "Sun Pharma, Cipla, Dr Reddy's, and Alkem.",
+        "WATCH": "Domestic growth, acquisitions, and consumer-health expansion."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Mankind Pharma mainly make money?",
+          "options": [
+            "Margins on branded generics and consumer health",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Mankind Pharma primarily sell or offer?",
+          "options": [
+            "Domestic branded generics and consumer health",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Mankind Pharma is strong in India with mass-market brands and consumer health, earning on domestic sales. Watch domestic growth and acquisitions.",
+      "needs_figures": true
+    },
+    {
+      "slug": "divis-labs",
+      "name": "Divi's Laboratories",
+      "type": "listed",
+      "industry": "pharma",
+      "parts": {
+        "SELLS": "A maker of active pharmaceutical ingredients (APIs) and custom synthesis for global drug firms.",
+        "EARNS": "Margins on bulk drug ingredients and contract manufacturing for global clients.",
+        "SIZE": "A leading Indian API and custom-synthesis maker.",
+        "RIVALS": "Global API makers and other CDMOs.",
+        "WATCH": "Global sourcing shifts away from China, and new capacity."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Divi's Laboratories mainly make money?",
+          "options": [
+            "Margins on APIs and custom synthesis",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Divi's Laboratories primarily sell or offer?",
+          "options": [
+            "Active ingredients and contract manufacturing",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Divi's Labs makes drug ingredients and does custom synthesis for global firms, earning API and contract margins. Watch China-plus-one sourcing and new capacity.",
+      "needs_figures": true
+    },
+    {
+      "slug": "jio-financial",
+      "name": "Jio Financial Services",
+      "type": "listed",
+      "industry": "lending-fintech",
+      "parts": {
+        "SELLS": "Reliance's financial-services arm, building lending, payments, insurance and asset management.",
+        "EARNS": "Interest and fees as it builds lending and payments, plus new ventures.",
+        "SIZE": "A new large-cap financial-services entrant.",
+        "RIVALS": "Bajaj Finance, banks, and fintechs.",
+        "WATCH": "How fast it scales lending, and new product launches."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Jio Financial Services mainly make money?",
+          "options": [
+            "Interest and fees across new financial lines",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Jio Financial Services primarily sell or offer?",
+          "options": [
+            "Lending, payments, insurance and AMC",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Jio Financial is Reliance's financial-services arm building lending, payments, insurance and AMC, earning interest and fees. Watch how fast lending scales.",
+      "needs_figures": true
+    },
+    {
+      "slug": "coforge",
+      "name": "Coforge",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "A mid-cap IT services firm focused on insurance, travel and banking verticals.",
+        "EARNS": "Billing clients for software, digital and managed services in focus industries.",
+        "SIZE": "A fast-growing mid-cap IT services firm.",
+        "RIVALS": "LTIMindtree, Mphasis, Persistent, and larger IT firms.",
+        "WATCH": "Large-deal wins, vertical demand, and AI pricing."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Coforge mainly make money?",
+          "options": [
+            "Billing clients for vertical-focused IT services",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Coforge primarily sell or offer?",
+          "options": [
+            "IT services for insurance, travel and banking",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Coforge is a mid-cap IT services firm in insurance, travel and banking, earning by billing clients. Watch large-deal wins and vertical demand.",
+      "needs_figures": true
+    },
+    {
+      "slug": "persistent",
+      "name": "Persistent Systems",
+      "type": "listed",
+      "industry": "it-services",
+      "parts": {
+        "SELLS": "A mid-to-large IT services firm strong in software engineering and digital products.",
+        "EARNS": "Billing clients for software engineering, digital and product services.",
+        "SIZE": "A fast-growing Indian IT services firm.",
+        "RIVALS": "Coforge, LTIMindtree, Mphasis, and larger peers.",
+        "WATCH": "Growth momentum, AI services demand, and margins."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Persistent Systems mainly make money?",
+          "options": [
+            "Billing clients for software engineering",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Persistent Systems primarily sell or offer?",
+          "options": [
+            "Software engineering and digital products",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Persistent Systems is strong in software engineering and digital products, earning by billing clients. Watch growth momentum and AI services demand.",
+      "needs_figures": true
+    },
+    {
+      "slug": "tata-consumer",
+      "name": "Tata Consumer Products",
+      "type": "listed",
+      "industry": "fmcg",
+      "parts": {
+        "SELLS": "A Tata FMCG firm selling tea, coffee, salt, pulses and packaged foods (Tata Tea, Tata Salt, Tata Sampann).",
+        "EARNS": "Margins on branded staples and beverages sold through wide distribution.",
+        "SIZE": "A leading branded-staples FMCG firm.",
+        "RIVALS": "HUL, Nestlé, ITC, and regional brands.",
+        "WATCH": "Tea/coffee prices, premiumisation, and the growth portfolio."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Tata Consumer Products mainly make money?",
+          "options": [
+            "Margins on branded staples and beverages",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Tata Consumer Products primarily sell or offer?",
+          "options": [
+            "Tea, coffee, salt and packaged foods",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Tata Consumer sells tea, coffee, salt and foods, earning branded-staples margins. Watch tea/coffee prices and premiumisation.",
+      "needs_figures": true
+    },
+    {
+      "slug": "mobikwik",
+      "name": "MobiKwik",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A digital-payments and financial-services app offering wallets, UPI, and small-ticket credit.",
+        "EARNS": "Payment fees and financial-services distribution (credit, insurance) commissions.",
+        "SIZE": "A mid-size consumer fintech.",
+        "RIVALS": "Paytm, PhonePe, Google Pay.",
+        "WATCH": "Payments monetisation, credit asset quality, and competition."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does MobiKwik mainly make money?",
+          "options": [
+            "Payment fees and credit distribution",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does MobiKwik primarily sell or offer?",
+          "options": [
+            "Wallets, UPI and small-ticket credit",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "MobiKwik offers wallets, UPI and small-ticket credit, earning payment fees and distribution commissions. Watch payments monetisation and credit quality.",
+      "needs_figures": true
+    },
+    {
+      "slug": "phonepe",
+      "name": "PhonePe",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "India's most-used UPI payments app, expanding into insurance, lending distribution and stockbroking.",
+        "EARNS": "Monetising payments (merchant and bill-pay), plus financial-services distribution and newer bets.",
+        "SIZE": "India's largest UPI payments app by volume.",
+        "RIVALS": "Google Pay, Paytm, and banks' own apps.",
+        "WATCH": "Payments monetisation, new verticals, and a planned IPO."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does PhonePe mainly make money?",
+          "options": [
+            "Payments monetisation plus financial-services distribution",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does PhonePe primarily sell or offer?",
+          "options": [
+            "UPI payments and financial services",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "PhonePe is India's most-used UPI app, expanding into insurance, lending and broking. It earns from payments and financial-services distribution. Watch monetisation and a planned IPO.",
+      "needs_figures": true
+    },
+    {
+      "slug": "meesho",
+      "name": "Meesho",
+      "type": "startup",
+      "industry": "fashion-ecommerce",
+      "parts": {
+        "SELLS": "A value e-commerce platform for unbranded fashion and household goods, aimed at small towns.",
+        "EARNS": "Commissions and ads from sellers, with a low-price, low-commission marketplace model.",
+        "SIZE": "A leading value-focused e-commerce marketplace.",
+        "RIVALS": "Flipkart, Amazon, and Reliance's commerce.",
+        "WATCH": "Monetisation, profitability, and a planned IPO."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Meesho mainly make money?",
+          "options": [
+            "Seller commissions and advertising",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Meesho primarily sell or offer?",
+          "options": [
+            "Value e-commerce for unbranded goods",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Meesho is a value e-commerce marketplace for unbranded goods in small-town India, earning seller commissions and ads. Watch monetisation and a planned IPO.",
+      "needs_figures": true
+    },
+    {
+      "slug": "razorpay",
+      "name": "Razorpay",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A payments and banking platform for businesses — online payment gateway, payouts and neobanking.",
+        "EARNS": "Fees on payments processed for merchants, plus business-banking and lending services.",
+        "SIZE": "A leading Indian business-payments company.",
+        "RIVALS": "PayU, Cashfree, Stripe, and banks.",
+        "WATCH": "Payments volume, banking products, and regulatory licences."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Razorpay mainly make money?",
+          "options": [
+            "Fees on business payments plus banking",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Razorpay primarily sell or offer?",
+          "options": [
+            "Payment gateway and business banking",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Razorpay offers payment gateway, payouts and neobanking for businesses, earning processing fees plus banking services. Watch volumes and regulatory licences.",
+      "needs_figures": true
+    },
+    {
+      "slug": "cred",
+      "name": "CRED",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A members-only app for credit-card bill payments that rewards users and sells financial products.",
+        "EARNS": "Commerce and financial-product commissions, lending distribution, and brand ads to a premium base.",
+        "SIZE": "A premium-positioned consumer fintech.",
+        "RIVALS": "Paytm, PhonePe, and bank apps.",
+        "WATCH": "Monetisation, lending, and keeping a high-value user base engaged."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does CRED mainly make money?",
+          "options": [
+            "Commerce, lending and ad commissions",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does CRED primarily sell or offer?",
+          "options": [
+            "Credit-card bill payments and rewards",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "CRED rewards credit-card bill payments and sells financial products to a premium base, earning commerce and lending commissions. Watch monetisation and engagement.",
+      "needs_figures": true
+    },
+    {
+      "slug": "groww",
+      "name": "Groww",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A popular investing app for stocks, mutual funds and more, aimed at first-time investors.",
+        "EARNS": "Brokerage on trades, distribution fees, and newer products like payments and lending.",
+        "SIZE": "One of India's largest retail investing apps by users.",
+        "RIVALS": "Zerodha, Upstox, Angel One, and bank brokerages.",
+        "WATCH": "Active-trader growth, product expansion, and a planned IPO."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Groww mainly make money?",
+          "options": [
+            "Brokerage and distribution fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Groww primarily sell or offer?",
+          "options": [
+            "Stocks, mutual funds and investing",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Groww is a popular investing app for first-time investors, earning brokerage and distribution fees. Watch active-trader growth, product expansion and a planned IPO.",
+      "needs_figures": true
+    },
+    {
+      "slug": "zerodha",
+      "name": "Zerodha",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "India's largest stockbroker by active clients, known for low-cost, self-directed trading.",
+        "EARNS": "Flat brokerage on trades (mainly derivatives), with no big marketing spend.",
+        "SIZE": "India's largest retail stockbroker by active clients.",
+        "RIVALS": "Groww, Upstox, Angel One.",
+        "WATCH": "Regulatory changes to derivatives, and revenue concentration."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Zerodha mainly make money?",
+          "options": [
+            "Flat brokerage on trades",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Zerodha primarily sell or offer?",
+          "options": [
+            "Low-cost self-directed stock trading",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Zerodha is India's largest stockbroker, earning flat brokerage mainly on derivatives with low marketing. Watch regulatory changes to derivatives trading.",
+      "needs_figures": true
+    },
+    {
+      "slug": "oyo",
+      "name": "OYO",
+      "type": "startup",
+      "industry": "travel-hospitality",
+      "parts": {
+        "SELLS": "A budget-hotel and short-stay platform aggregating and branding independent hotels and homes.",
+        "EARNS": "A cut of room revenue from partner hotels, plus service and tech fees.",
+        "SIZE": "A large budget-accommodation platform.",
+        "RIVALS": "MakeMyTrip, Booking.com, and direct hotels.",
+        "WATCH": "Profitability, partner relations, and a planned IPO."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does OYO mainly make money?",
+          "options": [
+            "A share of partner room revenue plus fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does OYO primarily sell or offer?",
+          "options": [
+            "Budget hotels and short stays",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "OYO aggregates and brands budget hotels and homes, earning a cut of room revenue plus fees. Watch profitability, partner relations and a planned IPO.",
+      "needs_figures": true
+    },
+    {
+      "slug": "dream11",
+      "name": "Dream11 (Dream Sports)",
+      "type": "startup",
+      "industry": "consumer-electronics-d2c",
+      "parts": {
+        "SELLS": "India's largest fantasy-sports platform, where users build virtual teams for real matches.",
+        "EARNS": "A platform fee on contest entry pools; scale peaks around major cricket events.",
+        "SIZE": "India's biggest fantasy-sports platform.",
+        "RIVALS": "My11Circle, MPL, and other fantasy apps.",
+        "WATCH": "Online-gaming taxation and regulation, and seasonality."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Dream11 (Dream Sports) mainly make money?",
+          "options": [
+            "A platform fee on contest entry pools",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Dream11 (Dream Sports) primarily sell or offer?",
+          "options": [
+            "Fantasy sports contests",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Dream11 is India's largest fantasy-sports platform, earning a platform fee on contest pools. Watch gaming taxation, regulation and seasonality around cricket.",
+      "needs_figures": true
+    },
+    {
+      "slug": "boat",
+      "name": "boAt (Imagine Marketing)",
+      "type": "startup",
+      "industry": "consumer-electronics-d2c",
+      "parts": {
+        "SELLS": "A consumer-electronics brand selling affordable audio (earphones, speakers) and wearables.",
+        "EARNS": "Margins on affordable branded electronics sold online and in stores.",
+        "SIZE": "A leading Indian audio and wearables brand.",
+        "RIVALS": "Noise, boult, and global brands like JBL.",
+        "WATCH": "Margins, wearables competition, and a planned IPO."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does boAt (Imagine Marketing) mainly make money?",
+          "options": [
+            "Margins on affordable branded electronics",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does boAt (Imagine Marketing) primarily sell or offer?",
+          "options": [
+            "Audio devices and wearables",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "boAt sells affordable audio and wearables, earning product margins online and offline. Watch margins, wearables competition and a planned IPO.",
+      "needs_figures": true
+    },
+    {
+      "slug": "urban-company",
+      "name": "Urban Company",
+      "type": "startup",
+      "industry": "consumer-electronics-d2c",
+      "parts": {
+        "SELLS": "A home-services marketplace connecting users with vetted professionals for salon, repairs and cleaning.",
+        "EARNS": "A commission on each service booked, plus a products business for professionals.",
+        "SIZE": "India's leading home-services marketplace.",
+        "RIVALS": "Local service providers and smaller apps.",
+        "WATCH": "Professional supply, take-rate, and profitability."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Urban Company mainly make money?",
+          "options": [
+            "A commission on each service booked",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Urban Company primarily sell or offer?",
+          "options": [
+            "At-home salon, repair and cleaning services",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Urban Company connects users with vetted professionals for home services, earning a commission per booking plus products. Watch professional supply and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "pine-labs",
+      "name": "Pine Labs",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A merchant-payments and point-of-sale company offering card machines, software and lending.",
+        "EARNS": "Fees on in-store payments, device and software subscriptions, and merchant lending.",
+        "SIZE": "A leading merchant point-of-sale and payments firm.",
+        "RIVALS": "Paytm, Razorpay, and banks.",
+        "WATCH": "In-store payments growth, lending, and a planned IPO."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Pine Labs mainly make money?",
+          "options": [
+            "Fees on in-store payments plus lending",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Pine Labs primarily sell or offer?",
+          "options": [
+            "Point-of-sale machines and merchant software",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Pine Labs offers POS machines, software and merchant lending, earning payment fees, subscriptions and lending. Watch in-store payments growth and a planned IPO.",
+      "needs_figures": true
+    },
+    {
+      "slug": "bharatpe",
+      "name": "BharatPe",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "parts": {
+        "SELLS": "A merchant-payments company offering QR payments, point-of-sale and small-business loans.",
+        "EARNS": "Merchant lending distribution and POS fees, built on a free UPI-QR base.",
+        "SIZE": "A large merchant-focused fintech.",
+        "RIVALS": "Paytm, Pine Labs, and Razorpay.",
+        "WATCH": "Lending asset quality, governance, and path to profit."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does BharatPe mainly make money?",
+          "options": [
+            "Merchant lending and POS fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does BharatPe primarily sell or offer?",
+          "options": [
+            "Merchant QR payments and loans",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "BharatPe offers merchant QR, POS and small-business loans, earning on lending distribution and POS. Watch lending quality, governance and the path to profit.",
+      "needs_figures": true
+    },
+    {
+      "slug": "physicswallah",
+      "name": "PhysicsWallah",
+      "type": "startup",
+      "industry": "ed-tech",
+      "parts": {
+        "SELLS": "An affordable ed-tech brand for exam preparation (JEE, NEET) via online and offline centres.",
+        "EARNS": "Low-priced course fees online and at physical coaching centres, at large scale.",
+        "SIZE": "A fast-growing, profitable-leaning ed-tech brand.",
+        "RIVALS": "Allen, Aakash, Byju's, and Unacademy.",
+        "WATCH": "Offline-centre expansion and margins as it scales."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does PhysicsWallah mainly make money?",
+          "options": [
+            "Low-priced course fees at scale",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does PhysicsWallah primarily sell or offer?",
+          "options": [
+            "Exam-prep courses online and offline",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "PhysicsWallah offers affordable JEE/NEET prep online and offline, earning low-priced course fees at scale. Watch offline-centre expansion and margins.",
+      "needs_figures": true
+    },
+    {
+      "slug": "licious",
+      "name": "Licious",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "A D2C brand delivering fresh meat and seafood with a focus on quality and cold-chain.",
+        "EARNS": "Margins on fresh meat and seafood sold direct, with its own supply chain.",
+        "SIZE": "A leading D2C fresh-meat brand.",
+        "RIVALS": "Local meat shops, FreshToHome, and quick-commerce grocery.",
+        "WATCH": "Unit economics, cold-chain costs, and profitability."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Licious mainly make money?",
+          "options": [
+            "Margins on direct fresh-meat sales",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Licious primarily sell or offer?",
+          "options": [
+            "Fresh meat and seafood delivery",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Licious delivers fresh meat and seafood direct, earning margins on its own cold-chain supply. Watch unit economics and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "rebel-foods",
+      "name": "Rebel Foods",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "A cloud-kitchen company running many delivery-only food brands (like Faasos, Behrouz) from shared kitchens.",
+        "EARNS": "Margins on food sold across its own brands through delivery apps and its platform.",
+        "SIZE": "A pioneer of the cloud-kitchen model in India.",
+        "RIVALS": "Restaurant chains and other cloud kitchens.",
+        "WATCH": "Brand profitability, kitchen utilisation, and expansion."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Rebel Foods mainly make money?",
+          "options": [
+            "Margins on food across delivery-only brands",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Rebel Foods primarily sell or offer?",
+          "options": [
+            "Delivery-only cloud-kitchen food brands",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Rebel Foods runs many delivery-only brands from shared cloud kitchens, earning food margins across brands. Watch brand profitability and kitchen utilisation.",
+      "needs_figures": true
+    },
+    {
+      "slug": "cars24",
+      "name": "Cars24",
+      "type": "startup",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "An online used-car platform that buys, refurbishes and sells pre-owned cars, with financing.",
+        "EARNS": "Margins on used cars bought and resold, plus financing and fees.",
+        "SIZE": "A leading online used-car platform.",
+        "RIVALS": "Spinny, CarDekho, OLX, and dealers.",
+        "WATCH": "Used-car margins, financing, and profitability."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Cars24 mainly make money?",
+          "options": [
+            "Margins on used cars plus financing",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Cars24 primarily sell or offer?",
+          "options": [
+            "Buying and selling pre-owned cars",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Cars24 buys, refurbishes and sells used cars online with financing, earning resale margins and fees. Watch used-car margins and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "upgrad",
+      "name": "upGrad",
+      "type": "startup",
+      "industry": "ed-tech",
+      "parts": {
+        "SELLS": "An ed-tech firm for higher education and upskilling — degrees, certificates and career programs.",
+        "EARNS": "Course and program fees, often with university partners, plus enterprise training.",
+        "SIZE": "A large higher-ed and upskilling platform.",
+        "RIVALS": "Simplilearn, Coursera, and Great Learning.",
+        "WATCH": "Enrolment demand, profitability, and the degrees business."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does upGrad mainly make money?",
+          "options": [
+            "Course and program fees plus enterprise training",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does upGrad primarily sell or offer?",
+          "options": [
+            "Higher-ed degrees and upskilling programs",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "upGrad offers degrees, certificates and career programs, earning course fees with university partners plus enterprise training. Watch enrolment demand and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "swiggy-instamart",
+      "name": "BigBasket",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "parts": {
+        "SELLS": "A Tata-owned online grocery platform offering scheduled delivery and quick commerce (BB Now).",
+        "EARNS": "Margins on groceries sold online, plus private labels and quick-commerce delivery.",
+        "SIZE": "A leading online grocery platform in India.",
+        "RIVALS": "Blinkit, Zepto, Swiggy Instamart, and DMart.",
+        "WATCH": "Quick-commerce competition, private labels, and profitability."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does BigBasket mainly make money?",
+          "options": [
+            "Margins on online groceries plus private labels",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does BigBasket primarily sell or offer?",
+          "options": [
+            "Online grocery and quick commerce",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "BigBasket is a Tata-owned online grocer with scheduled and quick delivery, earning grocery margins plus private labels. Watch quick-commerce competition and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "go-digit",
+      "name": "Go Digit General Insurance",
+      "type": "listed",
+      "industry": "insurtech",
+      "parts": {
+        "SELLS": "A digital-first general insurer selling motor, health and other non-life cover, often through partners.",
+        "EARNS": "Underwriting premiums and investment income, with a tech-led, low-cost distribution model.",
+        "SIZE": "A fast-growing digital general insurer.",
+        "RIVALS": "ICICI Lombard, Bajaj Allianz, Acko, and incumbents.",
+        "WATCH": "Underwriting profitability, claims ratios, and growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Go Digit General Insurance mainly make money?",
+          "options": [
+            "Premiums and investment income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Go Digit General Insurance primarily sell or offer?",
+          "options": [
+            "Motor, health and general insurance",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Go Digit is a digital-first general insurer selling motor and health cover, earning premiums and investment income. Watch underwriting profitability and claims ratios.",
+      "needs_figures": true
+    },
+    {
+      "slug": "sbi-life",
+      "name": "SBI Life Insurance",
+      "type": "listed",
+      "industry": "insurtech",
+      "parts": {
+        "SELLS": "A leading life insurer distributing protection and savings products, strongly via the SBI branch network.",
+        "EARNS": "Premiums and investment income on life-insurance and savings policies.",
+        "SIZE": "One of India's largest private life insurers.",
+        "RIVALS": "HDFC Life, ICICI Prudential Life, LIC.",
+        "WATCH": "Protection mix, persistency, and bancassurance growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does SBI Life Insurance mainly make money?",
+          "options": [
+            "Premiums and investment income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does SBI Life Insurance primarily sell or offer?",
+          "options": [
+            "Life insurance and savings products",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "SBI Life is a leading life insurer selling protection and savings via SBI's branches, earning premiums and investment income. Watch protection mix and persistency.",
+      "needs_figures": true
+    },
+    {
+      "slug": "hdfc-life",
+      "name": "HDFC Life Insurance",
+      "type": "listed",
+      "industry": "insurtech",
+      "parts": {
+        "SELLS": "A top private life insurer offering protection, savings and pension products.",
+        "EARNS": "Premiums and investment income on life-insurance and annuity policies.",
+        "SIZE": "A leading private life insurer.",
+        "RIVALS": "SBI Life, ICICI Prudential Life, LIC.",
+        "WATCH": "Protection growth, margins, and distribution."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does HDFC Life Insurance mainly make money?",
+          "options": [
+            "Premiums and investment income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does HDFC Life Insurance primarily sell or offer?",
+          "options": [
+            "Life insurance, savings and pensions",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "HDFC Life is a top private life insurer selling protection, savings and pensions, earning premiums and investment income. Watch protection growth and margins.",
+      "needs_figures": true
+    },
+    {
+      "slug": "indian-hotels",
+      "name": "Indian Hotels (Taj)",
+      "type": "listed",
+      "industry": "travel-hospitality",
+      "parts": {
+        "SELLS": "A Tata hospitality company running the Taj, Vivanta, SeleQtions and Ginger hotel brands.",
+        "EARNS": "Room revenue, food and banquets, and management fees from owned and operated hotels.",
+        "SIZE": "India's largest branded hotel group.",
+        "RIVALS": "Oberoi, ITC Hotels, Marriott, and Lemon Tree.",
+        "WATCH": "Travel demand, room rates, and new hotel signings."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Indian Hotels (Taj) mainly make money?",
+          "options": [
+            "Room revenue, F&B and management fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Indian Hotels (Taj) primarily sell or offer?",
+          "options": [
+            "Taj and other hotel brands",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Indian Hotels runs Taj, Vivanta and Ginger, earning room revenue, F&B and management fees. Watch travel demand, room rates and new signings.",
+      "needs_figures": true
+    },
+    {
+      "slug": "muthoot-finance",
+      "name": "Muthoot Finance",
+      "type": "listed",
+      "industry": "lending-fintech",
+      "parts": {
+        "SELLS": "India's largest gold-loan company, lending against household gold jewellery.",
+        "EARNS": "Interest on gold-backed loans, with quick disbursal and low credit losses.",
+        "SIZE": "India's biggest gold-loan NBFC.",
+        "RIVALS": "Manappuram, banks, and other NBFCs.",
+        "WATCH": "Gold prices, regulation on gold loans, and growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Muthoot Finance mainly make money?",
+          "options": [
+            "Interest on gold-backed loans",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Muthoot Finance primarily sell or offer?",
+          "options": [
+            "Loans against household gold",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Muthoot Finance is India's largest gold-loan NBFC, earning interest on loans against gold with low losses. Watch gold prices and gold-loan regulation.",
+      "needs_figures": true
+    },
+    {
+      "slug": "adani-green",
+      "name": "Adani Green Energy",
+      "type": "listed",
+      "industry": "energy-utilities",
+      "parts": {
+        "SELLS": "A large renewable-energy company building and operating solar and wind power plants.",
+        "EARNS": "Long-term tariffs on renewable power sold to utilities and corporates.",
+        "SIZE": "One of India's largest renewable-energy firms.",
+        "RIVALS": "ReNew, Tata Power Renewables, and NTPC Green.",
+        "WATCH": "Capacity additions, funding costs, and group scrutiny."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Adani Green Energy mainly make money?",
+          "options": [
+            "Long-term tariffs on renewable power",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Adani Green Energy primarily sell or offer?",
+          "options": [
+            "Solar and wind power generation",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Adani Green builds and runs solar and wind plants, earning long-term tariffs on renewable power. Watch capacity additions, funding costs and group scrutiny.",
+      "needs_figures": true
+    },
+    {
+      "slug": "adani-power",
+      "name": "Adani Power",
+      "type": "listed",
+      "industry": "energy-utilities",
+      "parts": {
+        "SELLS": "A large private thermal-power generator selling electricity to state utilities.",
+        "EARNS": "Tariffs on thermal power sold under long-term and merchant arrangements.",
+        "SIZE": "India's largest private thermal generator.",
+        "RIVALS": "NTPC, Tata Power, and JSW Energy.",
+        "WATCH": "Power demand, fuel costs, and capacity growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Adani Power mainly make money?",
+          "options": [
+            "Tariffs on thermal power sold",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Adani Power primarily sell or offer?",
+          "options": [
+            "Thermal electricity generation",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Adani Power is India's largest private thermal generator, earning tariffs on electricity sold to utilities. Watch power demand, fuel costs and capacity.",
+      "needs_figures": true
+    },
+    {
+      "slug": "bajaj-housing",
+      "name": "Bajaj Housing Finance",
+      "type": "listed",
+      "industry": "lending-fintech",
+      "parts": {
+        "SELLS": "A fast-growing housing-finance company lending for home purchase and against property.",
+        "EARNS": "Interest spread on mortgages and property loans, with strong parentage and low costs.",
+        "SIZE": "A leading new-age housing-finance lender.",
+        "RIVALS": "HDFC (merged), LIC Housing, and banks.",
+        "WATCH": "Mortgage growth, spreads, and asset quality."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Bajaj Housing Finance mainly make money?",
+          "options": [
+            "Interest spread on mortgages",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Bajaj Housing Finance primarily sell or offer?",
+          "options": [
+            "Home loans and loans against property",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Bajaj Housing Finance lends for homes and against property, earning an interest spread with low costs. Watch mortgage growth, spreads and asset quality.",
+      "needs_figures": true
+    },
+    {
+      "slug": "unacademy",
+      "name": "Unacademy",
+      "type": "startup",
+      "industry": "ed-tech",
+      "parts": {
+        "SELLS": "An ed-tech platform for exam preparation via live online classes and some offline centres.",
+        "EARNS": "Subscription fees for test-prep courses, plus offline centre fees.",
+        "SIZE": "A major online test-prep platform.",
+        "RIVALS": "PhysicsWallah, Allen, Aakash, and Byju's.",
+        "WATCH": "Profitability, offline strategy, and subscriber retention."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Unacademy mainly make money?",
+          "options": [
+            "Subscription and course fees",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Unacademy primarily sell or offer?",
+          "options": [
+            "Online and offline exam-prep classes",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Unacademy offers exam prep via live online classes and centres, earning subscription and course fees. Watch profitability and the offline strategy.",
+      "needs_figures": true
+    },
+    {
+      "slug": "acko",
+      "name": "Acko",
+      "type": "startup",
+      "industry": "insurtech",
+      "parts": {
+        "SELLS": "A digital-first insurer selling motor, health and embedded insurance online, with no branches.",
+        "EARNS": "Underwriting premiums and investment income, with low-cost online distribution.",
+        "SIZE": "A leading digital-native insurer.",
+        "RIVALS": "Go Digit, ICICI Lombard, Star Health, and incumbents.",
+        "WATCH": "Underwriting profitability, health growth, and claims."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Acko mainly make money?",
+          "options": [
+            "Premiums and investment income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Acko primarily sell or offer?",
+          "options": [
+            "Digital motor, health and embedded insurance",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Acko is a branchless digital insurer selling motor, health and embedded cover, earning premiums and investment income. Watch underwriting profitability and health growth.",
+      "needs_figures": true
+    },
+    {
+      "slug": "spinny",
+      "name": "Spinny",
+      "type": "startup",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "An online used-car platform selling inspected, fixed-price pre-owned cars with a focus on trust.",
+        "EARNS": "Margins on used cars bought and resold, plus financing and add-ons.",
+        "SIZE": "A leading online used-car retailer.",
+        "RIVALS": "Cars24, CarDekho, OLX, and dealers.",
+        "WATCH": "Used-car margins, inventory, and profitability."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Spinny mainly make money?",
+          "options": [
+            "Margins on used cars plus financing",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Spinny primarily sell or offer?",
+          "options": [
+            "Fixed-price pre-owned cars",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Spinny sells inspected, fixed-price used cars online, earning resale margins plus financing. Watch margins, inventory and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "purplle",
+      "name": "Purplle",
+      "type": "startup",
+      "industry": "beauty-ecommerce",
+      "parts": {
+        "SELLS": "An online beauty and personal-care retailer targeting value and mass-market shoppers.",
+        "EARNS": "Product margins and marketplace commissions, plus owned beauty brands.",
+        "SIZE": "A leading value-focused online beauty retailer.",
+        "RIVALS": "Nykaa, Tira, Myntra Beauty, and Amazon.",
+        "WATCH": "Own-brand mix, profitability, and competition."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Purplle mainly make money?",
+          "options": [
+            "Product margins, commissions and own brands",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Purplle primarily sell or offer?",
+          "options": [
+            "Value online beauty and personal care",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Purplle is a value-focused online beauty retailer, earning product margins, commissions and own-brand sales. Watch own-brand mix and profitability.",
+      "needs_figures": true
+    },
+    {
+      "slug": "ather",
+      "name": "Ather Energy",
+      "type": "listed",
+      "industry": "automobiles",
+      "parts": {
+        "SELLS": "An electric two-wheeler maker known for premium smart e-scooters and its own charging network.",
+        "EARNS": "Margins on e-scooters and accessories, plus charging and software services.",
+        "SIZE": "A premium Indian electric-scooter maker.",
+        "RIVALS": "Ola Electric, TVS, Bajaj, and Hero.",
+        "WATCH": "Margins, scale, and the EV-scooter market's growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Ather Energy mainly make money?",
+          "options": [
+            "Margins on e-scooters plus charging services",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Ather Energy primarily sell or offer?",
+          "options": [
+            "Premium electric scooters",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Ather Energy makes premium smart e-scooters with its own charging network, earning vehicle margins plus services. Watch margins, scale and EV-scooter growth.",
+      "needs_figures": true
+    },
+    {
+      "slug": "star-health",
+      "name": "Star Health Insurance",
+      "type": "listed",
+      "industry": "insurtech",
+      "parts": {
+        "SELLS": "India's largest standalone health insurer, specialising in retail health cover.",
+        "EARNS": "Health-insurance premiums and investment income, with a large agent network.",
+        "SIZE": "India's biggest standalone health insurer.",
+        "RIVALS": "Care, Niva Bupa, and general insurers' health arms.",
+        "WATCH": "Claims ratios, medical inflation, and retail-health growth."
+      },
+      "figures": [],
+      "quiz": [
+        {
+          "prompt": "How does Star Health Insurance mainly make money?",
+          "options": [
+            "Health premiums and investment income",
+            "Charging users a monthly subscription only",
+            "Selling user data to advertisers",
+            "Government grants and subsidies"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "What does Star Health Insurance primarily sell or offer?",
+          "options": [
+            "Retail health insurance",
+            "Crude oil extraction",
+            "Running a stock exchange",
+            "Manufacturing semiconductors"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Star Health is India's largest standalone health insurer, earning premiums and investment income via a big agent network. Watch claims ratios and medical inflation.",
+      "needs_figures": true
+    }
+  ]
+}
