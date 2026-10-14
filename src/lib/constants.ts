@@ -51,6 +51,20 @@ export const INDUSTRIES = {
   "consumer-electronics-d2c": "Consumer electronics & D2C",
   aviation: "Aviation",
   conglomerate: "Conglomerate",
+  // Added in batch 001 where nothing above fit.
+  "nbfc-lending": "NBFCs & lending",
+  "capital-markets": "Brokers & capital markets",
+  "consumer-durables": "Consumer durables & paints",
+  chemicals: "Chemicals",
+  "cement-building-materials": "Cement & building materials",
+  "construction-infrastructure": "Construction & infrastructure",
+  "capital-goods": "Capital goods & defence",
+  "oil-gas-fuels": "Oil, gas & coal",
+  "healthcare-services": "Hospitals & diagnostics",
+  "internet-classifieds": "Internet classifieds",
+  "textiles-apparel": "Textiles & apparel",
+  "media-entertainment": "Media, gaming & entertainment",
+  "consumer-services": "Consumer services",
 } as const;
 export type IndustrySlug = keyof typeof INDUSTRIES;
 
@@ -58,4 +72,9 @@ export type IndustrySlug = keyof typeof INDUSTRIES;
 export const DEFAULT_FIGURE_PARTS: PartKind[] = ["SIZE", "EARNS"];
 
 export const NOTE_WORDS = 30;
+// Original seed entries carry two questions; v2 entries must carry exactly three.
 export const MIN_QUIZ_QUESTIONS = 2;
+export const V2_QUIZ_QUESTIONS = 3;
+// Longer parts were approved in Oct 2026 in place of the 3-line limit.
+export const PART_MAX_CHARS = 420;
+export const REVIEW_STATES = ["unreviewed", "approved"] as const;

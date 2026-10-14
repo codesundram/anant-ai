@@ -1,0 +1,473 @@
+{
+  "_meta": { "batch": "001", "part": 3, "review": "All entries unreviewed until the founder approves them.", "generated": "2026-10-14" },
+  "companies": [
+    {
+      "v": 2, "slug": "pidilite", "name": "Pidilite Industries", "type": "listed", "industry": "chemicals",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Sudhanshu Vats", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Pidilite makes adhesives and sealants that have become household names: Fevicol wood glue, Fevikwik instant glue, M-Seal and Araldite. It also sells Dr. Fixit waterproofing, art and craft materials (Fevicryl) and industrial chemicals.",
+        "EARNS": "The consumer and bazaar segment, sold to carpenters, plumbers, painters and shops, earns most of the revenue and high margins. Brand loyalty among tradespeople and very wide distribution give it pricing power.",
+        "SIZE": "India's largest adhesives company, with Fevicol the dominant brand in wood adhesives.",
+        "RIVALS": "Jubilant Agri (Jivanjor), Henkel, 3M and Asian Paints in waterproofing and adhesives.",
+        "WATCH": "Demand from home building and renovation, raw-material costs linked to crude oil, and growth in waterproofing."
+      },
+      "quiz": [
+        { "prompt": "Which is Pidilite's most famous brand?", "options": ["Fevicol", "Asian Paints", "Berger", "Nerolac"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who are Pidilite's key users?", "options": ["Carpenters, plumbers and painters", "Airline pilots", "Bank tellers", "Software engineers"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which Pidilite brand is for waterproofing?", "options": ["Dr. Fixit", "Fevikwik", "Fevicryl", "M-Seal"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Pidilite sells Fevicol, Fevikwik, M-Seal and Dr. Fixit, earning high margins from tradespeople's brand loyalty. Watch home-building demand and crude-linked raw-material costs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "irctc", "name": "IRCTC", "type": "listed", "industry": "travel-hospitality",
+      "profile": { "hq": "New Delhi", "leader": "Sanjay Kumar Jain", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "IRCTC is Indian Railways' arm for online train tickets, onboard and station catering, Rail Neer packaged water, and tourism packages including Bharat Gaurav themed trains. The government is its majority owner.",
+        "EARNS": "Internet ticketing earns a convenience fee on each ticket booked online and is its most profitable segment. Catering brings more revenue but lower margins. It is the only official seller of online railway tickets.",
+        "SIZE": "One of the busiest e-commerce websites in the Asia-Pacific region by transactions.",
+        "RIVALS": "Authorised partners like ixigo, ConfirmTkt and Paytm sell tickets through IRCTC's system; in catering and water, private food and bottled-water brands.",
+        "WATCH": "Changes to convenience fees set with the Railway Ministry, growth of Rail Neer capacity, and new tourism trains."
+      },
+      "quiz": [
+        { "prompt": "Which IRCTC segment is most profitable?", "options": ["Internet ticketing", "Catering", "Rail Neer", "Tourism"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Rail Neer?", "options": ["IRCTC's packaged drinking water", "A train route", "A ticket app", "A hotel chain"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who decides IRCTC's convenience fees with it?", "options": ["The Railway Ministry", "SEBI", "TRAI", "State governments"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "IRCTC is the sole official online rail ticket seller, earning convenience fees, plus catering, Rail Neer and tourism. Watch fee changes with the Railway Ministry and new tourism trains.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "indigo", "name": "InterGlobe Aviation (IndiGo)", "type": "listed", "industry": "aviation",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Pieter Elbers", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "IndiGo is a low-cost airline flying domestic routes across India and international routes to the Middle East, Southeast Asia, Central Asia and Europe. It has added IndiGo Stretch, a business-class product, and is bringing in wide-body planes for long-haul flights. Co-founder Rahul Bhatia is MD.",
+        "EARNS": "Ticket sales plus fees for seats, bags and meals. It keeps costs low by flying one aircraft family (Airbus A320s), using planes many hours a day, and buying in huge bulk orders. Domestic flying is the bulk of revenue; international is growing.",
+        "SIZE": "India's largest airline and the clear leader in domestic flying.",
+        "RIVALS": "Air India and Air India Express (Tata Group), Akasa Air and SpiceJet; Gulf carriers like Emirates on international routes.",
+        "WATCH": "Long-haul expansion with wide-body planes, fuel prices and the rupee, grounded aircraft due to engine problems, and lessons from its December 2025 flight disruptions when new pilot rest rules took effect."
+      },
+      "quiz": [
+        { "prompt": "How does IndiGo keep costs low?", "options": ["Flying one aircraft family and using planes intensively", "Serving free luxury meals", "Flying only at night", "Owning airports"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is IndiGo's main full-service rival?", "options": ["Air India", "Lufthansa", "Jet Airways", "Kingfisher"], "correct_idx": 0, "part_kind": "RIVALS" },
+        { "prompt": "What is IndiGo Stretch?", "options": ["A business-class product", "A cargo service", "A train service", "A loyalty credit card"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "IndiGo is India's largest airline, a low-cost carrier earning from tickets and add-ons with tight costs. Watch long-haul expansion, fuel and rupee costs, and reliability after December 2025 disruptions.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "trent", "name": "Trent", "type": "listed", "industry": "retail",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "P. Venkatesalu", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Trent runs Zudio, a low-price fashion chain, and Westside, a mid-market fashion and home store. It also runs Star hypermarkets and supermarkets with Tesco. It is a Tata Group company, chaired by Noel Tata.",
+        "EARNS": "Almost everything it sells is its own label, so it keeps the brand margin instead of sharing it. Zudio is the growth engine, opening stores rapidly in small towns; Westside earns higher margins per store.",
+        "SIZE": "One of India's fastest-growing fashion retailers, with Zudio among the largest value-fashion chains.",
+        "RIVALS": "Reliance Trends and Yousta, V-Mart, Max Fashion and Shoppers Stop offline; Myntra, Ajio and Meesho online.",
+        "WATCH": "Whether Zudio keeps up its pace of store openings, sales per store as the network grows, and Zudio's first stores abroad."
+      },
+      "quiz": [
+        { "prompt": "Which Trent brand is its growth engine?", "options": ["Zudio", "Westside", "Star", "Croma"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Why are Trent's margins strong?", "options": ["It sells mostly its own-label products", "It only sells online", "It receives subsidies", "It owns cotton farms"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which group does Trent belong to?", "options": ["Tata Group", "Reliance", "Aditya Birla", "Future Group"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Trent, a Tata company, runs Zudio and Westside, selling mostly own-label fashion for better margins. Zudio drives growth. Watch store-opening pace and sales per store.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "varun-beverages", "name": "Varun Beverages", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Ravi Jaipuria", "leader_role": "Chairman", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Varun Beverages makes, bottles and distributes PepsiCo drinks: Pepsi, 7UP, Mountain Dew, Sting energy drink, Tropicana and Aquafina water. It operates in India and in African countries including South Africa, Morocco, Zambia and Zimbabwe.",
+        "EARNS": "It buys concentrate from PepsiCo and earns margins on bottling, distribution and sales. India is the largest market. Sales peak in summer, so a hot season lifts results and an early monsoon dents them. Sting is a fast-growing brand.",
+        "SIZE": "PepsiCo's largest bottler outside the United States.",
+        "RIVALS": "Coca-Cola's Indian bottler HCCB, Reliance's Campa Cola, and regional brands.",
+        "WATCH": "Price competition from Campa Cola, growth in Africa, and its newly announced entry into ready-to-drink alcoholic beverages."
+      },
+      "quiz": [
+        { "prompt": "Whose drinks does Varun Beverages bottle?", "options": ["PepsiCo", "Coca-Cola", "Nestlé", "Danone"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which season matters most for Varun Beverages?", "options": ["Summer", "Winter", "Monsoon", "Festive season only"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which Reliance brand is a new price rival?", "options": ["Campa Cola", "Thums Up", "Limca", "Maaza"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Varun Beverages, PepsiCo's biggest bottler outside the US, earns bottling and distribution margins in India and Africa. Summer drives sales. Watch Campa Cola competition and Africa growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "page-industries", "name": "Page Industries", "type": "listed", "industry": "textiles-apparel",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "V.S. Ganesh", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Page Industries holds the exclusive licence to make and sell Jockey innerwear, loungewear and athleisure in India and nearby countries such as Sri Lanka, Bangladesh, Nepal and the UAE. It also holds the Speedo swimwear licence in India.",
+        "EARNS": "Premium margins on Jockey products, made mostly in its own factories in Karnataka and Tamil Nadu and sold through multi-brand outlets, its exclusive stores and online. It pays a royalty to Jockey International.",
+        "SIZE": "India's leading premium innerwear company.",
+        "RIVALS": "Lux, Dollar and Rupa in mass innerwear; Van Heusen, Marks & Spencer and D2C brands like XYXX in premium.",
+        "WATCH": "Demand recovery in apparel, inventory levels at its retailers, and competition from D2C brands online."
+      },
+      "quiz": [
+        { "prompt": "Which brand does Page Industries license in India?", "options": ["Jockey", "Calvin Klein", "Hanes", "Puma"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What does Page pay Jockey International?", "options": ["A royalty", "A fixed rent", "Nothing", "Interest on a loan"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which swimwear brand does Page also license?", "options": ["Speedo", "Arena", "TYR", "Nike Swim"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Page Industries makes and sells Jockey innerwear under licence, earning premium margins and paying a royalty. Watch apparel demand, retailer inventory and D2C competition.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "info-edge", "name": "Info Edge (Naukri)", "type": "listed", "industry": "internet-classifieds",
+      "profile": { "hq": "Noida, Uttar Pradesh", "leader": "Hitesh Oberoi", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Info Edge runs Naukri.com for jobs, 99acres for property, Jeevansathi for matrimony and Shiksha for education. It was an early backer of Zomato (now Eternal) and Policybazaar, and still holds stakes in both. Founded by Sanjeev Bikhchandani.",
+        "EARNS": "Recruiters pay subscriptions to search Naukri's résumé database and post jobs; this recruitment business earns most of the revenue and nearly all the profit. 99acres earns listing fees from brokers and builders.",
+        "SIZE": "India's largest online jobs platform.",
+        "RIVALS": "LinkedIn, Indeed and Apna in jobs; MagicBricks and Housing.com in property; Shaadi.com and BharatMatrimony in matrimony.",
+        "WATCH": "IT-sector hiring, which drives Naukri, the value of its startup stakes, and whether 99acres reaches steady profit."
+      },
+      "quiz": [
+        { "prompt": "Which Info Edge business earns nearly all of its profit?", "options": ["Naukri recruitment", "99acres", "Jeevansathi", "Shiksha"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who pays Naukri the most money?", "options": ["Recruiters and companies", "Job seekers", "The government", "Advertisers only"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Info Edge was an early backer of which company?", "options": ["Zomato", "Flipkart", "Ola", "Byju's"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Info Edge runs Naukri, 99acres and Jeevansathi; recruiter subscriptions to Naukri earn most profit. It holds stakes in Eternal and Policybazaar. Watch IT hiring and 99acres.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "delhivery", "name": "Delhivery", "type": "listed", "industry": "logistics-delivery",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Sahil Barua", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Delhivery delivers parcels for e-commerce companies and D2C brands, moves smaller freight loads for businesses (part truckload), and offers truckload, warehousing, supply-chain and cross-border services. It bought rival Ecom Express in 2025.",
+        "EARNS": "Fees per parcel or per kilogram moved through its network of hubs, sort centres and trucks. Express parcels are the largest segment; part truckload is growing fast. Scale lowers the cost per shipment.",
+        "SIZE": "India's largest independent logistics company for e-commerce parcels.",
+        "RIVALS": "Flipkart's Ekart, Amazon's own logistics, Shadowfax, Xpressbees, Blue Dart and India Post.",
+        "WATCH": "Integration of Ecom Express, whether marketplaces like Meesho and Flipkart keep more deliveries in-house, and margins as it scales."
+      },
+      "quiz": [
+        { "prompt": "Which is Delhivery's largest segment?", "options": ["Express parcels", "Air passengers", "Retail stores", "Shipping containers only"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which rival did Delhivery buy in 2025?", "options": ["Ecom Express", "Blue Dart", "Shadowfax", "Dunzo"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is a key risk for Delhivery?", "options": ["Marketplaces doing more deliveries in-house", "Rising gold prices", "Telecom tariffs", "Monsoon crop yields"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Delhivery delivers e-commerce parcels and business freight, earning per shipment; it bought Ecom Express in 2025. Watch integration, in-house logistics by marketplaces and margins.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "honasa", "name": "Honasa Consumer (Mamaearth)", "type": "listed", "industry": "beauty-ecommerce",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Varun Alagh", "leader_role": "Co-founder, Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Honasa owns digital-first beauty and personal-care brands: Mamaearth, The Derma Co, Aqualogica, Dr. Sheth's and BBlunt. Products range from face washes and shampoos to sunscreens and serums. Founded by Varun and Ghazal Alagh.",
+        "EARNS": "Margins on products made by contract manufacturers and sold online, on quick-commerce apps and increasingly in shops. Mamaearth is the largest brand; newer brands like The Derma Co and Aqualogica are growing faster.",
+        "SIZE": "One of India's largest digital-first beauty companies.",
+        "RIVALS": "HUL, Nivea, L'Oréal and Himalaya, plus D2C brands such as Minimalist (now owned by HUL), Plum and Sugar.",
+        "WATCH": "The shift from online to offline distribution, recovery of Mamaearth's growth, and marketing spending as a share of sales."
+      },
+      "quiz": [
+        { "prompt": "Which is Honasa's largest brand?", "options": ["Mamaearth", "Nivea", "Lakmé", "Himalaya"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who makes most of Honasa's products?", "options": ["Contract manufacturers", "Its own steel plants", "The government", "Customers at home"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which shift is Honasa making in distribution?", "options": ["From online-only to more offline shops", "From India to only Europe", "From beauty to steel", "From retail to banking"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Honasa owns Mamaearth, The Derma Co and Aqualogica, earning margins on contract-made beauty products. Watch its move into offline stores and whether Mamaearth's growth recovers.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "ola-electric", "name": "Ola Electric", "type": "listed", "industry": "automobiles",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Bhavish Aggarwal", "leader_role": "Founder, Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Ola Electric makes S1 electric scooters and Roadster electric motorcycles, sold through its own stores. It is building lithium-ion battery cells at its Gigafactory in Krishnagiri, Tamil Nadu, and also sells home energy storage.",
+        "EARNS": "Margins on scooters, which it makes in its Futurefactory, plus government incentives for EV makers under the PLI scheme. Making its own cells is meant to cut battery costs, the biggest part of an EV's price.",
+        "SIZE": "Once India's top electric-scooter seller; it has since lost share to TVS, Bajaj and Ather.",
+        "RIVALS": "TVS iQube, Bajaj Chetak, Ather, Hero Vida and Honda's electric scooters.",
+        "WATCH": "Whether it wins back market share, after-sales service quality, its own battery-cell production, and its path to profit."
+      },
+      "quiz": [
+        { "prompt": "Where is Ola Electric's battery Gigafactory?", "options": ["Krishnagiri, Tamil Nadu", "Pune, Maharashtra", "Sanand, Gujarat", "Hosur, Karnataka"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why does Ola make its own battery cells?", "options": ["To cut battery costs, the biggest part of an EV's price", "To sell phones", "To power its offices only", "Because imports are banned"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which companies have taken share from Ola in e-scooters?", "options": ["TVS, Bajaj and Ather", "Maruti and Hyundai", "Tata Steel and JSW", "Infosys and TCS"], "correct_idx": 0, "part_kind": "SIZE" }
+      ],
+      "note_30w": "Ola Electric makes S1 scooters and Roadster bikes and is building its own battery cells. It has lost share to TVS, Bajaj and Ather. Watch market share, service and profitability.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "firstcry", "name": "FirstCry (Brainbees Solutions)", "type": "listed", "industry": "retail",
+      "profile": { "hq": "Pune, Maharashtra", "leader": "Supam Maheshwari", "leader_role": "Co-founder, MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "FirstCry sells baby and kids' products, from clothes and diapers to toys and strollers, through its app, website and a large chain of stores. It owns brands such as BabyHug, runs GlobalBees, a group of D2C brands, and operates in the UAE and Saudi Arabia.",
+        "EARNS": "Retail margins, higher on its own brands than on third-party products, plus fees from sellers on its marketplace. India multi-channel retail is the core business; international is growing.",
+        "SIZE": "India's largest specialty retailer for mothers, babies and kids.",
+        "RIVALS": "Amazon, Flipkart, Myntra, Hopscotch, and kids' sections at Reliance Trends and Max.",
+        "WATCH": "Path to steady profit, growth of its own brands, and the performance of GlobalBees and the Gulf business."
+      },
+      "quiz": [
+        { "prompt": "What does FirstCry specialise in?", "options": ["Baby and kids' products", "Car parts", "Groceries", "Electronics"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why do own brands like BabyHug matter to FirstCry?", "options": ["They carry higher margins", "They are free to make", "They are sold only abroad", "They are government-funded"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which region is FirstCry's main market outside India?", "options": ["The Gulf (UAE and Saudi Arabia)", "Europe", "Latin America", "North America"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "FirstCry sells baby and kids' products online and in stores, with own brands like BabyHug and Gulf operations. Watch its path to steady profit and GlobalBees' performance.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "ixigo", "name": "ixigo (Le Travenues)", "type": "listed", "industry": "travel-hospitality",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Aloke Bajpai", "leader_role": "Co-founder, Chairman & Group CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "ixigo is a travel app for booking trains, flights, buses and hotels. It owns ConfirmTkt, which predicts whether waitlisted train tickets will confirm, and AbhiBus for bus tickets. It focuses on travellers from smaller towns.",
+        "EARNS": "Convenience fees and commissions on bookings, plus ads. Trains bring the most transactions as an authorised IRCTC partner; flights bring higher value per booking. It listed in June 2024.",
+        "SIZE": "One of India's largest online travel platforms for train bookings.",
+        "RIVALS": "MakeMyTrip, Yatra, EaseMyTrip and Cleartrip; IRCTC's own app for trains; RedBus for buses.",
+        "WATCH": "Growth in flight bookings, competition from MakeMyTrip, and changes to IRCTC partner rules."
+      },
+      "quiz": [
+        { "prompt": "What does ConfirmTkt do?", "options": ["Predicts if a waitlisted train ticket will confirm", "Sells flight insurance", "Books hotels in Europe", "Runs trains"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which travel mode brings ixigo the most transactions?", "options": ["Trains", "Cruises", "Helicopters", "Car rentals"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is ixigo's largest online travel rival?", "options": ["MakeMyTrip", "IndiGo", "IRCTC Rail Neer", "Swiggy"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "ixigo books trains, flights and buses, earning fees and ads; trains, via ConfirmTkt, bring most transactions. Watch flight growth, MakeMyTrip competition and IRCTC partner rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "zaggle", "name": "Zaggle Prepaid", "type": "listed", "industry": "fintech-payments",
+      "profile": { "hq": "Hyderabad, Telangana", "leader": "Avinash Godkhindi", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Zaggle sells spend-management software to companies: prepaid cards for employee meals, fuel and gifts, expense and travel management, and accounts-payable tools. It issues cards in partnership with banks.",
+        "EARNS": "Program fees and software subscriptions from corporate clients, plus a share of the interchange fee that banks earn each time a card is used. Prepaid cards are the largest revenue stream.",
+        "SIZE": "A growing business-to-business fintech serving thousands of corporate clients.",
+        "RIVALS": "Sodexo (Pluxee), SAP Concur, Happay (CRED), Razorpay and bank corporate-card programs.",
+        "WATCH": "New corporate client wins, software revenue growth, and acquisitions to add products."
+      },
+      "quiz": [
+        { "prompt": "Who are Zaggle's customers?", "options": ["Companies managing employee spend", "Farmers", "Airline passengers", "School students"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is interchange?", "options": ["A fee banks earn when a card is used", "A train junction", "A stock exchange", "A tax refund"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a Zaggle rival in employee meal cards?", "options": ["Pluxee (Sodexo)", "Zomato", "Swiggy", "Nykaa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Zaggle sells spend-management software and prepaid cards to companies, earning fees and an interchange share. Watch corporate client wins and software revenue growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "mankind-pharma", "name": "Mankind Pharma", "type": "listed", "industry": "pharma",
+      "profile": { "hq": "New Delhi", "leader": "Sheetal Arora", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Mankind sells medicines in India across acute and chronic conditions, plus consumer brands like Manforce condoms, Prega News pregnancy tests, Gas-O-Fast and Unwanted-72. It bought Bharat Serums and Vaccines in 2024 to add women's health and critical care.",
+        "EARNS": "Branded generics prescribed by doctors, especially in smaller towns where it has a strong sales force. Almost all revenue is from India. Consumer healthcare adds well-known brands with good margins.",
+        "SIZE": "One of India's largest pharmaceutical companies by domestic sales volume.",
+        "RIVALS": "Sun Pharma, Cipla, Alkem, Abbott India and Torrent Pharma.",
+        "WATCH": "Integration of Bharat Serums and Vaccines, growth in chronic therapies, and repaying debt taken for that deal."
+      },
+      "quiz": [
+        { "prompt": "Where does Mankind earn almost all of its revenue?", "options": ["India", "United States", "Europe", "Africa"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which consumer brand belongs to Mankind?", "options": ["Prega News", "Dettol", "Vicks", "Crocin"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which company did Mankind buy in 2024?", "options": ["Bharat Serums and Vaccines", "Cipla", "Biocon", "Glenmark"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Mankind sells branded medicines across India, strongest in smaller towns, plus Manforce and Prega News. It bought Bharat Serums in 2024. Watch integration and chronic-therapy growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "divis-labs", "name": "Divi's Laboratories", "type": "listed", "industry": "pharma",
+      "profile": { "hq": "Hyderabad, Telangana", "leader": "Murali K. Divi", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Divi's makes active pharmaceutical ingredients (APIs), the chemical core of medicines, and does custom synthesis of ingredients for global drug companies' patented medicines. It also makes nutraceuticals such as carotenoids.",
+        "EARNS": "Most revenue comes from exports to the US and Europe. It wins by producing complex chemistry at large scale and low cost with a clean regulatory record. Custom synthesis for innovator drugmakers carries strong margins.",
+        "SIZE": "One of the world's largest API makers.",
+        "RIVALS": "Chinese API makers, Laurus Labs, Aurobindo and global contract manufacturers like Lonza.",
+        "WATCH": "Custom-synthesis contracts, including building blocks for new GLP-1 obesity drugs, and new capacity at its Kakinada plant."
+      },
+      "quiz": [
+        { "prompt": "What is an API in pharmaceuticals?", "options": ["The active ingredient in a medicine", "A software interface", "A drug price index", "A hospital licence"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Where does Divi's sell most of its products?", "options": ["Exports to the US and Europe", "Indian pharmacies", "Hospitals in Hyderabad", "Supermarkets"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which country's makers are Divi's main global rivals?", "options": ["China", "Brazil", "Canada", "Kenya"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Divi's makes active pharmaceutical ingredients and custom chemistry for global drugmakers, mostly for export. Watch custom-synthesis contracts, including GLP-1 building blocks, and new Kakinada capacity.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "jio-financial", "name": "Jio Financial Services", "type": "listed", "industry": "nbfc-lending",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Hitesh Kumar Sethia", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Jio Financial was spun off from Reliance in 2023. It runs Jio Credit (lending), Jio Payments Bank, JioBlackRock Asset Management (a mutual fund with BlackRock), insurance broking and device leasing, all pulled together in the JioFinance app.",
+        "EARNS": "Still early: much of today's income is interest on its large cash and investments. Lending, mutual funds and payments are being built to earn interest margins and fees over time.",
+        "SIZE": "One of India's most valuable financial-services companies by market value, though small by income so far.",
+        "RIVALS": "Bajaj Finance, Paytm, PhonePe and banks in lending and payments; established mutual funds like SBI, HDFC and ICICI Prudential.",
+        "WATCH": "How quickly lending and JioBlackRock grow, use of Reliance's Jio and Retail customer base, and its path to meaningful operating profit."
+      },
+      "quiz": [
+        { "prompt": "Which company was Jio Financial spun off from?", "options": ["Reliance Industries", "Tata Sons", "HDFC Bank", "Bharti Airtel"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is Jio Financial's partner in asset management?", "options": ["BlackRock", "Vanguard", "Fidelity", "Goldman Sachs"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Where does much of Jio Financial's income come from today?", "options": ["Interest on its cash and investments", "Telecom tariffs", "Petrol sales", "Film distribution"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Jio Financial, spun off from Reliance, is building lending, payments and a mutual fund with BlackRock. Much income is still interest on cash. Watch lending growth and operating profit.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "coforge", "name": "Coforge", "type": "listed", "industry": "it-services",
+      "profile": { "hq": "Noida, Uttar Pradesh", "leader": "Sudhir Singh", "leader_role": "CEO & Executive Director", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Coforge provides IT services focused on a few industries: banking, insurance, and travel and transportation, plus product engineering, cloud and data services. It bought Cigniti Technologies in 2024 to add software testing.",
+        "EARNS": "Clients pay for projects and managed services. Banking and financial services is its largest vertical, and travel and airlines is a niche where it is unusually strong. The US is its biggest market, followed by Europe.",
+        "SIZE": "One of India's fastest-growing mid-sized IT services firms.",
+        "RIVALS": "Persistent, LTIMindtree, Mphasis, Hexaware and the large IT firms.",
+        "WATCH": "Execution on large deals, integration of Cigniti, and margins as it grows."
+      },
+      "quiz": [
+        { "prompt": "Which industry niche is Coforge unusually strong in?", "options": ["Travel and airlines", "Mining", "Agriculture", "Textiles"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which testing company did Coforge buy in 2024?", "options": ["Cigniti", "Mindtree", "Mphasis", "Birlasoft"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is Coforge's largest market?", "options": ["United States", "India", "China", "Brazil"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Coforge is a fast-growing mid-sized IT firm focused on banking, insurance and travel, mostly for US clients. Watch large-deal execution, Cigniti integration and margins.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "persistent", "name": "Persistent Systems", "type": "listed", "industry": "it-services",
+      "profile": { "hq": "Pune, Maharashtra", "leader": "Sandeep Kalra", "leader_role": "CEO & Executive Director", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Persistent builds software products and digital platforms for clients in banking, healthcare and life sciences, and technology companies. It offers product engineering, cloud, data and AI services, and is a strong partner of Microsoft, Salesforce and AWS.",
+        "EARNS": "Clients pay for engineering projects and long-term contracts. North America brings the large majority of revenue. Its roots in software product engineering help it win work from software companies.",
+        "SIZE": "One of India's fastest-growing mid-sized IT services companies.",
+        "RIVALS": "Coforge, LTIMindtree, Mphasis, Globant, EPAM and the large IT firms.",
+        "WATCH": "Whether it keeps its growth lead as AI changes software engineering work, large deal wins, and margins."
+      },
+      "quiz": [
+        { "prompt": "What are Persistent's roots?", "options": ["Software product engineering", "Steel making", "Retail banking", "Telecom towers"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which region brings most of Persistent's revenue?", "options": ["North America", "India", "Africa", "Middle East"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Where is Persistent headquartered?", "options": ["Pune", "Chennai", "Kolkata", "Kochi"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Persistent Systems builds software products and platforms, mostly for North American clients in banking, healthcare and tech. Watch whether its growth lead holds as AI changes engineering.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "tata-consumer", "name": "Tata Consumer Products", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Sunil D'Souza", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Tata Consumer sells Tata Tea and Tetley tea, Tata Salt, Tata Sampann pulses and spices, Ching's Secret and Smith & Jones sauces, Organic India, Soulfull, Eight O'Clock coffee in the US, and Himalayan water. It runs Tata Starbucks with Starbucks.",
+        "EARNS": "Branded margins on beverages and foods. India beverages (tea and coffee) and India foods (salt, pulses, ready mixes) are its largest businesses; international tea and coffee, led by the UK and US, add steady income.",
+        "SIZE": "One of India's largest tea and salt brands and a top food-and-beverage company.",
+        "RIVALS": "HUL (Brooke Bond, Red Label), Wagh Bakri, Nestlé, ITC and Adani Wilmar.",
+        "WATCH": "Tea prices, growth of newer brands like Ching's and Organic India, and expansion of Tata Starbucks."
+      },
+      "quiz": [
+        { "prompt": "Which of these is a Tata Consumer brand?", "options": ["Tetley", "Brooke Bond", "Red Label", "Lipton"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which are Tata Consumer's largest businesses?", "options": ["India beverages and India foods", "Steel and cement", "Hotels and airlines", "Software"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is Tata Consumer's biggest tea rival?", "options": ["HUL", "Infosys", "Maruti", "DMart"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Tata Consumer earns from Tata Tea, Tetley, Tata Salt, Sampann and newer brands like Ching's, plus Tata Starbucks. Watch tea costs and growth of acquired brands.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "mobikwik", "name": "MobiKwik", "type": "listed", "industry": "fintech-payments",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Bipin Preet Singh", "leader_role": "Co-founder, MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "MobiKwik offers a payments app with a digital wallet and UPI, a payment gateway for merchants called Zaakpay, credit through partner lenders (MobiKwik Zip), and wealth products like fixed deposits and mutual funds. Founded by Bipin Preet Singh and Upasana Taku; listed in December 2024.",
+        "EARNS": "Payment fees from merchants and the gateway, plus distribution fees when partner lenders give loans through its app. Payments bring the most revenue; lending distribution has historically brought higher margins.",
+        "SIZE": "A smaller payments player with a large registered user base.",
+        "RIVALS": "PhonePe, Google Pay and Paytm in consumer payments; Razorpay and PayU in gateways; fintech lenders in credit.",
+        "WATCH": "Its path back to profit after RBI tightened rules on unsecured lending, and growth of its gateway business."
+      },
+      "quiz": [
+        { "prompt": "What is Zaakpay?", "options": ["MobiKwik's payment gateway for merchants", "A food app", "A stock exchange", "A bank"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who founded MobiKwik?", "options": ["Bipin Preet Singh and Upasana Taku", "Vijay Shekhar Sharma", "Sameer Nigam", "Kunal Shah"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which change pressured MobiKwik's lending distribution?", "options": ["RBI tightening rules on unsecured lending", "A ban on UPI", "New GST on groceries", "Airline mergers"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "MobiKwik earns payment fees from its wallet, UPI and Zaakpay gateway, plus loan distribution fees. Watch its path to profit after RBI's tighter unsecured-lending rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "phonepe", "name": "PhonePe", "type": "startup", "industry": "fintech-payments",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Sameer Nigam", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "PhonePe is India's most-used UPI payments app. It also offers merchant devices like SmartSpeakers, bill payments, insurance and loan distribution, stockbroking through Share.Market, and its own Android app store, Indus Appstore. Walmart is its majority owner.",
+        "EARNS": "UPI payments are free for users and most merchants, so PhonePe earns from SmartSpeaker rentals, payment gateway fees, bill-payment fees, ads, and distribution fees on insurance, loans and mutual funds.",
+        "SIZE": "India's largest UPI app by transaction volume, ahead of Google Pay and Paytm.",
+        "RIVALS": "Google Pay and Paytm in UPI; Pine Labs and Razorpay for merchants; Groww and Zerodha in broking.",
+        "WATCH": "Its planned stock-market listing, the long-delayed UPI market-share cap rules, and whether the government allows merchant fees on UPI."
+      },
+      "quiz": [
+        { "prompt": "Who is PhonePe's majority owner?", "options": ["Walmart", "Amazon", "Google", "Reliance"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why can't PhonePe earn much directly from UPI payments?", "options": ["UPI is free for users and most merchants", "UPI is illegal", "UPI is owned by Paytm", "UPI works only abroad"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is PhonePe's main UPI rival?", "options": ["Google Pay", "Zerodha", "Swiggy", "Nykaa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "PhonePe leads UPI by volume, but UPI is free, so it earns from SmartSpeakers, gateway fees, ads and financial distribution. Walmart-owned. Watch its IPO and UPI cap rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "meesho", "name": "Meesho", "type": "listed", "industry": "fashion-ecommerce",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Vidit Aatrey", "leader_role": "Co-founder, Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Meesho is an online marketplace for low-priced, unbranded products: fashion, home, kitchen and beauty, sold mainly to shoppers in smaller towns. It runs Valmo, its own logistics network linking small delivery partners. It listed in December 2025.",
+        "EARNS": "Meesho charges sellers zero commission. Instead it earns from ads that sellers buy to rank higher, and from logistics and other services. Low prices and no commission attract millions of small sellers.",
+        "SIZE": "One of India's largest e-commerce platforms by number of orders.",
+        "RIVALS": "Flipkart's Shopsy, Amazon Bazaar, Ajio Street and Myntra.",
+        "WATCH": "Ad revenue per order, Valmo's cost advantage, and keeping profits steady as a newly listed company."
+      },
+      "quiz": [
+        { "prompt": "What commission does Meesho charge sellers?", "options": ["Zero", "Half the price", "A fixed monthly rent only", "Ten rupees per order"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "How does Meesho mainly make money?", "options": ["Ads bought by sellers and logistics services", "Selling its own branded phones", "Interest on loans", "Subscription fees from shoppers"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Valmo?", "options": ["Meesho's logistics network", "Meesho's fashion brand", "A payments app", "A rival marketplace"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Meesho sells low-priced unbranded goods to small-town shoppers, charging sellers zero commission and earning from ads and logistics through Valmo. Listed in 2025. Watch ad revenue per order.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "razorpay", "name": "Razorpay", "type": "startup", "industry": "fintech-payments",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Harshil Mathur", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Razorpay lets businesses accept online payments through its payment gateway, and offers RazorpayX business banking, payroll, card machines (through Ezetap) and lending to merchants. It also operates in Malaysia and Singapore.",
+        "EARNS": "A small fee on each card, netbanking or wallet payment processed. UPI carries no fee for most merchants, so it adds value-added services, software and lending to earn more per customer.",
+        "SIZE": "One of India's largest online payment gateways, serving millions of businesses.",
+        "RIVALS": "PayU, Cashfree, Paytm, PhonePe's gateway, Pine Labs and Stripe.",
+        "WATCH": "Its planned stock-market listing after moving its legal home from the US back to India in 2025, and RBI's payment-aggregator rules."
+      },
+      "quiz": [
+        { "prompt": "What is Razorpay's core product?", "options": ["An online payment gateway for businesses", "A food delivery app", "A stock exchange", "A ride-hailing app"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why does Razorpay add software and lending?", "options": ["UPI carries no fee for most merchants", "Cards are banned", "It has no customers", "Lending is free"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What legal move did Razorpay make in 2025?", "options": ["Moved its legal home from the US to India", "Became a bank", "Merged with Paytm", "Delisted"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Razorpay runs a payment gateway plus business banking, payroll and merchant lending, earning per transaction. It moved its legal home to India in 2025. Watch its IPO and RBI rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "cred", "name": "CRED", "type": "startup", "industry": "fintech-payments",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Kunal Shah", "leader_role": "Founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "CRED is a members' app for people with good credit scores. It started with credit-card bill payments and rewards, and now offers UPI and scan-and-pay, personal loans through partners (CRED Cash), wealth through Kuvera, car care (CRED Garage) and travel. Founded by Kunal Shah, who earlier built FreeCharge.",
+        "EARNS": "Brands pay to reach CRED's affluent members through rewards and offers; lenders pay for loans issued through CRED; and it earns small fees on some payments.",
+        "SIZE": "One of India's most-used apps among credit-card holders with high credit scores.",
+        "RIVALS": "PhonePe, Paytm, Google Pay and bank apps for bill payments; lenders and Groww in loans and wealth.",
+        "WATCH": "Its path to steady profit, growth of lending through partners, and new RBI rules on card-bill payments."
+      },
+      "quiz": [
+        { "prompt": "Who is CRED built for?", "options": ["People with good credit scores", "Farmers only", "Children", "Large corporations"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why do brands pay CRED?", "options": ["To reach its affluent members", "To use its warehouses", "To rent its offices", "To get bank licences"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which company did CRED founder Kunal Shah build earlier?", "options": ["FreeCharge", "Paytm", "Ola", "Flipkart"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "CRED serves high-credit-score users with card payments, rewards, loans and wealth. Brands pay to reach members and lenders pay for loans. Watch its path to profit.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "groww", "name": "Groww (Billionbrains Garage Ventures)", "type": "listed", "industry": "capital-markets",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Lalit Keshre", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Groww is an app to trade shares and derivatives and to start mutual-fund SIPs. It also runs Groww Mutual Fund, margin trading, loans against securities, and wealth management after buying Fisdom in 2025. It listed in November 2025.",
+        "EARNS": "Brokerage fees on each stock and derivatives order, which is the largest revenue stream, plus interest on margin funding and fees from its mutual fund. Mutual-fund investing on Groww is free for users.",
+        "SIZE": "India's largest stockbroker by number of active clients on the NSE.",
+        "RIVALS": "Zerodha, Angel One, Upstox, Paytm Money and bank brokers like ICICI Direct.",
+        "WATCH": "The effect of SEBI's rules curbing derivatives trading, growth of wealth and lending products, and keeping new young users active."
+      },
+      "quiz": [
+        { "prompt": "What is Groww's largest revenue stream?", "options": ["Brokerage on stock and derivatives orders", "Mutual-fund fees charged to users", "Ads", "Subscription boxes"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "By what measure is Groww India's largest broker?", "options": ["Active clients on the NSE", "Number of branches", "Market value of property", "Number of employees"], "correct_idx": 0, "part_kind": "SIZE" },
+        { "prompt": "Which regulator's derivatives rules affect Groww most?", "options": ["SEBI", "TRAI", "DGCA", "FSSAI"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Groww, India's largest broker by active clients, earns mainly brokerage plus margin interest and fund fees. Listed in 2025. Watch SEBI's derivatives curbs and its wealth push.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "zerodha", "name": "Zerodha", "type": "startup", "industry": "capital-markets",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Nithin Kamath", "leader_role": "Founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Zerodha pioneered discount broking in India. Its Kite app is for trading shares and derivatives, Coin for direct mutual funds, and Zerodha Fund House runs index funds with Smallcase. Rainmatter is its arm that funds fintech and climate startups.",
+        "EARNS": "Free delivery trades in shares, and a small flat fee per order on intraday and derivatives trades. It has grown without outside funding and has been profitable for years by spending little on marketing.",
+        "SIZE": "One of India's two largest stockbrokers by active clients.",
+        "RIVALS": "Groww, Angel One, Upstox, Dhan and bank brokers.",
+        "WATCH": "The effect of SEBI's derivatives curbs and its rules on exchange charges, which cut broker income, and growth of its fund house."
+      },
+      "quiz": [
+        { "prompt": "What did Zerodha pioneer in India?", "options": ["Discount broking", "Credit cards", "Quick commerce", "Ride-hailing"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How has Zerodha grown?", "options": ["Without outside funding, while profitable", "With government grants", "Through big TV ad campaigns", "By buying banks"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Kite?", "options": ["Zerodha's trading app", "A payments bank", "A food brand", "A travel app"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Zerodha pioneered discount broking, earning flat fees on intraday and derivatives trades, unfunded and profitable. Watch SEBI's derivatives curbs and growth of Zerodha Fund House.",
+      "review": "unreviewed"
+    }
+  ]
+}

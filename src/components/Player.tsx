@@ -37,6 +37,20 @@ function Figure({ figure }: { figure: FigureDTO }) {
   );
 }
 
+function Profile({ profile }: { profile: NonNullable<ExplainerDTO["profile"]> }) {
+  return (
+    <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 border-t border-ash pt-4 text-[14px] leading-[1.4]">
+      <dt className="label self-center">HQ</dt>
+      <dd>{profile.hq}</dd>
+      <dt className="label self-center">Leads</dt>
+      <dd>
+        {profile.leader}, {profile.leader_role}
+        <span className="text-ash"> · as of {profile.as_of}</span>
+      </dd>
+    </dl>
+  );
+}
+
 export function Player({ explainer }: { explainer: ExplainerDTO }) {
   const [phase, setPhase] = useState<Phase>("watch");
   const [index, setIndex] = useState(0);
@@ -148,8 +162,11 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
           <div className="h-[2px] w-full" aria-hidden="true">
             <div ref={line} className="h-full w-full origin-left bg-brass" />
           </div>
-          <header className="column flex items-center justify-between pt-5">
-            <p className="font-serif text-[22px] italic leading-none">{explainer.name}</p>
+          <header className="column flex items-center justify-between gap-4 pt-5">
+            <div className="min-w-0">
+              <p className="font-serif text-[22px] italic leading-none">{explainer.name}</p>
+              {explainer.review === "unreviewed" && <p className="label mt-2">Draft · not yet reviewed</p>}
+            </div>
             <div className="flex items-center gap-4">
               <span ref={clock} className="label tabular-nums" aria-hidden="true">
                 0:60
@@ -171,7 +188,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
             onPointerLeave={onPointerLeave}
             onContextMenu={(e) => e.preventDefault()}
           >
-            <div key={part.kind} className="cut flex flex-col gap-7" aria-live="polite">
+            <div key={part.kind} className="cut flex flex-col gap-6" aria-live="polite">
               <p className="label">
                 {part.kind} · {index + 1}/{explainer.parts.length}
               </p>
@@ -180,6 +197,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
               </h1>
               {part.figure && <Figure figure={part.figure} />}
               <p className="text-[16px] leading-[1.5]">{part.body}</p>
+              {part.kind === "SELLS" && explainer.profile && <Profile profile={explainer.profile} />}
             </div>
           </div>
 

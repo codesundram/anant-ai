@@ -24,11 +24,16 @@ export type PartDTO = {
   figure: FigureDTO | null;
 };
 
+export type ProfileDTO = { hq: string; leader: string; leader_role: string; as_of: string };
+
 export type ExplainerDTO = {
   id: string;
   slug: string;
   name: string;
   type: string;
+  // "supplied" | "unreviewed" | "approved"
+  review: string;
+  profile: ProfileDTO | null;
   industry: { slug: string; name: string; total: number };
   parts: PartDTO[];
   note_30w: string;

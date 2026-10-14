@@ -6,7 +6,7 @@ Source of truth, in order: `STORE-KIT.md` (locked scope, claims, prices, design)
 ## Hard rules
 
 1. No figure renders without its source and period on the same screen. `Figure.source_id` is required; a figure with no source is a build error.
-2. Every explainer has exactly five parts, in order: SELLS, EARNS, SIZE, RIVALS, WATCH.
+2. Every explainer has exactly five parts, in order: SELLS, EARNS, SIZE, RIVALS, WATCH. Since Oct 2026 parts may run longer than three lines (up to 420 characters) at the founder's request.
 3. Every explainer ends with a 30-word note saved to the notebook and a short quiz.
 4. Only the five palette tokens: Black Room `#0E0D0C`, Bone `#E8DFCF`, Paper `#F1EADC`, Ash `#7A746A`, Brass `#B8956A`. Brass is the only accent. Never red or green. No stock prices, charts, tickers, or buy/sell/target language.
 5. Dark is for watching, Paper is for keeping. Two theme contexts (`data-theme="watch" | "keep"`), never mixed.
@@ -17,7 +17,10 @@ Source of truth, in order: `STORE-KIT.md` (locked scope, claims, prices, design)
 
 ## Content
 
-- Company data is never hardcoded. It lives in the database, loaded from `companies.seed.100.json` by `prisma/seed.ts`.
+- Company data is never hardcoded. It lives in the database, loaded by `prisma/seed.ts` from `companies.seed.100.json` plus every file in `content/batches/` (name order; later entries replace earlier ones by slug, and inherit figures if they leave `figures` out).
+- v2 entries (`"v": 2`) carry `profile` (hq, leader, leader_role, as_of), `review` (unreviewed | approved) and exactly three quiz questions. Unreviewed entries show "Draft · not yet reviewed" in the player.
+- Numbers in part bodies and notes need a source; write qualitative claims instead. Check leaders on the web before writing them; my knowledge goes stale.
+- `content/targets.json` is the list towards 1000 companies (Nifty 500 from `content/sources/ind_nifty500list.csv`, startups from `scripts/startups.txt`). Mark rows `done` when a batch covers them.
 - The seed validates the whole file first and writes nothing if anything fails (`src/lib/seed-validate.ts`).
 - Figures are placed by position (1st on SIZE, 2nd on EARNS) unless a figure sets `part_kind`. One figure per part.
 - Industries are a controlled list in `src/lib/constants.ts`, along with all fixed copy.

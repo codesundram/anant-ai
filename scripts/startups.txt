@@ -1,0 +1,344 @@
+# Notable Indian startups and unlisted companies, one per line: name | industry slug
+# Candidate list for batches; review before researching. Already-covered names are skipped.
+Flipkart | fashion-ecommerce
+Myntra | fashion-ecommerce
+Ola (ANI Technologies) | consumer-services
+Rapido | consumer-services
+Dunzo | food-tech-quick-commerce
+Byju's | ed-tech
+Vedantu | ed-tech
+Eruditus | ed-tech
+Great Learning | ed-tech
+Simplilearn | ed-tech
+LEAD School | ed-tech
+Classplus | ed-tech
+Adda247 | ed-tech
+Testbook | ed-tech
+Scaler (InterviewBit) | ed-tech
+Leap Scholar | ed-tech
+Seekho | ed-tech
+Allen Career Institute | ed-tech
+Aakash Educational Services | ed-tech
+Udaan | retail
+Jumbotail | retail
+Moglix | capital-goods
+OfBusiness | metals-materials
+Zetwerk | capital-goods
+Infra.Market | cement-building-materials
+Bizongo | capital-goods
+Vegrow | food-tech-quick-commerce
+DeHaat | food-tech-quick-commerce
+Ninjacart | food-tech-quick-commerce
+Country Delight | fmcg
+Milkbasket | food-tech-quick-commerce
+FreshToHome | food-tech-quick-commerce
+Haldiram's | fmcg
+Parle Products | fmcg
+Amul (GCMMF) | fmcg
+Balaji Wafers | fmcg
+Bikaji Foods | fmcg
+Wow! Momo | food-tech-quick-commerce
+Chaayos | food-tech-quick-commerce
+Third Wave Coffee | food-tech-quick-commerce
+Blue Tokai Coffee | fmcg
+Sleepy Owl | fmcg
+The Whole Truth | fmcg
+Yoga Bar | fmcg
+Paper Boat (Hector Beverages) | fmcg
+Bira 91 | fmcg
+Sugar Cosmetics | beauty-ecommerce
+Plum (Pureplay Skin Sciences) | beauty-ecommerce
+mCaffeine | beauty-ecommerce
+Minimalist | beauty-ecommerce
+The Man Company | beauty-ecommerce
+Bombay Shaving Company | beauty-ecommerce
+Foxtale | beauty-ecommerce
+Wakefit | consumer-durables
+Pepperfry | retail
+Livspace | consumer-services
+Urban Ladder | retail
+Duroflex | consumer-durables
+Noise | consumer-electronics-d2c
+Fire-Boltt | consumer-electronics-d2c
+Atomberg | consumer-durables
+Bluestone | retail
+CaratLane | retail
+Giva | retail
+Bewakoof | fashion-ecommerce
+The Souled Store | fashion-ecommerce
+Snitch | fashion-ecommerce
+Libas | fashion-ecommerce
+Rare Rabbit | fashion-ecommerce
+Souled Store | fashion-ecommerce
+Neeman's | fashion-ecommerce
+Bata India | retail
+Decathlon India | retail
+Shiprocket | logistics-delivery
+Shadowfax | logistics-delivery
+Xpressbees | logistics-delivery
+Ecom Express | logistics-delivery
+Porter | logistics-delivery
+Rivigo | logistics-delivery
+BlackBuck (Zinka Logistics) | logistics-delivery
+Blue Dart | logistics-delivery
+LetsTransport | logistics-delivery
+Cred Avenue (Yubi) | nbfc-lending
+Lendingkart | lending-fintech
+KreditBee | lending-fintech
+Moneyview | lending-fintech
+Navi | lending-fintech
+Slice | lending-fintech
+Fibe | lending-fintech
+Kissht | lending-fintech
+Jupiter | fintech-payments
+Fi Money | fintech-payments
+Open Financial | fintech-payments
+Cashfree Payments | fintech-payments
+PayU India | fintech-payments
+Juspay | fintech-payments
+M2P Fintech | fintech-payments
+Perfios | saas
+Upstox | capital-markets
+Angel One | capital-markets
+Dhan | capital-markets
+INDmoney | capital-markets
+Smallcase | capital-markets
+Kuvera | capital-markets
+Scripbox | capital-markets
+Paytm Money | capital-markets
+InsuranceDekho | insurtech
+Turtlemint | insurtech
+RenewBuy | insurtech
+Plum (Benefits) | insurtech
+Ditto Insurance | insurtech
+Niva Bupa Health Insurance | insurtech
+Care Health Insurance | insurtech
+Freshworks | saas
+Zoho | saas
+Chargebee | saas
+Postman | saas
+BrowserStack | saas
+Druva | saas
+Icertis | saas
+Whatfix | saas
+Darwinbox | saas
+LeadSquared | saas
+MindTickle | saas
+Innovaccer | saas
+Highradius | saas
+Uniphore | saas
+Gupshup | saas
+Yellow.ai | saas
+Haptik | saas
+Exotel | saas
+MoEngage | saas
+CleverTap | saas
+WebEngage | saas
+Zluri | saas
+Rocketlane | saas
+Sarvam AI | saas
+Krutrim | saas
+Fractal Analytics | it-services
+Mu Sigma | it-services
+LatentView Analytics | it-services
+Tiger Analytics | it-services
+Practo | healthcare-services
+PharmEasy | healthcare-services
+Tata 1mg | healthcare-services
+Netmeds | healthcare-services
+Cult.fit | consumer-services
+HealthifyMe | consumer-services
+Pristyn Care | healthcare-services
+Medikabazaar | healthcare-services
+Innovaccer Health | saas
+Redcliffe Labs | healthcare-services
+Healthians | healthcare-services
+Even Healthcare | healthcare-services
+Ultrahuman | consumer-electronics-d2c
+Nothing India | consumer-electronics-d2c
+Lava International | consumer-electronics-d2c
+Micromax | consumer-electronics-d2c
+Dixon Technologies | consumer-electronics-d2c
+Ola Krutrim | saas
+Yulu | consumer-services
+Bounce | consumer-services
+Zoomcar | consumer-services
+BluSmart | consumer-services
+Euler Motors | automobiles
+River | automobiles
+Ultraviolette | automobiles
+Simple Energy | automobiles
+Revolt Motors | automobiles
+Log9 Materials | energy-utilities
+Exponent Energy | energy-utilities
+ReNew | energy-utilities
+Greenko | energy-utilities
+Avaada | energy-utilities
+Waaree Energies | energy-utilities
+Hygenco | energy-utilities
+Agnikul Cosmos | capital-goods
+Skyroot Aerospace | capital-goods
+Pixxel | capital-goods
+ideaForge | capital-goods
+Garuda Aerospace | capital-goods
+Tonbo Imaging | capital-goods
+MakeMyTrip | travel-hospitality
+Cleartrip | travel-hospitality
+EaseMyTrip | travel-hospitality
+Yatra | travel-hospitality
+redBus | travel-hospitality
+Zostel | travel-hospitality
+Treebo | travel-hospitality
+FabHotels | travel-hospitality
+Thrillophilia | travel-hospitality
+Akasa Air | aviation
+Air India | aviation
+Air India Express | aviation
+SpiceJet | aviation
+NoBroker | real-estate
+Square Yards | real-estate
+Housing.com | real-estate
+MagicBricks | real-estate
+Stanza Living | real-estate
+Zolo | real-estate
+Smartworks | real-estate
+Awfis | real-estate
+WeWork India | real-estate
+Table Space | real-estate
+ShareChat (Mohalla Tech) | media-entertainment
+Moj | media-entertainment
+Pocket FM | media-entertainment
+Kuku FM | media-entertainment
+Pratilipi | media-entertainment
+Dailyhunt (VerSe Innovation) | media-entertainment
+InMobi | media-entertainment
+Glance | media-entertainment
+JioHotstar (JioStar) | media-entertainment
+Zee Entertainment | media-entertainment
+Sun TV Network | media-entertainment
+PVR INOX | media-entertainment
+Nazara Technologies | media-entertainment
+Games24x7 | media-entertainment
+MPL (Mobile Premier League) | media-entertainment
+Winzo | media-entertainment
+Junglee Games | media-entertainment
+Krafton India | media-entertainment
+FanCode | media-entertainment
+BookMyShow (Bigtree) | media-entertainment
+Swiggy Dineout | food-tech-quick-commerce
+Magicpin | consumer-services
+Apna | internet-classifieds
+WorkIndia | internet-classifieds
+Shaadi.com | internet-classifieds
+BharatMatrimony (Matrimony.com) | internet-classifieds
+Justdial | internet-classifieds
+CarDekho | internet-classifieds
+OLX India | internet-classifieds
+Quikr | internet-classifieds
+IndiaMART | internet-classifieds
+Tata Sons | conglomerate
+Tata Digital (Tata Neu) | retail
+Reliance Retail | retail
+Reliance Jio Platforms | telecom
+Jio Platforms | telecom
+Vodafone Idea | telecom
+Serum Institute of India | pharma
+Bharat Biotech | pharma
+Intas Pharmaceuticals | pharma
+Micro Labs | pharma
+Biological E | pharma
+Emcure Pharmaceuticals | pharma
+Medanta (Global Health) | healthcare-services
+Apollo Hospitals | healthcare-services
+Narayana Health | healthcare-services
+Manipal Hospitals | healthcare-services
+Aster DM Healthcare | healthcare-services
+Dr Lal PathLabs | healthcare-services
+Metropolis Healthcare | healthcare-services
+Vijaya Diagnostic | healthcare-services
+Haier India | consumer-durables
+LG Electronics India | consumer-durables
+Samsung India | consumer-electronics-d2c
+Hyundai Motor India | automobiles
+Kia India | automobiles
+Toyota Kirloskar Motor | automobiles
+Royal Enfield (Eicher Motors) | automobiles
+JSW MG Motor India | automobiles
+Amazon India | retail
+Walmart India (Best Price) | retail
+Lulu Group India | retail
+Spencer's Retail | retail
+More Retail | retail
+Ratnadeep Supermarket | retail
+V-Mart | retail
+Shoppers Stop | retail
+Lifestyle International | retail
+Croma (Infiniti Retail) | retail
+Vijay Sales | retail
+Reliance Digital | retail
+Tanishq | retail
+Malabar Gold & Diamonds | retail
+Kalyan Jewellers | retail
+Joyalukkas | retail
+Senco Gold | retail
+PC Jeweller | retail
+Mswipe | fintech-payments
+Paytm Payments Bank | fintech-payments
+Airtel Payments Bank | fintech-payments
+Fino Payments Bank | fintech-payments
+AU Small Finance Bank | banking
+Equitas Small Finance Bank | banking
+Ujjivan Small Finance Bank | banking
+Jana Small Finance Bank | banking
+Suryoday Small Finance Bank | banking
+Unity Small Finance Bank | banking
+Shivalik Small Finance Bank | banking
+Tata Capital | nbfc-lending
+Aditya Birla Capital | nbfc-lending
+HDB Financial Services | nbfc-lending
+Avanse Financial | nbfc-lending
+Credila | nbfc-lending
+Veritas Finance | nbfc-lending
+Five Star Business Finance | nbfc-lending
+SK Finance | nbfc-lending
+Satin Creditcare | nbfc-lending
+CreditAccess Grameen | nbfc-lending
+Spandana Sphoorty | nbfc-lending
+Arohan Financial | nbfc-lending
+Kinara Capital | nbfc-lending
+NeoGrowth | nbfc-lending
+Indifi | lending-fintech
+FlexiLoans | lending-fintech
+Aye Finance | nbfc-lending
+Vastu Housing Finance | nbfc-lending
+Aavas Financiers | nbfc-lending
+Aptus Value Housing | nbfc-lending
+Home First Finance | nbfc-lending
+Bharti AXA Life | insurtech
+Axis Max Life Insurance | insurtech
+ICICI Prudential Life | insurtech
+ICICI Lombard | insurtech
+Tata AIG General Insurance | insurtech
+HDFC Ergo General Insurance | insurtech
+New India Assurance | insurtech
+LIC | insurtech
+General Insurance Corporation (GIC Re) | insurtech
+CAMS | capital-markets
+KFin Technologies | capital-markets
+NSE (National Stock Exchange) | capital-markets
+MCX | capital-markets
+CDSL | capital-markets
+NSDL | capital-markets
+BSE | capital-markets
+HDFC AMC | capital-markets
+Nippon Life India AMC | capital-markets
+SBI Funds Management | capital-markets
+Motilal Oswal | capital-markets
+Nuvama Wealth | capital-markets
+360 ONE WAM | capital-markets
+IIFL Finance | nbfc-lending
+Manappuram Finance | nbfc-lending
+Shriram Finance | nbfc-lending
+Cholamandalam Investment | nbfc-lending
+L&T Finance | nbfc-lending
+Poonawalla Fincorp | nbfc-lending

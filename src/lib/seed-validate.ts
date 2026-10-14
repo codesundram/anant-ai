@@ -5,12 +5,22 @@ import {
   MIN_QUIZ_QUESTIONS,
   NOTE_WORDS,
   PART_KINDS,
+  PART_MAX_CHARS,
+  REVIEW_STATES,
+  V2_QUIZ_QUESTIONS,
   type PartKind,
 } from "./constants";
 
 // A money amount or percentage: the kind of number that must carry a source.
 const AMOUNT =
   /[₹$€£]\s?\d|\d[\d,.]*\s?(?:%|per ?cent\b|crore\b|cr\b|lakh\b|billion\b|million\b|trillion\b|bn\b|mn\b)/i;
+
+// Market language the store kit bans outright. "invest" and "returns" only warn,
+// since they have ordinary meanings ("invests in plants").
+const BANNED = /\b(multibagger|target price|buy rating|sell rating|rally|rallied|crash(?:ed)?|beat the market|get rich|guaranteed returns)\b/i;
+const CAUTION = /\b(invest(?:ing|ment|ments|or|ors)?|returns)\b/i;
+
+export type SeedProfile = { hq: string; leader: string; leader_role: string; as_of: string };
 
 export type SeedSource = { title: string; doc_type: string; period: string; url?: string };
 export type SeedFigure = {
@@ -37,6 +47,9 @@ export type SeedCompany = {
   quiz: SeedQuestion[];
   note_30w: string;
   needs_figures?: boolean;
+  v?: number;
+  profile?: SeedProfile;
+  review?: (typeof REVIEW_STATES)[number];
 };
 
 const filled = (v: unknown): v is string => typeof v === "string" && v.trim().length > 0;
@@ -87,7 +100,22 @@ export function validateSeed(raw: unknown): {
       const body = c?.parts?.[kind];
       if (body === undefined) continue;
       if (!filled(body)) err(`part ${kind} is empty`);
-      else if (AMOUNT.test(body)) err(`part ${kind} states an amount with no source: "${body}"`);
+      else {
+        if (AMOUNT.test(body)) err(`part ${kind} states an amount with no source: "${body}"`);
+        if (BANNED.test(body)) err(`part ${kind} uses banned market language: "${body.match(BANNED)?.[0]}"`);
+        if (CAUTION.test(body)) warnings.push(`${id}: part ${kind} says "${body.match(CAUTION)?.[0]}"; check it isn't market language`);
+        if (body.length > PART_MAX_CHARS) warnings.push(`${id}: part ${kind} is ${body.length} characters (limit ${PART_MAX_CHARS})`);
+      }
+    }
+
+    // v2 entries carry a profile, a review state and exactly three questions.
+    const v2 = c?.v === 2;
+    if (v2) {
+      const p = c.profile;
+      if (!p || !filled(p.hq) || !filled(p.leader) || !filled(p.leader_role) || !filled(p.as_of)) {
+        err("v2 entry needs profile.hq, profile.leader, profile.leader_role and profile.as_of");
+      }
+      if (!REVIEW_STATES.includes(c.review)) err(`review must be one of ${REVIEW_STATES.join(", ")}`);
     }
 
     // Figures: present ones must be fully sourced; absence must be declared.
@@ -127,7 +155,8 @@ export function validateSeed(raw: unknown): {
 
     // Quiz.
     const quiz = Array.isArray(c?.quiz) ? c.quiz : [];
-    if (quiz.length < MIN_QUIZ_QUESTIONS) err(`needs at least ${MIN_QUIZ_QUESTIONS} quiz questions; found ${quiz.length}`);
+    if (v2 && quiz.length !== V2_QUIZ_QUESTIONS) err(`v2 entry needs exactly ${V2_QUIZ_QUESTIONS} quiz questions; found ${quiz.length}`);
+    else if (quiz.length < MIN_QUIZ_QUESTIONS) err(`needs at least ${MIN_QUIZ_QUESTIONS} quiz questions; found ${quiz.length}`);
     quiz.forEach((q: any, j: number) => {
       const where = `quiz[${j}]`;
       if (!filled(q?.prompt)) err(`${where} missing prompt`);
@@ -150,10 +179,41 @@ export function validateSeed(raw: unknown): {
       if (AMOUNT.test(c.note_30w) && placed.length === 0) {
         err("note states an amount but the company has no sourced figure");
       }
+      if (BANNED.test(c.note_30w)) err(`note uses banned market language: "${c.note_30w.match(BANNED)?.[0]}"`);
     }
 
     companies.push({ ...c, figures: placed });
   });
 
   return { companies, errors, warnings };
+}
+
+// Later batches overlay the base file by slug. An overlay that leaves out
+// `figures` keeps the base entry's figures, so sourcing lives in one place.
+export function mergeSeeds(files: { name: string; data: any }[]): { raw: { companies: any[] }; errors: string[] } {
+  const errors: string[] = [];
+  const bySlug = new Map<string, any>();
+  for (const { name, data } of files) {
+    const list = data?.companies;
+    if (!Array.isArray(list)) {
+      errors.push(`${name}: no \`companies\` array`);
+      continue;
+    }
+    const seenHere = new Set<string>();
+    for (const c of list) {
+      const slug = c?.slug;
+      if (typeof slug === "string") {
+        if (seenHere.has(slug)) errors.push(`${name}: ${slug} appears twice in this file`);
+        seenHere.add(slug);
+      }
+      const base = typeof slug === "string" ? bySlug.get(slug) : undefined;
+      const merged = { ...c };
+      if (base && !("figures" in c)) {
+        merged.figures = base.figures;
+        if (base.needs_figures !== undefined) merged.needs_figures = base.needs_figures;
+      }
+      bySlug.set(slug ?? `${name}#${bySlug.size}`, merged);
+    }
+  }
+  return { raw: { companies: [...bySlug.values()] }, errors };
 }

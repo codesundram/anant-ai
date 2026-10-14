@@ -84,6 +84,11 @@ export async function getExplainer(slug: string): Promise<ExplainerDTO | null> {
     slug: company.slug,
     name: company.name,
     type: company.type,
+    review: company.review,
+    profile:
+      company.hq && company.leader && company.leaderRole && company.profileAsOf
+        ? { hq: company.hq, leader: company.leader, leader_role: company.leaderRole, as_of: company.profileAsOf }
+        : null,
     industry: {
       slug: company.industry.slug,
       name: company.industry.name,

@@ -1,0 +1,473 @@
+{
+  "_meta": { "batch": "001", "part": 4, "review": "All entries unreviewed until the founder approves them.", "generated": "2026-10-14" },
+  "companies": [
+    {
+      "v": 2, "slug": "oyo", "name": "OYO (PRISM)", "type": "startup", "industry": "travel-hospitality",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Ritesh Agarwal", "leader_role": "Founder & Group CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "OYO, whose parent company is now called PRISM, signs up budget hotels and homes under its brands and fills rooms through its app. It owns the Motel 6 and Studio 6 chains in the US, bought in 2024, runs Belvilla holiday homes in Europe, and has premium brands such as Sunday Hotels and Townhouse.",
+        "EARNS": "Hotel owners pay OYO a commission or fee for bookings, technology and branding; it does not own most of the properties. Motel 6 adds franchise fees in the US. After years of losses, it turned profitable in recent years.",
+        "SIZE": "One of the world's largest budget-hotel networks by number of properties.",
+        "RIVALS": "MakeMyTrip, Booking.com and Agoda for bookings; Treebo, FabHotels and Lemon Tree in budget hotels; Airbnb in homes.",
+        "WATCH": "Its stock-market listing, which SEBI cleared in June 2026, keeping profits steady, and growth of the US Motel 6 business."
+      },
+      "quiz": [
+        { "prompt": "How does OYO mainly earn money?", "options": ["Commissions and fees from hotel owners", "Owning all its hotels outright", "Selling airline tickets", "Interest on loans"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which US motel chain does OYO own?", "options": ["Motel 6", "Holiday Inn", "Days Inn", "Super 8"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is OYO's parent company now called?", "options": ["PRISM", "Oravel Global", "Treebo", "Zostel"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "OYO, under parent PRISM, earns fees from budget hotels and homes on its platform and owns Motel 6 in the US. Now profitable. Watch its SEBI-cleared IPO and US growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "dream11", "name": "Dream11 (Dream Sports)", "type": "startup", "industry": "media-entertainment",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Vaibhav Kokal", "leader_role": "CEO, Dream11", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Dream11 was India's biggest fantasy-sports app, where users picked teams for real matches and paid to enter contests. After India banned real-money online games in 2025, it stopped paid contests and became a free sports engagement app. Its parent, Dream Sports, also runs FanCode for sports streaming.",
+        "EARNS": "Before the ban, it took a platform fee from paid contest entries. Now it earns from ads and brand sponsorships shown to its users, and is testing creator watch-alongs and paid features. Press reports say the ban wiped out most of its revenue.",
+        "SIZE": "Still one of India's most downloaded sports apps, with a very large registered user base.",
+        "RIVALS": "Sports streaming and fan apps like JioHotstar and FanCode, cricket score apps, and social media.",
+        "WATCH": "Whether its shift to an AI-first, multi-sport engagement platform, announced in August 2026, can rebuild revenue under new CEO Vaibhav Kokal."
+      },
+      "quiz": [
+        { "prompt": "What changed Dream11's business in 2025?", "options": ["India banned real-money online games", "It merged with Swiggy", "It bought the IPL", "It became a bank"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Dream11 earn money now?", "options": ["Ads and sponsorships", "Paid contest entry fees", "Betting commissions", "Ticket sales at stadiums"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which streaming service belongs to Dream Sports?", "options": ["FanCode", "JioHotstar", "SonyLIV", "Netflix"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Dream11 lost its paid fantasy contests to India's 2025 real-money gaming ban and became a free, ad-funded sports app. Watch whether its AI-first pivot rebuilds revenue.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "boat", "name": "boAt (Imagine Marketing)", "type": "startup", "industry": "consumer-electronics-d2c",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Gaurav Nayyar", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "boAt sells wireless earbuds, headphones, smartwatches, speakers and chargers at affordable prices, with youthful marketing and celebrity tie-ups. Co-founded by Aman Gupta and Sameer Mehta, it began online and now sells through many shops too.",
+        "EARNS": "It designs products and markets the brand, while contract manufacturers make them, increasingly in India through partners like Dixon. Earbuds are its biggest category. Margins depend on component costs and discounting.",
+        "SIZE": "One of India's best-selling audio and wearables brands.",
+        "RIVALS": "Noise, Fire-Boltt, OnePlus, Realme, JBL (Harman) and Sony.",
+        "WATCH": "Its planned stock-market listing, the shift to manufacturing in India, and price competition in smartwatches and earbuds."
+      },
+      "quiz": [
+        { "prompt": "Who makes most boAt products?", "options": ["Contract manufacturers", "boAt's own steel plants", "Customers", "The government"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is boAt's biggest category?", "options": ["Wireless earbuds", "Refrigerators", "Laptops", "Televisions"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a direct boAt rival?", "options": ["Noise", "Asian Paints", "Ultratech", "IRCTC"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "boAt designs and markets affordable earbuds, smartwatches and speakers made by contract manufacturers. Earbuds lead sales. Watch its planned IPO and price competition from Noise and others.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "urban-company", "name": "Urban Company", "type": "listed", "industry": "consumer-services",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Abhiraj Singh Bhal", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Urban Company is an app to book trained professionals at home: cleaning, salon and spa, plumbing, electrical and appliance repair, and painting. It sells Native water purifiers and smart locks, launched InstaHelp for quick house help, and operates in the UAE, Singapore and Saudi Arabia. It listed in September 2025.",
+        "EARNS": "A commission on each service booked, paid from the fee customers pay. It also sells training kits and products to its service professionals, and earns product margins on Native devices.",
+        "SIZE": "India's largest app for home services.",
+        "RIVALS": "Local service providers and salons, Housejoy, Snabbit and Pronto in quick house help, and brand-run service networks.",
+        "WATCH": "Whether InstaHelp can scale profitably, growth of Native products, and professional welfare and earnings, which shape supply."
+      },
+      "quiz": [
+        { "prompt": "How does Urban Company mainly earn?", "options": ["A commission on each service booked", "Selling apartments", "Insurance premiums", "Advertising only"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Native?", "options": ["Urban Company's water purifier and smart-lock brand", "A food delivery app", "A payments bank", "A cab service"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is InstaHelp?", "options": ["Quick house-help service", "A loan product", "A hospital chain", "A travel app"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Urban Company books at-home services like cleaning, salons and repairs, earning a commission per job, plus Native products. Listed in 2025. Watch InstaHelp's economics and professional welfare.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "pine-labs", "name": "Pine Labs", "type": "listed", "industry": "fintech-payments",
+      "profile": { "hq": "Noida, Uttar Pradesh", "leader": "B. Amrish Rau", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Pine Labs supplies card machines and payment software to shops, offers instant EMIs at checkout for big purchases, runs Qwikcilver for corporate and retail gift cards, and offers online payments through Plural and APIs through Setu. It operates in India, Southeast Asia and the Middle East. It listed in November 2025.",
+        "EARNS": "Fees on payments made through its machines, fees from brands and banks for checkout EMI offers, and fees for issuing and processing gift cards. EMI and gift cards carry higher margins than plain card payments.",
+        "SIZE": "One of India's largest providers of in-store payment terminals for large retailers.",
+        "RIVALS": "Paytm, PhonePe, Razorpay (Ezetap), banks' own card machines and Mswipe.",
+        "WATCH": "Growth outside India, the shift of in-store spending to UPI, and its path to steady profit as a listed company."
+      },
+      "quiz": [
+        { "prompt": "What is Qwikcilver?", "options": ["Pine Labs' gift card business", "A cab app", "A grocery brand", "A stock exchange"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which Pine Labs offering helps shoppers pay in instalments?", "options": ["Checkout EMI", "Fixed deposits", "Gold loans", "Credit default swaps"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which shift could reduce card-machine payments?", "options": ["Shoppers paying by UPI QR codes", "More cash", "Fewer shops", "Cheaper petrol"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Pine Labs earns from in-store card machines, checkout EMIs and Qwikcilver gift cards across India and Asia. Listed in 2025. Watch overseas growth, UPI's shift and profitability.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "bharatpe", "name": "BharatPe", "type": "startup", "industry": "fintech-payments",
+      "profile": { "hq": "New Delhi", "leader": "Nalin Negi", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "BharatPe gives small merchants a single QR code that accepts every UPI app, plus card machines, payment speakers and loans. It co-owns Unity Small Finance Bank with Centrum, and runs the PAYBACK India rewards programme.",
+        "EARNS": "Merchant payments themselves earn little, so BharatPe earns from loans to merchants made through its lending arm and partners, plus rentals on devices. Lending is its main money-maker.",
+        "SIZE": "One of India's larger merchant-payments networks among small shops.",
+        "RIVALS": "Paytm, PhonePe and Google Pay for merchant QR codes and speakers; NBFCs and banks in merchant loans.",
+        "WATCH": "Its path to profit, loan quality among small merchants, and the growth of Unity Small Finance Bank."
+      },
+      "quiz": [
+        { "prompt": "Who are BharatPe's main customers?", "options": ["Small merchants", "Airlines", "Large banks", "Farmers' cooperatives"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is BharatPe's main money-maker?", "options": ["Loans to merchants", "UPI payment fees", "Selling phones", "Event tickets"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which bank does BharatPe co-own?", "options": ["Unity Small Finance Bank", "Yes Bank", "Paytm Payments Bank", "AU Small Finance Bank"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "BharatPe gives small merchants UPI QR codes and devices, earning mainly from merchant loans; it co-owns Unity Small Finance Bank. Watch loan quality and its path to profit.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "physicswallah", "name": "PhysicsWallah", "type": "listed", "industry": "ed-tech",
+      "profile": { "hq": "Noida, Uttar Pradesh", "leader": "Alakh Pandey", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "PhysicsWallah offers low-cost online courses for exams like JEE, NEET, UPSC and state government jobs, through its app and free YouTube channels. It also runs Vidyapeeth and Pathshala offline coaching centres across India. Founded by teacher Alakh Pandey; listed in November 2025.",
+        "EARNS": "Course fees. Online courses are priced far below traditional coaching and sell in huge volumes; offline centres charge more and bring a fast-growing share of revenue, but cost more to run.",
+        "SIZE": "One of India's largest test-prep companies by number of students.",
+        "RIVALS": "Allen, Aakash (Byju's), Unacademy (now part of upGrad), Vedantu and local coaching institutes.",
+        "WATCH": "Profitability of offline centres, student numbers after exam-season results, and new courses beyond test prep."
+      },
+      "quiz": [
+        { "prompt": "Which exams does PhysicsWallah mainly prepare students for?", "options": ["JEE, NEET and UPSC", "CFA and CPA", "GMAT and GRE only", "Driving tests"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which part of PhysicsWallah's business is growing fast but costs more to run?", "options": ["Offline coaching centres", "YouTube ads", "Book printing", "Mobile games"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who founded PhysicsWallah?", "options": ["Alakh Pandey", "Byju Raveendran", "Gaurav Munjal", "Ronnie Screwvala"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "PhysicsWallah sells low-cost online and offline coaching for JEE, NEET and UPSC, earning course fees. Listed in 2025. Watch offline-centre profitability and student enrolments.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "licious", "name": "Licious", "type": "startup", "industry": "food-tech-quick-commerce",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Abhay Hanjura & Vivek Gupta", "leader_role": "Co-founders", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Licious sells fresh meat, chicken, fish and seafood, plus marinades and ready-to-cook products, through its app and website, and increasingly through its own experience stores. It controls sourcing, processing and a cold chain to keep products fresh.",
+        "EARNS": "Margins on the products it sells. Controlling processing and the cold chain lets it charge a premium over local meat shops for quality and hygiene. Chicken is its largest category; ready-to-cook items carry better margins.",
+        "SIZE": "One of India's leading direct-to-consumer fresh meat brands.",
+        "RIVALS": "Local butchers, FreshToHome, ZappFresh, and quick-commerce apps that now sell meat.",
+        "WATCH": "Its path to profit, growth of offline stores, and competition from quick commerce."
+      },
+      "quiz": [
+        { "prompt": "What does Licious control to keep products fresh?", "options": ["Processing and the cold chain", "Farms in Europe", "Cattle markets", "Restaurants"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why can Licious charge more than local meat shops?", "options": ["Quality and hygiene", "Government price controls", "It sells only abroad", "It has no competitors"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which kind of app is a growing rival to Licious?", "options": ["Quick-commerce apps", "Ride-hailing apps", "Banking apps", "Travel apps"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Licious sells fresh meat and seafood direct to consumers, controlling processing and cold chain to charge a quality premium. Watch its path to profit and quick-commerce competition.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "rebel-foods", "name": "Rebel Foods", "type": "startup", "industry": "food-tech-quick-commerce",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Jaydeep Barman", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Rebel Foods runs cloud kitchens, restaurants with no dining room, cooking for brands like Faasos, Behrouz Biryani, Oven Story Pizza, Lunchbox and Sweet Truth. It runs Wendy's in India under franchise and sells through Zomato, Swiggy and its own EatSure app.",
+        "EARNS": "Margins on food sold, after paying commissions to Zomato and Swiggy. Running many brands from one kitchen spreads rent and staff costs across more orders. Orders through EatSure avoid aggregator commissions.",
+        "SIZE": "One of the world's largest cloud-kitchen companies.",
+        "RIVALS": "Restaurant chains like Domino's (Jubilant), McDonald's and Biryani By Kilo, plus thousands of independent restaurants on delivery apps.",
+        "WATCH": "Its path to profit, commissions charged by delivery apps, and growth of EatSure and Wendy's."
+      },
+      "quiz": [
+        { "prompt": "What is a cloud kitchen?", "options": ["A kitchen with no dining room that cooks for delivery", "A rooftop restaurant", "A kitchen on an aircraft", "A cooking school"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a Rebel Foods brand?", "options": ["Behrouz Biryani", "Domino's", "Haldiram's", "Barbeque Nation"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why does Rebel Foods push its own EatSure app?", "options": ["To avoid aggregator commissions", "To sell groceries", "To book flights", "To offer loans"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Rebel Foods runs cloud kitchens for Faasos, Behrouz and Oven Story, selling mainly via Zomato and Swiggy. Many brands share kitchens. Watch profitability and aggregator commissions.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "cars24", "name": "Cars24", "type": "startup", "industry": "automobiles",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Vikram Chopra", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Cars24 buys used cars from owners, inspects and refurbishes them, and resells them online and through hubs with warranties and returns. It also offers car loans, insurance and services, and operates in Australia and the UAE.",
+        "EARNS": "The margin between the price it pays owners and the resale price, plus fees for loans, insurance and services. Financing helps sell more cars and earns distribution fees.",
+        "SIZE": "One of India's largest online used-car platforms.",
+        "RIVALS": "Spinny, CarDekho, OLX Autos, Maruti True Value and local dealers.",
+        "WATCH": "Used-car margins, growth of its lending and services, and its path to profit."
+      },
+      "quiz": [
+        { "prompt": "How does Cars24 mainly make money?", "options": ["Margin between buying and reselling used cars", "Manufacturing new cars", "Running taxis", "Selling fuel"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a direct Cars24 rival?", "options": ["Spinny", "IndiGo", "Zomato", "Nykaa"], "correct_idx": 0, "part_kind": "RIVALS" },
+        { "prompt": "Which overseas markets does Cars24 operate in?", "options": ["Australia and the UAE", "Germany and France", "Brazil and Mexico", "Japan and Korea"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Cars24 buys, refurbishes and resells used cars with financing, earning resale margins and fees, also in Australia and the UAE. Watch used-car margins and its path to profit.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "upgrad", "name": "upGrad", "type": "startup", "industry": "ed-tech",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Ronnie Screwvala", "leader_role": "Co-founder & Chairperson", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "upGrad sells online degrees and certificate programmes for working professionals in partnership with Indian and global universities, plus bootcamps, study-abroad services and corporate training through upGrad Enterprise. It completed its acquisition of Unacademy in September 2026, adding test prep.",
+        "EARNS": "Course fees paid by learners, shared with partner universities, and fees from companies for training their staff. Higher-education programmes for working professionals are its largest business.",
+        "SIZE": "One of India's largest online higher-education companies.",
+        "RIVALS": "Great Learning, Simplilearn, Coursera, Emeritus, and universities' own online programmes.",
+        "WATCH": "Integration of Unacademy, demand for upskilling as AI changes jobs, and its path to profit."
+      },
+      "quiz": [
+        { "prompt": "Who are upGrad's main learners?", "options": ["Working professionals", "Kindergarten children", "Retired pilots", "Farmers only"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which ed-tech company did upGrad acquire in 2026?", "options": ["Unacademy", "Byju's", "Vedantu", "PhysicsWallah"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who does upGrad share course fees with?", "options": ["Partner universities", "The RBI", "Telecom companies", "Airlines"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "upGrad sells online degrees and courses for working professionals with partner universities, plus corporate training; it acquired Unacademy in 2026. Watch integration and upskilling demand.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "swiggy-instamart", "name": "BigBasket", "type": "startup", "industry": "food-tech-quick-commerce",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Amit Nanda", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "BigBasket sells groceries, fresh produce and household goods online, with BB Now for delivery in minutes and scheduled delivery for larger baskets. It has strong own brands like Fresho and BB Royal. It is owned by the Tata Group through Tata Digital.",
+        "EARNS": "Margins on groceries, higher on its own brands and fresh produce, plus delivery fees and ads from brands. Sourcing fruit and vegetables directly from farmers helps margins.",
+        "SIZE": "One of India's largest online grocers, now competing in quick commerce.",
+        "RIVALS": "Blinkit, Zepto, Swiggy Instamart, Flipkart Minutes, Amazon Fresh and DMart Ready.",
+        "WATCH": "How fast it catches up in quick commerce, losses as it builds dark stores, and the plans of new CEO Amit Nanda, who joined from Amazon in June 2026."
+      },
+      "quiz": [
+        { "prompt": "Who owns BigBasket?", "options": ["Tata Group", "Reliance", "Amazon", "Walmart"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is BB Now?", "options": ["BigBasket's quick-delivery service", "A payments app", "A loyalty card", "A streaming service"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a BigBasket own brand?", "options": ["Fresho", "Aashirvaad", "Amul", "Maggi"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "BigBasket, owned by Tata, sells groceries online with BB Now quick delivery and own brands like Fresho. Watch its quick-commerce catch-up and new CEO Amit Nanda's plans.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "go-digit", "name": "Go Digit General Insurance", "type": "listed", "industry": "insurtech",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Jasleen Kohli", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Digit is a digital-first general insurer selling motor, health, travel, property and other non-life policies, mostly through partners such as agents, brokers, car dealers and online platforms. Founded by Kamesh Goyal; cricketer Virat Kohli is a shareholder.",
+        "EARNS": "It collects premiums and pays claims, earning when claims and costs come in below premiums, plus income from investing premiums before claims are paid. Motor insurance is its largest line.",
+        "SIZE": "One of India's larger private general insurers.",
+        "RIVALS": "ICICI Lombard, Bajaj General, HDFC Ergo, Acko, Tata AIG and New India Assurance.",
+        "WATCH": "Its combined ratio (claims plus costs as a share of premiums), motor insurance pricing, and growth in health."
+      },
+      "quiz": [
+        { "prompt": "Which is Digit's largest insurance line?", "options": ["Motor", "Life", "Crop", "Marine cargo"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "How does Digit mostly sell policies?", "options": ["Through partners like agents, brokers and dealers", "Only door-to-door", "Only at bank branches", "By phone only"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What does a combined ratio measure?", "options": ["Claims plus costs relative to premiums", "Share price growth", "Number of employees", "Office space"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Digit is a digital-first general insurer, mostly motor, selling through partners and earning when claims and costs stay below premiums. Watch its combined ratio and health growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "sbi-life", "name": "SBI Life Insurance", "type": "listed", "industry": "insurtech",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Amit Jhingran", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "SBI Life sells life insurance: savings plans, unit-linked plans (ULIPs) tied to markets, term protection, group cover and annuities for retirement income. State Bank of India is its parent.",
+        "EARNS": "Premiums invested until claims and maturities are paid, with profit coming from margins built into each policy. Most policies are sold through SBI's vast branch network, a model called bancassurance, which keeps selling costs low.",
+        "SIZE": "India's largest private life insurer by new business premiums.",
+        "RIVALS": "LIC, HDFC Life, ICICI Prudential Life, Axis Max Life and Bajaj Life.",
+        "WATCH": "Growth in value of new business (VNB), the profit expected from policies sold in a year, the mix shift towards protection, and tax rule changes on insurance."
+      },
+      "quiz": [
+        { "prompt": "What is bancassurance?", "options": ["Selling insurance through bank branches", "Insuring banks against theft", "A bank's credit card", "A government pension"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is SBI Life's parent?", "options": ["State Bank of India", "LIC", "HDFC Bank", "RBI"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What does VNB measure for a life insurer?", "options": ["Profit expected from policies sold in a year", "Number of branches", "Share price", "Office rent"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "SBI Life is India's largest private life insurer, selling mostly through SBI branches. Profit comes from margins in each policy. Watch value of new business and protection mix.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "hdfc-life", "name": "HDFC Life Insurance", "type": "listed", "industry": "insurtech",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Vibha Padalkar", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "HDFC Life sells life insurance: guaranteed and participating savings plans, ULIPs, term protection, annuities and group cover. HDFC Bank is its parent after the 2023 HDFC merger.",
+        "EARNS": "Margins built into policies, earned over their life. HDFC Bank is its biggest sales channel; agents, brokers and online sales add more. Non-participating savings and protection plans carry its highest margins.",
+        "SIZE": "One of India's three largest private life insurers.",
+        "RIVALS": "SBI Life, LIC, ICICI Prudential Life, Axis Max Life and Bajaj Life.",
+        "WATCH": "Value of new business growth, dependence on HDFC Bank for sales, and margins as product mix and tax rules change."
+      },
+      "quiz": [
+        { "prompt": "Who is HDFC Life's parent company?", "options": ["HDFC Bank", "SBI", "ICICI Bank", "LIC"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is HDFC Life's biggest sales channel?", "options": ["HDFC Bank", "Supermarkets", "Petrol pumps", "Airlines"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who leads HDFC Life?", "options": ["Vibha Padalkar", "Sashidhar Jagdishan", "Amit Jhingran", "Anand Roy"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "HDFC Life, owned by HDFC Bank, sells savings, protection and annuity policies, mainly through the bank. Margins come from product mix. Watch value of new business and bank dependence.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "indian-hotels", "name": "Indian Hotels (Taj)", "type": "listed", "industry": "travel-hospitality",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Puneet Chhatwal", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Indian Hotels runs Taj luxury hotels, Vivanta and SeleQtions upscale hotels, Ginger lean-luxe hotels, ama Stays homestays and Qmin food delivery. It also owns Taj SATS airline catering. It is a Tata Group company.",
+        "EARNS": "Room rates and occupancy, food and beverage, and fees for managing hotels owned by others. Management contracts let it add hotels without heavy investment, an asset-light model. Taj is the profit engine.",
+        "SIZE": "India's largest hospitality company by market value.",
+        "RIVALS": "ITC Hotels, EIH (Oberoi), Leela, Marriott, Hyatt, Lemon Tree and Chalet.",
+        "WATCH": "Room rates during strong travel demand, its pipeline of new signings, and the growth of Ginger and ama Stays."
+      },
+      "quiz": [
+        { "prompt": "What is an asset-light hotel model?", "options": ["Managing hotels owned by others for a fee", "Building hotels from scratch everywhere", "Renting rooms by the hour", "Selling hotel furniture"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is Indian Hotels' luxury brand?", "options": ["Taj", "Oberoi", "Leela", "Lemon Tree"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which group does Indian Hotels belong to?", "options": ["Tata Group", "ITC", "Reliance", "Adani"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Indian Hotels, a Tata company, runs Taj, Vivanta and Ginger, earning from rooms, food and management fees. Taj drives profit. Watch room rates and new hotel signings.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "muthoot-finance", "name": "Muthoot Finance", "type": "listed", "industry": "nbfc-lending",
+      "profile": { "hq": "Kochi, Kerala", "leader": "George Alexander Muthoot", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Muthoot Finance gives short-term loans against gold jewellery through thousands of branches across India. It also has subsidiaries in microfinance (Belstar), housing finance and insurance broking, and a lender in Sri Lanka.",
+        "EARNS": "Interest on gold loans, which are quick to approve and safe because the gold can be sold if a borrower defaults. Higher gold prices let customers borrow more against the same jewellery. Gold loans are the vast majority of its book.",
+        "SIZE": "India's largest gold-loan company.",
+        "RIVALS": "Manappuram Finance, IIFL Finance, and banks such as SBI, Federal Bank and HDFC Bank that also give gold loans.",
+        "WATCH": "Gold prices, RBI's tighter gold-loan rules introduced in 2025, competition from banks, and microfinance stress at Belstar."
+      },
+      "quiz": [
+        { "prompt": "What does Muthoot Finance mainly lend against?", "options": ["Gold jewellery", "Cars", "Shares", "Farmland"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why are gold loans relatively safe for the lender?", "options": ["The gold can be sold if the borrower defaults", "Gold never changes in price", "The government repays them", "They are insured by the RBI"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What happens when gold prices rise?", "options": ["Customers can borrow more against the same jewellery", "Loans become illegal", "Muthoot closes branches", "Interest rates fall to zero"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Muthoot Finance is India's largest gold-loan company, earning interest on quick, secured loans. Higher gold prices lift loan sizes. Watch gold prices and RBI's new gold-loan rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "adani-green", "name": "Adani Green Energy", "type": "listed", "industry": "energy-utilities",
+      "profile": { "hq": "Ahmedabad, Gujarat", "leader": "Ashish Khanna", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Adani Green builds and runs solar, wind and hybrid power plants across India. Its flagship is the Khavda renewable energy park in Gujarat's Rann of Kutch, planned to be the world's largest renewable plant. It is part of the Adani Group.",
+        "EARNS": "Selling electricity under long-term contracts, mostly multi-decade power purchase agreements with government agencies like SECI and state utilities, at fixed tariffs. Earnings grow as new capacity comes online; building it needs heavy borrowing.",
+        "SIZE": "India's largest renewable energy company by operating capacity.",
+        "RIVALS": "NTPC Green Energy, ReNew, Tata Power Renewables, JSW Energy and Greenko.",
+        "WATCH": "Commissioning at Khavda, debt levels and refinancing, and the outcome of the US case filed in November 2024 against Gautam Adani and others, which the group denies."
+      },
+      "quiz": [
+        { "prompt": "What is Khavda?", "options": ["Adani Green's giant renewable park in Gujarat", "A port in Kerala", "A coal mine", "A Mumbai airport terminal"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Adani Green sell most of its power?", "options": ["Long-term contracts at fixed tariffs", "Daily auctions only", "To households directly", "By exporting to Europe"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What does building new renewable capacity require?", "options": ["Heavy borrowing", "No capital", "Government ownership", "Imported coal"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Adani Green, India's largest renewable producer, sells solar and wind power under long-term fixed contracts, led by Gujarat's Khavda park. Watch commissioning, debt and the US legal case.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "adani-power", "name": "Adani Power", "type": "listed", "industry": "energy-utilities",
+      "profile": { "hq": "Ahmedabad, Gujarat", "leader": "S.B. Khyalia", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Adani Power runs coal-fired power plants in Gujarat, Maharashtra, Rajasthan, Karnataka, Chhattisgarh, Madhya Pradesh and Jharkhand. Its Godda plant in Jharkhand sends all its power to Bangladesh. It has grown by buying stressed power plants.",
+        "EARNS": "Long-term power purchase agreements with state utilities cover most capacity, paying for fuel and a fixed charge; some power is sold on exchanges at market prices, which lifts profit when demand peaks.",
+        "SIZE": "India's largest private thermal power producer.",
+        "RIVALS": "NTPC, Tata Power, JSW Energy and Torrent Power.",
+        "WATCH": "Its large new coal-plant expansion, payments from Bangladesh for Godda power, coal costs, and peak electricity demand."
+      },
+      "quiz": [
+        { "prompt": "Which country receives all power from Adani's Godda plant?", "options": ["Bangladesh", "Nepal", "Sri Lanka", "Bhutan"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What fuel do Adani Power's plants use?", "options": ["Coal", "Wind", "Nuclear", "Solar"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "When does selling power on exchanges lift Adani Power's profit?", "options": ["When electricity demand peaks", "When it rains", "During cricket matches", "When gold prices fall"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Adani Power, India's largest private thermal producer, sells coal power under long-term contracts plus exchanges; Godda supplies Bangladesh. Watch expansion, Bangladesh payments and coal costs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "bajaj-housing", "name": "Bajaj Housing Finance", "type": "listed", "industry": "nbfc-lending",
+      "profile": { "hq": "Pune, Maharashtra", "leader": "Atul Jain", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Bajaj Housing Finance gives home loans, mostly to salaried professionals, plus loans against property, loans to developers and lease rental discounting for commercial property owners. It is a subsidiary of Bajaj Finance and listed in September 2024.",
+        "EARNS": "The spread between interest on loans and its cost of borrowing. Its top credit rating and Bajaj backing let it borrow cheaply, and its bad-loan levels are very low. Home loans are the largest part of its book.",
+        "SIZE": "One of India's largest housing finance companies.",
+        "RIVALS": "LIC Housing Finance, PNB Housing, HDFC Bank, SBI and ICICI Bank in home loans.",
+        "WATCH": "Loan growth versus thinner margins in a competitive home-loan market, and interest-rate changes."
+      },
+      "quiz": [
+        { "prompt": "Who is Bajaj Housing Finance's parent?", "options": ["Bajaj Finance", "Bajaj Auto", "HDFC Bank", "LIC"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why can Bajaj Housing borrow cheaply?", "options": ["Top credit rating and Bajaj backing", "Government guarantees", "It takes no loans", "It prints money"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who are its main home-loan customers?", "options": ["Salaried professionals", "Large factories", "Airlines", "Farmers only"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Bajaj Housing Finance lends mostly to salaried home buyers, earning a spread helped by cheap borrowing and very low bad loans. Watch margins in a competitive home-loan market.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "unacademy", "name": "Unacademy", "type": "startup", "industry": "ed-tech",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Gaurav Munjal", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Unacademy offers online test prep for UPSC, JEE, NEET, banking and other exams through live classes and its app. It also built Airlearn, a language-learning app, and Graphy, a platform for creators to sell courses. upGrad completed its acquisition of Unacademy in September 2026.",
+        "EARNS": "Subscriptions that give students access to live classes, tests and educators for their target exam. After its pandemic boom, it cut costs and offline centres sharply.",
+        "SIZE": "Once one of India's most valuable ed-tech startups; now part of upGrad.",
+        "RIVALS": "PhysicsWallah, Allen, Aakash, Adda247 and free YouTube educators.",
+        "WATCH": "How it fits inside upGrad, retaining top educators, and Airlearn's growth."
+      },
+      "quiz": [
+        { "prompt": "Which company acquired Unacademy in 2026?", "options": ["upGrad", "PhysicsWallah", "Byju's", "Infosys"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Unacademy earn money?", "options": ["Student subscriptions", "Selling textbooks only", "Government grants", "Ads only"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Airlearn?", "options": ["A language-learning app", "An airline", "A payments app", "A test centre"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Unacademy sells test-prep subscriptions for UPSC, JEE and NEET, and built Airlearn. upGrad completed its acquisition in 2026. Watch integration and educator retention.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "acko", "name": "Acko", "type": "startup", "industry": "insurtech",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Varun Dua", "leader_role": "Founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Acko sells car, bike, health and travel insurance directly through its app and website, plus life insurance through Acko Life. It also embeds small insurance covers inside other apps' purchases, such as rides or trips.",
+        "EARNS": "Premiums minus claims and costs. Selling directly online without agents cuts distribution costs, which it passes on as lower prices. Motor insurance is its largest line; health is growing.",
+        "SIZE": "One of India's best-known digital insurers.",
+        "RIVALS": "Digit, ICICI Lombard, Bajaj General, HDFC Ergo and Policybazaar as a marketplace.",
+        "WATCH": "Its path to profit, claims experience in health insurance, and growth of Acko Life."
+      },
+      "quiz": [
+        { "prompt": "How does Acko keep costs low?", "options": ["Selling directly online without agents", "Owning hospitals", "Insuring only airlines", "Avoiding all claims"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is Acko's largest insurance line?", "options": ["Motor", "Crop", "Marine", "Aviation"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a digital-first insurer rival to Acko?", "options": ["Digit", "Zomato", "IRCTC", "Titan"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Acko sells car, bike, health and life insurance directly online, cutting agent costs. Motor is its biggest line. Watch its path to profit and health-claims experience.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "spinny", "name": "Spinny", "type": "startup", "industry": "automobiles",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Niraj Singh", "leader_role": "Founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Spinny buys used cars, inspects and refurbishes them, and sells them at fixed prices with warranties and a money-back guarantee, online and at its car hubs. Spinny Max sells used luxury cars, and it offers loans and insurance.",
+        "EARNS": "The margin between buying and selling cars, plus fees for financing, insurance and add-ons. Fixed, no-haggle prices and quality checks build trust, which supports its margins.",
+        "SIZE": "One of India's largest full-stack used-car retailers.",
+        "RIVALS": "Cars24, CarDekho, OLX Autos, Maruti True Value and local dealers.",
+        "WATCH": "Its path to profit, inventory turnover, and expansion to more cities."
+      },
+      "quiz": [
+        { "prompt": "What does Spinny offer buyers to build trust?", "options": ["Fixed prices and a money-back guarantee", "Free fuel for life", "Car leases only", "Discounts only on weekends"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Spinny Max?", "options": ["Its used luxury-car business", "A truck brand", "A bike taxi", "A loan app"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is Spinny's closest rival?", "options": ["Cars24", "Ola Electric", "Uber", "Zoomcar"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Spinny refurbishes and sells used cars at fixed prices with warranties, earning resale margins and financing fees. Watch its path to profit and inventory turnover.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "purplle", "name": "Purplle", "type": "startup", "industry": "beauty-ecommerce",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Manish Taneja", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Purplle sells beauty and personal-care products online to value-conscious shoppers, especially in smaller towns, and through a growing number of stores. Its own brands include Good Vibes, Carmesi, Dermdoc and Alps Goodness, and it owns a majority of Faces Canada.",
+        "EARNS": "Retail margins on third-party brands and much higher margins on its own brands, which make up a large share of sales. Ads from brands add more.",
+        "SIZE": "One of India's larger online beauty platforms, after Nykaa.",
+        "RIVALS": "Nykaa, Tira, Myntra Beauty, Amazon and quick-commerce apps.",
+        "WATCH": "Its path to steady profit, growth of owned brands, and a possible stock-market listing."
+      },
+      "quiz": [
+        { "prompt": "Who is Purplle's target shopper?", "options": ["Value-conscious buyers in smaller towns", "Luxury buyers only", "Large companies", "Tourists"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why do Purplle's own brands matter?", "options": ["They earn much higher margins", "They are free to make", "They are sold only abroad", "They are government-funded"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is Purplle's biggest rival?", "options": ["Nykaa", "Zomato", "Lenskart", "Groww"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Purplle sells beauty to value-conscious shoppers online and in stores, earning more from own brands like Good Vibes and Faces Canada. Watch profitability and a possible listing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "ather", "name": "Ather Energy", "type": "listed", "industry": "automobiles",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Tarun Mehta", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Ather makes premium electric scooters: the Rizta family scooter and the sporty 450 series. It runs Ather Grid, a fast-charging network, and sells software features through AtherStack. Its main factory is in Hosur, Tamil Nadu. It listed in May 2025.",
+        "EARNS": "Margins on scooters, plus revenue from accessories, extended warranties, software subscriptions and charging. Rizta has become its best seller. Hero MotoCorp is a large shareholder.",
+        "SIZE": "One of India's top electric-scooter makers, strongest in the south.",
+        "RIVALS": "TVS iQube, Bajaj Chetak, Ola Electric, Hero Vida and Honda.",
+        "WATCH": "Growth beyond south India, its new plant in Maharashtra, battery costs, and changes to EV incentives."
+      },
+      "quiz": [
+        { "prompt": "Which is Ather's family scooter?", "options": ["Rizta", "Chetak", "iQube", "Vida V1"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is Ather Grid?", "options": ["A fast-charging network", "A power plant", "A software firm", "A bike rental app"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which two-wheeler maker is a large Ather shareholder?", "options": ["Hero MotoCorp", "Bajaj Auto", "TVS Motor", "Royal Enfield"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Ather makes premium e-scooters like Rizta and the 450, earning from scooters, software and charging; Hero is a big shareholder. Listed in 2025. Watch growth beyond the south.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "star-health", "name": "Star Health Insurance", "type": "listed", "industry": "insurtech",
+      "profile": { "hq": "Chennai, Tamil Nadu", "leader": "Anand Roy", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Star Health sells only health insurance: family floater, individual, senior-citizen, critical-illness and group policies. Most policies are sold by its large network of agents, and claims are settled through a wide network of hospitals.",
+        "EARNS": "Premiums minus claims and expenses, plus income from investing premiums. Its key measure is the claims ratio, the share of premiums paid out as claims. Retail policies sold to families are its core business.",
+        "SIZE": "India's largest standalone health insurer.",
+        "RIVALS": "Niva Bupa, Care Health, Aditya Birla Health, ICICI Lombard and HDFC Ergo.",
+        "WATCH": "Its claims ratio as hospital costs rise, IRDAI rules on health-insurance pricing, and customer trust after a 2024 data leak."
+      },
+      "quiz": [
+        { "prompt": "What does Star Health sell?", "options": ["Only health insurance", "Car insurance only", "Life insurance only", "Loans"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is a claims ratio?", "options": ["Share of premiums paid out as claims", "Number of agents per city", "Share price change", "Hospitals per state"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "How does Star Health sell most policies?", "options": ["Through agents", "Only at airports", "Through telecom bills", "Through schools"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Star Health, India's largest standalone health insurer, sells mostly via agents and earns when claims stay below premiums. Watch claims ratio, IRDAI pricing rules and trust after a 2024 leak.",
+      "review": "unreviewed"
+    }
+  ]
+}

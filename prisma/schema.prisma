@@ -24,16 +24,23 @@ model Industry {
 }
 
 model Company {
-  id         String      @id
-  slug       String      @unique
-  name       String
-  type       String // listed | startup | model
-  status     String      @default("published") // draft | published
-  industryId String      @map("industry_id")
-  industry   Industry    @relation(fields: [industryId], references: [id])
-  explainers Explainer[]
-  createdAt  DateTime    @default(now()) @map("created_at")
-  updatedAt  DateTime    @updatedAt @map("updated_at")
+  id          String      @id
+  slug        String      @unique
+  name        String
+  type        String // listed | startup | model
+  status      String      @default("published") // draft | published
+  // supplied (founder's original file) | unreviewed | approved
+  review      String      @default("supplied")
+  hq          String?
+  leader      String?
+  leaderRole  String?     @map("leader_role")
+  // When the leader was last checked, e.g. "Oct 2026".
+  profileAsOf String?     @map("profile_as_of")
+  industryId  String      @map("industry_id")
+  industry    Industry    @relation(fields: [industryId], references: [id])
+  explainers  Explainer[]
+  createdAt   DateTime    @default(now()) @map("created_at")
+  updatedAt   DateTime    @updatedAt @map("updated_at")
 
   @@index([industryId])
 }

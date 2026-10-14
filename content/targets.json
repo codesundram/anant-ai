@@ -1,0 +1,7401 @@
+{
+ "_meta": {
+  "about": "Target list towards 1000 companies: NSE Nifty 500 (content/sources/ind_nifty500list.csv) plus notable startups and unlisted companies (scripts/startups.txt). Industry slugs for pending rows are mapped from NSE industry by rule and need checking when researched.",
+  "generated": "2026-10-14"
+ },
+ "targets": [
+  {
+   "slug": "360-one-wam",
+   "name": "360 ONE WAM Ltd.",
+   "symbol": "360ONE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "abb",
+   "name": "ABB India Ltd.",
+   "symbol": "ABB",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "acc",
+   "name": "ACC Ltd.",
+   "symbol": "ACC",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "acme-solar-holdings",
+   "name": "ACME Solar Holdings Ltd.",
+   "symbol": "ACMESOLAR",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aia-engineering",
+   "name": "AIA Engineering Ltd.",
+   "symbol": "AIAENG",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apl-apollo-tubes",
+   "name": "APL Apollo Tubes Ltd.",
+   "symbol": "APLAPOLLO",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "au-small-finance-bank",
+   "name": "AU Small Finance Bank Ltd.",
+   "symbol": "AUBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "awl-agri-business",
+   "name": "AWL Agri Business Ltd.",
+   "symbol": "AWL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aadhar-housing-finance",
+   "name": "Aadhar Housing Finance Ltd.",
+   "symbol": "AADHARHFC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aarti-industries",
+   "name": "Aarti Industries Ltd.",
+   "symbol": "AARTIIND",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aavas-financiers",
+   "name": "Aavas Financiers Ltd.",
+   "symbol": "AAVAS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "abbott",
+   "name": "Abbott India Ltd.",
+   "symbol": "ABBOTINDIA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "action-construction-equipment",
+   "name": "Action Construction Equipment Ltd.",
+   "symbol": "ACE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "acutaas-chemicals",
+   "name": "Acutaas Chemicals Ltd.",
+   "symbol": "ACUTAAS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "adani-energy-solutions",
+   "name": "Adani Energy Solutions Ltd.",
+   "symbol": "ADANIENSOL",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "adani-enterprises",
+   "name": "Adani Enterprises Ltd.",
+   "symbol": "ADANIENT",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "adani-green",
+   "name": "Adani Green Energy Ltd.",
+   "symbol": "ADANIGREEN",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "adani-ports",
+   "name": "Adani Ports and Special Economic Zone Ltd.",
+   "symbol": "ADANIPORTS",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "adani-power",
+   "name": "Adani Power Ltd.",
+   "symbol": "ADANIPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "adani-total-gas",
+   "name": "Adani Total Gas Ltd.",
+   "symbol": "ATGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-birla-capital",
+   "name": "Aditya Birla Capital Ltd.",
+   "symbol": "ABCAPITAL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-birla-real-estate",
+   "name": "Aditya Birla Real Estate Ltd.",
+   "symbol": "ABREL",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-birla-sun-life-amc",
+   "name": "Aditya Birla Sun Life AMC Ltd.",
+   "symbol": "ABSLAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-infotech",
+   "name": "Aditya Infotech Ltd.",
+   "symbol": "CPPLUS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aegis-logistics",
+   "name": "Aegis Logistics Ltd.",
+   "symbol": "AEGISLOG",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aegis-vopak-terminals",
+   "name": "Aegis Vopak Terminals Ltd.",
+   "symbol": "AEGISVOPAK",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aether-industries",
+   "name": "Aether Industries Ltd.",
+   "symbol": "AETHER",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "afcons-infrastructure",
+   "name": "Afcons Infrastructure Ltd.",
+   "symbol": "AFCONS",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "affle-3i",
+   "name": "Affle 3i Ltd.",
+   "symbol": "AFFLE",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ajanta-pharmaceuticals",
+   "name": "Ajanta Pharmaceuticals Ltd.",
+   "symbol": "AJANTPHARM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "alkem-laboratories",
+   "name": "Alkem Laboratories Ltd.",
+   "symbol": "ALKEM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "allied-blenders-and-distillers",
+   "name": "Allied Blenders and Distillers Ltd.",
+   "symbol": "ABDL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "amara-raja-energy-and-mobility",
+   "name": "Amara Raja Energy & Mobility Ltd.",
+   "symbol": "ARE&M",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "amber-enterprises",
+   "name": "Amber Enterprises India Ltd.",
+   "symbol": "AMBER",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ambuja-cements",
+   "name": "Ambuja Cements Ltd.",
+   "symbol": "AMBUJACEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anand-rathi-wealth",
+   "name": "Anand Rathi Wealth Ltd.",
+   "symbol": "ANANDRATHI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anant-raj",
+   "name": "Anant Raj Ltd.",
+   "symbol": "ANANTRAJ",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "angel-one",
+   "name": "Angel One Ltd.",
+   "symbol": "ANGELONE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anthem-biosciences",
+   "name": "Anthem Biosciences Ltd.",
+   "symbol": "ANTHEM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anupam-rasayan",
+   "name": "Anupam Rasayan India Ltd.",
+   "symbol": "ANURAS",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apar-industries",
+   "name": "Apar Industries Ltd.",
+   "symbol": "APARINDS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apollo-hospitals-enterprise",
+   "name": "Apollo Hospitals Enterprise Ltd.",
+   "symbol": "APOLLOHOSP",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apollo-tyres",
+   "name": "Apollo Tyres Ltd.",
+   "symbol": "APOLLOTYRE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aptus-value-housing-finance",
+   "name": "Aptus Value Housing Finance India Ltd.",
+   "symbol": "APTUS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "asahi-glass",
+   "name": "Asahi India Glass Ltd.",
+   "symbol": "ASAHIINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ashok-leyland",
+   "name": "Ashok Leyland Ltd.",
+   "symbol": "ASHOKLEY",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "asian-paints",
+   "name": "Asian Paints Ltd.",
+   "symbol": "ASIANPAINT",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "aster-dm-quality-care",
+   "name": "Aster DM Quality Care Ltd.",
+   "symbol": "ASTERDM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "astral",
+   "name": "Astral Ltd.",
+   "symbol": "ASTRAL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ather",
+   "name": "Ather Energy Ltd.",
+   "symbol": "ATHERENERG",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "atul",
+   "name": "Atul Ltd.",
+   "symbol": "ATUL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aurobindo-pharma",
+   "name": "Aurobindo Pharma Ltd.",
+   "symbol": "AUROPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "authum-investment-and-infrastructure",
+   "name": "Authum Investment & Infrastructure Ltd.",
+   "symbol": "AIIL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "avanti-feeds",
+   "name": "Avanti Feeds Ltd.",
+   "symbol": "AVANTIFEED",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dmart",
+   "name": "Avenue Supermarts Ltd.",
+   "symbol": "DMART",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "axis-bank",
+   "name": "Axis Bank Ltd.",
+   "symbol": "AXISBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "azad-engineering",
+   "name": "Azad Engineering Ltd.",
+   "symbol": "AZAD",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "beml",
+   "name": "BEML Ltd.",
+   "symbol": "BEML",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bls-international-services",
+   "name": "BLS International Services Ltd.",
+   "symbol": "BLS",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bse",
+   "name": "BSE Ltd.",
+   "symbol": "BSE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bagmane-prime-office-reit",
+   "name": "Bagmane Prime Office REIT",
+   "symbol": "BAGMANE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bajaj-auto",
+   "name": "Bajaj Auto Ltd.",
+   "symbol": "BAJAJ-AUTO",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "bajaj-finance",
+   "name": "Bajaj Finance Ltd.",
+   "symbol": "BAJFINANCE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "bajaj-finserv",
+   "name": "Bajaj Finserv Ltd.",
+   "symbol": "BAJAJFINSV",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "bajaj-holdings-and-investment",
+   "name": "Bajaj Holdings & Investment Ltd.",
+   "symbol": "BAJAJHLDNG",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bajaj-housing",
+   "name": "Bajaj Housing Finance Ltd.",
+   "symbol": "BAJAJHFL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "balkrishna-industries",
+   "name": "Balkrishna Industries Ltd.",
+   "symbol": "BALKRISIND",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "balrampur-chini-mills",
+   "name": "Balrampur Chini Mills Ltd.",
+   "symbol": "BALRAMCHIN",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bandhan-bank",
+   "name": "Bandhan Bank Ltd.",
+   "symbol": "BANDHANBNK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of-baroda",
+   "name": "Bank of Baroda",
+   "symbol": "BANKBARODA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of",
+   "name": "Bank of India",
+   "symbol": "BANKINDIA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of-maharashtra",
+   "name": "Bank of Maharashtra",
+   "symbol": "MAHABANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bata",
+   "name": "Bata India Ltd.",
+   "symbol": "BATAINDIA",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "belrise-industries",
+   "name": "Belrise Industries Ltd.",
+   "symbol": "BELRISE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "berger-paints",
+   "name": "Berger Paints India Ltd.",
+   "symbol": "BERGEPAINT",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-coking-coal",
+   "name": "Bharat Coking Coal Ltd.",
+   "symbol": "BHARATCOAL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-dynamics",
+   "name": "Bharat Dynamics Ltd.",
+   "symbol": "BDL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-electronics",
+   "name": "Bharat Electronics Ltd.",
+   "symbol": "BEL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-forge",
+   "name": "Bharat Forge Ltd.",
+   "symbol": "BHARATFORG",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-heavy-electricals",
+   "name": "Bharat Heavy Electricals Ltd.",
+   "symbol": "BHEL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-petroleum",
+   "name": "Bharat Petroleum Corporation Ltd.",
+   "symbol": "BPCL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharti-airtel",
+   "name": "Bharti Airtel Ltd.",
+   "symbol": "BHARTIARTL",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "bharti-hexacom",
+   "name": "Bharti Hexacom Ltd.",
+   "symbol": "BHARTIHEXA",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "groww",
+   "name": "Billionbrains Garage Ventures Ltd.",
+   "symbol": "GROWW",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "biocon",
+   "name": "Biocon Ltd.",
+   "symbol": "BIOCON",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "birlasoft",
+   "name": "Birlasoft Ltd.",
+   "symbol": "BSOFT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "black-box",
+   "name": "Black Box Ltd.",
+   "symbol": "BBOX",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "blue-star",
+   "name": "Blue Star Ltd.",
+   "symbol": "BLUESTARCO",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bosch",
+   "name": "Bosch Ltd.",
+   "symbol": "BOSCHLTD",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "firstcry",
+   "name": "Brainbees Solutions Ltd.",
+   "symbol": "FIRSTCRY",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "brigade-enterprises",
+   "name": "Brigade Enterprises Ltd.",
+   "symbol": "BRIGADE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "britannia",
+   "name": "Britannia Industries Ltd.",
+   "symbol": "BRITANNIA",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "brookfield-real-estate-trust",
+   "name": "Brookfield India Real Estate Trust",
+   "symbol": "BIRET",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ccl-products-i",
+   "name": "CCL Products (I) Ltd.",
+   "symbol": "CCL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cesc",
+   "name": "CESC Ltd.",
+   "symbol": "CESC",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cg-power-and-industrial-solutions",
+   "name": "CG Power and Industrial Solutions Ltd.",
+   "symbol": "CGPOWER",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cie-automotive",
+   "name": "CIE Automotive India Ltd.",
+   "symbol": "CIEINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "crisil",
+   "name": "CRISIL Ltd.",
+   "symbol": "CRISIL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "can-fin-homes",
+   "name": "Can Fin Homes Ltd.",
+   "symbol": "CANFINHOME",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "canara-bank",
+   "name": "Canara Bank",
+   "symbol": "CANBK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "canara-hsbc-life-insurance",
+   "name": "Canara HSBC Life Insurance Company Ltd.",
+   "symbol": "CANHLIFE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "caplin-point-laboratories",
+   "name": "Caplin Point Laboratories Ltd.",
+   "symbol": "CAPLIPOINT",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "capri-global-capital",
+   "name": "Capri Global Capital Ltd.",
+   "symbol": "CGCL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "carborundum-universal",
+   "name": "Carborundum Universal Ltd.",
+   "symbol": "CARBORUNIV",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cartrade-tech",
+   "name": "Cartrade Tech Ltd.",
+   "symbol": "CARTRADE",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "castrol",
+   "name": "Castrol India Ltd.",
+   "symbol": "CASTROLIND",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ceat",
+   "name": "Ceat Ltd.",
+   "symbol": "CEATLTD",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cemindia-projects",
+   "name": "Cemindia Projects Ltd.",
+   "symbol": "CEMPRO",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "central-bank-of",
+   "name": "Central Bank of India",
+   "symbol": "CENTRALBK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "central-depository-services",
+   "name": "Central Depository Services (India) Ltd.",
+   "symbol": "CDSL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "central-mine-planning-and-design-institute",
+   "name": "Central Mine Planning & Design Institute Ltd.",
+   "symbol": "CMPDI",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "chambal-fertilizers-and-chemicals",
+   "name": "Chambal Fertilizers & Chemicals Ltd.",
+   "symbol": "CHAMBLFERT",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "chennai-petroleum",
+   "name": "Chennai Petroleum Corporation Ltd.",
+   "symbol": "CHENNPETRO",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "choice-international",
+   "name": "Choice International Ltd.",
+   "symbol": "CHOICEIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cholamandalam-financial-holdings",
+   "name": "Cholamandalam Financial Holdings Ltd.",
+   "symbol": "CHOLAHLDNG",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cholamandalam-investment-and-finance",
+   "name": "Cholamandalam Investment and Finance Company Ltd.",
+   "symbol": "CHOLAFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cipla",
+   "name": "Cipla Ltd.",
+   "symbol": "CIPLA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "city-union-bank",
+   "name": "City Union Bank Ltd.",
+   "symbol": "CUB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "clean-max-enviro-energy-solutions",
+   "name": "Clean Max Enviro Energy Solutions Ltd.",
+   "symbol": "CLEANMAX",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "clean-science-and-technology",
+   "name": "Clean Science and Technology Ltd.",
+   "symbol": "CLEAN",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "coal-india",
+   "name": "Coal India Ltd.",
+   "symbol": "COALINDIA",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "cochin-shipyard",
+   "name": "Cochin Shipyard Ltd.",
+   "symbol": "COCHINSHIP",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "coforge",
+   "name": "Coforge Ltd.",
+   "symbol": "COFORGE",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "cohance-lifesciences",
+   "name": "Cohance Lifesciences Ltd.",
+   "symbol": "COHANCE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "colgate-palmolive",
+   "name": "Colgate Palmolive (India) Ltd.",
+   "symbol": "COLPAL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "computer-age-management-services",
+   "name": "Computer Age Management Services Ltd.",
+   "symbol": "CAMS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "concord-biotech",
+   "name": "Concord Biotech Ltd.",
+   "symbol": "CONCORDBIO",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "container-of",
+   "name": "Container Corporation of India Ltd.",
+   "symbol": "CONCOR",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "coromandel-international",
+   "name": "Coromandel International Ltd.",
+   "symbol": "COROMANDEL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "craftsman-automation",
+   "name": "Craftsman Automation Ltd.",
+   "symbol": "CRAFTSMAN",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "creditaccess-grameen",
+   "name": "CreditAccess Grameen Ltd.",
+   "symbol": "CREDITACC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "crompton-greaves-consumer-electricals",
+   "name": "Crompton Greaves Consumer Electricals Ltd.",
+   "symbol": "CROMPTON",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cummins",
+   "name": "Cummins India Ltd.",
+   "symbol": "CUMMINSIND",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cupid",
+   "name": "Cupid Ltd.",
+   "symbol": "CUPID",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cyient",
+   "name": "Cyient Ltd.",
+   "symbol": "CYIENT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dlf",
+   "name": "DLF Ltd.",
+   "symbol": "DLF",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "doms-industries",
+   "name": "DOMS Industries Ltd.",
+   "symbol": "DOMS",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dabur",
+   "name": "Dabur India Ltd.",
+   "symbol": "DABUR",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "dalmia-bharat",
+   "name": "Dalmia Bharat Ltd.",
+   "symbol": "DALBHARAT",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "data-patterns",
+   "name": "Data Patterns (India) Ltd.",
+   "symbol": "DATAPATTNS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "deepak-fertilisers-and-petrochemicals-corp",
+   "name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+   "symbol": "DEEPAKFERT",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "deepak-nitrite",
+   "name": "Deepak Nitrite Ltd.",
+   "symbol": "DEEPAKNTR",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "delhivery",
+   "name": "Delhivery Ltd.",
+   "symbol": "DELHIVERY",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "devyani-international",
+   "name": "Devyani International Ltd.",
+   "symbol": "DEVYANI",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "divis-labs",
+   "name": "Divi's Laboratories Ltd.",
+   "symbol": "DIVISLAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "dixon-technologies",
+   "name": "Dixon Technologies (India) Ltd.",
+   "symbol": "DIXON",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dr-lal-path-labs",
+   "name": "Dr. Lal Path Labs Ltd.",
+   "symbol": "LALPATHLAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dr-reddys",
+   "name": "Dr. Reddy's Laboratories Ltd.",
+   "symbol": "DRREDDY",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "dummy-heg",
+   "name": "Dummy HEG Ltd.",
+   "symbol": "DUMMYHEG",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "e-i-d-parry",
+   "name": "E.I.D. Parry (India) Ltd.",
+   "symbol": "EIDPARRY",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eih",
+   "name": "EIH Ltd.",
+   "symbol": "EIHOTEL",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "embassy-office-parks-reit",
+   "name": "EMBASSY OFFICE PARKS REIT",
+   "symbol": "EMBASSY",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eicher-motors",
+   "name": "Eicher Motors Ltd.",
+   "symbol": "EICHERMOT",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "elecon-engineering",
+   "name": "Elecon Engineering Co. Ltd.",
+   "symbol": "ELECON",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "elgi-equipments",
+   "name": "Elgi Equipments Ltd.",
+   "symbol": "ELGIEQUIP",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "emami",
+   "name": "Emami Ltd.",
+   "symbol": "EMAMILTD",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "emcure-pharmaceuticals",
+   "name": "Emcure Pharmaceuticals Ltd.",
+   "symbol": "EMCURE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "emmvee-photovoltaic-power",
+   "name": "Emmvee Photovoltaic Power Ltd.",
+   "symbol": "EMMVEE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "endurance-technologies",
+   "name": "Endurance Technologies Ltd.",
+   "symbol": "ENDURANCE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "engineers",
+   "name": "Engineers India Ltd.",
+   "symbol": "ENGINERSIN",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "escorts-kubota",
+   "name": "Escorts Kubota Ltd.",
+   "symbol": "ESCORTS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eternal",
+   "name": "Eternal Ltd.",
+   "symbol": "ETERNAL",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "exide-industries",
+   "name": "Exide Industries Ltd.",
+   "symbol": "EXIDEIND",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nykaa",
+   "name": "FSN E-Commerce Ventures Ltd.",
+   "symbol": "NYKAA",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "federal-bank",
+   "name": "Federal Bank Ltd.",
+   "symbol": "FEDERALBNK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "fertilisers-and-chemicals-travancore",
+   "name": "Fertilisers and Chemicals Travancore Ltd.",
+   "symbol": "FACT",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "finolex-cables",
+   "name": "Finolex Cables Ltd.",
+   "symbol": "FINCABLES",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "firstsource-solutions",
+   "name": "Firstsource Solutions Ltd.",
+   "symbol": "FSL",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "five-star-business-finance",
+   "name": "Five-Star Business Finance Ltd.",
+   "symbol": "FIVESTAR",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "force-motors",
+   "name": "Force Motors Ltd.",
+   "symbol": "FORCEMOT",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "fortis-healthcare",
+   "name": "Fortis Healthcare Ltd.",
+   "symbol": "FORTIS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "fractal-analytics",
+   "name": "Fractal Analytics Ltd.",
+   "symbol": "FRACTAL",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gail",
+   "name": "GAIL (India) Ltd.",
+   "symbol": "GAIL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ge-vernova-t-and-d",
+   "name": "GE Vernova T&D India Ltd.",
+   "symbol": "GVT&D",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gmr-airports",
+   "name": "GMR Airports Ltd.",
+   "symbol": "GMRAIRPORT",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gabriel",
+   "name": "Gabriel India Ltd.",
+   "symbol": "GABRIEL",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gallantt-ispat",
+   "name": "Gallantt Ispat Ltd.",
+   "symbol": "GALLANTT",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "garden-reach-shipbuilders-and-engineers",
+   "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+   "symbol": "GRSE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "general-insurance-of",
+   "name": "General Insurance Corporation of India",
+   "symbol": "GICRE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gillette",
+   "name": "Gillette India Ltd.",
+   "symbol": "GILLETTE",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gland-pharma",
+   "name": "Gland Pharma Ltd.",
+   "symbol": "GLAND",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "glaxosmithkline-pharmaceuticals",
+   "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+   "symbol": "GLAXO",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "glenmark-pharmaceuticals",
+   "name": "Glenmark Pharmaceuticals Ltd.",
+   "symbol": "GLENMARK",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "global-health",
+   "name": "Global Health Ltd.",
+   "symbol": "MEDANTA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godawari-power-and-ispat",
+   "name": "Godawari Power & Ispat Ltd.",
+   "symbol": "GPIL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godfrey-phillips",
+   "name": "Godfrey Phillips India Ltd.",
+   "symbol": "GODFRYPHLP",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godrej-consumer",
+   "name": "Godrej Consumer Products Ltd.",
+   "symbol": "GODREJCP",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "godrej-industries",
+   "name": "Godrej Industries Ltd.",
+   "symbol": "GODREJIND",
+   "type": "listed",
+   "nse_industry": "Diversified",
+   "industry": "conglomerate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godrej-properties",
+   "name": "Godrej Properties Ltd.",
+   "symbol": "GODREJPROP",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "granules",
+   "name": "Granules India Ltd.",
+   "symbol": "GRANULES",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "graphite",
+   "name": "Graphite India Ltd.",
+   "symbol": "GRAPHITE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "grasim-industries",
+   "name": "Grasim Industries Ltd.",
+   "symbol": "GRASIM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gravita",
+   "name": "Gravita India Ltd.",
+   "symbol": "GRAVITA",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "great-eastern-shipping",
+   "name": "Great Eastern Shipping Co. Ltd.",
+   "symbol": "GESHIP",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gujarat-fluorochemicals",
+   "name": "Gujarat Fluorochemicals Ltd.",
+   "symbol": "FLUOROCHEM",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gujarat-mineral-development",
+   "name": "Gujarat Mineral Development Corporation Ltd.",
+   "symbol": "GMDCLTD",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hbl-engineering",
+   "name": "HBL Engineering Ltd.",
+   "symbol": "HBLENGINE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hcltech",
+   "name": "HCL Technologies Ltd.",
+   "symbol": "HCLTECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "hdb-financial-services",
+   "name": "HDB Financial Services Ltd.",
+   "symbol": "HDBFS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-asset-management",
+   "name": "HDFC Asset Management Company Ltd.",
+   "symbol": "HDFCAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-bank",
+   "name": "HDFC Bank Ltd.",
+   "symbol": "HDFCBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "hdfc-life",
+   "name": "HDFC Life Insurance Company Ltd.",
+   "symbol": "HDFCLIFE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "heg-advanced-materials",
+   "name": "HEG Advanced Materials Ltd.",
+   "symbol": "HEGAM",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hfcl",
+   "name": "HFCL Ltd.",
+   "symbol": "HFCL",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "havells",
+   "name": "Havells India Ltd.",
+   "symbol": "HAVELLS",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hero-motocorp",
+   "name": "Hero MotoCorp Ltd.",
+   "symbol": "HEROMOTOCO",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "hexaware-technologies",
+   "name": "Hexaware Technologies Ltd.",
+   "symbol": "HEXT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "himadri-speciality-chemical",
+   "name": "Himadri Speciality Chemical Ltd.",
+   "symbol": "HSCL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindalco",
+   "name": "Hindalco Industries Ltd.",
+   "symbol": "HINDALCO",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "hindustan-aeronautics",
+   "name": "Hindustan Aeronautics Ltd.",
+   "symbol": "HAL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindustan-copper",
+   "name": "Hindustan Copper Ltd.",
+   "symbol": "HINDCOPPER",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindustan-petroleum",
+   "name": "Hindustan Petroleum Corporation Ltd.",
+   "symbol": "HINDPETRO",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hul",
+   "name": "Hindustan Unilever Ltd.",
+   "symbol": "HINDUNILVR",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "hindustan-zinc",
+   "name": "Hindustan Zinc Ltd.",
+   "symbol": "HINDZINC",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hitachi-energy",
+   "name": "Hitachi Energy India Ltd.",
+   "symbol": "POWERINDIA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "home-first-finance",
+   "name": "Home First Finance Company India Ltd.",
+   "symbol": "HOMEFIRST",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "honasa",
+   "name": "Honasa Consumer Ltd.",
+   "symbol": "HONASA",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "honeywell-automation",
+   "name": "Honeywell Automation India Ltd.",
+   "symbol": "HONAUT",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "housing-and-urban-development",
+   "name": "Housing & Urban Development Corporation Ltd.",
+   "symbol": "HUDCO",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hyundai-motor",
+   "name": "Hyundai Motor India Ltd.",
+   "symbol": "HYUNDAI",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "icici-bank",
+   "name": "ICICI Bank Ltd.",
+   "symbol": "ICICIBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "icici-lombard-general-insurance",
+   "name": "ICICI Lombard General Insurance Company Ltd.",
+   "symbol": "ICICIGI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "icici-prudential-asset-management",
+   "name": "ICICI Prudential Asset Management Company Ltd.",
+   "symbol": "ICICIAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "icici-prudential-life-insurance",
+   "name": "ICICI Prudential Life Insurance Company Ltd.",
+   "symbol": "ICICIPRULI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "idbi-bank",
+   "name": "IDBI Bank Ltd.",
+   "symbol": "IDBI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "idfc-first-bank",
+   "name": "IDFC First Bank Ltd.",
+   "symbol": "IDFCFIRSTB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ifci",
+   "name": "IFCI Ltd.",
+   "symbol": "IFCI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "iifl-finance",
+   "name": "IIFL Finance Ltd.",
+   "symbol": "IIFL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "inox",
+   "name": "INOX India Ltd.",
+   "symbol": "INOXINDIA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "irb-infrastructure-developers",
+   "name": "IRB Infrastructure Developers Ltd.",
+   "symbol": "IRB",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ircon-international",
+   "name": "IRCON International Ltd.",
+   "symbol": "IRCON",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "itc-hotels",
+   "name": "ITC Hotels Ltd.",
+   "symbol": "ITCHOTELS",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "itc",
+   "name": "ITC Ltd.",
+   "symbol": "ITC",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "iti",
+   "name": "ITI Ltd.",
+   "symbol": "ITI",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cements",
+   "name": "India Cements Ltd.",
+   "symbol": "INDIACEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indiamart-intermesh",
+   "name": "Indiamart Intermesh Ltd.",
+   "symbol": "INDIAMART",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-bank",
+   "name": "Indian Bank",
+   "symbol": "INDIANB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-energy-exchange",
+   "name": "Indian Energy Exchange Ltd.",
+   "symbol": "IEX",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-hotels",
+   "name": "Indian Hotels Co. Ltd.",
+   "symbol": "INDHOTEL",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "indian-oil",
+   "name": "Indian Oil Corporation Ltd.",
+   "symbol": "IOC",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-overseas-bank",
+   "name": "Indian Overseas Bank",
+   "symbol": "IOB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "irctc",
+   "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+   "symbol": "IRCTC",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "indian-railway-finance",
+   "name": "Indian Railway Finance Corporation Ltd.",
+   "symbol": "IRFC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-renewable-energy-development-agency",
+   "name": "Indian Renewable Energy Development Agency Ltd.",
+   "symbol": "IREDA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indraprastha-gas",
+   "name": "Indraprastha Gas Ltd.",
+   "symbol": "IGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indus-towers",
+   "name": "Indus Towers Ltd.",
+   "symbol": "INDUSTOWER",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indusind-bank",
+   "name": "IndusInd Bank Ltd.",
+   "symbol": "INDUSINDBK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "info-edge",
+   "name": "Info Edge (India) Ltd.",
+   "symbol": "NAUKRI",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "infosys",
+   "name": "Infosys Ltd.",
+   "symbol": "INFY",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "inox-wind",
+   "name": "Inox Wind Ltd.",
+   "symbol": "INOXWIND",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "intellect-design-arena",
+   "name": "Intellect Design Arena Ltd.",
+   "symbol": "INTELLECT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indigo",
+   "name": "InterGlobe Aviation Ltd.",
+   "symbol": "INDIGO",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "international-gemological-institute",
+   "name": "International Gemological Institute Ltd.",
+   "symbol": "IGIL",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "inventurus-knowledge-solutions",
+   "name": "Inventurus Knowledge Solutions Ltd.",
+   "symbol": "IKS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ipca-laboratories",
+   "name": "Ipca Laboratories Ltd.",
+   "symbol": "IPCALAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "j-k-cement",
+   "name": "J.K. Cement Ltd.",
+   "symbol": "JKCEMENT",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jbm-auto",
+   "name": "JBM Auto Ltd.",
+   "symbol": "JBMA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jk-tyre-and-industries",
+   "name": "JK Tyre & Industries Ltd.",
+   "symbol": "JKTYRE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jm-financial",
+   "name": "JM Financial Ltd.",
+   "symbol": "JMFINANCIL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-cement",
+   "name": "JSW Cement Ltd.",
+   "symbol": "JSWCEMENT",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-energy",
+   "name": "JSW Energy Ltd.",
+   "symbol": "JSWENERGY",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-infrastructure",
+   "name": "JSW Infrastructure Ltd.",
+   "symbol": "JSWINFRA",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-steel",
+   "name": "JSW Steel Ltd.",
+   "symbol": "JSWSTEEL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "jain-resource-recycling",
+   "name": "Jain Resource Recycling Ltd.",
+   "symbol": "JAINREC",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jaiprakash-power-ventures",
+   "name": "Jaiprakash Power Ventures Ltd.",
+   "symbol": "JPPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jammu-and-kashmir-bank",
+   "name": "Jammu & Kashmir Bank Ltd.",
+   "symbol": "J&KBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jindal-saw",
+   "name": "Jindal Saw Ltd.",
+   "symbol": "JINDALSAW",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jindal-stainless",
+   "name": "Jindal Stainless Ltd.",
+   "symbol": "JSL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jindal-steel",
+   "name": "Jindal Steel Ltd.",
+   "symbol": "JINDALSTEL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jio-financial",
+   "name": "Jio Financial Services Ltd.",
+   "symbol": "JIOFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "jubilant-foodworks",
+   "name": "Jubilant Foodworks Ltd.",
+   "symbol": "JUBLFOOD",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jubilant-ingrevia",
+   "name": "Jubilant Ingrevia Ltd.",
+   "symbol": "JUBLINGREA",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jupiter-wagons",
+   "name": "Jupiter Wagons Ltd.",
+   "symbol": "JWL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jyoti-cnc-automation",
+   "name": "Jyoti CNC Automation Ltd.",
+   "symbol": "JYOTICNC",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "k-p-r-mill",
+   "name": "K.P.R. Mill Ltd.",
+   "symbol": "KPRMILL",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kei-industries",
+   "name": "KEI Industries Ltd.",
+   "symbol": "KEI",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kpit-technologies",
+   "name": "KPIT Technologies Ltd.",
+   "symbol": "KPITTECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ksb",
+   "name": "KSB Ltd.",
+   "symbol": "KSB",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kajaria-ceramics",
+   "name": "Kajaria Ceramics Ltd.",
+   "symbol": "KAJARIACER",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kalpataru-projects-international",
+   "name": "Kalpataru Projects International Ltd.",
+   "symbol": "KPIL",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kalyan-jewellers",
+   "name": "Kalyan Jewellers India Ltd.",
+   "symbol": "KALYANKJIL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "karur-vysya-bank",
+   "name": "Karur Vysya Bank Ltd.",
+   "symbol": "KARURVYSYA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kaynes-technology",
+   "name": "Kaynes Technology India Ltd.",
+   "symbol": "KAYNES",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kec-international",
+   "name": "Kec International Ltd.",
+   "symbol": "KEC",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kfin-technologies",
+   "name": "Kfin Technologies Ltd.",
+   "symbol": "KFINTECH",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kirloskar-brothers",
+   "name": "Kirloskar Brothers Ltd.",
+   "symbol": "KIRLOSBROS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kirloskar-oil-eng",
+   "name": "Kirloskar Oil Eng Ltd.",
+   "symbol": "KIRLOSENG",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kotak-bank",
+   "name": "Kotak Mahindra Bank Ltd.",
+   "symbol": "KOTAKBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "krishna-institute-of-medical-sciences",
+   "name": "Krishna Institute of Medical Sciences Ltd.",
+   "symbol": "KIMS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "l-and-t-finance",
+   "name": "L&T Finance Ltd.",
+   "symbol": "LTF",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "l-and-t-technology-services",
+   "name": "L&T Technology Services Ltd.",
+   "symbol": "LTTS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lg-electronics",
+   "name": "LG Electronics India Ltd.",
+   "symbol": "LGEINDIA",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lic-housing-finance",
+   "name": "LIC Housing Finance Ltd.",
+   "symbol": "LICHSGFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lt-foods",
+   "name": "LT Foods Ltd.",
+   "symbol": "LTFOODS",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ltm",
+   "name": "LTM Ltd.",
+   "symbol": "LTM",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "larsen-toubro",
+   "name": "Larsen & Toubro Ltd.",
+   "symbol": "LT",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "laurus-labs",
+   "name": "Laurus Labs Ltd.",
+   "symbol": "LAURUSLABS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lemon-tree-hotels",
+   "name": "Lemon Tree Hotels Ltd.",
+   "symbol": "LEMONTREE",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lenskart",
+   "name": "Lenskart Solutions Ltd.",
+   "symbol": "LENSKART",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "life-insurance-of",
+   "name": "Life Insurance Corporation of India",
+   "symbol": "LICI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "linde",
+   "name": "Linde India Ltd.",
+   "symbol": "LINDEINDIA",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lloyds-metals-and-energy",
+   "name": "Lloyds Metals And Energy Ltd.",
+   "symbol": "LLOYDSME",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lodha-developers",
+   "name": "Lodha Developers Ltd.",
+   "symbol": "LODHA",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lupin",
+   "name": "Lupin Ltd.",
+   "symbol": "LUPIN",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mmtc",
+   "name": "MMTC Ltd.",
+   "symbol": "MMTC",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mrf",
+   "name": "MRF Ltd.",
+   "symbol": "MRF",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mtar-technologies",
+   "name": "MTAR Technologies Ltd.",
+   "symbol": "MTARTECH",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mahanagar-gas",
+   "name": "Mahanagar Gas Ltd.",
+   "symbol": "MGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mahindra-and-mahindra-financial-services",
+   "name": "Mahindra & Mahindra Financial Services Ltd.",
+   "symbol": "M&MFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mahindra",
+   "name": "Mahindra & Mahindra Ltd.",
+   "symbol": "M&M",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "manappuram-finance",
+   "name": "Manappuram Finance Ltd.",
+   "symbol": "MANAPPURAM",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mangalore-refinery-and-petrochemicals",
+   "name": "Mangalore Refinery & Petrochemicals Ltd.",
+   "symbol": "MRPL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mankind-pharma",
+   "name": "Mankind Pharma Ltd.",
+   "symbol": "MANKIND",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "marico",
+   "name": "Marico Ltd.",
+   "symbol": "MARICO",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "maruti-suzuki",
+   "name": "Maruti Suzuki India Ltd.",
+   "symbol": "MARUTI",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "max-financial-services",
+   "name": "Max Financial Services Ltd.",
+   "symbol": "MFSL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "max-healthcare-institute",
+   "name": "Max Healthcare Institute Ltd.",
+   "symbol": "MAXHEALTH",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mazagoan-dock-shipbuilders",
+   "name": "Mazagoan Dock Shipbuilders Ltd.",
+   "symbol": "MAZDOCK",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "meesho",
+   "name": "Meesho Ltd.",
+   "symbol": "MEESHO",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "minda",
+   "name": "Minda Corporation Ltd.",
+   "symbol": "MINDACORP",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "motherson-sumi-wiring",
+   "name": "Motherson Sumi Wiring India Ltd.",
+   "symbol": "MSUMI",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "motilal-oswal-financial-services",
+   "name": "Motilal Oswal Financial Services Ltd.",
+   "symbol": "MOTILALOFS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mphasis",
+   "name": "MphasiS Ltd.",
+   "symbol": "MPHASIS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "multi-commodity-exchange-of",
+   "name": "Multi Commodity Exchange of India Ltd.",
+   "symbol": "MCX",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "muthoot-finance",
+   "name": "Muthoot Finance Ltd.",
+   "symbol": "MUTHOOTFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "natco-pharma",
+   "name": "NATCO Pharma Ltd.",
+   "symbol": "NATCOPHARM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nbcc",
+   "name": "NBCC (India) Ltd.",
+   "symbol": "NBCC",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ncc",
+   "name": "NCC Ltd.",
+   "symbol": "NCC",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nhpc",
+   "name": "NHPC Ltd.",
+   "symbol": "NHPC",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nlc",
+   "name": "NLC India Ltd.",
+   "symbol": "NLCINDIA",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nmdc",
+   "name": "NMDC Ltd.",
+   "symbol": "NMDC",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nmdc-steel",
+   "name": "NMDC Steel Ltd.",
+   "symbol": "NSLNISP",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ntpc-green-energy",
+   "name": "NTPC Green Energy Ltd.",
+   "symbol": "NTPCGREEN",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ntpc",
+   "name": "NTPC Ltd.",
+   "symbol": "NTPC",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "narayana-hrudayalaya",
+   "name": "Narayana Hrudayalaya Ltd.",
+   "symbol": "NH",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "national-aluminium",
+   "name": "National Aluminium Co. Ltd.",
+   "symbol": "NATIONALUM",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nava",
+   "name": "Nava Ltd.",
+   "symbol": "NAVA",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "navin-fluorine-international",
+   "name": "Navin Fluorine International Ltd.",
+   "symbol": "NAVINFLUOR",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nestle-india",
+   "name": "Nestle India Ltd.",
+   "symbol": "NESTLEIND",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "netweb-technologies",
+   "name": "Netweb Technologies India Ltd.",
+   "symbol": "NETWEB",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "neuland-laboratories",
+   "name": "Neuland Laboratories Ltd.",
+   "symbol": "NEULANDLAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nippon-life-asset-management",
+   "name": "Nippon Life India Asset Management Ltd.",
+   "symbol": "NAM-INDIA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nuvama-wealth-management",
+   "name": "Nuvama Wealth Management Ltd.",
+   "symbol": "NUVAMA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nuvoco-vistas",
+   "name": "Nuvoco Vistas Corporation Ltd.",
+   "symbol": "NUVOCO",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "oberoi-realty",
+   "name": "Oberoi Realty Ltd.",
+   "symbol": "OBEROIRLTY",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ongc",
+   "name": "Oil & Natural Gas Corporation Ltd.",
+   "symbol": "ONGC",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "oil",
+   "name": "Oil India Ltd.",
+   "symbol": "OIL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ola-electric",
+   "name": "Ola Electric Mobility Ltd.",
+   "symbol": "OLAELEC",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "olectra-greentech",
+   "name": "Olectra Greentech Ltd.",
+   "symbol": "OLECTRA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "paytm",
+   "name": "One 97 Communications Ltd.",
+   "symbol": "PAYTM",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "fintech-payments",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "onesource-specialty-pharma",
+   "name": "Onesource Specialty Pharma Ltd.",
+   "symbol": "ONESOURCE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "oracle-financial-services-software",
+   "name": "Oracle Financial Services Software Ltd.",
+   "symbol": "OFSS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pb-fintech",
+   "name": "PB Fintech Ltd.",
+   "symbol": "POLICYBZR",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "fintech-payments",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "pcbl-chemical",
+   "name": "PCBL Chemical Ltd.",
+   "symbol": "PCBL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pg-electroplast",
+   "name": "PG Electroplast Ltd.",
+   "symbol": "PGEL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pi-industries",
+   "name": "PI Industries Ltd.",
+   "symbol": "PIIND",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pnb-housing-finance",
+   "name": "PNB Housing Finance Ltd.",
+   "symbol": "PNBHOUSING",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ptc-industries",
+   "name": "PTC Industries Ltd.",
+   "symbol": "PTCIL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pvr-inox",
+   "name": "PVR INOX Ltd.",
+   "symbol": "PVRINOX",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "page-industries",
+   "name": "Page Industries Ltd.",
+   "symbol": "PAGEIND",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "paradeep-phosphates",
+   "name": "Paradeep Phosphates Ltd.",
+   "symbol": "PARADEEP",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "patanjali-foods",
+   "name": "Patanjali Foods Ltd.",
+   "symbol": "PATANJALI",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "persistent",
+   "name": "Persistent Systems Ltd.",
+   "symbol": "PERSISTENT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "petronet-lng",
+   "name": "Petronet LNG Ltd.",
+   "symbol": "PETRONET",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "phoenix-mills",
+   "name": "Phoenix Mills Ltd.",
+   "symbol": "PHOENIXLTD",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pidilite",
+   "name": "Pidilite Industries Ltd.",
+   "symbol": "PIDILITIND",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "pine-labs",
+   "name": "Pine Labs Ltd.",
+   "symbol": "PINELABS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "fintech-payments",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "piramal-finance",
+   "name": "Piramal Finance Ltd.",
+   "symbol": "PIRAMALFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "piramal-pharma",
+   "name": "Piramal Pharma Ltd.",
+   "symbol": "PPLPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "poly-medicure",
+   "name": "Poly Medicure Ltd.",
+   "symbol": "POLYMED",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "polycab",
+   "name": "Polycab India Ltd.",
+   "symbol": "POLYCAB",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "poonawalla-fincorp",
+   "name": "Poonawalla Fincorp Ltd.",
+   "symbol": "POONAWALLA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "power-finance",
+   "name": "Power Finance Corporation Ltd.",
+   "symbol": "PFC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "power-grid",
+   "name": "Power Grid Corporation of India Ltd.",
+   "symbol": "POWERGRID",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "premier-energies",
+   "name": "Premier Energies Ltd.",
+   "symbol": "PREMIERENE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "prestige-estates-projects",
+   "name": "Prestige Estates Projects Ltd.",
+   "symbol": "PRESTIGE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "prime-focus",
+   "name": "Prime Focus Ltd.",
+   "symbol": "PFOCUS",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "privi-speciality-chemicals",
+   "name": "Privi Speciality Chemicals Ltd.",
+   "symbol": "PRIVISCL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "punjab-national-bank",
+   "name": "Punjab National Bank",
+   "symbol": "PNB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "r-r-kabel",
+   "name": "R R Kabel Ltd.",
+   "symbol": "RRKABEL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rbl-bank",
+   "name": "RBL Bank Ltd.",
+   "symbol": "RBLBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rec",
+   "name": "REC Ltd.",
+   "symbol": "RECLTD",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rhi-magnesita",
+   "name": "RHI MAGNESITA INDIA LTD.",
+   "symbol": "RHIM",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rites",
+   "name": "RITES Ltd.",
+   "symbol": "RITES",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "radico-khaitan",
+   "name": "Radico Khaitan Ltd",
+   "symbol": "RADICO",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rail-vikas-nigam",
+   "name": "Rail Vikas Nigam Ltd.",
+   "symbol": "RVNL",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "railtel-of",
+   "name": "Railtel Corporation Of India Ltd.",
+   "symbol": "RAILTEL",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rainbow-childrens-medicare",
+   "name": "Rainbow Childrens Medicare Ltd.",
+   "symbol": "RAINBOW",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ramkrishna-forgings",
+   "name": "Ramkrishna Forgings Ltd.",
+   "symbol": "RKFORGE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "redington",
+   "name": "Redington Ltd.",
+   "symbol": "REDINGTON",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "reliance",
+   "name": "Reliance Industries Ltd.",
+   "symbol": "RELIANCE",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "reliance-power",
+   "name": "Reliance Power Ltd.",
+   "symbol": "RPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rubicon-research",
+   "name": "Rubicon Research Ltd.",
+   "symbol": "RUBICON",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sbi-cards-and-payment-services",
+   "name": "SBI Cards and Payment Services Ltd.",
+   "symbol": "SBICARD",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sbi-life",
+   "name": "SBI Life Insurance Company Ltd.",
+   "symbol": "SBILIFE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "sjvn",
+   "name": "SJVN Ltd.",
+   "symbol": "SJVN",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "spr-auto-technologies",
+   "name": "SPR Auto Technologies Ltd.",
+   "symbol": "SHRIPISTON",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "srf",
+   "name": "SRF Ltd.",
+   "symbol": "SRF",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sagility",
+   "name": "Sagility Ltd.",
+   "symbol": "SAGILITY",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sai-life-sciences",
+   "name": "Sai Life Sciences Ltd.",
+   "symbol": "SAILIFE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sammaan-capital",
+   "name": "Sammaan Capital Ltd.",
+   "symbol": "SAMMAANCAP",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "samvardhana-motherson-international",
+   "name": "Samvardhana Motherson International Ltd.",
+   "symbol": "MOTHERSON",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sansera-engineering",
+   "name": "Sansera Engineering Ltd.",
+   "symbol": "SANSERA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sarda-energy-and-minerals",
+   "name": "Sarda Energy and Minerals Ltd.",
+   "symbol": "SARDAEN",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "schaeffler",
+   "name": "Schaeffler India Ltd.",
+   "symbol": "SCHAEFFLER",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "schneider-electric-infrastructure",
+   "name": "Schneider Electric Infrastructure Ltd.",
+   "symbol": "SCHNEIDER",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shipping-of",
+   "name": "Shipping Corporation of India Ltd.",
+   "symbol": "SCI",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shree-cement",
+   "name": "Shree Cement Ltd.",
+   "symbol": "SHREECEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shriram-finance",
+   "name": "Shriram Finance Ltd.",
+   "symbol": "SHRIRAMFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shyam-metalics-and-energy",
+   "name": "Shyam Metalics and Energy Ltd.",
+   "symbol": "SHYAMMETL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "siemens-energy",
+   "name": "Siemens Energy India Ltd.",
+   "symbol": "ENRIN",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "siemens",
+   "name": "Siemens Ltd.",
+   "symbol": "SIEMENS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "signatureglobal",
+   "name": "Signatureglobal (India) Ltd.",
+   "symbol": "SIGNATURE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sobha",
+   "name": "Sobha Ltd.",
+   "symbol": "SOBHA",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "solar-industries",
+   "name": "Solar Industries India Ltd.",
+   "symbol": "SOLARINDS",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sona-blw-precision-forgings",
+   "name": "Sona BLW Precision Forgings Ltd.",
+   "symbol": "SONACOMS",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "star-health",
+   "name": "Star Health and Allied Insurance Company Ltd.",
+   "symbol": "STARHEALTH",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "sbi",
+   "name": "State Bank of India",
+   "symbol": "SBIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "steel-authority-of",
+   "name": "Steel Authority of India Ltd.",
+   "symbol": "SAIL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sterlite-technologies",
+   "name": "Sterlite Technologies Ltd.",
+   "symbol": "STLTECH",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sumitomo-chemical",
+   "name": "Sumitomo Chemical India Ltd.",
+   "symbol": "SUMICHEM",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sun-pharma",
+   "name": "Sun Pharmaceutical Industries Ltd.",
+   "symbol": "SUNPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "sun-tv-network",
+   "name": "Sun TV Network Ltd.",
+   "symbol": "SUNTV",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sundaram-finance",
+   "name": "Sundaram Finance Ltd.",
+   "symbol": "SUNDARMFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "supreme-industries",
+   "name": "Supreme Industries Ltd.",
+   "symbol": "SUPREMEIND",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "suzlon-energy",
+   "name": "Suzlon Energy Ltd.",
+   "symbol": "SUZLON",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "swan-corp",
+   "name": "Swan Corp Ltd.",
+   "symbol": "SWANCORP",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "swiggy",
+   "name": "Swiggy Ltd.",
+   "symbol": "SWIGGY",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "syngene-international",
+   "name": "Syngene International Ltd.",
+   "symbol": "SYNGENE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "syrma-sgs-technology",
+   "name": "Syrma SGS Technology Ltd.",
+   "symbol": "SYRMA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tbo-tek",
+   "name": "TBO Tek Ltd.",
+   "symbol": "TBOTEK",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "td-power-systems",
+   "name": "TD Power Systems Ltd.",
+   "symbol": "TDPOWERSYS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tvs-motor",
+   "name": "TVS Motor Company Ltd.",
+   "symbol": "TVSMOTOR",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-capital",
+   "name": "Tata Capital Ltd.",
+   "symbol": "TATACAP",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-chemicals",
+   "name": "Tata Chemicals Ltd.",
+   "symbol": "TATACHEM",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-communications",
+   "name": "Tata Communications Ltd.",
+   "symbol": "TATACOMM",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tcs",
+   "name": "Tata Consultancy Services Ltd.",
+   "symbol": "TCS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "tata-consumer",
+   "name": "Tata Consumer Products Ltd.",
+   "symbol": "TATACONSUM",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "tata-elxsi",
+   "name": "Tata Elxsi Ltd.",
+   "symbol": "TATAELXSI",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-investment",
+   "name": "Tata Investment Corporation Ltd.",
+   "symbol": "TATAINVEST",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-motors",
+   "name": "Tata Motors Ltd.",
+   "symbol": "TMCV",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "tata-motors-passenger-vehicles",
+   "name": "Tata Motors Passenger Vehicles Ltd.",
+   "symbol": "TMPV",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-power",
+   "name": "Tata Power Co. Ltd.",
+   "symbol": "TATAPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-steel",
+   "name": "Tata Steel Ltd.",
+   "symbol": "TATASTEEL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "tata-technologies",
+   "name": "Tata Technologies Ltd.",
+   "symbol": "TATATECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-teleservices-maharashtra",
+   "name": "Tata Teleservices (Maharashtra) Ltd.",
+   "symbol": "TTML",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tech-mahindra",
+   "name": "Tech Mahindra Ltd.",
+   "symbol": "TECHM",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "techno-electric-and-engineering",
+   "name": "Techno Electric & Engineering Company Ltd.",
+   "symbol": "TECHNOE",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tega-industries",
+   "name": "Tega Industries Ltd.",
+   "symbol": "TEGA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tejas-networks",
+   "name": "Tejas Networks Ltd.",
+   "symbol": "TEJASNET",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tenneco-clean-air",
+   "name": "Tenneco Clean Air India Ltd.",
+   "symbol": "TENNIND",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "thangamayil-jewellery",
+   "name": "Thangamayil Jewellery Ltd.",
+   "symbol": "THANGAMAYL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "new-assurance",
+   "name": "The New India Assurance Company Ltd.",
+   "symbol": "NIACL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ramco-cements",
+   "name": "The Ramco Cements Ltd.",
+   "symbol": "RAMCOCEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "thermax",
+   "name": "Thermax Ltd.",
+   "symbol": "THERMAX",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "timken",
+   "name": "Timken India Ltd.",
+   "symbol": "TIMKEN",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "titagarh-rail-systems",
+   "name": "Titagarh Rail Systems Ltd.",
+   "symbol": "TITAGARH",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "titan",
+   "name": "Titan Company Ltd.",
+   "symbol": "TITAN",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "torrent-pharmaceuticals",
+   "name": "Torrent Pharmaceuticals Ltd.",
+   "symbol": "TORNTPHARM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "torrent-power",
+   "name": "Torrent Power Ltd.",
+   "symbol": "TORNTPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "transformers-and-rectifiers",
+   "name": "Transformers And Rectifiers (India) Ltd.",
+   "symbol": "TARIL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "trent",
+   "name": "Trent Ltd.",
+   "symbol": "TRENT",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "trident",
+   "name": "Trident Ltd.",
+   "symbol": "TRIDENT",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "triveni-turbine",
+   "name": "Triveni Turbine Ltd.",
+   "symbol": "TRITURBINE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tube-investments-of",
+   "name": "Tube Investments of India Ltd.",
+   "symbol": "TIINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "uco-bank",
+   "name": "UCO Bank",
+   "symbol": "UCOBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "uno-minda",
+   "name": "UNO Minda Ltd.",
+   "symbol": "UNOMINDA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "upl",
+   "name": "UPL Ltd.",
+   "symbol": "UPL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "uti-asset-management",
+   "name": "UTI Asset Management Company Ltd.",
+   "symbol": "UTIAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ultratech",
+   "name": "UltraTech Cement Ltd.",
+   "symbol": "ULTRACEMCO",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "union-bank-of",
+   "name": "Union Bank of India",
+   "symbol": "UNIONBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "united-breweries",
+   "name": "United Breweries Ltd.",
+   "symbol": "UBL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "united-spirits",
+   "name": "United Spirits Ltd.",
+   "symbol": "UNITDSPR",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "urban-company",
+   "name": "Urban Company Ltd.",
+   "symbol": "URBANCO",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "usha-martin",
+   "name": "Usha Martin Ltd.",
+   "symbol": "USHAMART",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vardhman-textiles",
+   "name": "Vardhman Textiles Ltd.",
+   "symbol": "VTL",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "varun-beverages",
+   "name": "Varun Beverages Ltd.",
+   "symbol": "VBL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "vedanta-aluminium-metal",
+   "name": "Vedanta Aluminium Metal Ltd.",
+   "symbol": "VAML",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta-iron-and-steel",
+   "name": "Vedanta Iron and Steel Ltd.",
+   "symbol": "VISL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta",
+   "name": "Vedanta Ltd.",
+   "symbol": "VEDL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "vedanta-oil-and-gas",
+   "name": "Vedanta Oil and Gas Ltd.",
+   "symbol": "VOGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta-power",
+   "name": "Vedanta Power Ltd.",
+   "symbol": "VEDPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vijaya-diagnostic-centre",
+   "name": "Vijaya Diagnostic Centre Ltd.",
+   "symbol": "VIJAYA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vishal-mega-mart",
+   "name": "Vishal Mega Mart Ltd.",
+   "symbol": "VMM",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vodafone-idea",
+   "name": "Vodafone Idea Ltd.",
+   "symbol": "IDEA",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "voltas",
+   "name": "Voltas Ltd.",
+   "symbol": "VOLTAS",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "waaree-energies",
+   "name": "Waaree Energies Ltd.",
+   "symbol": "WAAREEENER",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "welspun-corp",
+   "name": "Welspun Corp Ltd.",
+   "symbol": "WELCORP",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "welspun-living",
+   "name": "Welspun Living Ltd.",
+   "symbol": "WELSPUNLIV",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "whirlpool-of",
+   "name": "Whirlpool of India Ltd.",
+   "symbol": "WHIRLPOOL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "wipro",
+   "name": "Wipro Ltd.",
+   "symbol": "WIPRO",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "done"
+  },
+  {
+   "slug": "wockhardt",
+   "name": "Wockhardt Ltd.",
+   "symbol": "WOCKPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "yes-bank",
+   "name": "Yes Bank Ltd.",
+   "symbol": "YESBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zf-commercial-vehicle-control-systems",
+   "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+   "symbol": "ZFCVINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zee-entertainment-enterprises",
+   "name": "Zee Entertainment Enterprises Ltd.",
+   "symbol": "ZEEL",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zen-technologies",
+   "name": "Zen Technologies Ltd.",
+   "symbol": "ZENTEC",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zensar-technolgies",
+   "name": "Zensar Technolgies Ltd.",
+   "symbol": "ZENSARTECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zydus-lifesciences",
+   "name": "Zydus Lifesciences Ltd.",
+   "symbol": "ZYDUSLIFE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zydus-wellness",
+   "name": "Zydus Wellness Ltd.",
+   "symbol": "ZYDUSWELL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eclerx-services",
+   "name": "eClerx Services Ltd.",
+   "symbol": "ECLERX",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zepto",
+   "name": "Zepto",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "larsen-infotech",
+   "name": "LTIMindtree",
+   "type": "listed",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "ixigo",
+   "name": "ixigo (Le Travenues)",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "zaggle",
+   "name": "Zaggle Prepaid",
+   "type": "listed",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "mobikwik",
+   "name": "MobiKwik",
+   "type": "listed",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "phonepe",
+   "name": "PhonePe",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "razorpay",
+   "name": "Razorpay",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "cred",
+   "name": "CRED",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "zerodha",
+   "name": "Zerodha",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "oyo",
+   "name": "OYO",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "dream11",
+   "name": "Dream11 (Dream Sports)",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "boat",
+   "name": "boAt (Imagine Marketing)",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "bharatpe",
+   "name": "BharatPe",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "physicswallah",
+   "name": "PhysicsWallah",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "nifty500",
+   "status": "done",
+   "symbol": "PWL"
+  },
+  {
+   "slug": "licious",
+   "name": "Licious",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "rebel-foods",
+   "name": "Rebel Foods",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "cars24",
+   "name": "Cars24",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "upgrad",
+   "name": "upGrad",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "swiggy-instamart",
+   "name": "BigBasket",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "go-digit",
+   "name": "Go Digit General Insurance",
+   "type": "listed",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "unacademy",
+   "name": "Unacademy",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "acko",
+   "name": "Acko",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "spinny",
+   "name": "Spinny",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "purplle",
+   "name": "Purplle",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "done"
+  },
+  {
+   "slug": "flipkart",
+   "name": "Flipkart",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "myntra",
+   "name": "Myntra",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rapido",
+   "name": "Rapido",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dunzo",
+   "name": "Dunzo",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "byju-s",
+   "name": "Byju's",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vedantu",
+   "name": "Vedantu",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "eruditus",
+   "name": "Eruditus",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "great-learning",
+   "name": "Great Learning",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "simplilearn",
+   "name": "Simplilearn",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lead-school",
+   "name": "LEAD School",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "classplus",
+   "name": "Classplus",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "adda247",
+   "name": "Adda247",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "testbook",
+   "name": "Testbook",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "scaler-interviewbit",
+   "name": "Scaler (InterviewBit)",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "leap-scholar",
+   "name": "Leap Scholar",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "seekho",
+   "name": "Seekho",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "allen-career-institute",
+   "name": "Allen Career Institute",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "aakash-educational-services",
+   "name": "Aakash Educational Services",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "udaan",
+   "name": "Udaan",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jumbotail",
+   "name": "Jumbotail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "moglix",
+   "name": "Moglix",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ofbusiness",
+   "name": "OfBusiness",
+   "type": "startup",
+   "industry": "metals-materials",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zetwerk",
+   "name": "Zetwerk",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "infra-market",
+   "name": "Infra.Market",
+   "type": "startup",
+   "industry": "cement-building-materials",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bizongo",
+   "name": "Bizongo",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vegrow",
+   "name": "Vegrow",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dehaat",
+   "name": "DeHaat",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ninjacart",
+   "name": "Ninjacart",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "country-delight",
+   "name": "Country Delight",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "milkbasket",
+   "name": "Milkbasket",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "freshtohome",
+   "name": "FreshToHome",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "haldiram-s",
+   "name": "Haldiram's",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "parle-products",
+   "name": "Parle Products",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "amul-gcmmf",
+   "name": "Amul (GCMMF)",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "balaji-wafers",
+   "name": "Balaji Wafers",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bikaji-foods",
+   "name": "Bikaji Foods",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "wow-momo",
+   "name": "Wow! Momo",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "chaayos",
+   "name": "Chaayos",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "third-wave-coffee",
+   "name": "Third Wave Coffee",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blue-tokai-coffee",
+   "name": "Blue Tokai Coffee",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sleepy-owl",
+   "name": "Sleepy Owl",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "whole-truth",
+   "name": "The Whole Truth",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yoga-bar",
+   "name": "Yoga Bar",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "paper-boat-hector-beverages",
+   "name": "Paper Boat (Hector Beverages)",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bira-91",
+   "name": "Bira 91",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sugar-cosmetics",
+   "name": "Sugar Cosmetics",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "plum-pureplay-skin-sciences",
+   "name": "Plum (Pureplay Skin Sciences)",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mcaffeine",
+   "name": "mCaffeine",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "minimalist",
+   "name": "Minimalist",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "man",
+   "name": "The Man Company",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bombay-shaving",
+   "name": "Bombay Shaving Company",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "foxtale",
+   "name": "Foxtale",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "wakefit",
+   "name": "Wakefit",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pepperfry",
+   "name": "Pepperfry",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "livspace",
+   "name": "Livspace",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "urban-ladder",
+   "name": "Urban Ladder",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "duroflex",
+   "name": "Duroflex",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "noise",
+   "name": "Noise",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fire-boltt",
+   "name": "Fire-Boltt",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "atomberg",
+   "name": "Atomberg",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bluestone",
+   "name": "Bluestone",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "giva",
+   "name": "Giva",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bewakoof",
+   "name": "Bewakoof",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "souled-store",
+   "name": "The Souled Store",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "snitch",
+   "name": "Snitch",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "libas",
+   "name": "Libas",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rare-rabbit",
+   "name": "Rare Rabbit",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "neeman-s",
+   "name": "Neeman's",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "decathlon",
+   "name": "Decathlon India",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shiprocket",
+   "name": "Shiprocket",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shadowfax",
+   "name": "Shadowfax",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "xpressbees",
+   "name": "Xpressbees",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "porter",
+   "name": "Porter",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rivigo",
+   "name": "Rivigo",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blackbuck-zinka-logistics",
+   "name": "BlackBuck (Zinka Logistics)",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blue-dart",
+   "name": "Blue Dart",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "letstransport",
+   "name": "LetsTransport",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cred-avenue-yubi",
+   "name": "Cred Avenue (Yubi)",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lendingkart",
+   "name": "Lendingkart",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kreditbee",
+   "name": "KreditBee",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "moneyview",
+   "name": "Moneyview",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "slice",
+   "name": "Slice",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fibe",
+   "name": "Fibe",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kissht",
+   "name": "Kissht",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fi-money",
+   "name": "Fi Money",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "open-financial",
+   "name": "Open Financial",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cashfree-payments",
+   "name": "Cashfree Payments",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "payu",
+   "name": "PayU India",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "juspay",
+   "name": "Juspay",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "m2p-fintech",
+   "name": "M2P Fintech",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "perfios",
+   "name": "Perfios",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "upstox",
+   "name": "Upstox",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "indmoney",
+   "name": "INDmoney",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "smallcase",
+   "name": "Smallcase",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kuvera",
+   "name": "Kuvera",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "scripbox",
+   "name": "Scripbox",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "insurancedekho",
+   "name": "InsuranceDekho",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "turtlemint",
+   "name": "Turtlemint",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "renewbuy",
+   "name": "RenewBuy",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ditto-insurance",
+   "name": "Ditto Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "niva-bupa-health-insurance",
+   "name": "Niva Bupa Health Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "care-health-insurance",
+   "name": "Care Health Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "freshworks",
+   "name": "Freshworks",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zoho",
+   "name": "Zoho",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "chargebee",
+   "name": "Chargebee",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "postman",
+   "name": "Postman",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "browserstack",
+   "name": "BrowserStack",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "druva",
+   "name": "Druva",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "icertis",
+   "name": "Icertis",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "whatfix",
+   "name": "Whatfix",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "darwinbox",
+   "name": "Darwinbox",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "leadsquared",
+   "name": "LeadSquared",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mindtickle",
+   "name": "MindTickle",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "innovaccer",
+   "name": "Innovaccer",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "highradius",
+   "name": "Highradius",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "uniphore",
+   "name": "Uniphore",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "gupshup",
+   "name": "Gupshup",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yellow-ai",
+   "name": "Yellow.ai",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "haptik",
+   "name": "Haptik",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "exotel",
+   "name": "Exotel",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "moengage",
+   "name": "MoEngage",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "clevertap",
+   "name": "CleverTap",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "webengage",
+   "name": "WebEngage",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zluri",
+   "name": "Zluri",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rocketlane",
+   "name": "Rocketlane",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sarvam-ai",
+   "name": "Sarvam AI",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "krutrim",
+   "name": "Krutrim",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mu-sigma",
+   "name": "Mu Sigma",
+   "type": "startup",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "latentview-analytics",
+   "name": "LatentView Analytics",
+   "type": "startup",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tiger-analytics",
+   "name": "Tiger Analytics",
+   "type": "startup",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "practo",
+   "name": "Practo",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pharmeasy",
+   "name": "PharmEasy",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cult-fit",
+   "name": "Cult.fit",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "healthifyme",
+   "name": "HealthifyMe",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pristyn-care",
+   "name": "Pristyn Care",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "medikabazaar",
+   "name": "Medikabazaar",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "redcliffe-labs",
+   "name": "Redcliffe Labs",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "healthians",
+   "name": "Healthians",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "even-healthcare",
+   "name": "Even Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ultrahuman",
+   "name": "Ultrahuman",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nothing",
+   "name": "Nothing India",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lava-international",
+   "name": "Lava International",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "micromax",
+   "name": "Micromax",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yulu",
+   "name": "Yulu",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bounce",
+   "name": "Bounce",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zoomcar",
+   "name": "Zoomcar",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blusmart",
+   "name": "BluSmart",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "euler-motors",
+   "name": "Euler Motors",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "river",
+   "name": "River",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ultraviolette",
+   "name": "Ultraviolette",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "simple-energy",
+   "name": "Simple Energy",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "revolt-motors",
+   "name": "Revolt Motors",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "log9-materials",
+   "name": "Log9 Materials",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "exponent-energy",
+   "name": "Exponent Energy",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "greenko",
+   "name": "Greenko",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "avaada",
+   "name": "Avaada",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "hygenco",
+   "name": "Hygenco",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "agnikul-cosmos",
+   "name": "Agnikul Cosmos",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "skyroot-aerospace",
+   "name": "Skyroot Aerospace",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pixxel",
+   "name": "Pixxel",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ideaforge",
+   "name": "ideaForge",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "garuda-aerospace",
+   "name": "Garuda Aerospace",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tonbo-imaging",
+   "name": "Tonbo Imaging",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "makemytrip",
+   "name": "MakeMyTrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cleartrip",
+   "name": "Cleartrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "easemytrip",
+   "name": "EaseMyTrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yatra",
+   "name": "Yatra",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "redbus",
+   "name": "redBus",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zostel",
+   "name": "Zostel",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "treebo",
+   "name": "Treebo",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fabhotels",
+   "name": "FabHotels",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "thrillophilia",
+   "name": "Thrillophilia",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "akasa-air",
+   "name": "Akasa Air",
+   "type": "startup",
+   "industry": "aviation",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "spicejet",
+   "name": "SpiceJet",
+   "type": "startup",
+   "industry": "aviation",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nobroker",
+   "name": "NoBroker",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "square-yards",
+   "name": "Square Yards",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "housing-com",
+   "name": "Housing.com",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "magicbricks",
+   "name": "MagicBricks",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "stanza-living",
+   "name": "Stanza Living",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zolo",
+   "name": "Zolo",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "smartworks",
+   "name": "Smartworks",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "awfis",
+   "name": "Awfis",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "wework",
+   "name": "WeWork India",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "table-space",
+   "name": "Table Space",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sharechat-mohalla-tech",
+   "name": "ShareChat (Mohalla Tech)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pocket-fm",
+   "name": "Pocket FM",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kuku-fm",
+   "name": "Kuku FM",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pratilipi",
+   "name": "Pratilipi",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dailyhunt-verse-innovation",
+   "name": "Dailyhunt (VerSe Innovation)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "inmobi",
+   "name": "InMobi",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "glance",
+   "name": "Glance",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jiohotstar-jiostar",
+   "name": "JioHotstar (JioStar)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nazara-technologies",
+   "name": "Nazara Technologies",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "games24x7",
+   "name": "Games24x7",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "winzo",
+   "name": "Winzo",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "junglee-games",
+   "name": "Junglee Games",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "krafton",
+   "name": "Krafton India",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bookmyshow-bigtree",
+   "name": "BookMyShow (Bigtree)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "magicpin",
+   "name": "Magicpin",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "apna",
+   "name": "Apna",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "workindia",
+   "name": "WorkIndia",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shaadi-com",
+   "name": "Shaadi.com",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bharatmatrimony-matrimony-com",
+   "name": "BharatMatrimony (Matrimony.com)",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "justdial",
+   "name": "Justdial",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cardekho",
+   "name": "CarDekho",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "olx",
+   "name": "OLX India",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "quikr",
+   "name": "Quikr",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-sons",
+   "name": "Tata Sons",
+   "type": "startup",
+   "industry": "conglomerate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-digital-tata-neu",
+   "name": "Tata Digital (Tata Neu)",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "reliance-retail",
+   "name": "Reliance Retail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "reliance-jio-platforms",
+   "name": "Reliance Jio Platforms",
+   "type": "startup",
+   "industry": "telecom",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "serum-institute-of",
+   "name": "Serum Institute of India",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-biotech",
+   "name": "Bharat Biotech",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "intas-pharmaceuticals",
+   "name": "Intas Pharmaceuticals",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "micro-labs",
+   "name": "Micro Labs",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "biological-e",
+   "name": "Biological E",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "medanta-global-health",
+   "name": "Medanta (Global Health)",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "narayana-health",
+   "name": "Narayana Health",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "manipal-hospitals",
+   "name": "Manipal Hospitals",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "aster-dm-healthcare",
+   "name": "Aster DM Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dr-lal-pathlabs",
+   "name": "Dr Lal PathLabs",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "metropolis-healthcare",
+   "name": "Metropolis Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "haier",
+   "name": "Haier India",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "samsung",
+   "name": "Samsung India",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kia",
+   "name": "Kia India",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "toyota-kirloskar-motor",
+   "name": "Toyota Kirloskar Motor",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "royal-enfield-eicher-motors",
+   "name": "Royal Enfield (Eicher Motors)",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-mg-motor",
+   "name": "JSW MG Motor India",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "amazon",
+   "name": "Amazon India",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "walmart-best-price",
+   "name": "Walmart India (Best Price)",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lulu-group",
+   "name": "Lulu Group India",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "spencer-s-retail",
+   "name": "Spencer's Retail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "more-retail",
+   "name": "More Retail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ratnadeep-supermarket",
+   "name": "Ratnadeep Supermarket",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "v-mart",
+   "name": "V-Mart",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shoppers-stop",
+   "name": "Shoppers Stop",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lifestyle-international",
+   "name": "Lifestyle International",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vijay-sales",
+   "name": "Vijay Sales",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "malabar-gold-and-diamonds",
+   "name": "Malabar Gold & Diamonds",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "joyalukkas",
+   "name": "Joyalukkas",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "senco-gold",
+   "name": "Senco Gold",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pc-jeweller",
+   "name": "PC Jeweller",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mswipe",
+   "name": "Mswipe",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "airtel-payments-bank",
+   "name": "Airtel Payments Bank",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fino-payments-bank",
+   "name": "Fino Payments Bank",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "equitas-small-finance-bank",
+   "name": "Equitas Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ujjivan-small-finance-bank",
+   "name": "Ujjivan Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jana-small-finance-bank",
+   "name": "Jana Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "suryoday-small-finance-bank",
+   "name": "Suryoday Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "unity-small-finance-bank",
+   "name": "Unity Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shivalik-small-finance-bank",
+   "name": "Shivalik Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "avanse-financial",
+   "name": "Avanse Financial",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "credila",
+   "name": "Credila",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "veritas-finance",
+   "name": "Veritas Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sk-finance",
+   "name": "SK Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "satin-creditcare",
+   "name": "Satin Creditcare",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "spandana-sphoorty",
+   "name": "Spandana Sphoorty",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "arohan-financial",
+   "name": "Arohan Financial",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kinara-capital",
+   "name": "Kinara Capital",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "neogrowth",
+   "name": "NeoGrowth",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "indifi",
+   "name": "Indifi",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "flexiloans",
+   "name": "FlexiLoans",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "aye-finance",
+   "name": "Aye Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vastu-housing-finance",
+   "name": "Vastu Housing Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bharti-axa-life",
+   "name": "Bharti AXA Life",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "axis-max-life-insurance",
+   "name": "Axis Max Life Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-aig-general-insurance",
+   "name": "Tata AIG General Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-ergo-general-insurance",
+   "name": "HDFC Ergo General Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cams",
+   "name": "CAMS",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mcx",
+   "name": "MCX",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cdsl",
+   "name": "CDSL",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nsdl",
+   "name": "NSDL",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-amc",
+   "name": "HDFC AMC",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nippon-life-amc",
+   "name": "Nippon Life India AMC",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sbi-funds-management",
+   "name": "SBI Funds Management",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,473 @@
+{
+  "_meta": { "batch": "001", "part": 2, "review": "All entries unreviewed until the founder approves them.", "generated": "2026-10-14" },
+  "companies": [
+    {
+      "v": 2, "slug": "bajaj-auto", "name": "Bajaj Auto", "type": "listed", "industry": "automobiles",
+      "profile": { "hq": "Pune, Maharashtra", "leader": "Rajiv Bajaj", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Bajaj Auto makes motorcycles (Pulsar, Platina, Dominar), the Chetak electric scooter, and three-wheelers for passengers and goods. It also builds and sells KTM and Triumph motorcycles in partnership, and took control of KTM's Austrian parent in 2025.",
+        "EARNS": "Margins on motorcycles and three-wheelers in India, plus a large export business. Exports to Africa, Latin America and Asia make it India's biggest two-wheeler exporter, and premium bikes like KTM and Triumph carry higher margins.",
+        "SIZE": "One of India's largest two-wheeler makers and the leader in three-wheelers.",
+        "RIVALS": "Hero MotoCorp, TVS Motor, Honda and Royal Enfield in motorcycles; Ola Electric, Ather and TVS in electric scooters.",
+        "WATCH": "Chetak's share in electric scooters, the turnaround of KTM after taking control, and export demand in Africa and Latin America."
+      },
+      "quiz": [
+        { "prompt": "Which electric scooter does Bajaj Auto sell?", "options": ["iQube", "Chetak", "Vida", "S1 Pro"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What sets Bajaj Auto apart from most Indian two-wheeler makers?", "options": ["A very large export business", "It sells only in Kerala", "It makes only scooters", "It has no dealers"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which European motorcycle maker did Bajaj take control of in 2025?", "options": ["Ducati", "KTM", "BMW Motorrad", "Aprilia"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Bajaj Auto makes motorcycles, three-wheelers and the Chetak EV, and is India's biggest two-wheeler exporter. It now controls KTM. Watch Chetak's EV share and the KTM turnaround.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "hero-motocorp", "name": "Hero MotoCorp", "type": "listed", "industry": "automobiles",
+      "profile": { "hq": "New Delhi", "leader": "Harshavardhan Chitale", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Hero makes commuter motorcycles such as Splendor and HF Deluxe, scooters, premium bikes including the Harley-Davidson X440 built under a partnership, and Vida electric scooters. It also holds a large stake in Ather Energy. Pawan Munjal is executive chairman.",
+        "EARNS": "Volume and margins on low-cost commuter bikes, sold heavily in rural and small-town India, plus spare parts and service across a huge dealer network. Splendor alone is one of the best-selling motorcycles in the world.",
+        "SIZE": "The world's largest two-wheeler maker by units sold.",
+        "RIVALS": "Honda, Bajaj Auto and TVS Motor in motorcycles and scooters; Ola Electric, Ather, TVS and Bajaj in electric scooters.",
+        "WATCH": "Rural demand, whether Vida gains ground in electric scooters, premium bikes with Harley-Davidson, and the new CEO's plans after joining in January 2026."
+      },
+      "quiz": [
+        { "prompt": "Which is Hero's best-known commuter motorcycle?", "options": ["Pulsar", "Splendor", "Apache", "Classic 350"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Where does Hero sell most heavily?", "options": ["Rural and small-town India", "Europe", "Only metro cities", "The US"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is Hero's electric scooter brand?", "options": ["Chetak", "Vida", "iQube", "Rizta"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Hero MotoCorp, the world's largest two-wheeler maker by units, earns on commuter bikes like Splendor sold mainly in rural India. Watch rural demand, Vida EVs and the new CEO.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "nestle-india", "name": "Nestlé India", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Manish Tiwary", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Nestlé India makes Maggi noodles and sauces, Nescafé coffee, KitKat and Munch chocolates, Cerelac and Lactogen infant nutrition, and dairy products like Milkmaid and a+ milk. It is the Indian arm of Switzerland's Nestlé.",
+        "EARNS": "Premium margins on trusted brands. Milk products and nutrition is its largest segment, followed by prepared dishes led by Maggi, then confectionery and beverages. It pays its Swiss parent a royalty for brands and technology.",
+        "SIZE": "One of India's largest and most profitable packaged-food companies.",
+        "RIVALS": "HUL, ITC, Britannia, Mondelez (Cadbury), Tata Consumer and Amul.",
+        "WATCH": "Prices of milk, coffee and cocoa, volume growth in small towns, and how well it grows beyond Maggi."
+      },
+      "quiz": [
+        { "prompt": "Which is Nestlé India's largest segment?", "options": ["Milk products and nutrition", "Pet food", "Bottled water", "Frozen pizza"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which brand belongs to Nestlé India?", "options": ["Maggi", "Yippee", "Top Ramen", "Knorr"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why does Nestlé India pay its parent company money each year?", "options": ["Royalty for brands and technology", "Rent for factories", "Loan repayments", "Penalties"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Nestlé India earns premium margins on Maggi, Nescafé, KitKat and infant nutrition; milk and nutrition is its biggest segment. Watch milk, coffee and cocoa costs and small-town growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "britannia", "name": "Britannia Industries", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Kolkata, West Bengal", "leader": "Rakshit Hargave", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Britannia makes biscuits (Good Day, Marie Gold, NutriChoice, Milk Bikis, Bourbon), cakes, rusk, bread and dairy products including cheese made with France's Bel group. It is part of the Wadia Group; ex-Birla Opus head Rakshit Hargave became CEO in December 2025.",
+        "EARNS": "Biscuits are the bulk of revenue and profit, sold through millions of small shops. Margins swing with the prices of wheat, sugar, milk and palm oil, so it adjusts pack sizes and prices often.",
+        "SIZE": "One of India's two biggest biscuit makers, and among its best-known food brands.",
+        "RIVALS": "Parle, ITC's Sunfeast, Mondelez and regional biscuit brands.",
+        "WATCH": "Commodity costs, rural demand, growth of adjacent categories like cakes and dairy, and the new CEO's strategy."
+      },
+      "quiz": [
+        { "prompt": "Which product makes up most of Britannia's sales?", "options": ["Biscuits", "Ice cream", "Bottled water", "Chocolates"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which group controls Britannia?", "options": ["Tata Group", "Wadia Group", "Birla Group", "Godrej Group"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Who is Britannia's biggest biscuit rival?", "options": ["Parle", "Haldiram's", "Amul", "Nestlé"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Britannia, a Wadia company, earns mostly from biscuits like Good Day and Marie Gold sold through small shops. Margins follow wheat, sugar and palm oil. Watch the new CEO.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "kotak-bank", "name": "Kotak Mahindra Bank", "type": "listed", "industry": "banking",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Ashok Vaswani", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Kotak offers savings accounts, including the digital 811 account, home, car and personal loans, cards and business banking. The group also runs Kotak Securities, Kotak Mutual Fund, Kotak Life and investment banking. Founded by Uday Kotak.",
+        "EARNS": "Net interest income from loans, where Kotak has historically earned some of the best margins among large banks, plus fees. Its stockbroking, asset management and insurance arms add a large share of group profit.",
+        "SIZE": "One of India's four largest private banks.",
+        "RIVALS": "HDFC Bank, ICICI Bank and Axis Bank; Zerodha and Groww in broking.",
+        "WATCH": "Growth after the RBI lifted its 2024 ban on onboarding digital customers in early 2025, margins as interest rates fall, and the new CEO's strategy."
+      },
+      "quiz": [
+        { "prompt": "What is Kotak's digital savings account called?", "options": ["811", "YONO", "iMobile", "Jupiter"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who founded Kotak Mahindra Bank?", "options": ["Uday Kotak", "Aditya Puri", "Deepak Parekh", "K.V. Kamath"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What restriction did RBI lift for Kotak in early 2025?", "options": ["A ban on onboarding new digital customers", "A ban on home loans", "A ban on opening branches", "A ban on dividends"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Kotak earns strong interest margins plus profits from broking, mutual funds and insurance. RBI lifted its digital onboarding ban in 2025. Watch growth, margins and the CEO's plans.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "axis-bank", "name": "Axis Bank", "type": "listed", "industry": "banking",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Amitabh Chaudhry", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Axis offers retail banking, home and personal loans, credit cards, small-business and corporate banking. It bought Citibank's Indian consumer business in 2023, which made it one of the biggest credit-card issuers in the country.",
+        "EARNS": "Net interest income from loans plus fees from cards, payments and selling third-party products. Retail loans are its largest book; credit cards bring high fees and interest.",
+        "SIZE": "India's third-largest private-sector bank.",
+        "RIVALS": "HDFC Bank, ICICI Bank, Kotak Mahindra Bank and SBI.",
+        "WATCH": "Deposit growth, quality of unsecured loans and cards, and whether margins hold as interest rates fall."
+      },
+      "quiz": [
+        { "prompt": "Which business did Axis Bank buy in 2023?", "options": ["Citibank's Indian consumer business", "HSBC India", "Yes Bank", "Standard Chartered India"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is Axis Bank's largest loan book?", "options": ["Retail loans", "Farm loans", "Gold bullion", "Aircraft leases"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which risk matters for a big card issuer like Axis?", "options": ["Quality of unsecured loans", "Monsoon rainfall alone", "Oil prices alone", "Movie releases"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Axis Bank earns interest and card fees; buying Citi's Indian consumer arm made it a top card issuer. Watch deposit growth, unsecured-loan quality and margins.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "hcltech", "name": "HCLTech", "type": "listed", "industry": "it-services",
+      "profile": { "hq": "Noida, Uttar Pradesh", "leader": "C. Vijayakumar", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "HCLTech provides IT services, engineering and R&D services that help companies design products, and software through HCLSoftware. Founded by Shiv Nadar; Roshni Nadar Malhotra is chairperson.",
+        "EARNS": "Clients pay for long-term services contracts and projects; software earns licence and subscription fees at higher margins. The US is its largest market, and engineering services are a stronger niche than at most Indian peers.",
+        "SIZE": "India's third-largest IT services company.",
+        "RIVALS": "TCS, Infosys, Wipro and Tech Mahindra; Accenture and Capgemini globally.",
+        "WATCH": "Large deal wins, growth of HCLSoftware, and demand for AI and engineering services."
+      },
+      "quiz": [
+        { "prompt": "Which HCLTech segment carries the highest margins?", "options": ["HCLSoftware", "Data entry", "Hardware resale", "Call centres"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who founded HCL?", "options": ["Shiv Nadar", "Azim Premji", "Narayana Murthy", "F.C. Kohli"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is HCLTech's largest market?", "options": ["United States", "India", "Japan", "Brazil"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "HCLTech sells IT, engineering services and HCLSoftware, mostly to US clients. Software carries higher margins. Watch deal wins and demand for AI and engineering work.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "wipro", "name": "Wipro", "type": "listed", "industry": "it-services",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Srini Pallia", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Wipro provides IT services, consulting through Capco for banks, cloud and infrastructure management, cybersecurity and engineering services. Azim Premji built it into a tech major; his son Rishad Premji is chairman.",
+        "EARNS": "Clients pay for projects and managed-service contracts. The Americas are its largest region, followed by Europe; banking and financial services is its biggest industry. Growth has lagged larger peers in recent years.",
+        "SIZE": "One of India's four largest IT services companies.",
+        "RIVALS": "TCS, Infosys, HCLTech and Tech Mahindra; Accenture and Cognizant globally.",
+        "WATCH": "Whether revenue growth returns, large deal wins under CEO Srini Pallia, and margins."
+      },
+      "quiz": [
+        { "prompt": "Which Wipro unit offers consulting to banks?", "options": ["Capco", "Mindtree", "Topaz", "Finacle"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is Wipro's largest region?", "options": ["Americas", "Africa", "India", "Australia"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is the key question for Wipro now?", "options": ["Whether growth returns", "Whether it enters steel", "Whether it buys an airline", "Whether it exits IT"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Wipro earns from IT services and Capco consulting, mostly in the Americas and banking. Growth has lagged peers. Watch whether revenue growth returns under CEO Srini Pallia.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "larsen-infotech", "name": "LTIMindtree", "type": "listed", "industry": "it-services",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Venu Lambu", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "LTIMindtree provides IT services: cloud, data and AI, enterprise applications and digital engineering. It was formed in 2022 when L&T merged its two IT companies, L&T Infotech and Mindtree, and L&T remains its majority owner.",
+        "EARNS": "Clients pay for projects and multi-year contracts. North America brings most of its revenue, and banking and financial services is its biggest vertical. It is a large Microsoft partner.",
+        "SIZE": "One of India's top six IT services companies.",
+        "RIVALS": "TCS, Infosys, HCLTech, Wipro, Tech Mahindra, Coforge and Persistent.",
+        "WATCH": "Large deal wins, margins after the merger, and growth in AI and data services."
+      },
+      "quiz": [
+        { "prompt": "Which two companies merged to form LTIMindtree?", "options": ["L&T Infotech and Mindtree", "Mphasis and Hexaware", "Infosys and Wipro", "Coforge and Birlasoft"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is LTIMindtree's majority owner?", "options": ["Larsen & Toubro", "Tata Sons", "Infosys", "Microsoft"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Where does LTIMindtree earn most revenue?", "options": ["North America", "India", "Africa", "Japan"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "LTIMindtree, L&T's IT arm from the L&T Infotech-Mindtree merger, earns mostly from North American banks. Watch deal wins, margins and AI and data services growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "ultratech", "name": "UltraTech Cement", "type": "listed", "industry": "cement-building-materials",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "K.C. Jhanwar", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "UltraTech makes grey cement for homes and infrastructure, white cement under Birla White, ready-mix concrete and building products. It is part of the Aditya Birla Group, chaired by Kumar Mangalam Birla, and recently added India Cements and Kesoram's cement plants.",
+        "EARNS": "Volume and price per tonne of cement, minus fuel, power and freight costs. Cement is heavy and cheap to make but costly to move, so plants close to markets win. Grey cement earns most of its profit.",
+        "SIZE": "India's largest cement maker and one of the biggest outside China.",
+        "RIVALS": "Adani's Ambuja and ACC, Shree Cement, Dalmia Bharat and JK Cement.",
+        "WATCH": "Cement prices in a consolidating market, fuel costs like pet coke and coal, and its capacity expansion."
+      },
+      "quiz": [
+        { "prompt": "Why do cement plants need to be close to their markets?", "options": ["Cement is costly to transport", "Cement spoils in a day", "Laws ban long transport", "Cement must be sold fresh warm"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which group owns UltraTech?", "options": ["Aditya Birla Group", "Adani Group", "Tata Group", "JSW Group"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who owns rival cement makers Ambuja and ACC?", "options": ["Adani Group", "Reliance", "L&T", "Mahindra"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "UltraTech, an Aditya Birla company, is India's largest cement maker, earning on volume and price per tonne. Watch cement pricing against Adani, fuel costs and capacity additions.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "jsw-steel", "name": "JSW Steel", "type": "listed", "industry": "metals-materials",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Jayant Acharya", "leader_role": "Joint MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "JSW Steel makes flat and long steel used in cars, appliances, construction and infrastructure, plus coated and value-added products. Its Vijayanagar plant in Karnataka is one of India's largest. Sajjan Jindal is chairman.",
+        "EARNS": "The spread between steel prices and the cost of iron ore and coking coal. Value-added steel for autos and appliances earns more than basic steel. Most sales are in India.",
+        "SIZE": "India's largest steelmaker by capacity.",
+        "RIVALS": "Tata Steel, SAIL, ArcelorMittal Nippon Steel India and Jindal Steel, plus cheap imports from China.",
+        "WATCH": "Steel prices and imports from China, coking coal costs, India's safeguard duty on steel imports, and its capacity expansion."
+      },
+      "quiz": [
+        { "prompt": "What drives JSW Steel's profits?", "options": ["Spread between steel prices and raw-material costs", "App downloads", "Box office sales", "Mobile tariffs"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Where is JSW Steel's flagship plant?", "options": ["Vijayanagar, Karnataka", "Jamshedpur, Jharkhand", "Bhilai, Chhattisgarh", "Pune, Maharashtra"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Imports from which country pressure Indian steel prices most?", "options": ["China", "Brazil", "Canada", "Kenya"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "JSW Steel, India's largest steelmaker by capacity, earns the spread between steel prices and ore and coal costs. Watch Chinese imports, safeguard duties and coking coal prices.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "tata-steel", "name": "Tata Steel", "type": "listed", "industry": "metals-materials",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "T.V. Narendran", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Tata Steel makes steel in India at Jamshedpur and Kalinganagar, in the Netherlands at IJmuiden, and in the UK at Port Talbot. Products go into cars, construction, appliances and packaging; it also sells retail brands like Tata Tiscon rebars.",
+        "EARNS": "India is the profit engine because Tata Steel owns its iron ore mines there, which keeps costs low. European operations have higher costs and have often made losses.",
+        "SIZE": "One of the world's largest steel companies and India's oldest private steelmaker.",
+        "RIVALS": "JSW Steel, SAIL and ArcelorMittal Nippon Steel India at home; global steelmakers and Chinese exports abroad.",
+        "WATCH": "The switch at Port Talbot to lower-carbon electric arc furnaces, Netherlands decarbonisation, Indian capacity expansion at Kalinganagar, and steel prices."
+      },
+      "quiz": [
+        { "prompt": "Why is Tata Steel's India business so profitable?", "options": ["It owns its iron ore mines", "It pays no taxes", "It sells only abroad", "It imports cheap ore from Europe"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Where is Tata Steel's UK plant?", "options": ["Port Talbot", "Sheffield", "Manchester", "Glasgow"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What change is Tata Steel making at Port Talbot?", "options": ["Moving to electric arc furnaces", "Turning it into a car plant", "Closing all UK sales", "Building a port"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Tata Steel earns most profit in India, where it owns iron ore mines; Europe has higher costs. Watch the Port Talbot electric-furnace shift, Kalinganagar expansion and steel prices.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "power-grid", "name": "Power Grid Corporation", "type": "listed", "industry": "energy-utilities",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Burra Vamsi Rama Mohan", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Power Grid builds and runs high-voltage transmission lines and substations that carry electricity between states. It also offers telecom bandwidth over its network and consulting. The government is its majority owner.",
+        "EARNS": "Regulated tariffs set by the Central Electricity Regulatory Commission, which cover its costs plus a fixed profit on equity invested in each line. That makes earnings steady and predictable. It also wins new lines through competitive bidding.",
+        "SIZE": "India's largest power transmission company, carrying most of the electricity that moves between states.",
+        "RIVALS": "Adani Energy Solutions, Sterlite Power and Tata Power in competitively bid transmission projects.",
+        "WATCH": "New transmission projects needed to connect solar and wind farms, its bidding win rate, and capital spending."
+      },
+      "quiz": [
+        { "prompt": "What does Power Grid mainly do?", "options": ["Transmit electricity between states", "Generate coal power", "Sell electricity to homes directly", "Make solar panels"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who sets most of Power Grid's tariffs?", "options": ["The Central Electricity Regulatory Commission", "SEBI", "TRAI", "State police"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Why does India need many new transmission lines?", "options": ["To connect new solar and wind farms", "To replace mobile towers", "To carry gas", "To light highways only"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Power Grid runs India's interstate transmission network, earning steady regulated tariffs. It is government-owned. Watch new lines to connect solar and wind farms and its capital spending.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "ntpc", "name": "NTPC", "type": "listed", "industry": "energy-utilities",
+      "profile": { "hq": "New Delhi", "leader": "Gurdeep Singh", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "NTPC generates electricity, mostly from coal-fired plants, and sells it to state electricity boards under long-term agreements. Its listed subsidiary NTPC Green Energy builds solar and wind farms. It also mines coal for its own plants. The government is its majority owner.",
+        "EARNS": "Regulated tariffs that cover fuel and operating costs plus a fixed profit on equity, so earnings are steady. Coal power is still the bulk of its business; renewables are the growth segment.",
+        "SIZE": "India's largest power generator.",
+        "RIVALS": "Adani Power, Tata Power, JSW Energy and state generation companies; Adani Green and ReNew in renewables.",
+        "WATCH": "Renewable capacity additions through NTPC Green, plans for nuclear power through joint ventures, and payments from cash-strapped state electricity boards."
+      },
+      "quiz": [
+        { "prompt": "Which fuel generates most of NTPC's power today?", "options": ["Coal", "Nuclear", "Hydro", "Solar"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is NTPC's listed renewables arm?", "options": ["NTPC Green Energy", "Adani Green", "Tata Power Renewables", "ReNew"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who are NTPC's main customers?", "options": ["State electricity boards", "Households directly", "Foreign governments", "Airlines"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "NTPC, India's largest power generator, earns regulated tariffs mostly from coal plants, while NTPC Green builds renewables. Watch renewable additions, nuclear plans and state utility payments.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "coal-india", "name": "Coal India", "type": "listed", "industry": "oil-gas-fuels",
+      "profile": { "hq": "Kolkata, West Bengal", "leader": "B. Sairam", "leader_role": "Chairman", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Coal India mines and sells coal through subsidiaries such as Mahanadi Coalfields, South Eastern Coalfields and Northern Coalfields. Most coal goes to power plants; the rest to steel, cement and other industries. The government is its majority owner.",
+        "EARNS": "Most coal is sold to power plants at notified prices under long-term fuel supply agreements. Coal sold through e-auctions fetches a premium and lifts profits when demand is strong.",
+        "SIZE": "The world's largest coal producer by output, supplying most of India's coal.",
+        "RIVALS": "Captive and commercial coal miners like NTPC, Adani and Vedanta, and imported coal.",
+        "WATCH": "Power demand, e-auction premiums, India's shift to renewables over the long run, and its diversification into solar and coal gasification."
+      },
+      "quiz": [
+        { "prompt": "Who buys most of Coal India's coal?", "options": ["Power plants", "Households", "Airlines", "Exporters"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which sales channel earns Coal India a premium price?", "options": ["E-auctions", "Fuel supply agreements", "Government grants", "Exports to Europe"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is the long-term risk for Coal India?", "options": ["India's shift to renewable energy", "A shortage of trucks", "Rising cinema prices", "Falling gold prices"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Coal India, the world's largest coal producer, sells mostly to power plants under supply agreements; e-auctions add premiums. Watch power demand and the long-run shift to renewables.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "ongc", "name": "ONGC", "type": "listed", "industry": "oil-gas-fuels",
+      "profile": { "hq": "New Delhi", "leader": "Arun Kumar Singh", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "ONGC explores for and produces crude oil and natural gas, mostly from fields off Mumbai and in Assam and Gujarat. It owns a majority of refiner HPCL and of MRPL, and ONGC Videsh holds oil and gas assets abroad. The government is its majority owner.",
+        "EARNS": "Selling crude oil and gas at prices linked to global benchmarks, with gas prices partly set by government formula. Upstream production earns most of its profit; refining and marketing through HPCL adds more.",
+        "SIZE": "India's largest producer of crude oil and natural gas.",
+        "RIVALS": "Oil India, Reliance and Cairn (Vedanta) in exploration; global oil producers set the prices it receives.",
+        "WATCH": "Whether output from ageing fields can be stabilised, global crude prices, deepwater discoveries, and leadership after the chairman's term ends in December 2026."
+      },
+      "quiz": [
+        { "prompt": "Which refiner does ONGC own a majority of?", "options": ["HPCL", "Indian Oil", "BPCL", "Nayara"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What sets the price ONGC gets for crude oil?", "options": ["Global oil benchmarks", "A fixed national price", "Auction among airlines", "The RBI"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is a long-running challenge for ONGC?", "options": ["Declining output from ageing fields", "Too many new fields", "Lack of customers", "A ban on exports of gas"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "ONGC, India's largest oil and gas producer, sells at global-linked prices and owns most of HPCL. Watch output from ageing fields, crude prices and its next chairman.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "bajaj-finserv", "name": "Bajaj Finserv", "type": "listed", "industry": "nbfc-lending",
+      "profile": { "hq": "Pune, Maharashtra", "leader": "Sanjiv Bajaj", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Bajaj Finserv is the holding company for the Bajaj Group's financial businesses: Bajaj Finance and Bajaj Housing Finance in lending, life and general insurance, a mutual fund, broking and a health-tech arm. Its insurers became fully Bajaj-owned after Allianz agreed to sell its stakes in 2025.",
+        "EARNS": "Its value comes from its share of the profits of these companies. Bajaj Finance is by far the largest contributor; insurance adds premiums and investment income.",
+        "SIZE": "One of India's largest financial-services groups.",
+        "RIVALS": "HDFC, ICICI, SBI and Aditya Birla Capital groups, each spanning lending, insurance and asset management.",
+        "WATCH": "Bajaj Finance's growth and loan quality, integration of the insurers after Allianz's exit, and growth of the new mutual fund."
+      },
+      "quiz": [
+        { "prompt": "What kind of company is Bajaj Finserv?", "options": ["A holding company for financial businesses", "A motorcycle maker", "A telecom operator", "A cement maker"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which subsidiary contributes the most to Bajaj Finserv?", "options": ["Bajaj Finance", "Bajaj Auto", "Bajaj Electricals", "Bajaj Hindusthan"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which foreign partner agreed to exit Bajaj's insurers in 2025?", "options": ["Allianz", "AXA", "Prudential", "Zurich"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Bajaj Finserv holds the Bajaj Group's lending, insurance and investment businesses; Bajaj Finance contributes most. Watch Bajaj Finance's loan quality and the insurers after Allianz's exit.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "dr-reddys", "name": "Dr Reddy's Laboratories", "type": "listed", "industry": "pharma",
+      "profile": { "hq": "Hyderabad, Telangana", "leader": "Erez Israeli", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Dr Reddy's makes generic medicines for the US, India, Russia and Europe, active pharmaceutical ingredients sold to other drugmakers, and consumer health brands such as Nicotinell, bought from Haleon. Founded by Dr K. Anji Reddy.",
+        "EARNS": "North American generics are its largest and most profitable segment, where a few hard-to-make drugs can earn a lot until competitors arrive. India branded generics and emerging markets add steadier income.",
+        "SIZE": "One of India's largest pharmaceutical companies.",
+        "RIVALS": "Sun Pharma, Cipla, Lupin, Aurobindo and Zydus, plus global generic makers.",
+        "WATCH": "Replacing profits lost as its generic version of the cancer drug Revlimid faced open competition from 2026, and launches of generic semaglutide in markets where patents expire."
+      },
+      "quiz": [
+        { "prompt": "Which is Dr Reddy's largest segment?", "options": ["North American generics", "Hospitals", "Vaccines for India", "Medical devices"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which drug's generic is a big opportunity as patents expire?", "options": ["Semaglutide", "Aspirin", "Paracetamol", "Penicillin"], "correct_idx": 0, "part_kind": "WATCH" },
+        { "prompt": "Who founded Dr Reddy's?", "options": ["K. Anji Reddy", "Dilip Shanghvi", "Yusuf Hamied", "Pankaj Patel"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Dr Reddy's earns most from US generics, plus India brands and ingredients. Watch how it replaces fading Revlimid profits and its generic semaglutide launches.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "cipla", "name": "Cipla", "type": "listed", "industry": "pharma",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Achin Gupta", "leader_role": "MD & Global CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Cipla makes medicines for India, the US, South Africa and other emerging markets. It is best known for respiratory treatments such as inhalers, plus HIV, anti-infective and consumer health products like Nicotex. Achin Gupta became CEO in April 2026.",
+        "EARNS": "India branded medicines sold through doctors are its largest business. US generics, especially complex inhalers, carry high margins, and South Africa is a key third market.",
+        "SIZE": "One of India's top three drugmakers by domestic sales and a leader in respiratory medicines.",
+        "RIVALS": "Sun Pharma, Dr Reddy's, Lupin and Mankind in India; Teva and other generic makers in the US.",
+        "WATCH": "US approvals for complex inhalers and injectables, replacing fading profits from its generic of Revlimid, and India growth under the new CEO."
+      },
+      "quiz": [
+        { "prompt": "Which therapy area is Cipla best known for?", "options": ["Respiratory", "Dental", "Eye care", "Cosmetics"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is Cipla's largest business?", "options": ["India branded medicines", "Hospitals", "Retail pharmacies", "Animal feed"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who became Cipla's CEO in April 2026?", "options": ["Achin Gupta", "Umang Vohra", "Erez Israeli", "Kirti Ganorkar"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Cipla earns mostly from Indian branded medicines and is a respiratory leader, with US inhalers and South Africa adding more. Watch US approvals and the new CEO's plans.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "adani-ports", "name": "Adani Ports & SEZ", "type": "listed", "industry": "logistics-delivery",
+      "profile": { "hq": "Ahmedabad, Gujarat", "leader": "Karan Adani", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Adani Ports runs ports and terminals along India's coasts, led by Mundra in Gujarat, plus the new Vizhinjam port in Kerala. Abroad it runs Haifa port in Israel and terminals in Sri Lanka, Tanzania and Australia. It also offers rail, warehousing and trucking logistics.",
+        "EARNS": "Fees per tonne or container handled at its ports, plus logistics and marine services. Mundra is its biggest and most profitable port. Logistics is growing faster but earns thinner margins.",
+        "SIZE": "India's largest private port operator, handling a large share of the country's cargo.",
+        "RIVALS": "JNPA (Jawaharlal Nehru Port), JSW Infrastructure, DP World and other state-owned ports.",
+        "WATCH": "Cargo growth, the Vizhinjam transshipment port ramp-up, international expansion, and growth of its logistics arm."
+      },
+      "quiz": [
+        { "prompt": "Which is Adani Ports' biggest port?", "options": ["Mundra", "Chennai", "Kolkata", "Paradip"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "How do ports mainly earn money?", "options": ["Fees per tonne or container handled", "Ticket sales to tourists", "Fishing licences", "Advertising"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which new transshipment port in Kerala does Adani run?", "options": ["Vizhinjam", "Kochi", "Mangalore", "Tuticorin"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Adani Ports, India's largest private port operator, earns cargo-handling fees, led by Mundra, plus logistics. Watch cargo growth, Vizhinjam's ramp-up and international ports.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "vedanta", "name": "Vedanta", "type": "listed", "industry": "metals-materials",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Anil Agarwal", "leader_role": "Chairman", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Vedanta was a natural-resources group spanning zinc, aluminium, oil and gas, power, and iron and steel. In 2026 it demerged, and its aluminium, oil and gas, power, and iron and steel businesses began trading as separate listed companies.",
+        "EARNS": "Commodity prices drive everything. The remaining Vedanta Ltd keeps its majority stake in Hindustan Zinc, one of the world's lowest-cost zinc and silver producers, which has long been the group's biggest profit source.",
+        "SIZE": "One of India's largest natural-resources groups, and India's biggest zinc and aluminium producer through its companies.",
+        "RIVALS": "Hindalco and Nalco in aluminium; global miners in zinc; ONGC and Oil India in oil and gas.",
+        "WATCH": "How the separately listed companies perform after the demerger, zinc, silver and aluminium prices, and debt at the parent Vedanta Resources."
+      },
+      "quiz": [
+        { "prompt": "What did Vedanta do in 2026?", "options": ["Demerged into separately listed companies", "Merged with Tata Steel", "Delisted from India", "Sold Hindustan Zinc"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which subsidiary has long been Vedanta's biggest profit source?", "options": ["Hindustan Zinc", "Sesa Goa", "Cairn", "Sterlite Copper"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What drives Vedanta's earnings most?", "options": ["Commodity prices", "App subscriptions", "Movie ticket sales", "Insurance premiums"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Vedanta demerged in 2026 into separately listed aluminium, oil and gas, power, and steel companies; Hindustan Zinc remains the profit engine. Watch commodity prices and parent debt.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "hindalco", "name": "Hindalco Industries", "type": "listed", "industry": "metals-materials",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Satish Pai", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Hindalco makes aluminium and copper in India, and through its US-based subsidiary Novelis it is the world's largest maker of flat-rolled aluminium for beverage cans, cars and buildings, and its biggest aluminium recycler. It is part of the Aditya Birla Group.",
+        "EARNS": "Novelis brings in most of the revenue, earning a conversion fee on rolling aluminium. Indian aluminium, with its own bauxite mines and power plants, earns the highest margins when aluminium prices are strong.",
+        "SIZE": "One of the world's largest aluminium companies.",
+        "RIVALS": "Vedanta and Nalco in Indian aluminium; Constellium, Arconic and Speira globally.",
+        "WATCH": "Aluminium prices, Novelis's new Bay Minette plant in Alabama, recovery from the 2025 fire at its Oswego plant, and US tariffs."
+      },
+      "quiz": [
+        { "prompt": "What is Novelis, Hindalco's subsidiary, best known for?", "options": ["Flat-rolled aluminium for cans and cars", "Copper mining in Chile", "Steel rebars", "Cement"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which Hindalco business earns the highest margins in good years?", "options": ["Indian aluminium", "Retail stores", "Software", "Shipping"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which group does Hindalco belong to?", "options": ["Aditya Birla Group", "Tata Group", "Adani Group", "Vedanta Group"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Hindalco makes aluminium and copper in India and, through Novelis, leads global flat-rolled aluminium. Indian aluminium earns top margins. Watch aluminium prices and Novelis's US plants.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "dlf", "name": "DLF", "type": "listed", "industry": "real-estate",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Rajiv Singh", "leader_role": "Chairman", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "DLF builds and sells homes, especially luxury apartments in Gurugram such as The Camellias and The Dahlias. It also owns offices and malls, including DLF Cyber City and Mall of India, through its rental arm DLF Cyber City Developers.",
+        "EARNS": "Two engines: selling homes, which brings lumpy but large cash when projects launch, and renting offices and malls, which brings steady income every month. Gurugram is its core market.",
+        "SIZE": "India's largest listed real-estate company by market value.",
+        "RIVALS": "Godrej Properties, Lodha (Macrotech), Prestige, Oberoi Realty and Phoenix Mills.",
+        "WATCH": "Demand for luxury homes in Gurugram, new project launches in Mumbai and Goa, and office leasing to tech companies and global capability centres."
+      },
+      "quiz": [
+        { "prompt": "What are DLF's two earning engines?", "options": ["Selling homes and renting offices and malls", "Making cement and steel", "Running airlines and hotels", "Insurance and banking"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which city is DLF's core market?", "options": ["Gurugram", "Chennai", "Kolkata", "Ahmedabad"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a DLF rental asset?", "options": ["DLF Cyber City", "Phoenix Palladium", "Bandra-Kurla Complex", "Infopark Kochi"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "DLF sells luxury homes, mostly in Gurugram, and earns steady rent from offices and malls like Cyber City. Watch luxury demand, new city launches and office leasing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "godrej-consumer", "name": "Godrej Consumer Products", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Sudhir Sitapati", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Godrej Consumer makes household insecticides (Good Knight, HIT), soaps (Cinthol, Godrej No.1), hair colour (Godrej Expert), air fresheners (aer) and personal care. It also sells hair extensions and wigs in Africa under Darling, and household brands in Indonesia.",
+        "EARNS": "Margins on mass-market household brands. India is the largest and most profitable market; Indonesia and Africa add scale but have been less profitable. Home insecticides are a category where it leads.",
+        "SIZE": "One of India's larger FMCG companies and the leader in home insecticides.",
+        "RIVALS": "Reckitt (Mortein), SC Johnson (All Out), HUL, Wipro Consumer and Dabur.",
+        "WATCH": "Turning around Africa, volume growth in India, and whether new formats like liquid vaporisers and incense sticks keep the insecticide lead."
+      },
+      "quiz": [
+        { "prompt": "Which category does Godrej Consumer lead in India?", "options": ["Home insecticides", "Biscuits", "Toothpaste", "Tea"], "correct_idx": 0, "part_kind": "SIZE" },
+        { "prompt": "Which is a Godrej Consumer brand?", "options": ["Good Knight", "Mortein", "All Out", "Dettol"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is Godrej Consumer's most profitable market?", "options": ["India", "Africa", "Indonesia", "Europe"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Godrej Consumer earns from household brands like Good Knight, HIT and Cinthol, with India its most profitable market. Watch the Africa turnaround and Indian volume growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "dabur", "name": "Dabur India", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Ghaziabad, Uttar Pradesh", "leader": "Mohit Malhotra", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Dabur sells Ayurvedic and natural products: Dabur Chyawanprash, honey, Hajmola, Dabur Red toothpaste, Vatika hair oil, Real fruit juices and Odonil air fresheners. It was founded in 1884 and is controlled by the Burman family.",
+        "EARNS": "Margins on health, oral care and hair-care brands sold widely in rural and urban India. International business in the Middle East, Africa and the US adds a meaningful share. Healthcare products carry its best margins.",
+        "SIZE": "One of India's largest Ayurvedic consumer companies.",
+        "RIVALS": "Patanjali, HUL, Colgate-Palmolive, Emami and Marico.",
+        "WATCH": "Rural demand, the seasonal swing of its juice and health products, and competition from Patanjali and D2C wellness brands."
+      },
+      "quiz": [
+        { "prompt": "What is Dabur's positioning?", "options": ["Ayurvedic and natural products", "Luxury fashion", "Industrial chemicals", "Electronics"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which brand belongs to Dabur?", "options": ["Hajmola", "Patanjali Dant Kanti", "Parachute", "Boroplus"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which rival also sells Ayurvedic products at scale?", "options": ["Patanjali", "Nestlé", "ITC Hotels", "Bata"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Dabur sells Ayurvedic brands like Chyawanprash, Hajmola, Red toothpaste and Real juices across India and abroad. Watch rural demand and competition from Patanjali and D2C brands.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2, "slug": "marico", "name": "Marico", "type": "listed", "industry": "fmcg",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Saugata Gupta", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Marico makes Parachute coconut oil, Saffola edible oils and foods, Nihar and Hair & Care hair oils, and Livon and Set Wet grooming. It has added digital-first brands such as Beardo, Plix and True Elements. It also sells in Bangladesh, Vietnam and the Middle East.",
+        "EARNS": "Branded margins on hair oils and edible oils. Parachute is its biggest brand. International markets, led by Bangladesh, bring a sizeable share and good margins.",
+        "SIZE": "India's leader in coconut hair oil.",
+        "RIVALS": "HUL, Dabur, Bajaj Consumer and Emami in hair oils; Adani Wilmar (Fortune) in edible oils; D2C brands in grooming and foods.",
+        "WATCH": "Copra (dried coconut) and vegetable-oil costs, which swing margins, the growth of foods and digital brands, and Bangladesh's economy."
+      },
+      "quiz": [
+        { "prompt": "Which is Marico's biggest brand?", "options": ["Parachute", "Fortune", "Dove", "Dettol"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which raw-material cost swings Marico's margins?", "options": ["Copra (dried coconut)", "Steel", "Cotton", "Coal"], "correct_idx": 0, "part_kind": "WATCH" },
+        { "prompt": "Which is Marico's largest overseas market?", "options": ["Bangladesh", "Germany", "Japan", "Brazil"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Marico earns from Parachute, Saffola and hair oils, plus digital brands and Bangladesh. Copra costs swing margins. Watch input costs and growth of foods and D2C brands.",
+      "review": "unreviewed"
+    }
+  ]
+}

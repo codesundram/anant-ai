@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "batch": "001",
+    "about": "Upgrade of the original 103 companies to the v2 format: longer parts, profile (HQ, leader), top segment or geography, announced plans, three quiz questions. Leaders checked against web reports as of Oct 2026 where they had changed recently. Figures are inherited from companies.seed.100.json unless an entry sets its own.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-14"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "eternal",
+      "name": "Eternal (Zomato)",
+      "type": "listed",
+      "industry": "food-tech-quick-commerce",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Albinder Dhindsa", "leader_role": "Group CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Eternal is the parent of four apps: Zomato for food delivery, Blinkit for 10-minute grocery, District for movies, events and dining out, and Hyperpure, which supplies ingredients to restaurants. Zomato founder Deepinder Goyal handed the group CEO role to Blinkit's Albinder Dhindsa in February 2026.",
+        "EARNS": "Food delivery earns commissions from restaurants, delivery fees from customers and ad money from brands. Blinkit earns a margin on what it sells plus ads and fees. Food delivery is the mature, profitable engine; Blinkit is now the bigger growth story.",
+        "SIZE": "One of India's two big food-delivery platforms and the largest quick-commerce player by most industry estimates. Blinkit's dark-store network spans most large Indian cities.",
+        "RIVALS": "Swiggy in food delivery. In quick commerce, Blinkit fights Zepto, Swiggy Instamart, BigBasket and Flipkart Minutes, while Amazon pushes its own fast-delivery service.",
+        "WATCH": "How fast Blinkit adds dark stores without deep losses, whether District grows into a third pillar, and how the business runs under Dhindsa with Goyal as vice chairman."
+      },
+      "quiz": [
+        { "prompt": "Which Eternal business delivers groceries in about 10 minutes?", "options": ["Hyperpure", "Blinkit", "District", "Zomato Gold"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "How does Eternal's food-delivery business mainly make money?", "options": ["Monthly app subscriptions only", "Selling cooking equipment", "Commissions, delivery fees and ads", "Government delivery contracts"], "correct_idx": 2, "part_kind": "EARNS" },
+        { "prompt": "Who became Eternal's group CEO in February 2026?", "options": ["Albinder Dhindsa", "Sriharsha Majety", "Aadit Palicha", "Kunal Shah"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Eternal runs Zomato, Blinkit, District and Hyperpure. Food delivery is the profitable engine; Blinkit drives growth. FY25 revenue ₹20,243 crore, profit ₹527 crore. Watch Blinkit's scale-up.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "swiggy",
+      "name": "Swiggy",
+      "type": "listed",
+      "industry": "food-tech-quick-commerce",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Sriharsha Majety", "leader_role": "MD & Group CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Swiggy runs food delivery, Instamart for quick-commerce grocery, Dineout for restaurant bookings and Genie for pick-up and drop. It also offers Swiggy One, a membership with free deliveries. It listed on the stock exchanges in November 2024.",
+        "EARNS": "Restaurants pay commissions, customers pay delivery and platform fees, and brands pay for ads. Instamart earns margins and fees on groceries. Food delivery makes money; Instamart still loses money as it builds dark stores.",
+        "SIZE": "One of India's two large food-delivery apps, present in hundreds of cities. Instamart is among the top three quick-commerce players.",
+        "RIVALS": "Zomato in food delivery. Instamart competes with Blinkit, Zepto, BigBasket and Flipkart Minutes.",
+        "WATCH": "Whether Instamart's losses narrow as order sizes grow, how Swiggy defends food-delivery share, and how it spends the cash raised from its public listing."
+      },
+      "quiz": [
+        { "prompt": "What is Swiggy's quick-commerce grocery service called?", "options": ["Blinkit", "Instamart", "Minutes", "Fresh"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which Swiggy business is profitable today?", "options": ["Instamart", "Genie", "Food delivery", "None of them"], "correct_idx": 2, "part_kind": "EARNS" },
+        { "prompt": "Who is Swiggy's main rival in food delivery?", "options": ["Zomato", "Zepto", "Meesho", "Dunzo"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Swiggy runs food delivery and Instamart. Food delivery earns; Instamart still burns cash. FY25 revenue ₹15,227 crore, net loss ₹3,117 crore. Watch Instamart's path to profit.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "zepto",
+      "name": "Zepto",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Aadit Palicha", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Zepto delivers groceries, snacks, personal care and household items in about 10 minutes from dark stores, small warehouses close to customers. It also runs Zepto Cafe for quick food and drinks. Founded in 2021 by Aadit Palicha and Kaivalya Vohra.",
+        "EARNS": "Zepto earns a margin on products it sells, plus delivery, handling and small-cart fees, and ad money from brands that want top placement in the app. Its Zepto Pass membership trades lower fees for more frequent orders.",
+        "SIZE": "One of India's fastest-growing quick-commerce companies, now among the top three alongside Blinkit and Instamart in its cities.",
+        "RIVALS": "Blinkit, Swiggy Instamart, BigBasket and Flipkart Minutes, plus neighbourhood kirana stores that now also deliver.",
+        "WATCH": "Its planned stock-market listing: SEBI cleared the IPO in May 2026 and the company has said it aims to list in 2027. Also watch whether dark stores turn profitable as they mature."
+      },
+      "quiz": [
+        { "prompt": "What is a 'dark store' in Zepto's model?", "options": ["A store open only at night", "A small warehouse near customers used only for deliveries", "A franchise kirana shop", "A store that sells only electronics"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which is NOT a way Zepto earns money?", "options": ["Margins on products", "Delivery and handling fees", "Brand ads in the app", "Interest on customer deposits"], "correct_idx": 3, "part_kind": "EARNS" },
+        { "prompt": "What big step is Zepto preparing for?", "options": ["Merging with Swiggy", "A stock-market listing", "Exiting quick commerce", "Becoming a bank"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Zepto delivers groceries in ten minutes from dark stores, earning margins, fees and ads. FY25 revenue ₹11,110 crore. SEBI cleared its IPO in 2026; watch dark-store profitability.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "dmart",
+      "name": "Avenue Supermarts (DMart)",
+      "type": "listed",
+      "industry": "retail",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Anshul Asawa", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "DMart runs large value supermarkets selling groceries, staples, home care, clothing and general merchandise at everyday low prices. It also runs DMart Ready for online orders. Founded by Radhakishan Damani; ex-Unilever executive Anshul Asawa became CEO in February 2026.",
+        "EARNS": "Thin margins on very high volumes. DMart mostly owns its stores instead of renting, pays suppliers quickly in exchange for better prices, and keeps a tight range so stock turns over fast. Foods and staples are the bulk of sales; general merchandise carries better margins.",
+        "SIZE": "India's most profitable large-format grocery retailer, with hundreds of stores concentrated in Maharashtra, Gujarat, Telangana and Karnataka.",
+        "RIVALS": "Reliance Retail, Star Bazaar, Spencer's and local kirana stores offline; Blinkit, Zepto, Instamart and BigBasket for quick top-up shopping.",
+        "WATCH": "Whether its low-cost store model holds up as quick commerce pulls urban shoppers online, the pace of new store openings, and the new CEO's first moves."
+      },
+      "quiz": [
+        { "prompt": "What is DMart's core pricing approach?", "options": ["Luxury pricing", "Everyday low prices", "Membership-only pricing", "Auction pricing"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Why does DMart prefer to own its stores?", "options": ["To avoid rent and keep costs low", "To lease them to other brands", "Because land cannot be rented in India", "To qualify for subsidies"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "What is the biggest new threat to DMart's model?", "options": ["Rising cinema tickets", "Quick-commerce apps", "Airline price wars", "Telecom tariffs"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "DMart is low-price retail: owned stores, fast inventory, thin margins at scale. FY25 net sales ₹53,333 crore, profit ₹2,707 crore. Watch quick-commerce pressure and the new CEO.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "nykaa",
+      "name": "Nykaa (FSN E-Commerce)",
+      "type": "listed",
+      "industry": "beauty-ecommerce",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Falguni Nayar", "leader_role": "Founder, Executive Chairperson, MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Nykaa sells beauty and personal-care products online and through its own stores, plus fashion through Nykaa Fashion. It also owns brands such as Kay Beauty, Dot & Key and Nykaa Cosmetics, and runs Superstore, a supply platform for small retailers.",
+        "EARNS": "Beauty is the profitable core: Nykaa buys and holds stock, earns retail margins, and gets ad money from brands. Its own brands carry higher margins. Fashion is a marketplace that is still working towards steady profit.",
+        "SIZE": "India's leading online beauty retailer, with a growing chain of physical stores across major cities.",
+        "RIVALS": "Reliance's Tira, Tata CLiQ Palette, Amazon and Flipkart in beauty; Myntra and Ajio in fashion; quick-commerce apps for fast beauty top-ups.",
+        "WATCH": "How Nykaa holds its lead as Tira and quick commerce chase beauty shoppers, whether fashion turns consistently profitable, and growth of its owned brands."
+      },
+      "quiz": [
+        { "prompt": "Which is Nykaa's profitable core business?", "options": ["Fashion", "Beauty and personal care", "Groceries", "Travel"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who founded Nykaa?", "options": ["Falguni Nayar", "Kiran Mazumdar-Shaw", "Vineeta Singh", "Ghazal Alagh"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which Reliance-backed brand challenges Nykaa in beauty?", "options": ["Purplle", "Tira", "Mamaearth", "Sugar"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Nykaa sells beauty online and in stores, plus fashion and owned brands. Beauty is the profitable core. FY25 revenue ₹7,950 crore, profit ₹72 crore. Watch Tira and fashion.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "paytm",
+      "name": "Paytm (One97 Communications)",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "profile": { "hq": "Noida, Uttar Pradesh", "leader": "Vijay Shekhar Sharma", "leader_role": "Founder, Chairman, MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Paytm runs a consumer payments app for UPI, bills and recharges, and serves merchants with QR codes, Soundbox speakers that announce payments, and card machines. It also distributes loans, insurance and investment products made by partner institutions.",
+        "EARNS": "Merchants pay fees and device subscriptions for Soundbox and card machines. Paytm also earns a fee when partner lenders and insurers make loans or sell policies through its app. Merchant payments are the largest revenue stream.",
+        "SIZE": "One of India's best-known payment brands, with millions of merchants using its QR codes and Soundbox devices.",
+        "RIVALS": "PhonePe and Google Pay in UPI; Pine Labs and Razorpay for merchant payments; banks and fintech lenders in loan distribution.",
+        "WATCH": "Whether it stays profitable after the 2024 RBI curbs on Paytm Payments Bank, growth of loan distribution, and how it handles UPI market-share rules."
+      },
+      "quiz": [
+        { "prompt": "What is Paytm's Soundbox?", "options": ["A music app", "A speaker that announces payments to merchants", "A smart TV", "A podcast platform"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "How does Paytm earn from loans?", "options": ["It lends from its own balance sheet only", "It earns a fee for distributing partner lenders' loans", "It charges borrowers a membership", "It does not earn from loans"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which 2024 event hit Paytm hard?", "options": ["RBI curbs on Paytm Payments Bank", "A merger with PhonePe", "Delisting from NSE", "A telecom licence ban"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Paytm earns from merchant payments, Soundbox devices and loan distribution. FY25 revenue ₹6,900 crore, net loss narrowed to ₹663 crore. Watch profitability after the 2024 RBI curbs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "lenskart",
+      "name": "Lenskart",
+      "type": "listed",
+      "industry": "eyewear-retail",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Peyush Bansal", "leader_role": "Co-founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Lenskart sells eyeglasses, sunglasses and contact lenses online and through a large chain of its own stores, with free eye tests in store and at home. Brands include Vincent Chase, John Jacobs and Lenskart Air. It listed on the stock exchanges in November 2025.",
+        "EARNS": "Lenskart designs most of its frames and makes them in its own factory near Delhi, so it keeps the margin a middleman would take. India is its core market; it also owns Owndays in Japan and sells across Southeast Asia and the Middle East.",
+        "SIZE": "India's largest organised eyewear retailer by store count.",
+        "RIVALS": "Titan Eye+, local opticians, and online sellers like Specsmakers and Amazon.",
+        "WATCH": "Store expansion in smaller Indian towns, growth of its overseas business led by Owndays, and whether it keeps profits steady as a newly listed company."
+      },
+      "quiz": [
+        { "prompt": "How does Lenskart keep margins higher than a typical optician?", "options": ["It makes most frames in its own factory", "It imports everything from Italy", "It charges for eye tests", "It only sells online"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which Japanese eyewear chain does Lenskart own?", "options": ["Zoff", "Owndays", "Jins", "Paris Miki"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who is Lenskart's main organised rival in India?", "options": ["Titan Eye+", "Nykaa", "DMart", "Croma"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Lenskart makes and sells eyewear through stores and online, owning Owndays in Japan. FY24 revenue ₹5,427 crore, near break-even. Listed in 2025; watch overseas growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "pb-fintech",
+      "name": "PB Fintech (Policybazaar)",
+      "type": "listed",
+      "industry": "insurtech",
+      "profile": { "hq": "Gurugram, Haryana", "leader": "Yashish Dahiya", "leader_role": "Co-founder, Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "PB Fintech runs Policybazaar, where people compare and buy insurance, and Paisabazaar, where they compare loans and credit cards. It also runs PB Partners, which helps agents in small towns sell insurance, and is building PB Health, a hospital network.",
+        "EARNS": "Insurers pay commissions and fees when policies are sold through Policybazaar; lenders pay Paisabazaar when loans or cards are issued. Health and term insurance are its most valuable categories because customers renew year after year.",
+        "SIZE": "India's largest online insurance marketplace, and recently profitable.",
+        "RIVALS": "Insurers' own websites and agents, bank branches selling insurance, Acko and Digit selling direct, and fintech apps in loans.",
+        "WATCH": "Renewal income growing as a share of revenue, spending on new bets like PB Health, and IRDAI rules on commissions."
+      },
+      "quiz": [
+        { "prompt": "What does Policybazaar let customers do?", "options": ["Trade shares", "Compare and buy insurance", "Book flights", "Order groceries"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Who pays Policybazaar when a policy is sold?", "options": ["The government", "The insurer, through commissions", "The hospital", "Nobody"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Why are health and term policies valuable to PB Fintech?", "options": ["They renew year after year", "They are tax-free for PB", "They need no paperwork", "They are sold only offline"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "PB Fintech runs Policybazaar and Paisabazaar, earning insurer and lender commissions. FY25 revenue ₹4,977 crore, profit ₹345 crore. Watch renewals and PB Health spending.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "reliance",
+      "name": "Reliance Industries",
+      "type": "listed",
+      "industry": "conglomerate",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Mukesh Ambani", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Reliance refines crude oil into fuels and petrochemicals at Jamnagar, the world's largest refining complex at a single site. It also owns Jio, India's largest mobile network, Reliance Retail, the country's biggest retailer, and media assets including JioStar.",
+        "EARNS": "Oil-to-chemicals earns refining and petrochemical margins and is the largest by revenue. Jio earns from mobile and broadband plans, and Reliance Retail from stores and online shopping. Jio and Retail now bring in a large and growing share of profit.",
+        "SIZE": "India's largest company by revenue, spanning energy, telecom, retail and media.",
+        "RIVALS": "Airtel and Vodafone Idea in telecom; DMart, Tata's retail brands and Amazon in retail; global refiners and state oil companies in energy.",
+        "WATCH": "The listing of Jio Platforms, its new-energy giga-factories for solar, batteries and hydrogen at Jamnagar, and its push into AI data centres."
+      },
+      "quiz": [
+        { "prompt": "Where is Reliance's giant refinery?", "options": ["Jamnagar", "Mumbai", "Kochi", "Paradip"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which Reliance business is India's largest mobile network?", "options": ["JioStar", "Jio", "Reliance Retail", "Reliance Power"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What is Reliance building at Jamnagar for its future?", "options": ["Aircraft factories", "New-energy giga-factories", "Theme parks", "Steel mills"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Reliance spans oil-to-chemicals, Jio, Retail and media. FY25 revenue about ₹10.7 lakh crore, profit ₹81,309 crore. Watch the Jio listing and new-energy factories.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "tcs",
+      "name": "Tata Consultancy Services",
+      "type": "listed",
+      "industry": "it-services",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "K. Krithivasan", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "TCS builds and runs software for large companies worldwide: custom applications, cloud migration, consulting, cybersecurity and outsourced business operations. It also sells products such as TCS BaNCS for banks. It is part of the Tata Group.",
+        "EARNS": "Clients pay for engineers' time or for fixed-price projects and multi-year managed-service deals. North America is its largest market, and banking, financial services and insurance is its biggest industry vertical.",
+        "SIZE": "India's largest IT services company and the most valuable Tata Group firm.",
+        "RIVALS": "Infosys, HCLTech, Wipro and Tech Mahindra in India; Accenture, Cognizant, IBM and Capgemini globally.",
+        "WATCH": "How generative AI changes deal sizes and pricing, demand from US banks and retailers, and its plans for large AI data centres in India."
+      },
+      "quiz": [
+        { "prompt": "Which is TCS's largest market by geography?", "options": ["Europe", "India", "North America", "Middle East"], "correct_idx": 2, "part_kind": "EARNS" },
+        { "prompt": "Which industry vertical is TCS's biggest?", "options": ["Banking, financial services and insurance", "Agriculture", "Mining", "Hospitality"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which group does TCS belong to?", "options": ["Birla Group", "Tata Group", "Mahindra Group", "Adani Group"], "correct_idx": 1, "part_kind": "SELLS" }
+      ],
+      "note_30w": "TCS is India's largest IT services firm, billing global clients, mostly North American banks and insurers. FY25 revenue ₹2,55,324 crore. Watch how AI reshapes deals and pricing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "infosys",
+      "name": "Infosys",
+      "type": "listed",
+      "industry": "it-services",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Salil Parekh", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Infosys provides IT services and consulting: building and maintaining software, moving companies to the cloud, digital transformation and outsourced operations. Its Topaz offering packages AI services, and Finacle is banking software used by banks worldwide.",
+        "EARNS": "Clients pay for projects and long-term managed-service contracts, billed by effort or by outcome. North America brings in the largest share of revenue, followed by Europe; financial services is its largest industry segment.",
+        "SIZE": "India's second-largest IT services company.",
+        "RIVALS": "TCS, HCLTech, Wipro and Tech Mahindra at home; Accenture, Cognizant and Capgemini abroad.",
+        "WATCH": "Large-deal wins, whether AI shrinks or grows traditional services work, client spending in US financial services, and margins."
+      },
+      "quiz": [
+        { "prompt": "What is Finacle?", "options": ["An Infosys banking software product", "A stock exchange", "A payments app", "A mutual fund"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which region gives Infosys the most revenue?", "options": ["India", "North America", "Africa", "Japan"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who leads Infosys as CEO?", "options": ["Salil Parekh", "Nandan Nilekani", "K. Krithivasan", "C. Vijayakumar"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Infosys earns from IT services and consulting, mostly for North American and European clients, with Finacle banking software. Watch large deals and AI's effect on services work.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "hdfc-bank",
+      "name": "HDFC Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Sashidhar Jagdishan", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "HDFC Bank offers savings and current accounts, home, car and personal loans, credit cards, business loans and corporate banking. Since merging with its parent HDFC Ltd in 2023, it is also India's biggest home lender among private banks.",
+        "EARNS": "Most income is net interest income: the gap between interest earned on loans and interest paid on deposits. It also earns fees from cards, payments and selling insurance and mutual funds. Retail loans and cards are among its most profitable businesses.",
+        "SIZE": "India's largest private-sector bank by assets.",
+        "RIVALS": "ICICI Bank, SBI, Axis Bank and Kotak Mahindra Bank, plus fintech lenders in personal loans and cards.",
+        "WATCH": "Deposit growth catching up with loans after the merger, margins as interest rates change, and asset quality in unsecured loans."
+      },
+      "quiz": [
+        { "prompt": "What is a bank's net interest income?", "options": ["Fees from ATMs", "Interest earned on loans minus interest paid on deposits", "Profit from selling branches", "Dividends from shares"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which company merged into HDFC Bank in 2023?", "options": ["HDFC Ltd", "HDFC Life", "IDFC", "Kotak Securities"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is HDFC Bank's key post-merger challenge?", "options": ["Growing deposits fast enough", "Opening its first branch", "Getting a banking licence", "Leaving retail lending"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "HDFC Bank is India's largest private bank, earning net interest income plus fees. FY25 total income about ₹4,70,916 crore, profit ₹70,792 crore. Watch deposit growth after the merger.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "icici-bank",
+      "name": "ICICI Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Sandeep Bakhshi", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "ICICI Bank offers retail banking, home and vehicle loans, credit cards, business and corporate banking, and digital banking through its iMobile app. Group companies sell life and general insurance, mutual funds and stockbroking.",
+        "EARNS": "Net interest income from loans is the main earner, with fees from cards, payments and transaction banking on top. Retail loans are its largest book. Its bad-loan levels are among the lowest of large Indian banks.",
+        "SIZE": "India's second-largest private-sector bank.",
+        "RIVALS": "HDFC Bank, SBI, Axis Bank and Kotak Mahindra Bank.",
+        "WATCH": "Loan growth versus deposit growth, interest margins as rates move, and leadership continuity: its board extended Bakhshi's term to 2028."
+      },
+      "quiz": [
+        { "prompt": "What is ICICI Bank's mobile banking app called?", "options": ["YONO", "iMobile", "PayZapp", "Kotak 811"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What is ICICI Bank's main source of income?", "options": ["Net interest income from loans", "Selling gold", "Running stock exchanges", "Real estate rent"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is ICICI Bank's MD & CEO?", "options": ["Sandeep Bakhshi", "Sashidhar Jagdishan", "Amitabh Chaudhry", "C.S. Setty"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "ICICI Bank is a large private bank earning interest and fees. FY25 standalone profit ₹47,227 crore on net interest income ₹81,165 crore. Watch margins and asset quality.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "itc",
+      "name": "ITC",
+      "type": "listed",
+      "industry": "fmcg",
+      "profile": { "hq": "Kolkata, West Bengal", "leader": "Sanjiv Puri", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "ITC sells cigarettes (Gold Flake, Classic), packaged foods (Aashirvaad atta, Sunfeast biscuits, Bingo chips, Yippee noodles), personal care (Fiama, Savlon), paperboards and packaging, and agri commodities. It demerged its hotels into ITC Hotels in January 2025.",
+        "EARNS": "Cigarettes are the cash engine and earn most of ITC's profit at high margins. That cash funds the FMCG foods and personal-care brands, which are growing but earn thinner margins.",
+        "SIZE": "One of India's largest consumer companies, and the dominant cigarette maker in the country.",
+        "RIVALS": "Godfrey Phillips in cigarettes; HUL, Nestlé, Britannia and Tata Consumer in packaged foods and personal care.",
+        "WATCH": "Tobacco taxes, FMCG margins, and how fast foods and personal care grow into a larger share of profit."
+      },
+      "quiz": [
+        { "prompt": "Which ITC business earns most of its profit?", "options": ["Packaged foods", "Cigarettes", "Paperboards", "Agri exports"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which brand belongs to ITC?", "options": ["Maggi", "Aashirvaad", "Parle-G", "Amul"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What did ITC spin off in January 2025?", "options": ["Its paper business", "ITC Hotels", "Its cigarette brands", "Its IT arm"], "correct_idx": 1, "part_kind": "SELLS" }
+      ],
+      "note_30w": "ITC's cigarettes fund growing foods and personal-care brands; hotels were demerged in 2025. FY25 gross revenue ₹73,465 crore, profit ₹20,092 crore. Watch tobacco taxes and FMCG margins.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "hul",
+      "name": "Hindustan Unilever",
+      "type": "listed",
+      "industry": "fmcg",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Priya Nair", "leader_role": "CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "HUL makes everyday household brands: Surf Excel and Rin detergents, Lux, Lifebuoy and Dove soaps, Pond's and Lakmé beauty, Brooke Bond and Lipton tea, Kissan and Horlicks. It is the Indian arm of Unilever. Priya Nair became its first woman CEO in August 2025.",
+        "EARNS": "Margins on branded goods sold at huge scale through millions of shops. Home care and beauty and wellbeing are its largest divisions. It also pays Unilever a royalty for brands and technology.",
+        "SIZE": "India's largest consumer-goods company by revenue.",
+        "RIVALS": "ITC, Procter & Gamble, Nestlé, Dabur, Godrej Consumer and Marico, plus fast-growing direct-to-consumer brands.",
+        "WATCH": "Rural demand recovery, the shift to premium products, competition from D2C brands, and the demerger of its ice-cream business into Kwality Wall's."
+      },
+      "quiz": [
+        { "prompt": "Which of these is an HUL brand?", "options": ["Surf Excel", "Ariel", "Patanjali Dant Kanti", "Colgate"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is HUL's parent company?", "options": ["Nestlé", "Unilever", "Procter & Gamble", "Tata Group"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which HUL business is being demerged?", "options": ["Ice cream (Kwality Wall's)", "Tea", "Soaps", "Detergents"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "HUL, Unilever's Indian arm, earns margins on everyday brands at scale. FY25 turnover ₹60,680 crore, profit ₹10,644 crore. Watch rural demand, premiumisation and the ice-cream demerger.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "sbi",
+      "name": "State Bank of India",
+      "type": "listed",
+      "industry": "banking",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "C.S. Setty", "leader_role": "Chairman", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "SBI is India's largest bank, offering savings accounts, home, car and personal loans, business and corporate loans, and government banking. Its YONO app handles digital banking, and subsidiaries sell cards, insurance and mutual funds.",
+        "EARNS": "Net interest income from a huge loan book funded by cheap, sticky deposits. Fees and the profits of subsidiaries such as SBI Life, SBI Cards and SBI Mutual Fund add more. Home loans and corporate loans are its largest books.",
+        "SIZE": "India's largest bank by assets, deposits and branches. The government is its majority owner.",
+        "RIVALS": "HDFC Bank and ICICI Bank among private banks; Bank of Baroda and Punjab National Bank among state-owned banks.",
+        "WATCH": "Deposit growth as savers move money to markets, interest margins, and loan quality across its large corporate and retail books."
+      },
+      "quiz": [
+        { "prompt": "Who is SBI's majority owner?", "options": ["LIC alone", "The Government of India", "Foreign investors", "The RBI"], "correct_idx": 1, "part_kind": "SIZE" },
+        { "prompt": "What is SBI's digital banking app called?", "options": ["iMobile", "YONO", "PayZapp", "BHIM"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which SBI subsidiary sells life insurance?", "options": ["SBI Cards", "SBI Life", "SBI Caps", "SBI Global"], "correct_idx": 1, "part_kind": "EARNS" }
+      ],
+      "note_30w": "SBI is India's largest bank, government-owned, earning interest on a vast loan book plus subsidiary profits from SBI Life and SBI Cards. Watch deposit growth and loan quality.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bharti-airtel",
+      "name": "Bharti Airtel",
+      "type": "listed",
+      "industry": "telecom",
+      "profile": { "hq": "New Delhi", "leader": "Shashwat Sharma", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Airtel sells mobile plans, home broadband and fibre, DTH television, and connectivity and cloud services for businesses. It also runs Airtel Payments Bank. Through Airtel Africa it operates mobile networks across much of Africa.",
+        "EARNS": "Monthly mobile plans are the core, and the key metric is ARPU, average revenue per user, which rises when tariffs go up or users move to bigger plans. India mobile is its biggest and most profitable segment; Africa adds growth.",
+        "SIZE": "India's second-largest telecom operator by subscribers, and the leader in revenue per user.",
+        "RIVALS": "Reliance Jio and Vodafone Idea in mobile; Jio and local cable firms in broadband; Tata Play in DTH.",
+        "WATCH": "Tariff increases, earning more from 5G, home broadband growth, and Airtel Africa's currency swings."
+      },
+      "quiz": [
+        { "prompt": "What does ARPU stand for?", "options": ["Annual revenue per unit", "Average revenue per user", "Average rate per upload", "Active roaming per user"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Outside India, where does Airtel run mobile networks?", "options": ["Southeast Asia", "Africa", "Europe", "Latin America"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Who became Airtel's MD & CEO in January 2026?", "options": ["Gopal Vittal", "Shashwat Sharma", "Sunil Mittal", "Akash Ambani"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Airtel sells mobile, broadband and enterprise connectivity in India and Africa. India mobile is the profit engine; ARPU is the key metric. Watch tariffs and 5G monetisation.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "asian-paints",
+      "name": "Asian Paints",
+      "type": "listed",
+      "industry": "consumer-durables",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Amit Syngle", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Asian Paints makes decorative paints for homes (Royale, Apcolite, Tractor Emulsion), waterproofing, wood finishes and industrial coatings. It also sells home décor: kitchens, bath fittings, furniture and lighting under Beautiful Homes.",
+        "EARNS": "Decorative paints sold through tens of thousands of dealers earn most of the profit. A strong supply chain lets dealers restock several times a day, which keeps them loyal. International markets and home décor are smaller.",
+        "SIZE": "India's largest paint company.",
+        "RIVALS": "Berger Paints, Kansai Nerolac and Indigo Paints, plus heavy new entrants Birla Opus (Aditya Birla Group) and JSW Paints.",
+        "WATCH": "How it defends market share and pricing against Birla Opus, raw-material costs linked to crude oil, and demand from new housing."
+      },
+      "quiz": [
+        { "prompt": "Which segment earns Asian Paints most of its profit?", "options": ["Industrial coatings", "Decorative paints for homes", "Furniture", "International exports"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which Aditya Birla Group brand entered paints recently?", "options": ["Birla Opus", "UltraTech Colours", "Grasim Shades", "Hindalco Paints"], "correct_idx": 0, "part_kind": "RIVALS" },
+        { "prompt": "Paint raw-material costs are closely linked to the price of what?", "options": ["Gold", "Crude oil", "Wheat", "Cotton"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Asian Paints leads Indian decorative paints, earning through a vast dealer network and strong supply chain. Watch competition from Birla Opus and crude-linked raw-material costs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "maruti-suzuki",
+      "name": "Maruti Suzuki",
+      "type": "listed",
+      "industry": "automobiles",
+      "profile": { "hq": "New Delhi", "leader": "Hisashi Takeuchi", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Maruti Suzuki makes passenger cars from small hatchbacks like Alto, WagonR and Swift to SUVs like Brezza, Grand Vitara and Fronx. It sells through Arena and Nexa showrooms and earns from servicing, spares and accessories. Japan's Suzuki owns a majority stake.",
+        "EARNS": "Margins on very high car volumes, plus service and spare parts across the country's largest dealer network. Exports to Latin America, Africa and the Middle East are a fast-growing segment.",
+        "SIZE": "India's largest carmaker, and the passenger-car market leader by a wide margin.",
+        "RIVALS": "Hyundai, Tata Motors, Mahindra, Toyota and Kia.",
+        "WATCH": "Its first electric SUV, the e Vitara, winning back share in SUVs, and export growth."
+      },
+      "quiz": [
+        { "prompt": "Which Japanese company owns a majority of Maruti Suzuki?", "options": ["Toyota", "Honda", "Suzuki", "Nissan"], "correct_idx": 2, "part_kind": "SELLS" },
+        { "prompt": "What are Maruti's two showroom chains?", "options": ["Arena and Nexa", "Signature and Prime", "Elite and Pro", "Classic and Max"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is Maruti's first electric SUV called?", "options": ["eVX Swift", "e Vitara", "Nexon EV", "XUV 9e"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Maruti Suzuki, majority-owned by Suzuki, is India's largest carmaker, earning on volume, service and exports. Watch its first EV, the e Vitara, and SUV market share.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "tata-motors",
+      "name": "Tata Motors (Commercial Vehicles)",
+      "type": "listed",
+      "industry": "automobiles",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Girish Wagh", "leader_role": "MD & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "After the Tata Motors demerger in late 2025, this company makes trucks, buses, vans and pickups such as the Ace small truck. The passenger-car and Jaguar Land Rover business became the separate Tata Motors Passenger Vehicles.",
+        "EARNS": "Margins on trucks and buses sold to fleet owners, logistics companies and state transport, plus spare parts, service and vehicle finance through partners. Heavy trucks are its most profitable products.",
+        "SIZE": "India's largest commercial-vehicle maker.",
+        "RIVALS": "Ashok Leyland, Mahindra, Eicher (VE Commercial Vehicles) and BharatBenz.",
+        "WATCH": "Truck demand tied to infrastructure spending and the economy, electric buses and small trucks, and its acquisition of Italy's Iveco."
+      },
+      "quiz": [
+        { "prompt": "What does this Tata Motors company make after the 2025 demerger?", "options": ["Passenger cars", "Trucks and buses", "Two-wheelers", "Aircraft"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Who is its main rival in trucks and buses?", "options": ["Maruti Suzuki", "Ashok Leyland", "Hero MotoCorp", "Ola Electric"], "correct_idx": 1, "part_kind": "RIVALS" },
+        { "prompt": "Truck demand is most closely tied to what?", "options": ["Cinema releases", "Infrastructure spending and economic activity", "Cricket seasons", "Gold prices"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "After the 2025 demerger, Tata Motors CV makes trucks and buses, India's largest in the segment. Demand follows infrastructure spending. Watch electric buses and the Iveco deal.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "mahindra",
+      "name": "Mahindra & Mahindra",
+      "type": "listed",
+      "industry": "automobiles",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Anish Shah", "leader_role": "Group CEO & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Mahindra makes SUVs (Scorpio, Thar, XUV700, XUV 3XO), electric SUVs (BE 6, XEV 9e), pickups and small commercial vehicles, and is the world's largest tractor maker by volume. The group also includes Mahindra Finance, Tech Mahindra and Club Mahindra.",
+        "EARNS": "SUVs and tractors are the two profit engines. Farm equipment depends on monsoons and rural incomes; SUVs depend on urban demand. Group companies add value through stakes.",
+        "SIZE": "India's largest SUV maker by revenue and the leading tractor maker in India.",
+        "RIVALS": "Tata Motors, Hyundai, Maruti Suzuki and Kia in SUVs; Escorts Kubota, Sonalika and John Deere in tractors.",
+        "WATCH": "Its new electric SUV platform, tractor demand after the monsoon, and how group businesses perform."
+      },
+      "quiz": [
+        { "prompt": "Mahindra is the world's largest maker of what by volume?", "options": ["Motorcycles", "Tractors", "Buses", "Aircraft"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What drives demand for Mahindra's tractors?", "options": ["Monsoons and rural incomes", "Stock market levels", "Airline fares", "Telecom tariffs"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a Mahindra electric SUV?", "options": ["BE 6", "Nexon EV", "e Vitara", "Atto 3"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Mahindra earns from SUVs and tractors, leading both in India, with Tech Mahindra and Mahindra Finance in the group. Watch electric SUVs and monsoon-driven tractor demand.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bajaj-finance",
+      "name": "Bajaj Finance",
+      "type": "listed",
+      "industry": "nbfc-lending",
+      "profile": { "hq": "Pune, Maharashtra", "leader": "Rajeev Jain", "leader_role": "Vice Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Bajaj Finance lends to consumers and small businesses: no-cost EMIs on phones and appliances at the point of sale, personal loans, two-wheeler loans, gold loans, SME loans and loans against property. It also takes fixed deposits and runs the Bajaj Finserv app.",
+        "EARNS": "Interest income on loans, minus the cost of borrowing from banks, bonds and depositors. Consumer lending at shops is its gateway product: it acquires millions of new customers every year and then cross-sells other loans.",
+        "SIZE": "India's largest non-bank lender (NBFC) by loan book.",
+        "RIVALS": "Banks such as HDFC Bank and ICICI Bank, NBFCs like Shriram Finance and Tata Capital, and fintech lenders.",
+        "WATCH": "Credit quality in unsecured consumer loans, growth in its customer base, and borrowing costs as interest rates change."
+      },
+      "quiz": [
+        { "prompt": "What is an NBFC?", "options": ["A non-bank financial company that lends but is not a bank", "A national bank for farmers", "A stock exchange", "A government insurance scheme"], "correct_idx": 0, "part_kind": "SIZE" },
+        { "prompt": "What is Bajaj Finance's gateway product for new customers?", "options": ["Home loans only", "EMI financing at the point of sale", "Credit default swaps", "Gold coins"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which risk matters most for Bajaj Finance?", "options": ["Crop failure in Brazil", "Credit quality in unsecured loans", "Oil drilling costs", "Movie box office"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Bajaj Finance is India's largest NBFC, winning customers with point-of-sale EMIs then cross-selling loans. It earns interest spreads. Watch unsecured-loan quality and borrowing costs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "larsen-toubro",
+      "name": "Larsen & Toubro",
+      "type": "listed",
+      "industry": "construction-infrastructure",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "S.N. Subrahmanyan", "leader_role": "Chairman & MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "L&T builds large projects: metros, highways, airports, power plants, refineries, factories, defence equipment and buildings. It also owns LTIMindtree and L&T Technology Services in IT, and L&T Finance.",
+        "EARNS": "It wins long contracts and earns a margin as projects get built. Infrastructure is its largest segment. Middle East orders, especially from Saudi Arabia and the Gulf, are a large and growing share. IT services add steady, higher-margin income.",
+        "SIZE": "India's largest engineering and construction company, with an order book worth several years of revenue.",
+        "RIVALS": "Tata Projects, Afcons, KEC International, and global contractors in the Middle East.",
+        "WATCH": "New orders from government infrastructure and Gulf energy projects, project execution margins, and its push into semiconductors, data centres and green hydrogen."
+      },
+      "quiz": [
+        { "prompt": "Which L&T segment is largest?", "options": ["Infrastructure projects", "Retail stores", "Media", "Agriculture"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which IT company is part of the L&T group?", "options": ["Wipro", "LTIMindtree", "Infosys", "Mphasis"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which region is a big source of L&T's overseas orders?", "options": ["Middle East", "Scandinavia", "South America", "Antarctica"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "L&T builds metros, highways, plants and defence systems, earning project margins, with LTIMindtree in IT. Middle East orders are growing. Watch order inflows and execution.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "sun-pharma",
+      "name": "Sun Pharmaceutical",
+      "type": "listed",
+      "industry": "pharma",
+      "profile": { "hq": "Mumbai, Maharashtra", "leader": "Kirti Ganorkar", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Sun Pharma makes generic medicines for India and the world, and specialty drugs for skin, eye and cancer conditions, such as Ilumya for psoriasis. Founder Dilip Shanghvi is executive chairman; Kirti Ganorkar became MD in September 2025.",
+        "EARNS": "Branded generics in India sold through doctors, US generics, and higher-margin global specialty drugs. Specialty products, mostly sold in the US, are its fastest-growing and most profitable segment.",
+        "SIZE": "India's largest pharmaceutical company by revenue.",
+        "RIVALS": "Cipla, Dr Reddy's, Lupin, Mankind and Zydus in India; global generic and specialty drugmakers abroad.",
+        "WATCH": "Growth of specialty drugs, US FDA inspections of its plants, and new launches from its research pipeline."
+      },
+      "quiz": [
+        { "prompt": "Which Sun Pharma segment is fastest-growing and most profitable?", "options": ["Global specialty drugs", "Vitamins", "Hospital chains", "Medical devices"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who founded Sun Pharma?", "options": ["Dilip Shanghvi", "Yusuf Hamied", "Anji Reddy", "Kiran Mazumdar-Shaw"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which regulator's plant inspections matter most for its US business?", "options": ["SEBI", "US FDA", "TRAI", "RBI"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Sun Pharma, India's largest drugmaker, earns from Indian branded generics, US generics and fast-growing specialty drugs. Watch specialty growth and US FDA plant inspections.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "titan",
+      "name": "Titan Company",
+      "type": "listed",
+      "industry": "retail",
+      "profile": { "hq": "Bengaluru, Karnataka", "leader": "Ajoy Chawla", "leader_role": "MD", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Titan sells jewellery through Tanishq, Mia, Zoya and CaratLane, watches and wearables through Titan, Fastrack and Sonata, eyewear through Titan Eye+, and fragrances and sarees through Taneira. It is a Tata Group company.",
+        "EARNS": "Jewellery brings in the vast majority of revenue and profit: Tanishq earns a margin on making charges and design over the gold value. Watches and eyewear are smaller but steady.",
+        "SIZE": "India's largest branded jewellery retailer and its biggest watchmaker.",
+        "RIVALS": "Kalyan Jewellers, Malabar Gold, Senco Gold and local jewellers; Apple and other smartwatch brands in wearables.",
+        "WATCH": "How high gold prices affect jewellery demand, store expansion in smaller towns and overseas, and growth of CaratLane."
+      },
+      "quiz": [
+        { "prompt": "Which Titan business brings in most revenue?", "options": ["Watches", "Jewellery", "Eyewear", "Fragrances"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which is Titan's main jewellery brand?", "options": ["Tanishq", "Malabar", "Kalyan", "Senco"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which price affects Titan's demand most?", "options": ["Gold", "Crude oil", "Wheat", "Steel"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Titan, a Tata company, earns mostly from Tanishq and other jewellery, plus watches and eyewear. Watch how gold prices affect demand and expansion of stores and CaratLane.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "adani-enterprises",
+      "name": "Adani Enterprises",
+      "type": "listed",
+      "industry": "conglomerate",
+      "profile": { "hq": "Ahmedabad, Gujarat", "leader": "Gautam Adani", "leader_role": "Chairman", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Adani Enterprises is the Adani Group's incubator. It runs airports (Mumbai, Navi Mumbai, Ahmedabad and others), coal trading and mining, solar module and wind turbine manufacturing, roads, data centres and the Dharavi redevelopment in Mumbai.",
+        "EARNS": "Coal trading and mining still bring in much of today's revenue, while airports earn from passenger fees, retail and property around terminals. New businesses are spun off once they mature, as Adani Ports and Adani Green were.",
+        "SIZE": "The flagship company of one of India's largest conglomerates.",
+        "RIVALS": "GMR in airports; Tata Power, Waaree and others in solar manufacturing; L&T and others in roads.",
+        "WATCH": "The Navi Mumbai airport ramp-up, its large borrowing needs for new projects, and its push into AI data centres and electronics manufacturing."
+      },
+      "quiz": [
+        { "prompt": "What role does Adani Enterprises play in the Adani Group?", "options": ["Incubator for new businesses", "Group bank", "Media arm only", "Sports franchise"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which of these does Adani Enterprises run?", "options": ["Mumbai airport", "Jio network", "Tanishq stores", "IndiGo airline"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which Mumbai redevelopment project does it lead?", "options": ["Dharavi", "Bandra-Kurla Complex", "Marine Drive", "Colaba"], "correct_idx": 0, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Adani Enterprises incubates Adani Group businesses: airports, coal, solar manufacturing, roads and data centres. Coal funds growth. Watch Navi Mumbai airport and its borrowing needs.",
+      "review": "unreviewed"
+    }
+  ]
+}
