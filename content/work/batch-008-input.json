@@ -1,0 +1,505 @@
+{
+ "batch": "batch-008",
+ "targets": [
+  {
+   "slug": "lg-electronics",
+   "name": "LG Electronics India Ltd.",
+   "symbol": "LGEINDIA",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lic-housing-finance",
+   "name": "LIC Housing Finance Ltd.",
+   "symbol": "LICHSGFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lt-foods",
+   "name": "LT Foods Ltd.",
+   "symbol": "LTFOODS",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ltm",
+   "name": "LTM Ltd.",
+   "symbol": "LTM",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "laurus-labs",
+   "name": "Laurus Labs Ltd.",
+   "symbol": "LAURUSLABS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lemon-tree-hotels",
+   "name": "Lemon Tree Hotels Ltd.",
+   "symbol": "LEMONTREE",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "linde",
+   "name": "Linde India Ltd.",
+   "symbol": "LINDEINDIA",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lloyds-metals-and-energy",
+   "name": "Lloyds Metals And Energy Ltd.",
+   "symbol": "LLOYDSME",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mmtc",
+   "name": "MMTC Ltd.",
+   "symbol": "MMTC",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mtar-technologies",
+   "name": "MTAR Technologies Ltd.",
+   "symbol": "MTARTECH",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mahanagar-gas",
+   "name": "Mahanagar Gas Ltd.",
+   "symbol": "MGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mahindra-and-mahindra-financial-services",
+   "name": "Mahindra & Mahindra Financial Services Ltd.",
+   "symbol": "M&MFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "manappuram-finance",
+   "name": "Manappuram Finance Ltd.",
+   "symbol": "MANAPPURAM",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mangalore-refinery-and-petrochemicals",
+   "name": "Mangalore Refinery & Petrochemicals Ltd.",
+   "symbol": "MRPL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "max-financial-services",
+   "name": "Max Financial Services Ltd.",
+   "symbol": "MFSL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "minda",
+   "name": "Minda Corporation Ltd.",
+   "symbol": "MINDACORP",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "motherson-sumi-wiring",
+   "name": "Motherson Sumi Wiring India Ltd.",
+   "symbol": "MSUMI",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "motilal-oswal-financial-services",
+   "name": "Motilal Oswal Financial Services Ltd.",
+   "symbol": "MOTILALOFS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "natco-pharma",
+   "name": "NATCO Pharma Ltd.",
+   "symbol": "NATCOPHARM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nbcc",
+   "name": "NBCC (India) Ltd.",
+   "symbol": "NBCC",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ncc",
+   "name": "NCC Ltd.",
+   "symbol": "NCC",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nlc",
+   "name": "NLC India Ltd.",
+   "symbol": "NLCINDIA",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nmdc-steel",
+   "name": "NMDC Steel Ltd.",
+   "symbol": "NSLNISP",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ntpc-green-energy",
+   "name": "NTPC Green Energy Ltd.",
+   "symbol": "NTPCGREEN",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "narayana-hrudayalaya",
+   "name": "Narayana Hrudayalaya Ltd.",
+   "symbol": "NH",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nava",
+   "name": "Nava Ltd.",
+   "symbol": "NAVA",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "navin-fluorine-international",
+   "name": "Navin Fluorine International Ltd.",
+   "symbol": "NAVINFLUOR",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "netweb-technologies",
+   "name": "Netweb Technologies India Ltd.",
+   "symbol": "NETWEB",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "neuland-laboratories",
+   "name": "Neuland Laboratories Ltd.",
+   "symbol": "NEULANDLAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nippon-life-asset-management",
+   "name": "Nippon Life India Asset Management Ltd.",
+   "symbol": "NAM-INDIA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nuvama-wealth-management",
+   "name": "Nuvama Wealth Management Ltd.",
+   "symbol": "NUVAMA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nuvoco-vistas",
+   "name": "Nuvoco Vistas Corporation Ltd.",
+   "symbol": "NUVOCO",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "oil",
+   "name": "Oil India Ltd.",
+   "symbol": "OIL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "olectra-greentech",
+   "name": "Olectra Greentech Ltd.",
+   "symbol": "OLECTRA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "onesource-specialty-pharma",
+   "name": "Onesource Specialty Pharma Ltd.",
+   "symbol": "ONESOURCE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pcbl-chemical",
+   "name": "PCBL Chemical Ltd.",
+   "symbol": "PCBL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pg-electroplast",
+   "name": "PG Electroplast Ltd.",
+   "symbol": "PGEL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pnb-housing-finance",
+   "name": "PNB Housing Finance Ltd.",
+   "symbol": "PNBHOUSING",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ptc-industries",
+   "name": "PTC Industries Ltd.",
+   "symbol": "PTCIL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pvr-inox",
+   "name": "PVR INOX Ltd.",
+   "symbol": "PVRINOX",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "paradeep-phosphates",
+   "name": "Paradeep Phosphates Ltd.",
+   "symbol": "PARADEEP",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "petronet-lng",
+   "name": "Petronet LNG Ltd.",
+   "symbol": "PETRONET",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "piramal-finance",
+   "name": "Piramal Finance Ltd.",
+   "symbol": "PIRAMALFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "piramal-pharma",
+   "name": "Piramal Pharma Ltd.",
+   "symbol": "PPLPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "poly-medicure",
+   "name": "Poly Medicure Ltd.",
+   "symbol": "POLYMED",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "poonawalla-fincorp",
+   "name": "Poonawalla Fincorp Ltd.",
+   "symbol": "POONAWALLA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "prime-focus",
+   "name": "Prime Focus Ltd.",
+   "symbol": "PFOCUS",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "privi-speciality-chemicals",
+   "name": "Privi Speciality Chemicals Ltd.",
+   "symbol": "PRIVISCL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "r-r-kabel",
+   "name": "R R Kabel Ltd.",
+   "symbol": "RRKABEL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rbl-bank",
+   "name": "RBL Bank Ltd.",
+   "symbol": "RBLBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

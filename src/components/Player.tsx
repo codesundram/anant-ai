@@ -65,7 +65,8 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
   const paint = useCallback(() => {
     const left = Math.max(0, TOTAL_MS - elapsed.current);
     if (line.current) line.current.style.transform = `scaleX(${left / TOTAL_MS})`;
-    if (clock.current) clock.current.textContent = `0:${String(Math.ceil(left / 1000)).padStart(2, "0")}`;
+    const secs = Math.ceil(left / 1000);
+    if (clock.current) clock.current.textContent = `${Math.floor(secs / 60)}:${String(secs % 60).padStart(2, "0")}`;
   }, []);
 
   const seek = useCallback(
@@ -91,6 +92,8 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
     if (phase !== "watch") return;
     let raf = 0;
     let last = performance.now();
+    // The line and clock remount when returning from the note screen.
+    paint();
     const tick = (now: number) => {
       const dt = now - last;
       last = now;
@@ -100,7 +103,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
     };
     raf = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(raf);
-  }, [phase, seek]);
+  }, [phase, seek, paint]);
 
   const step = useCallback(
     (dir: 1 | -1) => seek((Math.floor(elapsed.current / PART_MS) + dir) * PART_MS),
@@ -152,8 +155,17 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
     hold.current.held = false;
   };
 
+  // From the note screen, reopen the slides at the last part, paused, to reread it.
+  const backToSlides = () => {
+    elapsed.current = (explainer.parts.length - 1) * PART_MS;
+    setIndex(explainer.parts.length - 1);
+    setPause(true);
+    setPhase("watch");
+  };
+
   const part = explainer.parts[index];
   const watching = phase === "watch";
+  const last = explainer.parts.length - 1;
 
   return (
     <div data-theme={watching ? "watch" : "keep"} className="screen reward flex flex-col">
@@ -169,7 +181,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
             </div>
             <div className="flex items-center gap-4">
               <span ref={clock} className="label tabular-nums" aria-hidden="true">
-                0:60
+                1:00
               </span>
               <Link href="/" aria-label="Close explainer" className="-mr-2 px-2 py-1 text-[22px] leading-none text-ash">
                 ×
@@ -181,7 +193,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
             role="group"
             aria-roledescription="explainer"
             aria-label={`${explainer.name}: part ${index + 1} of ${explainer.parts.length}`}
-            className="column flex flex-1 cursor-pointer select-none flex-col justify-center pb-24 pt-10"
+            className="column flex flex-1 cursor-pointer select-none flex-col justify-center pb-10 pt-10"
             style={{ touchAction: "manipulation", WebkitTouchCallout: "none" }}
             onPointerDown={onPointerDown}
             onPointerUp={onPointerUp}
@@ -201,9 +213,22 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
             </div>
           </div>
 
-          <p className="column label pb-6 text-center" aria-live="polite">
-            {paused ? "Paused" : "Tap to skip · hold to pause"}
-          </p>
+          <nav aria-label="Slide controls" className="column grid grid-cols-3 gap-2 pb-6">
+            <button
+              type="button"
+              className="btn-quiet disabled:opacity-40"
+              onClick={() => step(-1)}
+              disabled={index === 0}
+            >
+              ‹ Back
+            </button>
+            <button type="button" className="btn-quiet" onClick={() => setPause(!paused)} aria-pressed={paused}>
+              {paused ? "Play" : "Pause"}
+            </button>
+            <button type="button" className="btn-quiet" onClick={() => step(1)}>
+              {index === last ? "Finish ›" : "Next ›"}
+            </button>
+          </nav>
         </>
       ) : phase === "note" ? (
         <main className="column flex flex-1 flex-col pb-8 pt-16">
@@ -227,9 +252,9 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
               <button type="button" className="btn" onClick={() => setPhase("quiz")}>
                 Take the quick quiz
               </button>
-              <Link href="/notebook" className="btn-quiet">
-                Open notebook
-              </Link>
+              <button type="button" className="btn-quiet" onClick={backToSlides}>
+                ‹ Back to the slides
+              </button>
             </div>
           </div>
         </main>

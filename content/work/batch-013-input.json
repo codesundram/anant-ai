@@ -1,0 +1,405 @@
+{
+ "batch": "batch-013",
+ "targets": [
+  {
+   "slug": "practo",
+   "name": "Practo",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pharmeasy",
+   "name": "PharmEasy",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cult-fit",
+   "name": "Cult.fit",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "healthifyme",
+   "name": "HealthifyMe",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pristyn-care",
+   "name": "Pristyn Care",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "medikabazaar",
+   "name": "Medikabazaar",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "redcliffe-labs",
+   "name": "Redcliffe Labs",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "healthians",
+   "name": "Healthians",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "even-healthcare",
+   "name": "Even Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ultrahuman",
+   "name": "Ultrahuman",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nothing",
+   "name": "Nothing India",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lava-international",
+   "name": "Lava International",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "micromax",
+   "name": "Micromax",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yulu",
+   "name": "Yulu",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bounce",
+   "name": "Bounce",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zoomcar",
+   "name": "Zoomcar",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blusmart",
+   "name": "BluSmart",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "euler-motors",
+   "name": "Euler Motors",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "river",
+   "name": "River",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ultraviolette",
+   "name": "Ultraviolette",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "simple-energy",
+   "name": "Simple Energy",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "revolt-motors",
+   "name": "Revolt Motors",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "log9-materials",
+   "name": "Log9 Materials",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "exponent-energy",
+   "name": "Exponent Energy",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "greenko",
+   "name": "Greenko",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "avaada",
+   "name": "Avaada",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "hygenco",
+   "name": "Hygenco",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "agnikul-cosmos",
+   "name": "Agnikul Cosmos",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "skyroot-aerospace",
+   "name": "Skyroot Aerospace",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pixxel",
+   "name": "Pixxel",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ideaforge",
+   "name": "ideaForge",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "garuda-aerospace",
+   "name": "Garuda Aerospace",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tonbo-imaging",
+   "name": "Tonbo Imaging",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "makemytrip",
+   "name": "MakeMyTrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cleartrip",
+   "name": "Cleartrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "easemytrip",
+   "name": "EaseMyTrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yatra",
+   "name": "Yatra",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "redbus",
+   "name": "redBus",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zostel",
+   "name": "Zostel",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "treebo",
+   "name": "Treebo",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fabhotels",
+   "name": "FabHotels",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "thrillophilia",
+   "name": "Thrillophilia",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "akasa-air",
+   "name": "Akasa Air",
+   "type": "startup",
+   "industry": "aviation",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "spicejet",
+   "name": "SpiceJet",
+   "type": "startup",
+   "industry": "aviation",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nobroker",
+   "name": "NoBroker",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "square-yards",
+   "name": "Square Yards",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "housing-com",
+   "name": "Housing.com",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "magicbricks",
+   "name": "MagicBricks",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "stanza-living",
+   "name": "Stanza Living",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zolo",
+   "name": "Zolo",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

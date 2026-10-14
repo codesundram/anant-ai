@@ -1,0 +1,405 @@
+{
+ "batch": "batch-012",
+ "targets": [
+  {
+   "slug": "moneyview",
+   "name": "Moneyview",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "slice",
+   "name": "Slice",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fibe",
+   "name": "Fibe",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kissht",
+   "name": "Kissht",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fi-money",
+   "name": "Fi Money",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "open-financial",
+   "name": "Open Financial",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cashfree-payments",
+   "name": "Cashfree Payments",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "payu",
+   "name": "PayU India",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "juspay",
+   "name": "Juspay",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "m2p-fintech",
+   "name": "M2P Fintech",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "perfios",
+   "name": "Perfios",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "upstox",
+   "name": "Upstox",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "indmoney",
+   "name": "INDmoney",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "smallcase",
+   "name": "Smallcase",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kuvera",
+   "name": "Kuvera",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "scripbox",
+   "name": "Scripbox",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "insurancedekho",
+   "name": "InsuranceDekho",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "turtlemint",
+   "name": "Turtlemint",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "renewbuy",
+   "name": "RenewBuy",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ditto-insurance",
+   "name": "Ditto Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "niva-bupa-health-insurance",
+   "name": "Niva Bupa Health Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "care-health-insurance",
+   "name": "Care Health Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "freshworks",
+   "name": "Freshworks",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zoho",
+   "name": "Zoho",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "chargebee",
+   "name": "Chargebee",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "postman",
+   "name": "Postman",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "browserstack",
+   "name": "BrowserStack",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "druva",
+   "name": "Druva",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "icertis",
+   "name": "Icertis",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "whatfix",
+   "name": "Whatfix",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "darwinbox",
+   "name": "Darwinbox",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "leadsquared",
+   "name": "LeadSquared",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mindtickle",
+   "name": "MindTickle",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "innovaccer",
+   "name": "Innovaccer",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "highradius",
+   "name": "Highradius",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "uniphore",
+   "name": "Uniphore",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "gupshup",
+   "name": "Gupshup",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yellow-ai",
+   "name": "Yellow.ai",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "haptik",
+   "name": "Haptik",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "exotel",
+   "name": "Exotel",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "moengage",
+   "name": "MoEngage",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "clevertap",
+   "name": "CleverTap",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "webengage",
+   "name": "WebEngage",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zluri",
+   "name": "Zluri",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rocketlane",
+   "name": "Rocketlane",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sarvam-ai",
+   "name": "Sarvam AI",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "krutrim",
+   "name": "Krutrim",
+   "type": "startup",
+   "industry": "saas",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mu-sigma",
+   "name": "Mu Sigma",
+   "type": "startup",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "latentview-analytics",
+   "name": "LatentView Analytics",
+   "type": "startup",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tiger-analytics",
+   "name": "Tiger Analytics",
+   "type": "startup",
+   "industry": "it-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

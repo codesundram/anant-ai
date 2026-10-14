@@ -1,0 +1,505 @@
+{
+ "batch": "batch-009",
+ "targets": [
+  {
+   "slug": "rhi-magnesita",
+   "name": "RHI MAGNESITA INDIA LTD.",
+   "symbol": "RHIM",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rites",
+   "name": "RITES Ltd.",
+   "symbol": "RITES",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "railtel-of",
+   "name": "Railtel Corporation Of India Ltd.",
+   "symbol": "RAILTEL",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rainbow-childrens-medicare",
+   "name": "Rainbow Childrens Medicare Ltd.",
+   "symbol": "RAINBOW",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ramkrishna-forgings",
+   "name": "Ramkrishna Forgings Ltd.",
+   "symbol": "RKFORGE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "redington",
+   "name": "Redington Ltd.",
+   "symbol": "REDINGTON",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "reliance-power",
+   "name": "Reliance Power Ltd.",
+   "symbol": "RPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rubicon-research",
+   "name": "Rubicon Research Ltd.",
+   "symbol": "RUBICON",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sbi-cards-and-payment-services",
+   "name": "SBI Cards and Payment Services Ltd.",
+   "symbol": "SBICARD",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "spr-auto-technologies",
+   "name": "SPR Auto Technologies Ltd.",
+   "symbol": "SHRIPISTON",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sagility",
+   "name": "Sagility Ltd.",
+   "symbol": "SAGILITY",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sai-life-sciences",
+   "name": "Sai Life Sciences Ltd.",
+   "symbol": "SAILIFE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sammaan-capital",
+   "name": "Sammaan Capital Ltd.",
+   "symbol": "SAMMAANCAP",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sansera-engineering",
+   "name": "Sansera Engineering Ltd.",
+   "symbol": "SANSERA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sarda-energy-and-minerals",
+   "name": "Sarda Energy and Minerals Ltd.",
+   "symbol": "SARDAEN",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "schaeffler",
+   "name": "Schaeffler India Ltd.",
+   "symbol": "SCHAEFFLER",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "schneider-electric-infrastructure",
+   "name": "Schneider Electric Infrastructure Ltd.",
+   "symbol": "SCHNEIDER",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shipping-of",
+   "name": "Shipping Corporation of India Ltd.",
+   "symbol": "SCI",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shyam-metalics-and-energy",
+   "name": "Shyam Metalics and Energy Ltd.",
+   "symbol": "SHYAMMETL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "siemens-energy",
+   "name": "Siemens Energy India Ltd.",
+   "symbol": "ENRIN",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "signatureglobal",
+   "name": "Signatureglobal (India) Ltd.",
+   "symbol": "SIGNATURE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sobha",
+   "name": "Sobha Ltd.",
+   "symbol": "SOBHA",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sterlite-technologies",
+   "name": "Sterlite Technologies Ltd.",
+   "symbol": "STLTECH",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sumitomo-chemical",
+   "name": "Sumitomo Chemical India Ltd.",
+   "symbol": "SUMICHEM",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sun-tv-network",
+   "name": "Sun TV Network Ltd.",
+   "symbol": "SUNTV",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sundaram-finance",
+   "name": "Sundaram Finance Ltd.",
+   "symbol": "SUNDARMFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "supreme-industries",
+   "name": "Supreme Industries Ltd.",
+   "symbol": "SUPREMEIND",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "swan-corp",
+   "name": "Swan Corp Ltd.",
+   "symbol": "SWANCORP",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "syngene-international",
+   "name": "Syngene International Ltd.",
+   "symbol": "SYNGENE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "syrma-sgs-technology",
+   "name": "Syrma SGS Technology Ltd.",
+   "symbol": "SYRMA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tbo-tek",
+   "name": "TBO Tek Ltd.",
+   "symbol": "TBOTEK",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "td-power-systems",
+   "name": "TD Power Systems Ltd.",
+   "symbol": "TDPOWERSYS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-capital",
+   "name": "Tata Capital Ltd.",
+   "symbol": "TATACAP",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-investment",
+   "name": "Tata Investment Corporation Ltd.",
+   "symbol": "TATAINVEST",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-teleservices-maharashtra",
+   "name": "Tata Teleservices (Maharashtra) Ltd.",
+   "symbol": "TTML",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "techno-electric-and-engineering",
+   "name": "Techno Electric & Engineering Company Ltd.",
+   "symbol": "TECHNOE",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tega-industries",
+   "name": "Tega Industries Ltd.",
+   "symbol": "TEGA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tejas-networks",
+   "name": "Tejas Networks Ltd.",
+   "symbol": "TEJASNET",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tenneco-clean-air",
+   "name": "Tenneco Clean Air India Ltd.",
+   "symbol": "TENNIND",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "thangamayil-jewellery",
+   "name": "Thangamayil Jewellery Ltd.",
+   "symbol": "THANGAMAYL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "new-assurance",
+   "name": "The New India Assurance Company Ltd.",
+   "symbol": "NIACL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ramco-cements",
+   "name": "The Ramco Cements Ltd.",
+   "symbol": "RAMCOCEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "thermax",
+   "name": "Thermax Ltd.",
+   "symbol": "THERMAX",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "timken",
+   "name": "Timken India Ltd.",
+   "symbol": "TIMKEN",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "titagarh-rail-systems",
+   "name": "Titagarh Rail Systems Ltd.",
+   "symbol": "TITAGARH",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "torrent-power",
+   "name": "Torrent Power Ltd.",
+   "symbol": "TORNTPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "transformers-and-rectifiers",
+   "name": "Transformers And Rectifiers (India) Ltd.",
+   "symbol": "TARIL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "trident",
+   "name": "Trident Ltd.",
+   "symbol": "TRIDENT",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "triveni-turbine",
+   "name": "Triveni Turbine Ltd.",
+   "symbol": "TRITURBINE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "uco-bank",
+   "name": "UCO Bank",
+   "symbol": "UCOBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

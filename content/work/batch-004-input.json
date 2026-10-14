@@ -1,0 +1,505 @@
+{
+ "batch": "batch-004",
+ "targets": [
+  {
+   "slug": "united-spirits",
+   "name": "United Spirits Ltd.",
+   "symbol": "UNITDSPR",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "radico-khaitan",
+   "name": "Radico Khaitan Ltd",
+   "symbol": "RADICO",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "united-breweries",
+   "name": "United Breweries Ltd.",
+   "symbol": "UBL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "emami",
+   "name": "Emami Ltd.",
+   "symbol": "EMAMILTD",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "patanjali-foods",
+   "name": "Patanjali Foods Ltd.",
+   "symbol": "PATANJALI",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "berger-paints",
+   "name": "Berger Paints India Ltd.",
+   "symbol": "BERGEPAINT",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "escorts-kubota",
+   "name": "Escorts Kubota Ltd.",
+   "symbol": "ESCORTS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sona-blw-precision-forgings",
+   "name": "Sona BLW Precision Forgings Ltd.",
+   "symbol": "SONACOMS",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "exide-industries",
+   "name": "Exide Industries Ltd.",
+   "symbol": "EXIDEIND",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "amber-enterprises",
+   "name": "Amber Enterprises India Ltd.",
+   "symbol": "AMBER",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kaynes-technology",
+   "name": "Kaynes Technology India Ltd.",
+   "symbol": "KAYNES",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "waaree-energies",
+   "name": "Waaree Energies Ltd.",
+   "symbol": "WAAREEENER",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "premier-energies",
+   "name": "Premier Energies Ltd.",
+   "symbol": "PREMIERENE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "suzlon-energy",
+   "name": "Suzlon Energy Ltd.",
+   "symbol": "SUZLON",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "inox-wind",
+   "name": "Inox Wind Ltd.",
+   "symbol": "INOXWIND",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hyundai-motor",
+   "name": "Hyundai Motor India Ltd.",
+   "symbol": "HYUNDAI",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "360-one-wam",
+   "name": "360 ONE WAM Ltd.",
+   "symbol": "360ONE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "acc",
+   "name": "ACC Ltd.",
+   "symbol": "ACC",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "acme-solar-holdings",
+   "name": "ACME Solar Holdings Ltd.",
+   "symbol": "ACMESOLAR",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aia-engineering",
+   "name": "AIA Engineering Ltd.",
+   "symbol": "AIAENG",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apl-apollo-tubes",
+   "name": "APL Apollo Tubes Ltd.",
+   "symbol": "APLAPOLLO",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "awl-agri-business",
+   "name": "AWL Agri Business Ltd.",
+   "symbol": "AWL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aadhar-housing-finance",
+   "name": "Aadhar Housing Finance Ltd.",
+   "symbol": "AADHARHFC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aarti-industries",
+   "name": "Aarti Industries Ltd.",
+   "symbol": "AARTIIND",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aavas-financiers",
+   "name": "Aavas Financiers Ltd.",
+   "symbol": "AAVAS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "abbott",
+   "name": "Abbott India Ltd.",
+   "symbol": "ABBOTINDIA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "action-construction-equipment",
+   "name": "Action Construction Equipment Ltd.",
+   "symbol": "ACE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "acutaas-chemicals",
+   "name": "Acutaas Chemicals Ltd.",
+   "symbol": "ACUTAAS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "adani-total-gas",
+   "name": "Adani Total Gas Ltd.",
+   "symbol": "ATGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-birla-capital",
+   "name": "Aditya Birla Capital Ltd.",
+   "symbol": "ABCAPITAL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-birla-real-estate",
+   "name": "Aditya Birla Real Estate Ltd.",
+   "symbol": "ABREL",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-birla-sun-life-amc",
+   "name": "Aditya Birla Sun Life AMC Ltd.",
+   "symbol": "ABSLAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aditya-infotech",
+   "name": "Aditya Infotech Ltd.",
+   "symbol": "CPPLUS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aegis-logistics",
+   "name": "Aegis Logistics Ltd.",
+   "symbol": "AEGISLOG",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aegis-vopak-terminals",
+   "name": "Aegis Vopak Terminals Ltd.",
+   "symbol": "AEGISVOPAK",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aether-industries",
+   "name": "Aether Industries Ltd.",
+   "symbol": "AETHER",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "afcons-infrastructure",
+   "name": "Afcons Infrastructure Ltd.",
+   "symbol": "AFCONS",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "affle-3i",
+   "name": "Affle 3i Ltd.",
+   "symbol": "AFFLE",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ajanta-pharmaceuticals",
+   "name": "Ajanta Pharmaceuticals Ltd.",
+   "symbol": "AJANTPHARM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "allied-blenders-and-distillers",
+   "name": "Allied Blenders and Distillers Ltd.",
+   "symbol": "ABDL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "amara-raja-energy-and-mobility",
+   "name": "Amara Raja Energy & Mobility Ltd.",
+   "symbol": "ARE&M",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anand-rathi-wealth",
+   "name": "Anand Rathi Wealth Ltd.",
+   "symbol": "ANANDRATHI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anant-raj",
+   "name": "Anant Raj Ltd.",
+   "symbol": "ANANTRAJ",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anthem-biosciences",
+   "name": "Anthem Biosciences Ltd.",
+   "symbol": "ANTHEM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "anupam-rasayan",
+   "name": "Anupam Rasayan India Ltd.",
+   "symbol": "ANURAS",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apar-industries",
+   "name": "Apar Industries Ltd.",
+   "symbol": "APARINDS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aptus-value-housing-finance",
+   "name": "Aptus Value Housing Finance India Ltd.",
+   "symbol": "APTUS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "asahi-glass",
+   "name": "Asahi India Glass Ltd.",
+   "symbol": "ASAHIINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aster-dm-quality-care",
+   "name": "Aster DM Quality Care Ltd.",
+   "symbol": "ASTERDM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "astral",
+   "name": "Astral Ltd.",
+   "symbol": "ASTRAL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

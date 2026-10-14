@@ -1,0 +1,505 @@
+{
+ "batch": "batch-005",
+ "targets": [
+  {
+   "slug": "atul",
+   "name": "Atul Ltd.",
+   "symbol": "ATUL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "authum-investment-and-infrastructure",
+   "name": "Authum Investment & Infrastructure Ltd.",
+   "symbol": "AIIL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "avanti-feeds",
+   "name": "Avanti Feeds Ltd.",
+   "symbol": "AVANTIFEED",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "azad-engineering",
+   "name": "Azad Engineering Ltd.",
+   "symbol": "AZAD",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "beml",
+   "name": "BEML Ltd.",
+   "symbol": "BEML",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bls-international-services",
+   "name": "BLS International Services Ltd.",
+   "symbol": "BLS",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bagmane-prime-office-reit",
+   "name": "Bagmane Prime Office REIT",
+   "symbol": "BAGMANE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "balkrishna-industries",
+   "name": "Balkrishna Industries Ltd.",
+   "symbol": "BALKRISIND",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "balrampur-chini-mills",
+   "name": "Balrampur Chini Mills Ltd.",
+   "symbol": "BALRAMCHIN",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bandhan-bank",
+   "name": "Bandhan Bank Ltd.",
+   "symbol": "BANDHANBNK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of",
+   "name": "Bank of India",
+   "symbol": "BANKINDIA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of-maharashtra",
+   "name": "Bank of Maharashtra",
+   "symbol": "MAHABANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bata",
+   "name": "Bata India Ltd.",
+   "symbol": "BATAINDIA",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "belrise-industries",
+   "name": "Belrise Industries Ltd.",
+   "symbol": "BELRISE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-coking-coal",
+   "name": "Bharat Coking Coal Ltd.",
+   "symbol": "BHARATCOAL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-heavy-electricals",
+   "name": "Bharat Heavy Electricals Ltd.",
+   "symbol": "BHEL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharti-hexacom",
+   "name": "Bharti Hexacom Ltd.",
+   "symbol": "BHARTIHEXA",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "birlasoft",
+   "name": "Birlasoft Ltd.",
+   "symbol": "BSOFT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "black-box",
+   "name": "Black Box Ltd.",
+   "symbol": "BBOX",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "brigade-enterprises",
+   "name": "Brigade Enterprises Ltd.",
+   "symbol": "BRIGADE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "brookfield-real-estate-trust",
+   "name": "Brookfield India Real Estate Trust",
+   "symbol": "BIRET",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ccl-products-i",
+   "name": "CCL Products (I) Ltd.",
+   "symbol": "CCL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cesc",
+   "name": "CESC Ltd.",
+   "symbol": "CESC",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cg-power-and-industrial-solutions",
+   "name": "CG Power and Industrial Solutions Ltd.",
+   "symbol": "CGPOWER",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cie-automotive",
+   "name": "CIE Automotive India Ltd.",
+   "symbol": "CIEINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "crisil",
+   "name": "CRISIL Ltd.",
+   "symbol": "CRISIL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "can-fin-homes",
+   "name": "Can Fin Homes Ltd.",
+   "symbol": "CANFINHOME",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "canara-hsbc-life-insurance",
+   "name": "Canara HSBC Life Insurance Company Ltd.",
+   "symbol": "CANHLIFE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "caplin-point-laboratories",
+   "name": "Caplin Point Laboratories Ltd.",
+   "symbol": "CAPLIPOINT",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "capri-global-capital",
+   "name": "Capri Global Capital Ltd.",
+   "symbol": "CGCL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "carborundum-universal",
+   "name": "Carborundum Universal Ltd.",
+   "symbol": "CARBORUNIV",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cartrade-tech",
+   "name": "Cartrade Tech Ltd.",
+   "symbol": "CARTRADE",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "castrol",
+   "name": "Castrol India Ltd.",
+   "symbol": "CASTROLIND",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ceat",
+   "name": "Ceat Ltd.",
+   "symbol": "CEATLTD",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cemindia-projects",
+   "name": "Cemindia Projects Ltd.",
+   "symbol": "CEMPRO",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "central-bank-of",
+   "name": "Central Bank of India",
+   "symbol": "CENTRALBK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "central-mine-planning-and-design-institute",
+   "name": "Central Mine Planning & Design Institute Ltd.",
+   "symbol": "CMPDI",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "chambal-fertilizers-and-chemicals",
+   "name": "Chambal Fertilizers & Chemicals Ltd.",
+   "symbol": "CHAMBLFERT",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "chennai-petroleum",
+   "name": "Chennai Petroleum Corporation Ltd.",
+   "symbol": "CHENNPETRO",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "choice-international",
+   "name": "Choice International Ltd.",
+   "symbol": "CHOICEIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cholamandalam-financial-holdings",
+   "name": "Cholamandalam Financial Holdings Ltd.",
+   "symbol": "CHOLAHLDNG",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "city-union-bank",
+   "name": "City Union Bank Ltd.",
+   "symbol": "CUB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "clean-max-enviro-energy-solutions",
+   "name": "Clean Max Enviro Energy Solutions Ltd.",
+   "symbol": "CLEANMAX",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "clean-science-and-technology",
+   "name": "Clean Science and Technology Ltd.",
+   "symbol": "CLEAN",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cohance-lifesciences",
+   "name": "Cohance Lifesciences Ltd.",
+   "symbol": "COHANCE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "computer-age-management-services",
+   "name": "Computer Age Management Services Ltd.",
+   "symbol": "CAMS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "concord-biotech",
+   "name": "Concord Biotech Ltd.",
+   "symbol": "CONCORDBIO",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "container-of",
+   "name": "Container Corporation of India Ltd.",
+   "symbol": "CONCOR",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "coromandel-international",
+   "name": "Coromandel International Ltd.",
+   "symbol": "COROMANDEL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "craftsman-automation",
+   "name": "Craftsman Automation Ltd.",
+   "symbol": "CRAFTSMAN",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

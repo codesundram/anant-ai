@@ -1,0 +1,405 @@
+{
+ "batch": "batch-011",
+ "targets": [
+  {
+   "slug": "freshtohome",
+   "name": "FreshToHome",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "haldiram-s",
+   "name": "Haldiram's",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "parle-products",
+   "name": "Parle Products",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "amul-gcmmf",
+   "name": "Amul (GCMMF)",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "balaji-wafers",
+   "name": "Balaji Wafers",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bikaji-foods",
+   "name": "Bikaji Foods",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "wow-momo",
+   "name": "Wow! Momo",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "chaayos",
+   "name": "Chaayos",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "third-wave-coffee",
+   "name": "Third Wave Coffee",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blue-tokai-coffee",
+   "name": "Blue Tokai Coffee",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sleepy-owl",
+   "name": "Sleepy Owl",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "whole-truth",
+   "name": "The Whole Truth",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "yoga-bar",
+   "name": "Yoga Bar",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "paper-boat-hector-beverages",
+   "name": "Paper Boat (Hector Beverages)",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bira-91",
+   "name": "Bira 91",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sugar-cosmetics",
+   "name": "Sugar Cosmetics",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "plum-pureplay-skin-sciences",
+   "name": "Plum (Pureplay Skin Sciences)",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mcaffeine",
+   "name": "mCaffeine",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "minimalist",
+   "name": "Minimalist",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "man",
+   "name": "The Man Company",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bombay-shaving",
+   "name": "Bombay Shaving Company",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "foxtale",
+   "name": "Foxtale",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "wakefit",
+   "name": "Wakefit",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pepperfry",
+   "name": "Pepperfry",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "livspace",
+   "name": "Livspace",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "urban-ladder",
+   "name": "Urban Ladder",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "duroflex",
+   "name": "Duroflex",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "noise",
+   "name": "Noise",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fire-boltt",
+   "name": "Fire-Boltt",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "atomberg",
+   "name": "Atomberg",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bluestone",
+   "name": "Bluestone",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "giva",
+   "name": "Giva",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bewakoof",
+   "name": "Bewakoof",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "souled-store",
+   "name": "The Souled Store",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "snitch",
+   "name": "Snitch",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "libas",
+   "name": "Libas",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rare-rabbit",
+   "name": "Rare Rabbit",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "neeman-s",
+   "name": "Neeman's",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "decathlon",
+   "name": "Decathlon India",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shiprocket",
+   "name": "Shiprocket",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shadowfax",
+   "name": "Shadowfax",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "xpressbees",
+   "name": "Xpressbees",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "porter",
+   "name": "Porter",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rivigo",
+   "name": "Rivigo",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blackbuck-zinka-logistics",
+   "name": "BlackBuck (Zinka Logistics)",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "blue-dart",
+   "name": "Blue Dart",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "letstransport",
+   "name": "LetsTransport",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cred-avenue-yubi",
+   "name": "Cred Avenue (Yubi)",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lendingkart",
+   "name": "Lendingkart",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kreditbee",
+   "name": "KreditBee",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

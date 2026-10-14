@@ -1,0 +1,365 @@
+{
+ "batch": "batch-015",
+ "targets": [
+  {
+   "slug": "lulu-group",
+   "name": "Lulu Group India",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "spencer-s-retail",
+   "name": "Spencer's Retail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "more-retail",
+   "name": "More Retail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ratnadeep-supermarket",
+   "name": "Ratnadeep Supermarket",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "v-mart",
+   "name": "V-Mart",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shoppers-stop",
+   "name": "Shoppers Stop",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lifestyle-international",
+   "name": "Lifestyle International",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vijay-sales",
+   "name": "Vijay Sales",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "malabar-gold-and-diamonds",
+   "name": "Malabar Gold & Diamonds",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "joyalukkas",
+   "name": "Joyalukkas",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "senco-gold",
+   "name": "Senco Gold",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pc-jeweller",
+   "name": "PC Jeweller",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mswipe",
+   "name": "Mswipe",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "airtel-payments-bank",
+   "name": "Airtel Payments Bank",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "fino-payments-bank",
+   "name": "Fino Payments Bank",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "equitas-small-finance-bank",
+   "name": "Equitas Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ujjivan-small-finance-bank",
+   "name": "Ujjivan Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jana-small-finance-bank",
+   "name": "Jana Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "suryoday-small-finance-bank",
+   "name": "Suryoday Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "unity-small-finance-bank",
+   "name": "Unity Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shivalik-small-finance-bank",
+   "name": "Shivalik Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "avanse-financial",
+   "name": "Avanse Financial",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "credila",
+   "name": "Credila",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "veritas-finance",
+   "name": "Veritas Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sk-finance",
+   "name": "SK Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "satin-creditcare",
+   "name": "Satin Creditcare",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "spandana-sphoorty",
+   "name": "Spandana Sphoorty",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "arohan-financial",
+   "name": "Arohan Financial",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kinara-capital",
+   "name": "Kinara Capital",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "neogrowth",
+   "name": "NeoGrowth",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "indifi",
+   "name": "Indifi",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "flexiloans",
+   "name": "FlexiLoans",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "aye-finance",
+   "name": "Aye Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vastu-housing-finance",
+   "name": "Vastu Housing Finance",
+   "type": "startup",
+   "industry": "nbfc-lending",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bharti-axa-life",
+   "name": "Bharti AXA Life",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "axis-max-life-insurance",
+   "name": "Axis Max Life Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-aig-general-insurance",
+   "name": "Tata AIG General Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-ergo-general-insurance",
+   "name": "HDFC Ergo General Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cams",
+   "name": "CAMS",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "mcx",
+   "name": "MCX",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cdsl",
+   "name": "CDSL",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nsdl",
+   "name": "NSDL",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-amc",
+   "name": "HDFC AMC",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nippon-life-amc",
+   "name": "Nippon Life India AMC",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sbi-funds-management",
+   "name": "SBI Funds Management",
+   "type": "startup",
+   "industry": "capital-markets",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

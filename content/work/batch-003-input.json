@@ -1,0 +1,505 @@
+{
+ "batch": "batch-003",
+ "targets": [
+  {
+   "slug": "multi-commodity-exchange-of",
+   "name": "Multi Commodity Exchange of India Ltd.",
+   "symbol": "MCX",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "angel-one",
+   "name": "Angel One Ltd.",
+   "symbol": "ANGELONE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "central-depository-services",
+   "name": "Central Depository Services (India) Ltd.",
+   "symbol": "CDSL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "l-and-t-finance",
+   "name": "L&T Finance Ltd.",
+   "symbol": "LTF",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "power-finance",
+   "name": "Power Finance Corporation Ltd.",
+   "symbol": "PFC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rec",
+   "name": "REC Ltd.",
+   "symbol": "RECLTD",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-railway-finance",
+   "name": "Indian Railway Finance Corporation Ltd.",
+   "symbol": "IRFC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "samvardhana-motherson-international",
+   "name": "Samvardhana Motherson International Ltd.",
+   "symbol": "MOTHERSON",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bosch",
+   "name": "Bosch Ltd.",
+   "symbol": "BOSCHLTD",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mrf",
+   "name": "MRF Ltd.",
+   "symbol": "MRF",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apollo-tyres",
+   "name": "Apollo Tyres Ltd.",
+   "symbol": "APOLLOTYRE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ashok-leyland",
+   "name": "Ashok Leyland Ltd.",
+   "symbol": "ASHOKLEY",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tube-investments-of",
+   "name": "Tube Investments of India Ltd.",
+   "symbol": "TIINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "colgate-palmolive",
+   "name": "Colgate Palmolive (India) Ltd.",
+   "symbol": "COLPAL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godrej-properties",
+   "name": "Godrej Properties Ltd.",
+   "symbol": "GODREJPROP",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lodha-developers",
+   "name": "Lodha Developers Ltd.",
+   "symbol": "LODHA",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "oberoi-realty",
+   "name": "Oberoi Realty Ltd.",
+   "symbol": "OBEROIRLTY",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "prestige-estates-projects",
+   "name": "Prestige Estates Projects Ltd.",
+   "symbol": "PRESTIGE",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "phoenix-mills",
+   "name": "Phoenix Mills Ltd.",
+   "symbol": "PHOENIXLTD",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jubilant-foodworks",
+   "name": "Jubilant Foodworks Ltd.",
+   "symbol": "JUBLFOOD",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "devyani-international",
+   "name": "Devyani International Ltd.",
+   "symbol": "DEVYANI",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kalyan-jewellers",
+   "name": "Kalyan Jewellers India Ltd.",
+   "symbol": "KALYANKJIL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "upl",
+   "name": "UPL Ltd.",
+   "symbol": "UPL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "srf",
+   "name": "SRF Ltd.",
+   "symbol": "SRF",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "pi-industries",
+   "name": "PI Industries Ltd.",
+   "symbol": "PIIND",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "deepak-nitrite",
+   "name": "Deepak Nitrite Ltd.",
+   "symbol": "DEEPAKNTR",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "solar-industries",
+   "name": "Solar Industries India Ltd.",
+   "symbol": "SOLARINDS",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-forge",
+   "name": "Bharat Forge Ltd.",
+   "symbol": "BHARATFORG",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cummins",
+   "name": "Cummins India Ltd.",
+   "symbol": "CUMMINSIND",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mazagoan-dock-shipbuilders",
+   "name": "Mazagoan Dock Shipbuilders Ltd.",
+   "symbol": "MAZDOCK",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cochin-shipyard",
+   "name": "Cochin Shipyard Ltd.",
+   "symbol": "COCHINSHIP",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-dynamics",
+   "name": "Bharat Dynamics Ltd.",
+   "symbol": "BDL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ircon-international",
+   "name": "IRCON International Ltd.",
+   "symbol": "IRCON",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "rail-vikas-nigam",
+   "name": "Rail Vikas Nigam Ltd.",
+   "symbol": "RVNL",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nhpc",
+   "name": "NHPC Ltd.",
+   "symbol": "NHPC",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "sjvn",
+   "name": "SJVN Ltd.",
+   "symbol": "SJVN",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "steel-authority-of",
+   "name": "Steel Authority of India Ltd.",
+   "symbol": "SAIL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "nmdc",
+   "name": "NMDC Ltd.",
+   "symbol": "NMDC",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jindal-steel",
+   "name": "Jindal Steel Ltd.",
+   "symbol": "JINDALSTEL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "national-aluminium",
+   "name": "National Aluminium Co. Ltd.",
+   "symbol": "NATIONALUM",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "l-and-t-technology-services",
+   "name": "L&T Technology Services Ltd.",
+   "symbol": "LTTS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "mphasis",
+   "name": "MphasiS Ltd.",
+   "symbol": "MPHASIS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "oracle-financial-services-software",
+   "name": "Oracle Financial Services Software Ltd.",
+   "symbol": "OFSS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kpit-technologies",
+   "name": "KPIT Technologies Ltd.",
+   "symbol": "KPITTECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-elxsi",
+   "name": "Tata Elxsi Ltd.",
+   "symbol": "TATAELXSI",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-communications",
+   "name": "Tata Communications Ltd.",
+   "symbol": "TATACOMM",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indus-towers",
+   "name": "Indus Towers Ltd.",
+   "symbol": "INDUSTOWER",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vodafone-idea",
+   "name": "Vodafone Idea Ltd.",
+   "symbol": "IDEA",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-technologies",
+   "name": "Tata Technologies Ltd.",
+   "symbol": "TATATECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-chemicals",
+   "name": "Tata Chemicals Ltd.",
+   "symbol": "TATACHEM",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "batch": "batch-014",
+ "targets": [
+  {
+   "slug": "smartworks",
+   "name": "Smartworks",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "awfis",
+   "name": "Awfis",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "wework",
+   "name": "WeWork India",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "table-space",
+   "name": "Table Space",
+   "type": "startup",
+   "industry": "real-estate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "sharechat-mohalla-tech",
+   "name": "ShareChat (Mohalla Tech)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pocket-fm",
+   "name": "Pocket FM",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kuku-fm",
+   "name": "Kuku FM",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "pratilipi",
+   "name": "Pratilipi",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dailyhunt-verse-innovation",
+   "name": "Dailyhunt (VerSe Innovation)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "inmobi",
+   "name": "InMobi",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "glance",
+   "name": "Glance",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jiohotstar-jiostar",
+   "name": "JioHotstar (JioStar)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "nazara-technologies",
+   "name": "Nazara Technologies",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "games24x7",
+   "name": "Games24x7",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "winzo",
+   "name": "Winzo",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "junglee-games",
+   "name": "Junglee Games",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "krafton",
+   "name": "Krafton India",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bookmyshow-bigtree",
+   "name": "BookMyShow (Bigtree)",
+   "type": "startup",
+   "industry": "media-entertainment",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "magicpin",
+   "name": "Magicpin",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "apna",
+   "name": "Apna",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "workindia",
+   "name": "WorkIndia",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "shaadi-com",
+   "name": "Shaadi.com",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bharatmatrimony-matrimony-com",
+   "name": "BharatMatrimony (Matrimony.com)",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "justdial",
+   "name": "Justdial",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "cardekho",
+   "name": "CarDekho",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "olx",
+   "name": "OLX India",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "quikr",
+   "name": "Quikr",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-sons",
+   "name": "Tata Sons",
+   "type": "startup",
+   "industry": "conglomerate",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-digital-tata-neu",
+   "name": "Tata Digital (Tata Neu)",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "reliance-retail",
+   "name": "Reliance Retail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "reliance-jio-platforms",
+   "name": "Reliance Jio Platforms",
+   "type": "startup",
+   "industry": "telecom",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "serum-institute-of",
+   "name": "Serum Institute of India",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-biotech",
+   "name": "Bharat Biotech",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "intas-pharmaceuticals",
+   "name": "Intas Pharmaceuticals",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "micro-labs",
+   "name": "Micro Labs",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "biological-e",
+   "name": "Biological E",
+   "type": "startup",
+   "industry": "pharma",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "medanta-global-health",
+   "name": "Medanta (Global Health)",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "narayana-health",
+   "name": "Narayana Health",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "manipal-hospitals",
+   "name": "Manipal Hospitals",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "aster-dm-healthcare",
+   "name": "Aster DM Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dr-lal-pathlabs",
+   "name": "Dr Lal PathLabs",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "metropolis-healthcare",
+   "name": "Metropolis Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "haier",
+   "name": "Haier India",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "samsung",
+   "name": "Samsung India",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "kia",
+   "name": "Kia India",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "toyota-kirloskar-motor",
+   "name": "Toyota Kirloskar Motor",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "royal-enfield-eicher-motors",
+   "name": "Royal Enfield (Eicher Motors)",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-mg-motor",
+   "name": "JSW MG Motor India",
+   "type": "startup",
+   "industry": "automobiles",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "amazon",
+   "name": "Amazon India",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "walmart-best-price",
+   "name": "Walmart India (Best Price)",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

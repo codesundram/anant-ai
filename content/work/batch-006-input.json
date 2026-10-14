@@ -1,0 +1,505 @@
+{
+ "batch": "batch-006",
+ "targets": [
+  {
+   "slug": "creditaccess-grameen",
+   "name": "CreditAccess Grameen Ltd.",
+   "symbol": "CREDITACC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "crompton-greaves-consumer-electricals",
+   "name": "Crompton Greaves Consumer Electricals Ltd.",
+   "symbol": "CROMPTON",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cupid",
+   "name": "Cupid Ltd.",
+   "symbol": "CUPID",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cyient",
+   "name": "Cyient Ltd.",
+   "symbol": "CYIENT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "doms-industries",
+   "name": "DOMS Industries Ltd.",
+   "symbol": "DOMS",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dalmia-bharat",
+   "name": "Dalmia Bharat Ltd.",
+   "symbol": "DALBHARAT",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "data-patterns",
+   "name": "Data Patterns (India) Ltd.",
+   "symbol": "DATAPATTNS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "deepak-fertilisers-and-petrochemicals-corp",
+   "name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+   "symbol": "DEEPAKFERT",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dr-lal-path-labs",
+   "name": "Dr. Lal Path Labs Ltd.",
+   "symbol": "LALPATHLAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dummy-heg",
+   "name": "Dummy HEG Ltd.",
+   "symbol": "DUMMYHEG",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "e-i-d-parry",
+   "name": "E.I.D. Parry (India) Ltd.",
+   "symbol": "EIDPARRY",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eih",
+   "name": "EIH Ltd.",
+   "symbol": "EIHOTEL",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "embassy-office-parks-reit",
+   "name": "EMBASSY OFFICE PARKS REIT",
+   "symbol": "EMBASSY",
+   "type": "listed",
+   "nse_industry": "Realty",
+   "industry": "real-estate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "elecon-engineering",
+   "name": "Elecon Engineering Co. Ltd.",
+   "symbol": "ELECON",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "elgi-equipments",
+   "name": "Elgi Equipments Ltd.",
+   "symbol": "ELGIEQUIP",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "emcure-pharmaceuticals",
+   "name": "Emcure Pharmaceuticals Ltd.",
+   "symbol": "EMCURE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "emmvee-photovoltaic-power",
+   "name": "Emmvee Photovoltaic Power Ltd.",
+   "symbol": "EMMVEE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "endurance-technologies",
+   "name": "Endurance Technologies Ltd.",
+   "symbol": "ENDURANCE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "engineers",
+   "name": "Engineers India Ltd.",
+   "symbol": "ENGINERSIN",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "fertilisers-and-chemicals-travancore",
+   "name": "Fertilisers and Chemicals Travancore Ltd.",
+   "symbol": "FACT",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "finolex-cables",
+   "name": "Finolex Cables Ltd.",
+   "symbol": "FINCABLES",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "firstsource-solutions",
+   "name": "Firstsource Solutions Ltd.",
+   "symbol": "FSL",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "five-star-business-finance",
+   "name": "Five-Star Business Finance Ltd.",
+   "symbol": "FIVESTAR",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "force-motors",
+   "name": "Force Motors Ltd.",
+   "symbol": "FORCEMOT",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "fractal-analytics",
+   "name": "Fractal Analytics Ltd.",
+   "symbol": "FRACTAL",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ge-vernova-t-and-d",
+   "name": "GE Vernova T&D India Ltd.",
+   "symbol": "GVT&D",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gmr-airports",
+   "name": "GMR Airports Ltd.",
+   "symbol": "GMRAIRPORT",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gabriel",
+   "name": "Gabriel India Ltd.",
+   "symbol": "GABRIEL",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gallantt-ispat",
+   "name": "Gallantt Ispat Ltd.",
+   "symbol": "GALLANTT",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "garden-reach-shipbuilders-and-engineers",
+   "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+   "symbol": "GRSE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "general-insurance-of",
+   "name": "General Insurance Corporation of India",
+   "symbol": "GICRE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gillette",
+   "name": "Gillette India Ltd.",
+   "symbol": "GILLETTE",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gland-pharma",
+   "name": "Gland Pharma Ltd.",
+   "symbol": "GLAND",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "glaxosmithkline-pharmaceuticals",
+   "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+   "symbol": "GLAXO",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "glenmark-pharmaceuticals",
+   "name": "Glenmark Pharmaceuticals Ltd.",
+   "symbol": "GLENMARK",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "global-health",
+   "name": "Global Health Ltd.",
+   "symbol": "MEDANTA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godawari-power-and-ispat",
+   "name": "Godawari Power & Ispat Ltd.",
+   "symbol": "GPIL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godfrey-phillips",
+   "name": "Godfrey Phillips India Ltd.",
+   "symbol": "GODFRYPHLP",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "godrej-industries",
+   "name": "Godrej Industries Ltd.",
+   "symbol": "GODREJIND",
+   "type": "listed",
+   "nse_industry": "Diversified",
+   "industry": "conglomerate",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "granules",
+   "name": "Granules India Ltd.",
+   "symbol": "GRANULES",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "graphite",
+   "name": "Graphite India Ltd.",
+   "symbol": "GRAPHITE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gravita",
+   "name": "Gravita India Ltd.",
+   "symbol": "GRAVITA",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "great-eastern-shipping",
+   "name": "Great Eastern Shipping Co. Ltd.",
+   "symbol": "GESHIP",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gujarat-fluorochemicals",
+   "name": "Gujarat Fluorochemicals Ltd.",
+   "symbol": "FLUOROCHEM",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gujarat-mineral-development",
+   "name": "Gujarat Mineral Development Corporation Ltd.",
+   "symbol": "GMDCLTD",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hbl-engineering",
+   "name": "HBL Engineering Ltd.",
+   "symbol": "HBLENGINE",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hdb-financial-services",
+   "name": "HDB Financial Services Ltd.",
+   "symbol": "HDBFS",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "heg-advanced-materials",
+   "name": "HEG Advanced Materials Ltd.",
+   "symbol": "HEGAM",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hfcl",
+   "name": "HFCL Ltd.",
+   "symbol": "HFCL",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hexaware-technologies",
+   "name": "Hexaware Technologies Ltd.",
+   "symbol": "HEXT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,505 @@
+{
+ "batch": "batch-007",
+ "targets": [
+  {
+   "slug": "himadri-speciality-chemical",
+   "name": "Himadri Speciality Chemical Ltd.",
+   "symbol": "HSCL",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindustan-copper",
+   "name": "Hindustan Copper Ltd.",
+   "symbol": "HINDCOPPER",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hitachi-energy",
+   "name": "Hitachi Energy India Ltd.",
+   "symbol": "POWERINDIA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "home-first-finance",
+   "name": "Home First Finance Company India Ltd.",
+   "symbol": "HOMEFIRST",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "honeywell-automation",
+   "name": "Honeywell Automation India Ltd.",
+   "symbol": "HONAUT",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "housing-and-urban-development",
+   "name": "Housing & Urban Development Corporation Ltd.",
+   "symbol": "HUDCO",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "icici-prudential-asset-management",
+   "name": "ICICI Prudential Asset Management Company Ltd.",
+   "symbol": "ICICIAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "idbi-bank",
+   "name": "IDBI Bank Ltd.",
+   "symbol": "IDBI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ifci",
+   "name": "IFCI Ltd.",
+   "symbol": "IFCI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "iifl-finance",
+   "name": "IIFL Finance Ltd.",
+   "symbol": "IIFL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "inox",
+   "name": "INOX India Ltd.",
+   "symbol": "INOXINDIA",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "irb-infrastructure-developers",
+   "name": "IRB Infrastructure Developers Ltd.",
+   "symbol": "IRB",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "itc-hotels",
+   "name": "ITC Hotels Ltd.",
+   "symbol": "ITCHOTELS",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "iti",
+   "name": "ITI Ltd.",
+   "symbol": "ITI",
+   "type": "listed",
+   "nse_industry": "Telecommunication",
+   "industry": "telecom",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cements",
+   "name": "India Cements Ltd.",
+   "symbol": "INDIACEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indiamart-intermesh",
+   "name": "Indiamart Intermesh Ltd.",
+   "symbol": "INDIAMART",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-bank",
+   "name": "Indian Bank",
+   "symbol": "INDIANB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-energy-exchange",
+   "name": "Indian Energy Exchange Ltd.",
+   "symbol": "IEX",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-overseas-bank",
+   "name": "Indian Overseas Bank",
+   "symbol": "IOB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-renewable-energy-development-agency",
+   "name": "Indian Renewable Energy Development Agency Ltd.",
+   "symbol": "IREDA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indraprastha-gas",
+   "name": "Indraprastha Gas Ltd.",
+   "symbol": "IGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "intellect-design-arena",
+   "name": "Intellect Design Arena Ltd.",
+   "symbol": "INTELLECT",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "international-gemological-institute",
+   "name": "International Gemological Institute Ltd.",
+   "symbol": "IGIL",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "inventurus-knowledge-solutions",
+   "name": "Inventurus Knowledge Solutions Ltd.",
+   "symbol": "IKS",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ipca-laboratories",
+   "name": "Ipca Laboratories Ltd.",
+   "symbol": "IPCALAB",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "j-k-cement",
+   "name": "J.K. Cement Ltd.",
+   "symbol": "JKCEMENT",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jbm-auto",
+   "name": "JBM Auto Ltd.",
+   "symbol": "JBMA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jk-tyre-and-industries",
+   "name": "JK Tyre & Industries Ltd.",
+   "symbol": "JKTYRE",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jm-financial",
+   "name": "JM Financial Ltd.",
+   "symbol": "JMFINANCIL",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-cement",
+   "name": "JSW Cement Ltd.",
+   "symbol": "JSWCEMENT",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-infrastructure",
+   "name": "JSW Infrastructure Ltd.",
+   "symbol": "JSWINFRA",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jain-resource-recycling",
+   "name": "Jain Resource Recycling Ltd.",
+   "symbol": "JAINREC",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jaiprakash-power-ventures",
+   "name": "Jaiprakash Power Ventures Ltd.",
+   "symbol": "JPPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jammu-and-kashmir-bank",
+   "name": "Jammu & Kashmir Bank Ltd.",
+   "symbol": "J&KBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jindal-saw",
+   "name": "Jindal Saw Ltd.",
+   "symbol": "JINDALSAW",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jindal-stainless",
+   "name": "Jindal Stainless Ltd.",
+   "symbol": "JSL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jubilant-ingrevia",
+   "name": "Jubilant Ingrevia Ltd.",
+   "symbol": "JUBLINGREA",
+   "type": "listed",
+   "nse_industry": "Chemicals",
+   "industry": "chemicals",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jupiter-wagons",
+   "name": "Jupiter Wagons Ltd.",
+   "symbol": "JWL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jyoti-cnc-automation",
+   "name": "Jyoti CNC Automation Ltd.",
+   "symbol": "JYOTICNC",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "k-p-r-mill",
+   "name": "K.P.R. Mill Ltd.",
+   "symbol": "KPRMILL",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kei-industries",
+   "name": "KEI Industries Ltd.",
+   "symbol": "KEI",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ksb",
+   "name": "KSB Ltd.",
+   "symbol": "KSB",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kajaria-ceramics",
+   "name": "Kajaria Ceramics Ltd.",
+   "symbol": "KAJARIACER",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kalpataru-projects-international",
+   "name": "Kalpataru Projects International Ltd.",
+   "symbol": "KPIL",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "karur-vysya-bank",
+   "name": "Karur Vysya Bank Ltd.",
+   "symbol": "KARURVYSYA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kec-international",
+   "name": "Kec International Ltd.",
+   "symbol": "KEC",
+   "type": "listed",
+   "nse_industry": "Construction",
+   "industry": "construction-infrastructure",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kfin-technologies",
+   "name": "Kfin Technologies Ltd.",
+   "symbol": "KFINTECH",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kirloskar-brothers",
+   "name": "Kirloskar Brothers Ltd.",
+   "symbol": "KIRLOSBROS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "kirloskar-oil-eng",
+   "name": "Kirloskar Oil Eng Ltd.",
+   "symbol": "KIRLOSENG",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "krishna-institute-of-medical-sciences",
+   "name": "Krishna Institute of Medical Sciences Ltd.",
+   "symbol": "KIMS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}

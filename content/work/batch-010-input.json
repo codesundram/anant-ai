@@ -1,0 +1,445 @@
+{
+ "batch": "batch-010",
+ "targets": [
+  {
+   "slug": "uno-minda",
+   "name": "UNO Minda Ltd.",
+   "symbol": "UNOMINDA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "uti-asset-management",
+   "name": "UTI Asset Management Company Ltd.",
+   "symbol": "UTIAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "usha-martin",
+   "name": "Usha Martin Ltd.",
+   "symbol": "USHAMART",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vardhman-textiles",
+   "name": "Vardhman Textiles Ltd.",
+   "symbol": "VTL",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta-aluminium-metal",
+   "name": "Vedanta Aluminium Metal Ltd.",
+   "symbol": "VAML",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta-iron-and-steel",
+   "name": "Vedanta Iron and Steel Ltd.",
+   "symbol": "VISL",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta-oil-and-gas",
+   "name": "Vedanta Oil and Gas Ltd.",
+   "symbol": "VOGL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vedanta-power",
+   "name": "Vedanta Power Ltd.",
+   "symbol": "VEDPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vijaya-diagnostic-centre",
+   "name": "Vijaya Diagnostic Centre Ltd.",
+   "symbol": "VIJAYA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "vishal-mega-mart",
+   "name": "Vishal Mega Mart Ltd.",
+   "symbol": "VMM",
+   "type": "listed",
+   "nse_industry": "Consumer Services",
+   "industry": "consumer-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "welspun-corp",
+   "name": "Welspun Corp Ltd.",
+   "symbol": "WELCORP",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "welspun-living",
+   "name": "Welspun Living Ltd.",
+   "symbol": "WELSPUNLIV",
+   "type": "listed",
+   "nse_industry": "Textiles",
+   "industry": "textiles-apparel",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "whirlpool-of",
+   "name": "Whirlpool of India Ltd.",
+   "symbol": "WHIRLPOOL",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "wockhardt",
+   "name": "Wockhardt Ltd.",
+   "symbol": "WOCKPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zf-commercial-vehicle-control-systems",
+   "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+   "symbol": "ZFCVINDIA",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zee-entertainment-enterprises",
+   "name": "Zee Entertainment Enterprises Ltd.",
+   "symbol": "ZEEL",
+   "type": "listed",
+   "nse_industry": "Media Entertainment & Publication",
+   "industry": "media-entertainment",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zen-technologies",
+   "name": "Zen Technologies Ltd.",
+   "symbol": "ZENTEC",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zensar-technolgies",
+   "name": "Zensar Technolgies Ltd.",
+   "symbol": "ZENSARTECH",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zydus-wellness",
+   "name": "Zydus Wellness Ltd.",
+   "symbol": "ZYDUSWELL",
+   "type": "listed",
+   "nse_industry": "Fast Moving Consumer Goods",
+   "industry": "fmcg",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eclerx-services",
+   "name": "eClerx Services Ltd.",
+   "symbol": "ECLERX",
+   "type": "listed",
+   "nse_industry": "Services",
+   "industry": "logistics-delivery",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "flipkart",
+   "name": "Flipkart",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "myntra",
+   "name": "Myntra",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "rapido",
+   "name": "Rapido",
+   "type": "startup",
+   "industry": "consumer-services",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dunzo",
+   "name": "Dunzo",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "byju-s",
+   "name": "Byju's",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vedantu",
+   "name": "Vedantu",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "eruditus",
+   "name": "Eruditus",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "great-learning",
+   "name": "Great Learning",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "simplilearn",
+   "name": "Simplilearn",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "lead-school",
+   "name": "LEAD School",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "classplus",
+   "name": "Classplus",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "adda247",
+   "name": "Adda247",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "testbook",
+   "name": "Testbook",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "scaler-interviewbit",
+   "name": "Scaler (InterviewBit)",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "leap-scholar",
+   "name": "Leap Scholar",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "seekho",
+   "name": "Seekho",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "allen-career-institute",
+   "name": "Allen Career Institute",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "aakash-educational-services",
+   "name": "Aakash Educational Services",
+   "type": "startup",
+   "industry": "ed-tech",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "udaan",
+   "name": "Udaan",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "jumbotail",
+   "name": "Jumbotail",
+   "type": "startup",
+   "industry": "retail",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "moglix",
+   "name": "Moglix",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ofbusiness",
+   "name": "OfBusiness",
+   "type": "startup",
+   "industry": "metals-materials",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "zetwerk",
+   "name": "Zetwerk",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "infra-market",
+   "name": "Infra.Market",
+   "type": "startup",
+   "industry": "cement-building-materials",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "bizongo",
+   "name": "Bizongo",
+   "type": "startup",
+   "industry": "capital-goods",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "vegrow",
+   "name": "Vegrow",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "dehaat",
+   "name": "DeHaat",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "ninjacart",
+   "name": "Ninjacart",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "country-delight",
+   "name": "Country Delight",
+   "type": "startup",
+   "industry": "fmcg",
+   "group": "startup-unlisted",
+   "status": "pending"
+  },
+  {
+   "slug": "milkbasket",
+   "name": "Milkbasket",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "group": "startup-unlisted",
+   "status": "pending"
+  }
+ ]
+}

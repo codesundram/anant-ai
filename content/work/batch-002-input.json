@@ -1,0 +1,505 @@
+{
+ "batch": "batch-002",
+ "targets": [
+  {
+   "slug": "tata-motors-passenger-vehicles",
+   "name": "Tata Motors Passenger Vehicles Ltd.",
+   "symbol": "TMPV",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bajaj-holdings-and-investment",
+   "name": "Bajaj Holdings & Investment Ltd.",
+   "symbol": "BAJAJHLDNG",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "adani-energy-solutions",
+   "name": "Adani Energy Solutions Ltd.",
+   "symbol": "ADANIENSOL",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindustan-aeronautics",
+   "name": "Hindustan Aeronautics Ltd.",
+   "symbol": "HAL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-electronics",
+   "name": "Bharat Electronics Ltd.",
+   "symbol": "BEL",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "life-insurance-of",
+   "name": "Life Insurance Corporation of India",
+   "symbol": "LICI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindustan-zinc",
+   "name": "Hindustan Zinc Ltd.",
+   "symbol": "HINDZINC",
+   "type": "listed",
+   "nse_industry": "Metals & Mining",
+   "industry": "metals-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indian-oil",
+   "name": "Indian Oil Corporation Ltd.",
+   "symbol": "IOC",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bharat-petroleum",
+   "name": "Bharat Petroleum Corporation Ltd.",
+   "symbol": "BPCL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hindustan-petroleum",
+   "name": "Hindustan Petroleum Corporation Ltd.",
+   "symbol": "HINDPETRO",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "gail",
+   "name": "GAIL (India) Ltd.",
+   "symbol": "GAIL",
+   "type": "listed",
+   "nse_industry": "Oil Gas & Consumable Fuels",
+   "industry": "oil-gas-fuels",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tech-mahindra",
+   "name": "Tech Mahindra Ltd.",
+   "symbol": "TECHM",
+   "type": "listed",
+   "nse_industry": "Information Technology",
+   "industry": "it-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "eicher-motors",
+   "name": "Eicher Motors Ltd.",
+   "symbol": "EICHERMOT",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tvs-motor",
+   "name": "TVS Motor Company Ltd.",
+   "symbol": "TVSMOTOR",
+   "type": "listed",
+   "nse_industry": "Automobile and Auto Components",
+   "industry": "automobiles",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shriram-finance",
+   "name": "Shriram Finance Ltd.",
+   "symbol": "SHRIRAMFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "cholamandalam-investment-and-finance",
+   "name": "Cholamandalam Investment and Finance Company Ltd.",
+   "symbol": "CHOLAFIN",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "nbfc-lending",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "apollo-hospitals-enterprise",
+   "name": "Apollo Hospitals Enterprise Ltd.",
+   "symbol": "APOLLOHOSP",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "max-healthcare-institute",
+   "name": "Max Healthcare Institute Ltd.",
+   "symbol": "MAXHEALTH",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "fortis-healthcare",
+   "name": "Fortis Healthcare Ltd.",
+   "symbol": "FORTIS",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "healthcare-services",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "lupin",
+   "name": "Lupin Ltd.",
+   "symbol": "LUPIN",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "torrent-pharmaceuticals",
+   "name": "Torrent Pharmaceuticals Ltd.",
+   "symbol": "TORNTPHARM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "zydus-lifesciences",
+   "name": "Zydus Lifesciences Ltd.",
+   "symbol": "ZYDUSLIFE",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "aurobindo-pharma",
+   "name": "Aurobindo Pharma Ltd.",
+   "symbol": "AUROPHARMA",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "biocon",
+   "name": "Biocon Ltd.",
+   "symbol": "BIOCON",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "alkem-laboratories",
+   "name": "Alkem Laboratories Ltd.",
+   "symbol": "ALKEM",
+   "type": "listed",
+   "nse_industry": "Healthcare",
+   "industry": "pharma",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "grasim-industries",
+   "name": "Grasim Industries Ltd.",
+   "symbol": "GRASIM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "ambuja-cements",
+   "name": "Ambuja Cements Ltd.",
+   "symbol": "AMBUJACEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "shree-cement",
+   "name": "Shree Cement Ltd.",
+   "symbol": "SHREECEM",
+   "type": "listed",
+   "nse_industry": "Construction Materials",
+   "industry": "cement-building-materials",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "jsw-energy",
+   "name": "JSW Energy Ltd.",
+   "symbol": "JSWENERGY",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "tata-power",
+   "name": "Tata Power Co. Ltd.",
+   "symbol": "TATAPOWER",
+   "type": "listed",
+   "nse_industry": "Power",
+   "industry": "energy-utilities",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "siemens",
+   "name": "Siemens Ltd.",
+   "symbol": "SIEMENS",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "abb",
+   "name": "ABB India Ltd.",
+   "symbol": "ABB",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "havells",
+   "name": "Havells India Ltd.",
+   "symbol": "HAVELLS",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "polycab",
+   "name": "Polycab India Ltd.",
+   "symbol": "POLYCAB",
+   "type": "listed",
+   "nse_industry": "Capital Goods",
+   "industry": "capital-goods",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "dixon-technologies",
+   "name": "Dixon Technologies (India) Ltd.",
+   "symbol": "DIXON",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "voltas",
+   "name": "Voltas Ltd.",
+   "symbol": "VOLTAS",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "blue-star",
+   "name": "Blue Star Ltd.",
+   "symbol": "BLUESTARCO",
+   "type": "listed",
+   "nse_industry": "Consumer Durables",
+   "industry": "consumer-durables",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "indusind-bank",
+   "name": "IndusInd Bank Ltd.",
+   "symbol": "INDUSINDBK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of-baroda",
+   "name": "Bank of Baroda",
+   "symbol": "BANKBARODA",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "punjab-national-bank",
+   "name": "Punjab National Bank",
+   "symbol": "PNB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "canara-bank",
+   "name": "Canara Bank",
+   "symbol": "CANBK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "union-bank-of",
+   "name": "Union Bank of India",
+   "symbol": "UNIONBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "idfc-first-bank",
+   "name": "IDFC First Bank Ltd.",
+   "symbol": "IDFCFIRSTB",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "federal-bank",
+   "name": "Federal Bank Ltd.",
+   "symbol": "FEDERALBNK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "au-small-finance-bank",
+   "name": "AU Small Finance Bank Ltd.",
+   "symbol": "AUBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "yes-bank",
+   "name": "Yes Bank Ltd.",
+   "symbol": "YESBANK",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "banking",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "icici-lombard-general-insurance",
+   "name": "ICICI Lombard General Insurance Company Ltd.",
+   "symbol": "ICICIGI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "icici-prudential-life-insurance",
+   "name": "ICICI Prudential Life Insurance Company Ltd.",
+   "symbol": "ICICIPRULI",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "insurtech",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "hdfc-asset-management",
+   "name": "HDFC Asset Management Company Ltd.",
+   "symbol": "HDFCAMC",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  },
+  {
+   "slug": "bse",
+   "name": "BSE Ltd.",
+   "symbol": "BSE",
+   "type": "listed",
+   "nse_industry": "Financial Services",
+   "industry": "capital-markets",
+   "group": "nifty500",
+   "status": "pending"
+  }
+ ]
+}
