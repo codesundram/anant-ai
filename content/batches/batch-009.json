@@ -1,0 +1,2960 @@
+{
+ "_meta": {
+  "batch": "009",
+  "about": "Batch 009: Nifty 500 companies from RHI Magnesita to UCO Bank. Leaders checked against web reports as of Oct 2026 where as_of says so; the rest are marked not re-checked because search limits were hit.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "rhi-magnesita",
+   "name": "RHI Magnesita India",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Pankaj Malhan",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "RHI Magnesita India makes refractories: heat-resistant bricks, castables and linings that protect furnaces, kilns and ladles. Its buyers are steel plants first, then cement, glass and non-ferrous metal makers. It is the Indian arm of the global RHI Magnesita group and absorbed the Dalmia OCL refractory business in 2023.",
+    "EARNS": "It earns by selling refractory products and by running full-service contracts where it manages a customer's furnace linings and gets paid for performance. Steel is by far its largest customer industry, so its sales track how much steel India produces.",
+    "SIZE": "One of India's largest refractory companies, and part of the world's biggest refractory group by most industry estimates. It runs several plants across India and supplies most of the country's large steelmakers.",
+    "RIVALS": "Vesuvius India, IFGL Refractories, Calderys and a long tail of smaller domestic refractory makers, along with in-house suppliers linked to large steel groups.",
+    "WATCH": "Pankaj Malhan took over as MD & CEO in July 2026, with former chief Parmod Sagar staying on as chairman. Follow how it serves the new blast furnaces Indian steelmakers have announced, and raw-material costs for magnesia and alumina."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does RHI Magnesita India mainly make?",
+     "options": [
+      "Refractory linings for furnaces",
+      "Steel pipes",
+      "Industrial gases",
+      "Cement bags"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customer industry matters most to RHI Magnesita India?",
+     "options": [
+      "Textiles",
+      "Steel",
+      "Pharma",
+      "Telecom"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became RHI Magnesita India's MD & CEO in July 2026?",
+     "options": [
+      "Parmod Sagar",
+      "Harsha Kadam",
+      "Pankaj Malhan",
+      "Naresh Jalan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "RHI Magnesita India makes heat-resistant refractory linings, mainly for steel plants, as the Indian arm of a global group, now led by new CEO Pankaj Malhan.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rites",
+   "name": "RITES",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Rahul Mithal",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "RITES is a Railways Ministry company that sells transport know-how: consultancy and design for railways, metros, ports and highways, quality inspection of materials, and turnkey construction. It also exports and leases locomotives and coaches, mostly to countries in South Asia and Africa.",
+    "EARNS": "Consultancy and inspection fees are its steadiest, highest-margin income. Turnkey projects and rolling-stock exports add lumpier revenue that depends on a few large orders, while locomotive leasing brings regular rental income.",
+    "SIZE": "India's best-known government transport consultancy and one of the country's leading exporters of railway rolling stock. It has Navratna status, giving it more freedom to take on large projects at home and abroad.",
+    "RIVALS": "Consultancy: Systra, Egis and AECOM. Construction and railway work: IRCON International, RVNL and private EPC firms. Rolling-stock exports compete with Chinese and European makers.",
+    "WATCH": "The Railways Ministry let Rahul Mithal continue as CMD beyond October 2026 until his retirement in 2027. Watch its export order wins abroad, its push into metro and urban transport consultancy, and new business from India's railway safety upgrades."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these is NOT a RITES business?",
+     "options": [
+      "Railway consultancy",
+      "Quality inspection",
+      "Locomotive exports",
+      "Running passenger trains"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which RITES income stream is the steadiest and highest-margin?",
+     "options": [
+      "Consultancy and inspection fees",
+      "Ticket sales",
+      "Advertising",
+      "Coal trading"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to RITES in railway construction?",
+     "options": [
+      "Siemens Energy",
+      "IRCON International",
+      "Sun TV",
+      "Redington"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "RITES is a government transport consultancy that also inspects materials, builds projects and exports locomotives, with consultancy fees as its most dependable income stream.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "railtel-of",
+   "name": "RailTel Corporation of India",
+   "type": "listed",
+   "industry": "telecom",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Sanjai Kumar",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "RailTel is a Railways Ministry telecom company that owns an optical fibre network laid along railway tracks. It leases bandwidth to telecom operators, sells internet to homes under the RailWire brand, runs Wi-Fi at railway stations and builds IT and network projects for government departments.",
+    "EARNS": "It earns from leasing bandwidth and towers, from enterprise connectivity and from system-integration projects for ministries, states and PSUs. Project work now brings in a large share of revenue but at thinner margins than its core telecom services.",
+    "SIZE": "One of India's largest neutral telecom infrastructure providers, with a fibre network that reaches most railway stations in the country. It is a Navratna company and one of the biggest providers of public Wi-Fi in India.",
+    "RIVALS": "In bandwidth and enterprise links: Bharti Airtel, Jio, Tata Communications and BSNL. In government IT projects: firms like TCIL, ITI and private system integrators.",
+    "WATCH": "Watch how it balances low-margin project work with its own telecom services, new work on railway signalling and Kavach safety networks, and the growth of RailWire home broadband."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is RailTel's home broadband brand?",
+     "options": [
+      "JioFiber",
+      "Airtel Xstream",
+      "RailWire",
+      "ACT Fibernet"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is RailTel's fibre network mainly laid?",
+     "options": [
+      "Under the sea",
+      "Along national highways only",
+      "Inside metro tunnels only",
+      "Along railway tracks"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival to RailTel in enterprise connectivity?",
+     "options": [
+      "Tata Communications",
+      "Thermax",
+      "Sobha",
+      "Timken India"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "RailTel uses its fibre network along railway tracks to lease bandwidth, sell RailWire broadband, run station Wi-Fi and deliver government IT projects across India.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rainbow-childrens-medicare",
+   "name": "Rainbow Children's Medicare",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Dr. Ramesh Kancharla",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Rainbow runs hospitals that specialise in children and women: paediatric care, neonatal intensive care, obstetrics and fertility. Its brands are Rainbow Children's Hospital and BirthRight by Rainbow, with most hospitals in Hyderabad and other South Indian cities, and newer ones in the north and east.",
+    "EARNS": "It earns from inpatient stays, surgeries, newborn intensive care and outpatient visits. Paediatric specialty and critical care is its largest and most profitable line, while its mature Hyderabad hospitals generate the strongest margins.",
+    "SIZE": "India's largest multi-specialty paediatric hospital chain by most estimates, with a strong lead in newborn and children's intensive care. Its Hyderabad hospitals are among the best-known children's hospitals in South India.",
+    "RIVALS": "Cloudnine, Motherhood Hospitals and Apollo Cradle in women and child care, plus children's departments at big chains like Apollo Hospitals, Manipal and KIMS.",
+    "WATCH": "Watch its announced hospital expansion into new cities, how new units ramp up, and its hub-and-spoke model of linking smaller centres to big hubs. It named Abrarali Dalal CEO in January 2026, alongside founder Dr. Kancharla."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which patients does Rainbow mainly focus on?",
+     "options": [
+      "Cancer patients",
+      "Children and women",
+      "Heart patients",
+      "Elderly care"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Rainbow's most profitable line?",
+     "options": [
+      "Diagnostics labs",
+      "Pharmacy retail",
+      "Paediatric specialty and critical care",
+      "Medical tourism"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Rainbow in maternity care?",
+     "options": [
+      "Dr Lal PathLabs",
+      "Medanta",
+      "Metropolis",
+      "Cloudnine"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Rainbow Children's Medicare runs South India-rooted hospitals for children and women, earning most from paediatric and newborn critical care, and is expanding into new cities.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ramkrishna-forgings",
+   "name": "Ramkrishna Forgings",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Naresh Jalan",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Ramkrishna Forgings makes forged and machined steel parts: axle components, crankshafts, gears and other parts for trucks, buses and tractors, plus components for railways, oil and gas and other industries. Its buyers include Indian and global truck makers.",
+    "EARNS": "It earns by supplying parts under long-running contracts with vehicle makers. Commercial vehicles are its largest market, and exports to truck makers in North America and Europe make up a meaningful share of sales.",
+    "SIZE": "One of India's larger forging companies and a major supplier of truck and heavy-vehicle components. It is among the few Indian forgers that supply big global truck makers in North America and Europe.",
+    "RIVALS": "Bharat Forge, Happy Forgings and MM Forgings in India, plus global forging suppliers that serve truck makers worldwide. In railway wheels, it faces imports and the Indian Railways' own wheel factories.",
+    "WATCH": "Naresh Jalan was reappointed MD from November 2026, with Chaitanya Jalan as joint MD. Watch its railway wheel joint venture with Titagarh, its move into non-auto parts, and demand from the Indian and US truck markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which vehicles are Ramkrishna Forgings' biggest market?",
+     "options": [
+      "Commercial vehicles",
+      "Two-wheelers",
+      "Electric scooters",
+      "Bicycles"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Ramkrishna Forgings?",
+     "options": [
+      "Sun TV",
+      "Bharat Forge",
+      "Redington",
+      "RailTel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Ramkrishna Forgings has a railway wheel joint venture with which company?",
+     "options": [
+      "RITES",
+      "Siemens Energy India",
+      "Titagarh",
+      "Timken India"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Ramkrishna Forgings makes forged steel parts mainly for trucks and buses in India and abroad, and is building railway wheels with Titagarh.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "redington",
+   "name": "Redington",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "V. S. Hariharan",
+    "leader_role": "MD & Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Redington is a technology distributor. It buys laptops, phones, servers, software and cloud services from brands such as Apple, HP, Dell, Lenovo and Microsoft and supplies them to thousands of resellers and retailers. It operates in India, the Middle East, Africa and Turkey.",
+    "EARNS": "It earns a thin margin on very large volumes of products it moves, plus higher margins on cloud, software and IT solutions. Mobility, led by smartphones, and PCs make up the biggest share of revenue; India and the Middle East are its two main regions.",
+    "SIZE": "One of India's largest IT and mobility distributors, and among the biggest technology distributors in the Middle East and Africa. It is one of Apple's major distribution partners in India.",
+    "RIVALS": "Ingram Micro, Savex Technologies, Rashi Peripherals, Supertron and iValue in India; Ingram Micro and regional distributors in the Gulf and Africa. Brands selling directly to large retailers also cut into its role.",
+    "WATCH": "Watch its push into cloud and software distribution, its working-capital and credit discipline on huge volumes, and how its Turkey and Africa businesses perform."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Redington mainly do?",
+     "options": [
+      "Makes smartphones",
+      "Runs a telecom network",
+      "Builds data centres",
+      "Distributes technology products"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which product area brings Redington the largest revenue?",
+     "options": [
+      "Mobility and PCs",
+      "Steel",
+      "Insurance",
+      "Television ads"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival distributor to Redington?",
+     "options": [
+      "Infosys",
+      "Ingram Micro",
+      "Bharti Airtel",
+      "Titan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Redington distributes phones, laptops, servers and cloud services from global brands across India, the Middle East and Africa, earning thin margins on very large volumes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "reliance-power",
+   "name": "Reliance Power",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Neeraj Parakh",
+    "leader_role": "Executive Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Reliance Power, part of the Anil Ambani group, generates and sells electricity. Its main assets are the coal-fired Sasan ultra mega power plant in Madhya Pradesh and the Rosa plant in Uttar Pradesh. It is now building solar and battery storage projects through its arm Reliance NU Energies.",
+    "EARNS": "It earns by selling power to state distribution companies under long-term agreements, with Sasan supplying most of its revenue at regulated tariffs. Paying down debt has used a large part of its cash in recent years.",
+    "SIZE": "One of India's larger private power producers, best known for running one of the country's biggest coal power plants at Sasan. It is the main listed power company of the Anil Ambani group.",
+    "RIVALS": "Tata Power, Adani Power, JSW Energy and NTPC in thermal power. In renewables and storage, it competes with Adani Green, ReNew, Tata Power Renewables and other solar developers.",
+    "WATCH": "Watch progress on its solar-plus-storage projects and plans in Bhutan, its debt reduction, and enforcement and regulatory probes involving the Anil Ambani group and its companies."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group does Reliance Power belong to?",
+     "options": [
+      "Mukesh Ambani's Reliance Industries",
+      "Adani group",
+      "Anil Ambani group",
+      "Tata group"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which plant supplies most of Reliance Power's revenue?",
+     "options": [
+      "Mundra",
+      "Tiroda",
+      "Trombay",
+      "Sasan"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which arm is Reliance Power using for solar and battery projects?",
+     "options": [
+      "Reliance NU Energies",
+      "Reliance Jio",
+      "Reliance Retail",
+      "Reliance Infrastructure"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Reliance Power, an Anil Ambani group firm, earns mostly from its Sasan coal plant and is shifting toward solar and battery storage while cutting debt.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rubicon-research",
+   "name": "Rubicon Research",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Thane, Maharashtra",
+    "leader": "Parag Sancheti",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Rubicon Research develops and makes generic and specialty medicines, mostly for the US market. Its strengths are hard-to-make formulations such as nasal sprays, oral liquids and modified-release tablets. It listed on the NSE in October 2025.",
+    "EARNS": "It earns by selling approved generic drugs to US distributors and pharmacies, so the US brings in most of its revenue. Its own research pipeline of product filings with the US drug regulator drives future sales.",
+    "SIZE": "A mid-sized Indian pharma company and one of the faster-growing Indian generic makers focused on the US specialty market. It has a growing list of products approved by the US drug regulator.",
+    "RIVALS": "Indian generic makers selling in the US such as Lupin, Zydus Lifesciences, Glenmark and Alembic, along with US and global generic companies. In nasal sprays it competes with a small group of specialists.",
+    "WATCH": "Watch new product approvals from the US drug regulator, inspections of its manufacturing sites, and its 2026 move to build an Indian branded business through the Arinna Lifesciences acquisition."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which market brings Rubicon Research most of its revenue?",
+     "options": [
+      "India",
+      "United States",
+      "Japan",
+      "Africa"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a Rubicon Research specialty?",
+     "options": [
+      "Vaccines",
+      "Blood plasma",
+      "Nasal sprays",
+      "Insulin pens"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company did Rubicon buy a stake in to grow in India?",
+     "options": [
+      "Sai Life Sciences",
+      "Syngene",
+      "Mankind Pharma",
+      "Arinna Lifesciences"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Rubicon Research develops hard-to-make generic medicines like nasal sprays mainly for the US market, and is building an Indian business through Arinna Lifesciences.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sbi-cards-and-payment-services",
+   "name": "SBI Card",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Salila Pande",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "SBI Card issues credit cards: SimplyCLICK, SimplySAVE, SBI Card ELITE, PRIME and many co-branded cards with partners such as IRCTC, BPCL, Air India and Reliance. It is a subsidiary of State Bank of India and sells many of its cards through SBI branches.",
+    "EARNS": "It earns interest when cardholders carry balances or convert spends into EMIs, plus interchange fees on every swipe and annual fees. Interest on revolving balances and EMIs is its biggest income source, which also exposes it to credit losses.",
+    "SIZE": "India's second-largest credit card issuer after HDFC Bank, and the largest standalone card company in the country. Its link with SBI gives it access to the biggest bank customer base in India.",
+    "RIVALS": "HDFC Bank, ICICI Bank and Axis Bank are its main card rivals. Kotak Mahindra Bank, IDFC First Bank and fintech card partnerships with apps such as OneCard also chase the same customers.",
+    "WATCH": "Watch credit costs and defaults among cardholders, RBI rules on co-branded cards and card networks, and spending on UPI-linked RuPay credit cards. Salila Pande has led it as MD & CEO since April 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank is SBI Card's parent?",
+     "options": [
+      "State Bank of India",
+      "HDFC Bank",
+      "Axis Bank",
+      "Bank of Baroda"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is SBI Card's biggest income source?",
+     "options": [
+      "Selling insurance",
+      "Interest on revolving balances and EMIs",
+      "Running ATMs",
+      "Branch fees"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which issuer is larger than SBI Card in credit cards?",
+     "options": [
+      "UCO Bank",
+      "Bandhan Bank",
+      "HDFC Bank",
+      "Yes Bank"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "SBI Card, a State Bank of India subsidiary, is India's second-largest credit card issuer, earning mainly from interest on balances and EMIs plus swipe fees.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "spr-auto-technologies",
+   "name": "SPR Auto Technologies (formerly Shriram Pistons & Rings)",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Krishnakumar Srinivasan",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "SPR Auto Technologies makes pistons, piston rings, pins and engine valves for two-wheelers, cars, tractors and trucks, and is adding parts for electric vehicles. The company was called Shriram Pistons & Rings until it renamed itself in April 2026 to reflect the wider product range.",
+    "EARNS": "It earns by supplying engine parts to vehicle makers and by selling replacement parts in the aftermarket and abroad. Supplies to Indian vehicle makers are the largest share, while aftermarket sales carry better margins.",
+    "SIZE": "India's largest maker of pistons and piston rings by most industry estimates. It supplies most major Indian two-wheeler, car and tractor makers and exports to global vehicle and engine makers.",
+    "RIVALS": "Mahle, Federal-Mogul (now part of Tenneco), India Pistons and Rane Engine Valve in India, along with Chinese and European suppliers in export markets.",
+    "WATCH": "Watch how it diversifies beyond engine parts as electric vehicles grow. Management has said it is exploring acquisitions in areas such as thermal management and mechatronics."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was SPR Auto Technologies called before April 2026?",
+     "options": [
+      "Shriram Finance",
+      "Sundram Fasteners",
+      "Sansera Engineering",
+      "Shriram Pistons & Rings"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which product is SPR Auto best known for?",
+     "options": [
+      "Pistons and rings",
+      "Tyres",
+      "Batteries",
+      "Headlamps"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which area has management said it is exploring acquisitions in?",
+     "options": [
+      "Hotels",
+      "Thermal management",
+      "Credit cards",
+      "Cement"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "SPR Auto Technologies, formerly Shriram Pistons & Rings, is India's top piston maker and is renaming and acquiring to grow beyond engine parts.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sagility",
+   "name": "Sagility",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Ramesh Gopalan",
+    "leader_role": "MD & Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sagility runs back-office and technology services for the US healthcare industry. It processes insurance claims, handles member and patient calls, manages care programmes and runs billing and revenue collection for hospitals. It listed in November 2024 and is backed by EQT.",
+    "EARNS": "It earns fees from long-term contracts with US health insurers and hospitals, priced per transaction, per person or per outcome. Health insurers, known as payers, bring in most of its revenue.",
+    "SIZE": "One of the larger India-based firms focused only on US healthcare process outsourcing. It works for several of the biggest health insurers in the US and employs a large workforce in India and the Philippines.",
+    "RIVALS": "Cognizant, ExlService, Firstsource Solutions, Conduent and the healthcare units of Accenture and Genpact. US insurers' own in-house teams and AI tools are also competition.",
+    "WATCH": "Watch how it uses AI and automation in claims work, how it grows clients beyond its largest US insurers, and changes in US healthcare policy that affect its customers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which industry does Sagility serve?",
+     "options": [
+      "Indian banking",
+      "European retail",
+      "US healthcare",
+      "Global airlines"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customers bring Sagility most of its revenue?",
+     "options": [
+      "Hospitals in India",
+      "Pharma companies",
+      "Governments",
+      "US health insurers (payers)"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Sagility?",
+     "options": [
+      "Firstsource Solutions",
+      "Redington",
+      "RailTel",
+      "Sun TV"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sagility processes claims, calls and billing for US health insurers and hospitals under long-term contracts, with payers bringing most of its revenue.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sai-life-sciences",
+   "name": "Sai Life Sciences",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Krishna Kanumuri",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sai Life Sciences is a contract research, development and manufacturing company. It discovers and develops new drug molecules for global pharma and biotech firms and makes their active ingredients at scale. It listed in December 2024 and is backed by TPG.",
+    "EARNS": "It earns fees for research services and from manufacturing ingredients for clients' drugs. Manufacturing for late-stage and launched medicines is its larger and faster-growing business, and most clients are in the US, UK and Europe.",
+    "SIZE": "One of India's fastest-growing contract drug research and manufacturing firms. It works with many of the world's large pharma companies and many biotech clients.",
+    "RIVALS": "Syngene International, Divi's Laboratories, Aragen, Piramal Pharma Solutions and Chinese firms such as WuXi AppTec. Global players like Lonza also compete for large contracts.",
+    "WATCH": "Watch its announced hiring and capacity build-out in Hyderabad and Bidar, and how far global pharma firms shift work from China to India under the US Biosecure push."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of company is Sai Life Sciences?",
+     "options": [
+      "Hospital chain",
+      "Contract drug research and manufacturing",
+      "Generic drug retailer",
+      "Diagnostics lab"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Sai Life business is larger and growing faster?",
+     "options": [
+      "Research only",
+      "Selling medicines in India",
+      "Manufacturing for late-stage and launched drugs",
+      "Hospital services"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Chinese firm is a rival to Sai Life Sciences?",
+     "options": [
+      "Alibaba",
+      "BYD",
+      "Huawei",
+      "WuXi AppTec"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sai Life Sciences researches and manufactures drug ingredients for global pharma clients, with manufacturing for late-stage drugs as its main growth engine.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sammaan-capital",
+   "name": "Sammaan Capital (formerly Indiabulls Housing Finance)",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Gagan Banga",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sammaan Capital lends home loans and loans against property, mostly to salaried and self-employed borrowers, and has run down its old wholesale real-estate loan book. It was Indiabulls Housing Finance until it renamed itself in 2024. Abu Dhabi's IHC became its controlling shareholder in 2026.",
+    "EARNS": "It earns the gap between what it charges borrowers and what it pays to borrow. Retail home loans and loans against property are now its core book, and it also sells loans to banks under co-lending deals for fees.",
+    "SIZE": "One of India's larger housing finance companies, though smaller than it was in the Indiabulls era. Its balance sheet is now more focused on small retail loans than on big developer loans.",
+    "RIVALS": "LIC Housing Finance, PNB Housing Finance, Bajaj Housing Finance and Aadhar Housing Finance, plus the home-loan arms of big banks such as SBI and HDFC Bank.",
+    "WATCH": "IHC got regulatory approval in 2026 to take control and will gain the right to appoint most of the board. Watch board and management changes under IHC, cheaper borrowing as a result, and how fast the retail loan book grows."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Sammaan Capital called before 2024?",
+     "options": [
+      "Indiabulls Housing Finance",
+      "DHFL",
+      "Shriram Housing",
+      "IIFL Home Finance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which investor became Sammaan Capital's controlling shareholder in 2026?",
+     "options": [
+      "Temasek",
+      "IHC of Abu Dhabi",
+      "SoftBank",
+      "Blackstone"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which lender is a rival to Sammaan Capital?",
+     "options": [
+      "SBI Card",
+      "Tata Investment",
+      "LIC Housing Finance",
+      "UCO Bank Card"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sammaan Capital, formerly Indiabulls Housing Finance, lends home loans and loans against property, and came under control of Abu Dhabi's IHC in 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sansera-engineering",
+   "name": "Sansera Engineering",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "S. Sekhar Vasan",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Sansera Engineering makes precision forged and machined parts: connecting rods, crankshafts, rocker arms and gear parts for two-wheelers, cars and trucks. It also supplies aerospace, defence and other industrial parts, and parts for electric vehicles.",
+    "EARNS": "It earns by supplying parts under long-term programmes with vehicle makers in India and abroad. Two-wheeler parts are its largest auto segment, while aerospace and non-auto parts are a smaller but faster-growing share.",
+    "SIZE": "One of India's leading makers of precision engine and transmission components for two-wheelers and cars. It counts major Indian and global vehicle makers among its long-standing customers.",
+    "RIVALS": "Bharat Forge, Happy Forgings, Endurance Technologies and Musashi Seimitsu in India, along with global component suppliers. In aerospace parts, it competes with Indian and overseas precision engineering firms.",
+    "WATCH": "Watch its announced expansion in aerospace and defence parts, how it replaces engine-part demand as electric vehicles grow, and new export programmes with global vehicle makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Sansera product is a core engine part?",
+     "options": [
+      "Tyres",
+      "Car seats",
+      "Headlights",
+      "Connecting rods"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Sansera segment is smaller but growing faster?",
+     "options": [
+      "Aerospace and non-auto parts",
+      "Two-wheeler parts",
+      "Car dealerships",
+      "Steel trading"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Sansera Engineering?",
+     "options": [
+      "Sobha",
+      "Happy Forgings",
+      "Sun TV",
+      "Torrent Power"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sansera Engineering makes precision engine and transmission parts mainly for two-wheelers and cars, and is growing aerospace and defence work.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sarda-energy-and-minerals",
+   "name": "Sarda Energy & Minerals",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Raipur, Chhattisgarh",
+    "leader": "Pankaj Sarda",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sarda Energy & Minerals makes steel products such as sponge iron, billets and wire rods, plus ferro alloys and iron ore pellets. It also generates power from hydro projects and a thermal plant it acquired, SKS Power, and mines its own coal and iron ore.",
+    "EARNS": "It earns by selling steel, ferro alloys and power. Power sales and captive mining have become a growing and steadier share of profit, cushioning swings in steel prices.",
+    "SIZE": "A mid-sized integrated steel and power company and one of Chhattisgarh's notable private steelmakers. Its own mines and power plants make it more self-sufficient than many similar-sized peers.",
+    "RIVALS": "Godawari Power & Ispat, Shyam Metalics, Jindal Steel and other secondary steel and ferro alloy producers. In power, it sells into a market dominated by NTPC, Adani Power and state utilities.",
+    "WATCH": "Watch its coal mine production ramp-up after approvals to raise output, how its thermal power plant performs, and its announced hydro projects. Management has said energy and mining will drive its next phase."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which power plant did Sarda Energy acquire?",
+     "options": [
+      "Sasan",
+      "Rosa",
+      "SKS Power",
+      "Mundra"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What helps cushion Sarda's earnings from steel price swings?",
+     "options": [
+      "Credit cards",
+      "Hotel rooms",
+      "Software licences",
+      "Power sales and captive mining"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Sarda Energy?",
+     "options": [
+      "Godawari Power & Ispat",
+      "Redington",
+      "Sagility",
+      "Rainbow"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sarda Energy & Minerals makes steel and ferro alloys in Chhattisgarh, and increasingly earns from power plants and its own coal and iron ore mines.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "schaeffler",
+   "name": "Schaeffler India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Harsha Kadam",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Schaeffler India makes bearings, engine and transmission parts, clutches and components for vehicles, railways and industrial machines under the FAG, INA and LuK brands. It is the Indian arm of Germany's Schaeffler group and also sells replacement parts to mechanics and workshops.",
+    "EARNS": "It earns from supplying vehicle makers, industrial customers and the aftermarket, plus exports to group companies. Automotive technologies are its largest segment, while industrial bearings and aftermarket parts add steady, profitable sales.",
+    "SIZE": "One of India's largest bearing makers and a leading supplier of precision components to the auto industry. It runs several factories, mainly in Maharashtra, Gujarat and Tamil Nadu.",
+    "RIVALS": "SKF India, Timken India and NRB Bearings in bearings; Valeo and other global suppliers in clutches and transmission parts. Cheaper imported bearings also compete in the aftermarket.",
+    "WATCH": "Watch its components for electric vehicles and hybrids, exports to the Schaeffler group, and demand from railways and wind energy. It named Amit Bhalerao chief operating officer in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which brand belongs to Schaeffler?",
+     "options": [
+      "SKF",
+      "FAG",
+      "Bosch",
+      "Timken"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Schaeffler India's largest segment?",
+     "options": [
+      "Retail stores",
+      "Insurance",
+      "Automotive technologies",
+      "Software"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Schaeffler India?",
+     "options": [
+      "UCO Bank",
+      "Sun TV",
+      "Redington",
+      "SKF India"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Schaeffler India makes FAG and INA bearings, LuK clutches and other precision parts for vehicles, railways and industry, led by its automotive segment.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "schneider-electric-infrastructure",
+   "name": "Schneider Electric Infrastructure",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Vadodara, Gujarat",
+    "leader": "Udai Singh",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Schneider Electric Infrastructure makes electrical equipment for the grid: medium-voltage switchgear, distribution transformers, ring main units and grid automation systems. It is part of France's Schneider Electric group and supplies power utilities, industries, data centres and railways.",
+    "EARNS": "It earns by selling equipment and related services, much of it on project orders. Utilities and power distribution are a large market, while industrial customers and data centres are adding fast-growing demand.",
+    "SIZE": "One of India's notable suppliers of medium-voltage switchgear and distribution equipment. Its factories in Vadodara and Kolkata make products for both Indian customers and export markets.",
+    "RIVALS": "Siemens, ABB India, Hitachi Energy India, CG Power and Lucy Electric, along with many local switchgear makers. In transformers it also faces Voltamp and other domestic firms.",
+    "WATCH": "It reported record quarterly order intake in mid-2026. Watch capacity additions at its factories, demand from data centres and renewable energy, and spending by state power distributors on grid upgrades."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which global group owns Schneider Electric Infrastructure?",
+     "options": [
+      "Schneider Electric",
+      "Siemens",
+      "ABB",
+      "Hitachi"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What does Schneider Electric Infrastructure mainly make?",
+     "options": [
+      "Car engines",
+      "Medium-voltage switchgear and transformers",
+      "Mobile phones",
+      "Cement"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Schneider Electric Infrastructure?",
+     "options": [
+      "Sobha",
+      "SBI Card",
+      "Hitachi Energy India",
+      "Trident"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Schneider Electric Infrastructure makes switchgear, transformers and grid automation for utilities, industry and data centres as part of France's Schneider Electric.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "shipping-of",
+   "name": "Shipping Corporation of India (SCI)",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Capt. Binesh Kumar Tyagi",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "SCI is India's state-owned shipping line. It owns and operates oil and gas tankers, dry bulk carriers, container ships and offshore vessels, carrying crude for Indian refiners and cargo worldwide. Its non-core land and buildings were split into a separate listed company, SCILAL, in 2024.",
+    "EARNS": "It earns freight and charter hire from moving crude oil, products, gas, coal and containers. Tankers carrying crude for state oil companies are its largest and most dependable business, while freight rates make earnings swing.",
+    "SIZE": "India's largest shipping company by fleet, and the country's national carrier for oil imports. It has Navratna status and carries a big share of the crude bought by state-owned refiners.",
+    "RIVALS": "Great Eastern Shipping and Seven Islands Shipping in India, plus global ship owners and container lines such as Maersk and MSC, which carry much of India's trade.",
+    "WATCH": "Watch the government's long-planned privatisation, new ship orders under India's push to build its own fleet, and freight rates hit by global conflicts and shipping route disruptions."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is SCI's largest business?",
+     "options": [
+      "Cruise ships",
+      "Port operations",
+      "Shipbuilding",
+      "Tankers carrying crude"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company was split off from SCI in 2024?",
+     "options": [
+      "SCILAL",
+      "CONCOR",
+      "IRCON",
+      "Cochin Shipyard"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Indian company is a rival of SCI?",
+     "options": [
+      "RailTel",
+      "Great Eastern Shipping",
+      "Redington",
+      "Thermax"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Shipping Corporation of India is the state-owned fleet carrying crude oil, cargo and gas, with tankers serving state refiners as its core business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "shyam-metalics-and-energy",
+   "name": "Shyam Metalics and Energy",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Brij Bhushan Agarwal",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Shyam Metalics makes ferro alloys, iron pellets, sponge iron, steel billets, TMT bars sold under the SEL Tiger brand, stainless steel, and aluminium foil. It runs plants in West Bengal and Odisha with its own captive power.",
+    "EARNS": "It earns by selling steel, ferro alloys and other metal products. Long products and ferro alloys are its main revenue sources, and captive power keeps costs low. Newer stainless steel and aluminium foil lines add higher-value sales.",
+    "SIZE": "One of India's larger ferro alloy producers and a fast-growing mid-sized steel company in eastern India. It has also become one of the country's notable makers of aluminium foil.",
+    "RIVALS": "Jindal Steel, Sarda Energy & Minerals, Godawari Power & Ispat and Tata Steel's long products business in steel; Hindalco and others in aluminium foil.",
+    "WATCH": "Watch the expansion plans it approved in 2026, the ramp-up of stainless steel and aluminium products, its push into new value-added lines, and coal and iron ore costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which TMT bar brand belongs to Shyam Metalics?",
+     "options": [
+      "Tata Tiscon",
+      "JSW Neosteel",
+      "SEL Tiger",
+      "Kamdhenu"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What keeps Shyam Metalics' costs low?",
+     "options": [
+      "Government subsidies",
+      "Imported steel",
+      "Franchise stores",
+      "Captive power"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Shyam Metalics?",
+     "options": [
+      "Jindal Steel",
+      "Redington",
+      "SBI Card",
+      "Sun TV"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Shyam Metalics makes ferro alloys, steel, stainless steel and aluminium foil in eastern India, using captive power to keep production costs low.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "siemens-energy",
+   "name": "Siemens Energy India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Guilherme Mendonca",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Siemens Energy India makes power generation and transmission equipment: steam and gas turbines, generators, high-voltage transformers, switchgear and HVDC links. It was demerged from Siemens Ltd and listed separately in June 2025, as the Indian arm of Germany's Siemens Energy.",
+    "EARNS": "It earns from equipment orders and long service contracts. Grid technologies for power transmission are its largest and fastest-growing segment, while turbines and services for power plants and industry add the rest.",
+    "SIZE": "One of India's leading power equipment makers, with a big position in high-voltage transmission. It draws on the global technology of Siemens Energy, one of the world's largest energy equipment groups.",
+    "RIVALS": "BHEL, GE Vernova T&D India, Hitachi Energy India, Hyosung and other transmission and turbine makers. In gas turbines it also competes with Mitsubishi Power.",
+    "WATCH": "Watch orders from India's large transmission build-out, including HVDC lines for renewable power, its factory expansions, and orders for gas turbines and services."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "When did Siemens Energy India list separately?",
+     "options": [
+      "March 2020",
+      "June 2025",
+      "January 2018",
+      "October 2023"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Siemens Energy India's largest segment?",
+     "options": [
+      "Consumer appliances",
+      "Healthcare",
+      "Grid technologies",
+      "Mobility"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Siemens Energy India?",
+     "options": [
+      "Schaeffler India",
+      "Sobha",
+      "UCO Bank",
+      "GE Vernova T&D India"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Siemens Energy India, demerged from Siemens in 2025, makes turbines and grid equipment, with power transmission as its biggest and fastest-growing business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "signatureglobal",
+   "name": "Signatureglobal",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Pradeep Aggarwal",
+    "leader_role": "Chairman & Whole-time Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Signatureglobal builds and sells homes, mostly in Gurugram and around Delhi. It started with affordable housing under government schemes and has moved into mid-income and premium apartments and plotted developments, plus some retail space.",
+    "EARNS": "It earns by selling apartments before and during construction and recognising revenue as projects are handed over. Mid-income and premium projects along new Gurugram corridors such as Sohna Road and Dwarka Expressway are now its main source of sales.",
+    "SIZE": "One of the largest homebuilders in Gurugram by sales and a top residential developer in the Delhi region. It moved from a small affordable-housing builder to a major listed developer within about a decade.",
+    "RIVALS": "DLF, Godrej Properties, Smartworld Developers, Experion and other Gurugram builders, plus the M3M group. Competition for land and buyers along new Gurugram corridors is intense.",
+    "WATCH": "Watch its new project launches in Gurugram, timely delivery of projects already sold, land purchases, and how housing demand in the Delhi region holds up."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where are most Signatureglobal projects?",
+     "options": [
+      "Gurugram",
+      "Mumbai",
+      "Chennai",
+      "Kolkata"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What did Signatureglobal start with?",
+     "options": [
+      "Luxury villas",
+      "Affordable housing",
+      "Office parks",
+      "Hotels"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which developer is a rival to Signatureglobal?",
+     "options": [
+      "Sobha's Kerala unit only",
+      "SCI",
+      "DLF",
+      "Sun TV"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Signatureglobal is a Gurugram homebuilder that grew from affordable housing into mid-income and premium apartments, making it a top residential developer around Delhi.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sobha",
+   "name": "Sobha",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Jagadish Nangineni",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sobha builds premium apartments, villas and plotted developments in Bengaluru, Gurugram, Kerala, Pune, Chennai and other cities. It is unusual in doing almost everything in-house, from design to concrete, glazing, furniture and interiors. It also builds campuses and offices for companies on contract.",
+    "EARNS": "It earns mainly by selling homes in its own projects; Bengaluru is its largest market. Contractual work for corporate clients and its manufacturing units add revenue and keep its in-house teams busy.",
+    "SIZE": "One of India's leading premium homebuilders and among the largest residential developers in Bengaluru. It is known for quality and in-house execution rather than outsourcing work to contractors.",
+    "RIVALS": "Prestige Group, Brigade Enterprises, Godrej Properties and Puravankara in South India; DLF and other builders in Gurugram and the Delhi region. Each fights for land and buyers in the same premium segments.",
+    "WATCH": "Watch new launches across cities, its net-debt-free balance sheet and use of rights-issue money, and land purchases. Shareholders reappointed MD Jagadish Nangineni in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What makes Sobha unusual among builders?",
+     "options": [
+      "It only builds offices",
+      "It only rents homes",
+      "It has no projects in Bengaluru",
+      "It is fully backward integrated, doing most work in-house"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Sobha's largest market?",
+     "options": [
+      "Bengaluru",
+      "Kolkata",
+      "Delhi",
+      "Hyderabad"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which developer is a rival of Sobha?",
+     "options": [
+      "Torrent Power",
+      "Prestige Group",
+      "RITES",
+      "TBO Tek"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sobha is a Bengaluru-based premium homebuilder that does nearly everything in-house, from concrete to interiors, and also builds campuses for companies.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sterlite-technologies",
+   "name": "Sterlite Technologies (STL)",
+   "type": "listed",
+   "industry": "telecom",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Ankit Agarwal",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "STL makes optical fibre, fibre-optic cables and connectivity products used to build telecom, broadband and data-centre networks. It sells to telecom operators, cloud companies and governments in India, Europe and the US. It split off its global IT services business into a separate company in 2025.",
+    "EARNS": "It earns by selling optical fibre and cables, increasingly to data centres and hyperscale cloud firms. Optical networking products are now its core business, and exports form a large share of sales.",
+    "SIZE": "One of the world's larger optical fibre cable makers and one of India's top fibre producers. It also makes its own glass preforms, the raw material for fibre, which few rivals do.",
+    "RIVALS": "Corning, Prysmian, Fujikura and Chinese fibre makers such as YOFC globally; HFCL and Birla Cable in India. Chinese makers often compete hard on price in export markets.",
+    "WATCH": "Watch demand for fibre from AI data centres, US and European fibre-to-home rollouts and trade tariffs. The board approved reappointing Ankit Agarwal as MD from October 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does STL mainly make?",
+     "options": [
+      "Mobile phones",
+      "Satellites",
+      "Optical fibre and cables",
+      "Copper wires only"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customers are increasingly important to STL?",
+     "options": [
+      "Farmers",
+      "Restaurants",
+      "Airlines",
+      "Data centres and cloud firms"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a global rival of STL?",
+     "options": [
+      "Corning",
+      "Redington",
+      "TBO Tek",
+      "UCO Bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sterlite Technologies makes optical fibre and cables for telecom, broadband and data-centre networks in India and abroad, after splitting off its IT services arm.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sumitomo-chemical",
+   "name": "Sumitomo Chemical India",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Dr. Suresh Ramachandran",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sumitomo Chemical India sells crop protection products: insecticides, herbicides, fungicides and plant growth regulators for farmers, plus household insect control, animal nutrition and seed products. It is the Indian arm of Japan's Sumitomo Chemical and merged with Excel Crop Care in 2020.",
+    "EARNS": "It earns mainly from selling branded agrochemicals to farmers through dealers across India, so monsoon and crop seasons drive sales. Exports and products sourced from its Japanese parent add to revenue.",
+    "SIZE": "One of India's leading crop protection companies, with a wide range of products for rice, cotton, vegetables and fruit, and a dealer network across most farming regions of the country.",
+    "RIVALS": "UPL, PI Industries, Dhanuka Agritech, Bayer CropScience, Rallis India and Coromandel International, plus cheaper generic agrochemical makers. Competition is strongest in rice and cotton chemicals.",
+    "WATCH": "Dr. Suresh Ramachandran became MD in September 2026, with Chetan Shah moving to a non-executive role. Watch monsoon-driven demand, new product launches from the parent and pricing pressure from Chinese generics."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company merged into Sumitomo Chemical India in 2020?",
+     "options": [
+      "Rallis India",
+      "Excel Crop Care",
+      "Dhanuka",
+      "Coromandel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What mostly drives Sumitomo Chemical India's sales?",
+     "options": [
+      "Tourism",
+      "Real estate",
+      "Monsoon and crop seasons",
+      "Telecom tariffs"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became Sumitomo Chemical India's MD in September 2026?",
+     "options": [
+      "Chetan Shah",
+      "Harsha Kadam",
+      "Udai Singh",
+      "Dr. Suresh Ramachandran"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Sumitomo Chemical India sells insecticides, herbicides and fungicides to Indian farmers as the arm of Japan's Sumitomo Chemical, with new MD Suresh Ramachandran.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sun-tv-network",
+   "name": "Sun TV Network",
+   "type": "listed",
+   "industry": "media-entertainment",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "R. Mahesh Kumar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Sun TV Network runs television channels in Tamil, Telugu, Kannada, Malayalam and other languages, led by Sun TV, Gemini TV, Udaya TV and Surya TV. It also runs the Sun NXT streaming app, produces films under Sun Pictures, and owns cricket teams including Sunrisers Hyderabad in the IPL.",
+    "EARNS": "It earns from TV advertising and from subscription fees paid by cable and DTH operators. Its Tamil channels are the biggest earners, and cricket and film income add lumpier revenue.",
+    "SIZE": "One of India's largest TV broadcasters and the leading network in South Indian language television. Sun TV has long been among the most-watched Tamil channels.",
+    "RIVALS": "JioStar's Star Vijay and Asianet, Zee Tamil and Zee Telugu, Colors Kannada, and streaming apps such as Netflix, Amazon Prime Video and JioHotstar. Streaming apps compete for the same viewers and advertisers.",
+    "WATCH": "Watch TV viewers moving to streaming, the growth of Sun NXT, its expanding cricket team portfolio in leagues in India, South Africa and England, and Sun Pictures' film slate."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which IPL team does Sun TV Network own?",
+     "options": [
+      "Sunrisers Hyderabad",
+      "Chennai Super Kings",
+      "Mumbai Indians",
+      "Royal Challengers Bengaluru"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which channels are Sun TV's biggest earners?",
+     "options": [
+      "Hindi news channels",
+      "Tamil channels",
+      "English movie channels",
+      "Sports channels"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is Sun TV's streaming app?",
+     "options": [
+      "ZEE5",
+      "SonyLIV",
+      "Sun NXT",
+      "Aha"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Sun TV Network leads South Indian language television with Sun TV and Gemini TV, earning from ads and subscriptions, plus Sun NXT, films and cricket teams.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sundaram-finance",
+   "name": "Sundaram Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Rajiv C. Lochan",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sundaram Finance lends money to buy commercial vehicles, cars, tractors and construction equipment, mainly to small fleet owners and businesses in South India. Its group also includes Sundaram Home Finance and Sundaram Asset Management, and a stake in general insurer Royal Sundaram.",
+    "EARNS": "It earns the gap between the interest it charges borrowers and its cost of funds, plus fixed-deposit-funded lending. Commercial vehicle and car loans are its largest book, and its tight credit control keeps bad loans low.",
+    "SIZE": "One of India's oldest and most respected vehicle financiers, known for some of the lowest bad loans in its sector. It is the flagship of the Chennai-based Sundaram Finance group.",
+    "RIVALS": "Shriram Finance, Cholamandalam, Mahindra Finance and the vehicle-loan arms of banks such as HDFC Bank and ICICI Bank. Tata Capital also competes after absorbing Tata Motors Finance.",
+    "WATCH": "Watch commercial vehicle demand, growth outside its southern home markets, the cost of its borrowing, and the performance of its housing finance and asset management arms."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Sundaram Finance mainly lend for?",
+     "options": [
+      "Gold jewellery",
+      "Credit cards",
+      "Education",
+      "Vehicles and equipment"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Sundaram Finance known for?",
+     "options": [
+      "Very low bad loans",
+      "Running hotels",
+      "Making trucks",
+      "Selling insurance only"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which company is a rival of Sundaram Finance?",
+     "options": [
+      "SBI Card",
+      "Shriram Finance",
+      "Tata Investment",
+      "Sun TV"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sundaram Finance is a Chennai vehicle financier lending for trucks, cars and tractors, known for tight credit control and some of its sector's lowest bad loans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "supreme-industries",
+   "name": "Supreme Industries",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "M. P. Taparia",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Supreme Industries makes plastic products: PVC and CPVC pipes and fittings for plumbing and farming, moulded furniture, water tanks, packaging films, industrial parts and composite LPG cylinders. It agreed in 2025 to buy Orbia's Wavin pipes business in India.",
+    "EARNS": "It earns by selling plastic goods through dealers and to industrial buyers. Plastic piping is its largest segment by far, while packaging and industrial products add the rest.",
+    "SIZE": "India's largest plastic products company by processed volume and one of the top plastic pipe makers. It runs many factories across the country. Its brand is well known among plumbers and dealers nationwide.",
+    "RIVALS": "Astral, Finolex Industries, Prince Pipes and Ashirvad by Aliaxis in pipes; Nilkamal in moulded furniture; and many regional pipe makers. Pipe makers compete hard on dealer reach and pricing.",
+    "WATCH": "Watch PVC resin prices, demand from housing and government water schemes, its announced capacity expansions, and integration of the Wavin pipes business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is Supreme Industries' largest segment?",
+     "options": [
+      "Steel",
+      "Textiles",
+      "Plastic piping",
+      "Paint"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which business did Supreme agree to buy in 2025?",
+     "options": [
+      "Astral",
+      "Nilkamal",
+      "Finolex",
+      "Wavin's India pipes business"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of Supreme Industries in pipes?",
+     "options": [
+      "Astral",
+      "Thermax",
+      "Sobha",
+      "RailTel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Supreme Industries is India's largest plastic products maker, earning mostly from PVC pipes, and is adding Wavin's Indian pipes business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "swan-corp",
+   "name": "Swan Corp (formerly Swan Energy)",
+   "type": "listed",
+   "industry": "conglomerate",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Nikhil Merchant",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Swan Corp, renamed from Swan Energy in 2025, is a group with several businesses: an LNG import terminal at Jafrabad in Gujarat, shipbuilding and ship repair at Pipavav through Swan Defence and Heavy Industries (the former Reliance Naval), real estate in Mumbai, and textiles.",
+    "EARNS": "Its revenue has come from textiles, property sales and LNG-related activity, while its shipyard is being revived to win repair and building orders. Shipbuilding and the LNG terminal are its main bets for future earnings.",
+    "SIZE": "A mid-sized diversified group whose Pipavav yard is one of India's biggest shipbuilding facilities. It is still early in turning that yard and its LNG terminal into steady businesses.",
+    "RIVALS": "Cochin Shipyard, Mazagon Dock, Garden Reach and L&T in shipbuilding; Petronet LNG and others in LNG terminals; and Mumbai developers in real estate. Each of its businesses faces a different set of rivals.",
+    "WATCH": "Watch new shipbuilding and repair contracts at Pipavav, defence and government ship orders, use of its LNG terminal, and progress of its real estate projects."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Swan Corp called before 2025?",
+     "options": [
+      "Swan Textiles",
+      "Swan Energy",
+      "Swan Shipping",
+      "Swan Realty"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which former company became Swan Defence and Heavy Industries?",
+     "options": [
+      "ABG Shipyard",
+      "Bharati Shipyard",
+      "Reliance Naval",
+      "Hindustan Shipyard"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Swan Corp in shipbuilding?",
+     "options": [
+      "Redington",
+      "Sobha",
+      "SBI Card",
+      "Cochin Shipyard"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Swan Corp, formerly Swan Energy, combines an LNG terminal, the revived Pipavav shipyard, Mumbai real estate and textiles, betting on shipbuilding for growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "syngene-international",
+   "name": "Syngene International",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Siddharth Mittal",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Syngene is a contract research, development and manufacturing company that does drug discovery, testing and manufacturing for global pharma, biotech, nutrition and consumer firms. It is a Biocon group company and bought a biologics manufacturing site in the US in 2024.",
+    "EARNS": "It earns fees from long-term research partnerships with large clients and from manufacturing projects. Research services, including dedicated centres for big pharma clients, are its largest business, while biologics manufacturing is the growth bet.",
+    "SIZE": "India's largest contract research and manufacturing company by most measures. It runs dedicated research centres for several global pharma firms in Bengaluru and Hyderabad.",
+    "RIVALS": "Sai Life Sciences, Aragen, Piramal Pharma Solutions, Jubilant Biosys and global firms such as WuXi AppTec and Lonza. Each competes for long-term research contracts with big pharma.",
+    "WATCH": "Former Biocon chief Siddharth Mittal took over as MD & CEO in July 2026, succeeding Peter Bains. Watch how its US biologics site fills up and whether clients shift work from China to India."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group does Syngene belong to?",
+     "options": [
+      "Biocon",
+      "Sun Pharma",
+      "Cipla",
+      "Lupin"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Syngene's MD & CEO in July 2026?",
+     "options": [
+      "Peter Bains",
+      "Siddharth Mittal",
+      "Kiran Mazumdar-Shaw",
+      "Krishna Kanumuri"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a rival of Syngene?",
+     "options": [
+      "Rainbow",
+      "Sundaram Finance",
+      "Sai Life Sciences",
+      "Sobha"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Syngene, a Biocon group company, is India's largest contract drug research and manufacturing firm, now led by former Biocon chief Siddharth Mittal.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "syrma-sgs-technology",
+   "name": "Syrma SGS Technology",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Jasbir Singh Gujral",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Syrma SGS is an electronics manufacturing services company. It designs and builds printed circuit board assemblies, RFID tags, magnetics and box builds for other brands in industrial, automotive, consumer, healthcare and IT hardware markets.",
+    "EARNS": "It earns by manufacturing electronics to order for brand owners in India and abroad. Industrial and automotive electronics bring higher margins, while consumer electronics adds volume at thinner margins.",
+    "SIZE": "One of India's notable listed electronics manufacturing services companies, with plants in several states and a customer list that spans Indian and global brands.",
+    "RIVALS": "Kaynes Technology, Dixon Technologies, Amber Enterprises and Avalon Technologies, along with global contract manufacturers such as Foxconn and Jabil. Competition is intense for big brand contracts.",
+    "WATCH": "Watch new plants and component-making projects under India's electronics component incentive scheme, its shift toward higher-margin industrial and auto work, and export orders."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Syrma SGS mainly do?",
+     "options": [
+      "Sells phones under its own brand",
+      "Runs telecom towers",
+      "Makes steel",
+      "Manufactures electronics for other brands"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which segments bring Syrma higher margins?",
+     "options": [
+      "Industrial and automotive",
+      "Consumer electronics",
+      "Real estate",
+      "Retail"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Syrma SGS?",
+     "options": [
+      "Sobha",
+      "Kaynes Technology",
+      "Sun TV",
+      "UCO Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Syrma SGS builds circuit boards, RFID tags and electronics to order for industrial, auto and consumer brands, shifting toward higher-margin industrial work.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tbo-tek",
+   "name": "TBO Tek",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Gaurav Bhatnagar",
+    "leader_role": "Co-founder & Joint MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "TBO Tek runs a business-to-business travel platform. Travel agents and tour operators around the world use it to book hotels, flights, transfers and activities for their customers. It listed in 2024 and agreed in 2025 to buy Classic Vacations, a US luxury travel company.",
+    "EARNS": "It earns commissions and margins on each booking made through its platform. Hotel bookings, especially outside India, are its most profitable and fastest-growing business, while air ticketing brings large volumes at thinner margins.",
+    "SIZE": "One of the world's larger business-to-business travel distribution platforms and India's biggest by bookings. Travel agents in many countries use it. It works with a large global supplier base of hotels and airlines.",
+    "RIVALS": "Hotelbeds, WebBeds, Expedia's partner business and Riya Travel. Hotels and airlines selling directly to agents and travellers also compete with its platform.",
+    "WATCH": "Watch integration of Classic Vacations in the US, growth in hotel bookings in Europe, the Middle East and the Americas, and how global travel demand holds up."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who mainly uses TBO Tek's platform?",
+     "options": [
+      "Airlines only",
+      "Hotel guests directly",
+      "Travel agents and tour operators",
+      "Railway passengers"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is TBO Tek's most profitable business?",
+     "options": [
+      "Air ticketing",
+      "Visa services",
+      "Cab rides",
+      "Hotel bookings"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which US company did TBO agree to buy in 2025?",
+     "options": [
+      "Classic Vacations",
+      "Expedia",
+      "Booking Holdings",
+      "Sabre"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "TBO Tek runs a global platform where travel agents book hotels and flights, earning most from hotel bookings, and is expanding in the US.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "td-power-systems",
+   "name": "TD Power Systems",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Nikhil Kumar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "TD Power Systems makes electric generators for steam, gas, hydro and diesel power plants, plus large motors and traction equipment for railways. It supplies turbine makers and power plant builders in India and abroad.",
+    "EARNS": "It earns by building generators and motors to order. Exports, especially to turbine makers in Japan, Europe and the US, are a large and growing share of sales, while domestic and railway orders add the rest.",
+    "SIZE": "One of India's leading makers of AC generators for power plants, and a key supplier to several global turbine makers. Its generators are installed in power plants in many countries.",
+    "RIVALS": "BHEL, WEG, ABB and Siemens Energy in generators and large motors, plus generator makers in China and Europe. Its niche is custom generators built to turbine makers' designs.",
+    "WATCH": "Watch export orders linked to gas power demand from data centres, its capacity expansion in Bengaluru, and railway traction orders. Management has flagged strong demand from overseas customers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does TD Power Systems mainly make?",
+     "options": [
+      "Solar panels",
+      "Electric generators",
+      "Car batteries",
+      "Mobile chargers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which sales are a large and growing share for TD Power?",
+     "options": [
+      "Retail",
+      "Real estate",
+      "Exports",
+      "Advertising"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of TD Power Systems?",
+     "options": [
+      "Sobha",
+      "SBI Card",
+      "Sun TV",
+      "BHEL"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "TD Power Systems builds generators for power plants and motors for railways, with exports to global turbine makers forming a large share of sales.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tata-capital",
+   "name": "Tata Capital",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rajiv Sabharwal",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Tata Capital is the Tata group's main lending company. It offers personal loans, home loans, loans against property, vehicle loans, business loans and infrastructure finance. It merged Tata Motors Finance into itself in 2025 and listed on the stock exchanges in October 2025.",
+    "EARNS": "It earns the gap between interest charged and its cost of funds. Retail loans to individuals and small businesses make up most of its book, while commercial and infrastructure lending add the rest. The Tata name helps it borrow cheaply.",
+    "SIZE": "One of India's largest non-bank lenders and among the biggest NBFCs by loan book. RBI classes it as an upper-layer NBFC, the group with the strictest rules.",
+    "RIVALS": "Bajaj Finance, Shriram Finance, Cholamandalam, Aditya Birla Capital and Mahindra Finance, plus banks in personal and home loans. Its Tata name helps it compete for customers and cheap funding.",
+    "WATCH": "Watch how it integrates the Tata Motors Finance vehicle-loan book, credit quality in unsecured loans, and growth after its listing under RBI's upper-layer NBFC rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company merged into Tata Capital in 2025?",
+     "options": [
+      "Tata Motors Finance",
+      "Tata AIA",
+      "Tata Elxsi",
+      "Tata Power"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What makes up most of Tata Capital's loan book?",
+     "options": [
+      "Government bonds",
+      "Retail and small business loans",
+      "Credit cards",
+      "Gold loans"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which lender is a rival of Tata Capital?",
+     "options": [
+      "Tata Investment",
+      "RailTel",
+      "Bajaj Finance",
+      "Trident"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tata Capital is the Tata group's main lender, offering personal, home, vehicle and business loans, and listed in 2025 after absorbing Tata Motors Finance.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tata-investment",
+   "name": "Tata Investment Corporation",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Noel Tata",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "This Tata group company owns a portfolio of shares, mostly in listed Tata companies such as Tata Steel, Tata Consumer, Trent and Titan, along with other listed and unlisted firms and bonds. It does not make products or serve retail customers.",
+    "EARNS": "It earns dividends from the companies whose shares it owns, plus interest and gains when it sells some of its shareholdings. Dividends from Tata group companies are its largest and steadiest income.",
+    "SIZE": "One of the larger listed holding companies in India and a key shareholding vehicle within the Tata group. Its value depends mostly on the Tata companies it owns.",
+    "RIVALS": "It has no direct rivals. Comparable listed holding companies include Bajaj Holdings, Maharashtra Scooters and Summit Securities, and mutual funds own many of the same shares.",
+    "WATCH": "Watch dividends declared by Tata group companies, changes to its portfolio, and RBI rules for holding-type NBFCs that affect how it is regulated. Its fortunes track those of the wider Tata group."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Tata Investment Corporation mainly own?",
+     "options": [
+      "Steel plants",
+      "Hotels",
+      "Retail stores",
+      "Shares in Tata companies"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is its largest and steadiest income source?",
+     "options": [
+      "Dividends from Tata companies",
+      "Selling cars",
+      "Loan interest from customers",
+      "Advertising"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a similar listed holding company?",
+     "options": [
+      "Tata Capital",
+      "Bajaj Holdings",
+      "SBI Card",
+      "TBO Tek"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tata Investment Corporation owns a portfolio of shares, mostly in listed Tata group companies, and earns mainly from the dividends those companies pay out.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tata-teleservices-maharashtra",
+   "name": "Tata Teleservices (Maharashtra)",
+   "type": "listed",
+   "industry": "telecom",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Harjit Singh",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Tata Teleservices (Maharashtra), or TTML, sells telecom and digital services to businesses in Maharashtra and Goa under the Tata Tele Business Services brand: business internet, leased lines, cloud phone systems, SIP trunks and connectivity for offices. Its consumer mobile business moved to Bharti Airtel in 2019.",
+    "EARNS": "It earns monthly fees from business customers for connectivity and cloud communication services. Data and fixed-line connectivity is its main revenue line. Large debt and government dues weigh heavily on its finances.",
+    "SIZE": "A smaller enterprise telecom player, focused only on the Maharashtra and Goa circles. Its parent Tata Teleservices serves businesses in the rest of India.",
+    "RIVALS": "Airtel Business, Jio Business, Vodafone Idea Business and Tata Communications, along with cloud communication firms in small-business software. Larger rivals have bigger networks and more capital.",
+    "WATCH": "Watch its debt, funded mainly by Tata group support, its government spectrum and AGR dues, and growth in cloud and software products for small businesses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Under which brand does TTML sell business services?",
+     "options": [
+      "Tata Sky",
+      "Tata Play",
+      "Tata Tele Business Services",
+      "Tata Neu"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where did TTML's consumer mobile business go in 2019?",
+     "options": [
+      "Jio",
+      "Vodafone Idea",
+      "BSNL",
+      "Bharti Airtel"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What weighs heavily on TTML's finances?",
+     "options": [
+      "Large debt and government dues",
+      "Too much cash",
+      "High hotel costs",
+      "Steel prices"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "TTML sells business internet, leased lines and cloud phone services in Maharashtra and Goa under the Tata Tele Business Services brand, carrying heavy debt.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "techno-electric-and-engineering",
+   "name": "Techno Electric & Engineering",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "P. P. Gupta",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Techno Electric builds power infrastructure on contract: substations, transmission systems, emission control equipment at power plants and smart metering projects for power distributors. It is also building data centres, starting with a campus in Chennai.",
+    "EARNS": "It earns from engineering, procurement and construction contracts for power utilities, mainly transmission substations. Smart metering projects add longer-term service income, and data centres are a new bet.",
+    "SIZE": "One of India's leading builders of power substations and transmission systems, with work for central and state utilities. It has delivered substations for Power Grid and many state utilities.",
+    "RIVALS": "KEC International, Kalpataru Projects, Tata Projects, Sterling and Wilson and Siemens in substations; data centre operators in its new business. Bidding for transmission work is competitive.",
+    "WATCH": "Watch orders from India's transmission build-out for renewable energy, execution of smart meter contracts, and the rollout and tenants of its data centres."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Techno Electric's main business?",
+     "options": [
+      "Making steel",
+      "Building substations and transmission systems",
+      "Running hotels",
+      "Selling phones"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which new business is Techno Electric building?",
+     "options": [
+      "Cruise ships",
+      "Airlines",
+      "Data centres",
+      "Cement plants"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a rival of Techno Electric?",
+     "options": [
+      "Sobha",
+      "SBI Card",
+      "TBO Tek",
+      "KEC International"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Techno Electric builds power substations, transmission and smart metering projects for utilities, and is developing data centres starting in Chennai.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tega-industries",
+   "name": "Tega Industries",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Mehul Mohanka",
+    "leader_role": "MD & Group CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Tega Industries makes wear-resistant consumables for mining and mineral processing: rubber and polymer mill liners, screens, pumps and conveyor parts that protect grinding mills. It sells to mining companies worldwide and has plants in India, Chile, Australia and South Africa.",
+    "EARNS": "It earns by repeatedly supplying replacement liners and parts as they wear out, which makes most of its revenue recurring. Sales outside India, especially to copper and gold mines, form the bulk of its business.",
+    "SIZE": "One of the world's leading makers of polymer mill liners for the mining industry, and among the few Indian firms with a global mining-equipment presence.",
+    "RIVALS": "Metso, Weir Group and FLSmidth, along with regional mining consumables makers in Latin America, Africa and Australia. Metso and Weir are much larger global groups.",
+    "WATCH": "Watch its announced acquisition of Australia's Molycop alongside Apollo funds, demand from copper and gold mining, and growth in its equipment business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Tega Industries' main customers?",
+     "options": [
+      "Mining companies",
+      "Airlines",
+      "Hospitals",
+      "Banks"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why is most of Tega's revenue recurring?",
+     "options": [
+      "It charges app subscriptions",
+      "Liners and parts wear out and need replacing",
+      "It earns rent",
+      "It earns interest"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Tega?",
+     "options": [
+      "Sun TV",
+      "UCO Bank",
+      "Metso",
+      "Signatureglobal"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tega Industries makes replaceable mill liners and parts for mines worldwide, earning recurring revenue, and has announced a Molycop acquisition with Apollo.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tejas-networks",
+   "name": "Tejas Networks",
+   "type": "listed",
+   "industry": "telecom",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Anand Athreya",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Tejas Networks designs and makes telecom network equipment: optical transmission, broadband access, routers and 4G/5G radio access equipment. It is a Tata group company and supplied radio equipment for BSNL's nationwide 4G network with a TCS-led consortium.",
+    "EARNS": "It earns by selling equipment to telecom operators, governments and utilities. Large orders from BSNL drove recent sales, so revenue swings with big government contracts, while exports and private telcos add the rest.",
+    "SIZE": "India's leading home-grown telecom equipment maker, and one of the few Indian firms that design their own optical and radio network products. It is a key part of the Tata group's telecom ambitions.",
+    "RIVALS": "Nokia, Ericsson, Ciena, Huawei and Samsung globally; HFCL and other Indian equipment makers at home. Global vendors are much larger and have deep relationships with private telcos.",
+    "WATCH": "Watch new orders after the BSNL 4G rollout, 5G upgrades, private telecom and export wins, and government rules favouring trusted local telecom equipment."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group does Tejas Networks belong to?",
+     "options": [
+      "Reliance group",
+      "Adani group",
+      "Mahindra group",
+      "Tata group"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customer drove Tejas' recent sales?",
+     "options": [
+      "BSNL",
+      "Netflix",
+      "Indian Railways",
+      "SBI"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Tejas Networks?",
+     "options": [
+      "Sobha",
+      "Ericsson",
+      "Redington",
+      "Trident"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tejas Networks, a Tata group company, designs and makes home-grown telecom equipment and supplied radio gear for BSNL's nationwide 4G network rollout.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tenneco-clean-air",
+   "name": "Tenneco Clean Air India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Arvind Chandrasekharan",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Tenneco Clean Air India makes exhaust and emission control systems such as catalytic converters and mufflers, along with ride control parts including Monroe shock absorbers and engine components, for cars, trucks and off-road vehicles. It is the Indian arm of US-based Tenneco and listed in November 2025.",
+    "EARNS": "It earns by supplying emission and ride systems to vehicle makers under multi-year programmes. Clean air systems for commercial and passenger vehicles are its largest business, helped by stricter emission rules.",
+    "SIZE": "One of India's leading suppliers of vehicle emission control systems, serving most large car, truck and tractor makers. It benefits from Tenneco's global technology and customer ties.",
+    "RIVALS": "Bosch, Sharda Motor Industries and Forvia in emission systems; Gabriel India in ride control. Vehicle makers often split orders among several suppliers, which keeps pricing tight.",
+    "WATCH": "Watch new emission rules for trucks, tractors and off-road machinery, exports to the global Tenneco group, and how it adapts as electric vehicles grow. Arvind Chandrasekharan has led it as CEO since 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Tenneco Clean Air India mainly make?",
+     "options": [
+      "Car tyres",
+      "Batteries",
+      "Emission control systems",
+      "Seats"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which shock absorber brand belongs to Tenneco?",
+     "options": [
+      "Gabriel",
+      "Bosch",
+      "Mahle",
+      "Monroe"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What helps Tenneco Clean Air's main business?",
+     "options": [
+      "Stricter emission rules",
+      "Lower fuel taxes",
+      "Cheaper steel",
+      "More flights"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Tenneco Clean Air India makes catalytic converters, exhaust systems and Monroe shock absorbers, benefiting as India tightens vehicle emission rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "thangamayil-jewellery",
+   "name": "Thangamayil Jewellery",
+   "type": "listed",
+   "industry": "retail",
+   "profile": {
+    "hq": "Madurai, Tamil Nadu",
+    "leader": "Balarama Govinda Das",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Thangamayil Jewellery runs gold, silver and diamond jewellery showrooms across Tamil Nadu, mostly in smaller cities and towns. It sells wedding and everyday jewellery to local families and runs gold savings schemes.",
+    "EARNS": "It earns a margin on jewellery and making charges. Gold jewellery makes up most of its sales, and wedding and festival seasons drive demand, while studded and diamond jewellery bring higher margins.",
+    "SIZE": "One of Tamil Nadu's larger regional jewellery chains, with a strong base in smaller towns where national brands are less present. It has been opening new showrooms steadily across the state.",
+    "RIVALS": "Tanishq, Kalyan Jewellers, Joyalukkas, Lalithaa Jewellery, GRT Jewellers and many local family jewellers. National chains are expanding into the same smaller towns.",
+    "WATCH": "Watch new showroom openings across Tamil Nadu, the effect of gold price swings on demand, and its push into diamond and studded jewellery. Festival and wedding seasons are key moments."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where are most Thangamayil showrooms?",
+     "options": [
+      "Gujarat",
+      "Tamil Nadu",
+      "Punjab",
+      "Assam"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What makes up most of Thangamayil's sales?",
+     "options": [
+      "Watches",
+      "Diamonds only",
+      "Gold jewellery",
+      "Silver utensils"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which chain is a rival of Thangamayil?",
+     "options": [
+      "Trent",
+      "DMart",
+      "Nykaa",
+      "Kalyan Jewellers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Thangamayil Jewellery sells mainly gold jewellery through showrooms in Tamil Nadu's smaller towns, competing with Tanishq, Kalyan and local jewellers.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "new-assurance",
+   "name": "New India Assurance",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Lavanya R Mundayur",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "New India Assurance is a government-owned general insurer. It sells health, motor, fire, marine, crop and engineering insurance to individuals, companies and government schemes, and operates branches in several countries.",
+    "EARNS": "It earns premiums and makes money on the float it keeps before paying claims. Health insurance is its biggest line, followed by motor and fire; claims often exceed premiums, so income from its bond and share portfolio supports profit.",
+    "SIZE": "India's largest general insurer by premiums, with one of the widest office networks among Indian insurers and a long history dating back to 1919. It also has a large overseas business.",
+    "RIVALS": "United India, National and Oriental insurance among state-owned insurers; ICICI Lombard, Bajaj General, Star Health and HDFC Ergo in the private sector.",
+    "WATCH": "Lavanya R Mundayur became CMD in September 2026 after Girija Subramanian retired. Watch underwriting losses in health and motor, and the new insurance law allowing more foreign ownership."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is New India Assurance's biggest insurance line?",
+     "options": [
+      "Health",
+      "Life",
+      "Marine",
+      "Aviation"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who owns most of New India Assurance?",
+     "options": [
+      "LIC",
+      "The government",
+      "A foreign insurer",
+      "Tata group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which private insurer is a rival?",
+     "options": [
+      "SBI Card",
+      "Tata Investment",
+      "ICICI Lombard",
+      "UCO Bank"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "New India Assurance is India's largest general insurer, government-owned, selling health, motor and fire cover, now led by new CMD Lavanya Mundayur.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ramco-cements",
+   "name": "The Ramco Cements",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "P. R. Venketrama Raja",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Ramco Cements makes and sells cement under the Ramco brand, including Ramco Supergrade and Ramco Supercrete, plus dry mortar, ready-mix concrete and construction chemicals. Most of its plants and sales are in South India, with a growing presence in the east.",
+    "EARNS": "It earns by selling cement to home builders, dealers and infrastructure projects. South India brings most of its sales, and premium blended cements help margins, while power and fuel costs swing profits.",
+    "SIZE": "One of South India's leading cement makers, with plants mainly in Tamil Nadu, Andhra Pradesh and Karnataka, and a long-standing brand among home builders.",
+    "RIVALS": "UltraTech (which now owns India Cements), Dalmia Bharat, Chettinad Cement, and Ambuja with its Penna unit. UltraTech's purchase of India Cements has made the south more concentrated.",
+    "WATCH": "Watch new capacity coming onstream, cement prices in the crowded southern market, sale of non-core land, and how fast it reduces debt. Fuel and power costs also matter."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which brand belongs to Ramco Cements?",
+     "options": [
+      "Birla Super",
+      "Ambuja Plus",
+      "Dalmia DSP",
+      "Ramco Supercrete"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region brings most of Ramco's sales?",
+     "options": [
+      "South India",
+      "North India",
+      "Middle East",
+      "Northeast"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company now owns rival India Cements?",
+     "options": [
+      "Ambuja",
+      "UltraTech",
+      "Dalmia Bharat",
+      "Shree Cement"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "The Ramco Cements sells Ramco brand cement mostly in South India, facing rivals UltraTech, Dalmia Bharat and Chettinad in a crowded market.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "thermax",
+   "name": "Thermax",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Ashish Bhandari",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Thermax makes boilers, heaters and absorption chillers, builds energy and water treatment plants, and sells specialty chemicals such as ion exchange resins. Through its green energy arm it also builds and runs renewable power plants for industrial customers.",
+    "EARNS": "It earns from industrial infrastructure projects, from selling equipment and services, and from long-term renewable power contracts. Industrial products and projects are its largest segments, while green solutions bring steady income.",
+    "SIZE": "One of India's leading energy and environment equipment companies, with factories in India and abroad and customers across many industries. Its Pune-based group is known for engineering and project skills.",
+    "RIVALS": "Forbes Marshall, Isgec Heavy Engineering, Ion Exchange, John Cockerill and global boiler makers. In water treatment and chemicals it faces different specialist rivals in each segment.",
+    "WATCH": "Watch its bio-CNG and green hydrogen projects, demand for industrial heating and cooling, and margins on large engineering projects. Its order book shows how industrial spending is trending."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these does Thermax make?",
+     "options": [
+      "Smartphones",
+      "Cars",
+      "Boilers and chillers",
+      "Jewellery"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What does Thermax's green energy arm do?",
+     "options": [
+      "Sells petrol",
+      "Runs hotels",
+      "Makes cement",
+      "Builds and runs renewable power for industries"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Thermax?",
+     "options": [
+      "Forbes Marshall",
+      "Sun TV",
+      "UCO Bank",
+      "Signatureglobal"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Thermax makes boilers, chillers and water treatment plants for industry, and builds and runs renewable power plants for industrial customers across India.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "timken",
+   "name": "Timken India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Sanjay Koul",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Timken India makes tapered roller bearings and other bearings, plus power transmission products, for trucks, railways, tractors, wind turbines and industrial machinery. It is the Indian arm of US-based Timken and also exports to its parent group.",
+    "EARNS": "It earns by selling bearings to vehicle and machine makers, railways and the aftermarket, plus exports to group companies. Rail and mobile industries are a major share, and exports add significant sales.",
+    "SIZE": "One of India's leading bearing makers and the country's top tapered roller bearing producer, with plants in Jamshedpur, Bharuch and Chennai. It is a key export base for its US parent.",
+    "RIVALS": "SKF India, Schaeffler India and NRB Bearings, along with imported bearings, especially in the aftermarket. Competition is strongest in truck and industrial bearings.",
+    "WATCH": "Watch railway orders, demand from trucks and wind turbines, its announced plant expansions, and exports to the Timken group. Freight rail growth in India supports its rail business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bearing type is Timken known for?",
+     "options": [
+      "Ball pens",
+      "Tapered roller bearings",
+      "Magnetic bearings",
+      "Plastic hinges"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which US company owns Timken India?",
+     "options": [
+      "Caterpillar",
+      "Cummins",
+      "Timken",
+      "GE"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of Timken India?",
+     "options": [
+      "RailTel",
+      "Sobha",
+      "TBO Tek",
+      "SKF India"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Timken India makes tapered roller bearings for trucks, railways and industry as the Indian arm of the US Timken group, also exporting to it.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "titagarh-rail-systems",
+   "name": "Titagarh Rail Systems",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Umesh Chowdhary",
+    "leader_role": "Vice Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Titagarh Rail Systems makes railway freight wagons, metro train coaches, Vande Bharat sleeper trains with BHEL, and shipbuilding and bridges. It also owns Firema in Italy, which builds trains for European operators.",
+    "EARNS": "It earns from building wagons and coaches to order for Indian Railways, private freight operators and metro corporations. Freight wagons have been its largest business, while passenger trains and metros are the faster-growing part.",
+    "SIZE": "One of India's largest freight wagon makers and a leading private maker of metro coaches, with a growing presence in passenger trains. It is one of the few Indian firms building metro coaches.",
+    "RIVALS": "Jupiter Wagons, Texmaco Rail and BEML in India, plus Alstom and Siemens in metro and passenger trains. Bidding for metro and Vande Bharat contracts is intense.",
+    "WATCH": "Watch execution of its Vande Bharat sleeper and metro orders, wagon orders from Indian Railways, and its railway wheel venture with Ramkrishna Forgings."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which train does Titagarh build with BHEL?",
+     "options": [
+      "Vande Bharat sleeper",
+      "Rajdhani",
+      "Shatabdi",
+      "Duronto"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business is Titagarh's largest?",
+     "options": [
+      "Ship repair",
+      "Freight wagons",
+      "Bridges",
+      "Cement"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Titagarh?",
+     "options": [
+      "Sobha",
+      "SBI Card",
+      "Jupiter Wagons",
+      "Trident"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Titagarh Rail Systems makes freight wagons, metro coaches and Vande Bharat sleeper trains, with wagons its biggest business and passenger trains growing fast.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "torrent-power",
+   "name": "Torrent Power",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Jinal Mehta",
+    "leader_role": "Vice Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Torrent Power distributes electricity to homes and businesses in Ahmedabad, Gandhinagar, Surat, Dahej, Bhiwandi, Agra and the union territory of Dadra, Nagar Haveli, Daman and Diu. It also generates power from gas, coal, wind and solar plants.",
+    "EARNS": "It earns a regulated profit on its distribution networks and sells power from its plants. Distribution in Gujarat cities is its largest and steadiest profit source, while gas plant profits swing with LNG prices.",
+    "SIZE": "One of India's largest private power distributors, and part of the Ahmedabad-based Torrent group, which also owns Torrent Pharma. It serves a large base of homes and businesses across several cities.",
+    "RIVALS": "Tata Power, Adani Energy Solutions, CESC and JSW Energy, along with state-owned distribution companies. Distribution is mostly a licensed monopoly, so rivalry is mainly for new licences and projects.",
+    "WATCH": "Watch its renewable and pumped hydro storage projects, bids for new distribution areas, and its green hydrogen plans. Electricity reform and privatisation of state distribution could open new areas."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which city is a core Torrent Power distribution area?",
+     "options": [
+      "Kolkata",
+      "Chennai",
+      "Bengaluru",
+      "Ahmedabad"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Torrent Power's steadiest profit source?",
+     "options": [
+      "Distribution in Gujarat cities",
+      "Coal mining",
+      "Telecom",
+      "Retail stores"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Torrent Power?",
+     "options": [
+      "Thermax",
+      "Tata Power",
+      "Sobha",
+      "Redington"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Torrent Power distributes electricity in Ahmedabad, Surat and other cities, earning steady regulated profits, and also runs gas, coal and renewable plants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "transformers-and-rectifiers",
+   "name": "Transformers and Rectifiers (India)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Satyen Mamtora",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Transformers and Rectifiers (India), or TARIL, makes power, distribution and furnace transformers, rectifiers and reactors for power transmission utilities, renewable energy projects, railways and industry.",
+    "EARNS": "It earns by building transformers to order. Power transformers for state and central transmission utilities are its largest business, and renewable energy and export orders are growing fast.",
+    "SIZE": "One of India's leading private transformer makers, able to build very high-voltage units for national transmission lines. Its main factories are near Ahmedabad.",
+    "RIVALS": "Hitachi Energy India, Siemens Energy India, CG Power, Voltamp Transformers and Bharat Bijlee. Demand currently exceeds supply across the industry, so delivery speed matters.",
+    "WATCH": "Watch orders from India's transmission build-out for renewable energy, its announced capacity expansions, and export orders. Copper and steel costs affect margins."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does TARIL mainly make?",
+     "options": [
+      "Solar panels",
+      "Wires only",
+      "Transformers",
+      "Turbines"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is TARIL's largest business?",
+     "options": [
+      "Consumer electronics",
+      "Real estate",
+      "Hotels",
+      "Power transformers for transmission utilities"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of TARIL?",
+     "options": [
+      "Voltamp Transformers",
+      "Sun TV",
+      "Trident",
+      "Sobha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Transformers and Rectifiers makes power transformers for transmission utilities, renewable energy projects and industry, and is expanding capacity to meet grid demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "trident",
+   "name": "Trident",
+   "type": "listed",
+   "industry": "textiles-apparel",
+   "profile": {
+    "hq": "Ludhiana, Punjab",
+    "leader": "Deepak Nanda",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Trident makes towels, bed sheets and bath linen, mostly for big US and European retailers, plus cotton yarn and paper made from wheat straw. Its home textiles are also sold under its own brands in India.",
+    "EARNS": "It earns by selling home textiles to global retailers and yarn and paper in India. Home textiles bring the largest share of revenue, and the US is its biggest export market.",
+    "SIZE": "One of the world's largest makers of terry towels and a leading Indian home textiles exporter, with big integrated plants in Punjab and Madhya Pradesh.",
+    "RIVALS": "Welspun Living, Indo Count Industries, Himatsingka Seide and Vardhman Textiles, plus exporters in Pakistan, China and Bangladesh. Pricing against Asian exporters is a constant pressure.",
+    "WATCH": "Watch US tariffs on Indian textiles, the India-UK trade deal, demand from US retailers, and cotton prices. Its paper business adds a separate line to follow."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Trident best known for?",
+     "options": [
+      "Jeans",
+      "Towels",
+      "Shoes",
+      "Watches"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Trident's biggest export market?",
+     "options": [
+      "China",
+      "Japan",
+      "United States",
+      "Brazil"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Trident?",
+     "options": [
+      "Redington",
+      "Sun TV",
+      "UCO Bank",
+      "Welspun Living"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Trident makes towels, bed sheets, yarn and paper, selling home textiles mostly to US retailers, which makes US tariffs a key issue.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "triveni-turbine",
+   "name": "Triveni Turbine",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Dhruv Sawhney",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Triveni Turbine makes industrial steam turbines used by sugar, steel, cement, paper and chemical plants and waste-to-energy projects to generate power, and offers servicing and spare parts. It sells in India and abroad.",
+    "EARNS": "It earns by building turbines to order and from aftermarket service and parts. Exports are a large and growing share of orders, and aftermarket work brings high margins.",
+    "SIZE": "One of the world's leading makers of small industrial steam turbines, with installations in many countries. Exports now make up a large part of its order book.",
+    "RIVALS": "Siemens Energy, BHEL, MAN Energy Solutions and Chinese turbine makers. It focuses on smaller industrial turbines, a niche where it is a recognised global leader.",
+    "WATCH": "Watch export orders, its entry into larger turbines, and demand from waste heat recovery and renewable energy projects. Its aftermarket business adds steady income."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Triveni Turbine make?",
+     "options": [
+      "Industrial steam turbines",
+      "Wind turbines",
+      "Car engines",
+      "Ships"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Triveni business brings high margins?",
+     "options": [
+      "Real estate",
+      "Aftermarket service and parts",
+      "Retail",
+      "Insurance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Triveni Turbine?",
+     "options": [
+      "Sobha",
+      "SBI Card",
+      "Siemens Energy",
+      "Trident"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Triveni Turbine makes industrial steam turbines for factories and power plants worldwide, earning high margins on service and spare parts.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "uco-bank",
+   "name": "UCO Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Rajendra Kumar Saboo",
+    "leader_role": "MD & CEO (additional charge)",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "UCO Bank is a government-owned bank based in Kolkata. It offers deposits, home loans, vehicle loans, farm loans and loans to small businesses and companies through branches across India, especially in the east, and has overseas branches in Singapore and Hong Kong.",
+    "EARNS": "It earns the gap between interest on loans and interest on deposits, plus fees. Retail, farm and small business loans make up a growing share of its book, while corporate lending remains large.",
+    "SIZE": "One of India's smaller public sector banks, with a strong branch presence in West Bengal and eastern India. It also has a modest overseas presence in Singapore and Hong Kong.",
+    "RIVALS": "Bank of India, Central Bank of India, Indian Overseas Bank, Punjab & Sind Bank and private banks. State-owned banks compete closely on deposits and government business.",
+    "WATCH": "It has had no full-time chief since Ashwani Kumar's term ended in May 2026; Rajendra Kumar Saboo holds charge while a successor is chosen. Watch the government's plan to cut its stake."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who owns most of UCO Bank?",
+     "options": [
+      "LIC",
+      "A foreign bank",
+      "Tata group",
+      "The government"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is UCO Bank headquartered?",
+     "options": [
+      "Kolkata",
+      "Mumbai",
+      "Chennai",
+      "Delhi"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which bank is a rival of UCO Bank?",
+     "options": [
+      "SBI Card",
+      "Central Bank of India",
+      "Tata Capital",
+      "Sundaram Finance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "UCO Bank is a government-owned Kolkata bank offering deposits and retail, farm and business loans, mainly in eastern India, while awaiting a full-time chief.",
+   "review": "unreviewed"
+  }
+ ]
+}

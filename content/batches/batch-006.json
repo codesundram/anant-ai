@@ -1,0 +1,2901 @@
+{
+ "_meta": {
+  "batch": "006",
+  "about": "Nifty 500 companies, batch 006: v2 explainers with profile, five parts, three quiz questions. Leaders checked on the web in Oct 2026 where marked 'Oct 2026'; others marked 'mid-2026, not re-checked'. No figures added.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "creditaccess-grameen",
+   "name": "CreditAccess Grameen",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Ganesh Narayanan",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "CreditAccess Grameen gives small loans to low-income women in villages and small towns, mostly through joint-liability groups where members back each other. It also offers individual retail loans for small businesses, homes and other needs. It took over Madura Micro Finance and later merged it into itself.",
+    "EARNS": "It earns the interest gap between what it pays to borrow from banks and markets and what it charges its borrowers. Group microloans remain the core of the book, with Karnataka, Maharashtra and Tamil Nadu among its biggest states.",
+    "SIZE": "India's largest non-bank microfinance lender by loan book, with a branch network spread across rural and semi-urban India. Its borrowers number in the millions, most of them in Karnataka, Maharashtra and Tamil Nadu.",
+    "RIVALS": "Bandhan Bank, Spandana Sphoorty, Fusion Finance, Satin Creditcare, Muthoot Microfin and the microfinance arms of banks such as IndusInd and L&T Finance.",
+    "WATCH": "Whether repayment stress in microfinance keeps easing after lending curbs tightened across the industry, how fast it grows individual retail loans, and how Ganesh Narayanan steers the company after taking over as MD & CEO in August 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who mainly borrows from CreditAccess Grameen?",
+     "options": [
+      "Large corporates",
+      "Low-income women in rural areas",
+      "Real estate developers",
+      "Car buyers in metros"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a microfinance rival of CreditAccess Grameen?",
+     "options": [
+      "Spandana Sphoorty",
+      "Bajaj Finance",
+      "HDFC Life",
+      "Zerodha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who became MD & CEO of CreditAccess Grameen in August 2025?",
+     "options": [
+      "Udaya Kumar Hebbar",
+      "Ramesh G",
+      "Ganesh Narayanan",
+      "Shankha Banerjee"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "CreditAccess Grameen is India's largest non-bank microfinance lender, giving small group loans to rural women. Watch repayment stress, retail loan growth and its new MD & CEO.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "crompton-greaves-consumer-electricals",
+   "name": "Crompton Greaves Consumer Electricals",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Promeet Ghosh",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Crompton makes fans, pumps, water heaters, lighting and small kitchen appliances for homes. It owns a majority of Butterfly Gandhimathi, a South Indian kitchen brand known for mixer grinders and gas stoves. It was demerged from the old Crompton Greaves in 2016 and is run as a separate company.",
+    "EARNS": "It earns by selling appliances through dealers, retailers and online stores. The electrical consumer durables segment, led by ceiling fans and pumps, brings in most of its revenue, while lighting is a smaller part.",
+    "SIZE": "One of India's largest fan makers and a leading brand in residential pumps, with a dealer network reaching small towns across the country. It also ranks among the top brands in water heaters and residential pumps.",
+    "RIVALS": "Havells, Orient Electric, Bajaj Electricals, Usha, Polycab and V-Guard in fans and appliances; TTK Prestige and Preethi in kitchen products. Online-first brands such as Atomberg are also winning buyers in premium energy-saving fans.",
+    "WATCH": "Its push into premium fans and kitchen appliances, how energy-efficiency rules for fans change its product mix, and how it grows Butterfly outside South India under MD & CEO Promeet Ghosh."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which kitchen brand does Crompton own?",
+     "options": [
+      "Prestige",
+      "Butterfly",
+      "Pigeon",
+      "Wonderchef"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which product line brings Crompton most of its revenue?",
+     "options": [
+      "Lighting",
+      "Industrial motors",
+      "Fans, pumps and other electrical durables",
+      "Cables"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a direct fan rival of Crompton?",
+     "options": [
+      "Havells",
+      "Asian Paints",
+      "Voltas",
+      "Blue Star"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Crompton sells fans, pumps, water heaters and kitchen appliances, including the Butterfly brand. It is a top Indian fan maker; watch premium products and Butterfly's expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cupid",
+   "name": "Cupid",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Nashik, Maharashtra",
+    "leader": "Aditya Kumar Halwasiya",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Cupid makes male and female condoms, water-based lubricants and in-vitro diagnostic test kits. It supplies condoms to governments and global health agencies and also sells its own branded products in India and abroad. New owner Aditya Kumar Halwasiya took charge in 2024 and widened it into consumer products.",
+    "EARNS": "Much of its income has come from large tenders for condoms placed by health agencies and governments in Africa, Latin America and India. It is growing branded retail sales and diagnostics to depend less on tenders.",
+    "SIZE": "Among the few Indian makers approved to supply both male and female condoms to global health agencies. Still a small company by FMCG standards. Its main factory is near Nashik in Maharashtra.",
+    "RIVALS": "Mankind Pharma (Manforce), Reckitt (Durex), TTK Healthcare (Skore), HLL Lifecare and global makers such as Karex in condoms. In diagnostic kits it faces established medical test makers such as J. Mitra and Meril.",
+    "WATCH": "Its shift from tender-led sales to its own consumer brands, the scale-up of diagnostic kits, new export markets, and capacity expansion announced by management."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product is Cupid best known for?",
+     "options": [
+      "Toothpaste",
+      "Male and female condoms",
+      "Baby diapers",
+      "Hair oil"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where has much of Cupid's income traditionally come from?",
+     "options": [
+      "Ad revenue",
+      "Large tenders from health agencies",
+      "Software licences",
+      "Real estate rent"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Cupid in condoms?",
+     "options": [
+      "Dettol",
+      "Horlicks",
+      "Lifebuoy",
+      "Manforce"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Cupid makes condoms, lubricants and diagnostic kits, long selling mainly through global health tenders. Under new owners it is building consumer brands and diagnostics.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cyient",
+   "name": "Cyient",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Sukamal Banerjee",
+    "leader_role": "Executive Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Cyient sells engineering services: designing aircraft parts, rail systems, medical devices, telecom networks and utility grids for global manufacturers, plus geospatial and digital work. Its electronics manufacturing arm, Cyient DLM, listed separately in 2023 and builds circuit boards and assemblies.",
+    "EARNS": "It earns fees from long-term engineering contracts with large global clients, billed by time or by project. Aerospace and rail, transport and mobility are among its biggest segments, and North America and Europe bring most of its revenue.",
+    "SIZE": "One of India's leading engineering and research services companies, smaller than the big IT firms but a known name with aircraft and rail makers worldwide.",
+    "RIVALS": "Tata Elxsi, L&T Technology Services, KPIT Technologies, Quest Global and the engineering units of HCLTech and Tech Mahindra. Global engineering firms such as Akkodis and Alten also compete for the same clients.",
+    "WATCH": "How CEO Sukamal Banerjee, who took over in 2025, revives growth, its push into semiconductors and new energy, and leadership changes after a new COO was named in July 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Cyient mainly sell?",
+     "options": [
+      "Consumer electronics",
+      "Engineering and design services",
+      "Retail loans",
+      "Telecom spectrum"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Cyient unit listed separately in 2023?",
+     "options": [
+      "Cyient DLM",
+      "Cyient Rail",
+      "Cyient Aero",
+      "Cyient Digital"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of Cyient in engineering services?",
+     "options": [
+      "Asian Paints",
+      "Infosys BPM",
+      "Tata Elxsi",
+      "Zomato"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Cyient designs and engineers products for global aircraft, rail, medical and telecom clients. It faces Tata Elxsi and LTTS; watch its growth revival under a new CEO.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "doms-industries",
+   "name": "DOMS Industries",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Umbergaon, Gujarat",
+    "leader": "Santosh Raveshia",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "DOMS makes pencils, erasers, sharpeners, crayons, colours, pens, notebooks and art kits for school children and offices, sold under the DOMS and Amariz brands. Italy's FILA owns a large stake and helps it export. It listed on the stock exchanges in December 2023.",
+    "EARNS": "It earns by selling stationery through a large distributor and retailer network in India, plus some exports. Scholastic stationery such as pencils and erasers brings in most revenue, and its own factories in Gujarat keep costs low.",
+    "SIZE": "India's second-largest branded stationery and art material company, with the leading share in pencils alongside Hindustan Pencils. Its products reach a very wide network of small stationery shops across India.",
+    "RIVALS": "Hindustan Pencils (Natraj and Apsara), Camlin (Kokuyo Camlin), Faber-Castell, Cello and Classmate from ITC. Global names such as Staedtler and Maped also compete in art and school supplies.",
+    "WATCH": "Its new large factory in Umbergaon, which management says will start production in FY27, its push into kids' products beyond stationery, and how it handles raw material price swings."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which international company owns a large stake in DOMS?",
+     "options": [
+      "Faber-Castell",
+      "FILA",
+      "Kokuyo",
+      "BIC"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which brands compete with DOMS in pencils?",
+     "options": [
+      "Natraj and Apsara",
+      "Parker and Cross",
+      "Bisleri and Kinley",
+      "Dettol and Savlon"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What expansion has DOMS announced?",
+     "options": [
+      "A cement plant",
+      "An airline",
+      "A new large factory in Umbergaon",
+      "A bank licence"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "DOMS makes pencils, erasers, crayons and other stationery for students, backed by Italy's FILA. Watch its new Umbergaon factory and push into wider kids' products.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "dalmia-bharat",
+   "name": "Dalmia Bharat",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Puneet Yadu Dalmia",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Dalmia Bharat makes cement sold under the Dalmia Cement, Konark and Dalmia DSP brands to home builders, contractors and infrastructure projects. It has a strong position in South, East and North-East India and also makes refractories through a related company.",
+    "EARNS": "It earns by selling cement in bags to retail buyers and in bulk to builders. Blended cement made with fly ash and slag is a large part of its sales, and the East and South regions bring in most of its volumes.",
+    "SIZE": "One of India's top five cement makers by capacity and a leading player in East and North-East India. It runs plants and grinding units spread across many states.",
+    "RIVALS": "UltraTech Cement, Ambuja Cements and ACC (Adani), Shree Cement, JK Cement and Ramco Cements. Regional players such as Star Cement and Orient Cement compete hard in its eastern and southern markets.",
+    "WATCH": "Its announced capacity expansion plan across regions, the cost of fuel and power, cement price trends in its eastern markets, and a new CFO who took charge in August 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which brand belongs to Dalmia Bharat?",
+     "options": [
+      "Birla A1",
+      "Konark",
+      "Coromandel King",
+      "Sagar Cement"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region is a stronghold for Dalmia Bharat?",
+     "options": [
+      "East and North-East India",
+      "Only Gujarat",
+      "Only Mumbai",
+      "Middle East"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is the largest cement rival of Dalmia Bharat?",
+     "options": [
+      "Pidilite",
+      "Asian Paints",
+      "Astral",
+      "UltraTech Cement"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Dalmia Bharat is one of India's top cement makers, strongest in the South and East. It competes with UltraTech and Adani's cement arms; watch its capacity expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "data-patterns",
+   "name": "Data Patterns",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Srinivasagopalan Rangarajan",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Data Patterns designs and builds defence and aerospace electronics: radars, electronic warfare systems, avionics, communication equipment and test systems for the armed forces, DRDO and defence PSUs. It also supplies parts for space programmes and has entered counter-drone systems.",
+    "EARNS": "It earns from development and production orders, mostly from Indian defence agencies and companies such as HAL and BEL. Production orders for complete systems and subsystems bring most revenue, and it designs much of its own technology in-house.",
+    "SIZE": "One of India's leading private defence electronics makers, small next to BEL but known for doing design work from start to finish. Its order book comes mostly from Indian defence programmes.",
+    "RIVALS": "Bharat Electronics (BEL), Astra Microwave, Paras Defence, Centum Electronics and Alpha Design Technologies. Large foreign defence firms also bid for the same electronics work, often through Indian partners.",
+    "WATCH": "Its order inflow from the government's push for local defence equipment, the move to larger complete-system contracts, counter-drone products, export orders, and delays in customer approvals it flagged in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Data Patterns' main customers?",
+     "options": [
+      "Retail shoppers",
+      "Indian defence agencies and PSUs",
+      "Telecom subscribers",
+      "Hotel chains"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a defence electronics rival of Data Patterns?",
+     "options": [
+      "Bharat Electronics",
+      "Havells",
+      "Dixon",
+      "Wipro"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which new product area has Data Patterns entered?",
+     "options": [
+      "Electric scooters",
+      "Solar panels",
+      "Packaged food",
+      "Counter-drone systems"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Data Patterns builds radars, avionics and defence electronics for India's armed forces and PSUs. It rivals BEL and Astra Microwave; watch orders and its counter-drone business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "deepak-fertilisers-and-petrochemicals-corp",
+   "name": "Deepak Fertilisers and Petrochemicals (DFPCL)",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Sailesh C. Mehta",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Deepak Fertilisers makes industrial chemicals such as ammonia, nitric acid and isopropyl alcohol, technical ammonium nitrate used in mining explosives, and fertilisers sold under the Mahadhan brand. It runs these through subsidiaries including Mahadhan AgriTech and Deepak Mining Solutions.",
+    "EARNS": "It earns from selling chemicals to pharma, mining and industrial buyers, and crop nutrients to farmers. Mining chemicals and industrial chemicals bring higher margins than fertilisers, and gas prices drive its costs.",
+    "SIZE": "India's largest maker of technical ammonium nitrate and one of the main makers of nitric acid and isopropyl alcohol. Its main plants are at Taloja in Maharashtra, with further sites in other states.",
+    "RIVALS": "Gujarat Narmada Valley Fertilizers (GNFC), Rashtriya Chemicals and Fertilizers, Coromandel International, Chambal Fertilisers and Solar Industries in explosives.",
+    "WATCH": "Its new ammonia plant at Taloja, the technical ammonium nitrate project at Gopalpur in Odisha, the separate mining solutions business, and how gas price swings affect margins."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Deepak Fertilisers' fertiliser brand?",
+     "options": [
+      "Mahadhan",
+      "Godavari",
+      "Ujjwala",
+      "Jai Kisaan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which product is used in mining explosives?",
+     "options": [
+      "Isopropyl alcohol",
+      "Urea",
+      "Technical ammonium nitrate",
+      "Caustic soda"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of Deepak Fertilisers?",
+     "options": [
+      "Asian Paints",
+      "GNFC",
+      "Pidilite",
+      "Dabur"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Deepak Fertilisers makes industrial chemicals, mining-grade ammonium nitrate and Mahadhan fertilisers. It leads in technical ammonium nitrate; watch its new ammonia plant and gas costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "dr-lal-path-labs",
+   "name": "Dr. Lal PathLabs",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Shankha Banerjee",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Dr. Lal PathLabs runs diagnostic labs that test blood, urine and tissue samples for patients, doctors and hospitals. It collects samples at its centres, at patient homes and through partner clinics, and owns the Suburban Diagnostics chain in western India.",
+    "EARNS": "It earns fees for each test, with most money coming from walk-in patients rather than hospitals. Its home market in North India is the largest and most profitable, and bundled wellness test packages are a growing share.",
+    "SIZE": "One of India's largest diagnostic chains, the leader in North India, with a network of labs and collection centres spread across the country. It is especially strong in Delhi and the National Capital Region.",
+    "RIVALS": "Metropolis Healthcare, Thyrocare (owned by PharmEasy's parent), Tata 1mg Labs, Redcliffe Labs, Apollo Diagnostics and Agilus Diagnostics. Hospital chains also run their own labs and compete for the same patients.",
+    "WATCH": "Price competition from online labs, its expansion in South and East India, and how CEO Shankha Banerjee, in charge since 2024, grows specialised and genetic tests."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which diagnostic chain does Dr. Lal PathLabs own in western India?",
+     "options": [
+      "Suburban Diagnostics",
+      "Thyrocare",
+      "Healthians",
+      "SRL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region is Dr. Lal PathLabs' strongest market?",
+     "options": [
+      "South India",
+      "North India",
+      "Middle East",
+      "Africa"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a diagnostic rival of Dr. Lal PathLabs?",
+     "options": [
+      "Apollo Tyres",
+      "Lupin",
+      "Metropolis Healthcare",
+      "Abbott India"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Dr. Lal PathLabs runs diagnostic labs and collection centres, leading in North India. It competes with Metropolis and online labs; watch pricing pressure and southern expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "e-i-d-parry",
+   "name": "E.I.D. Parry",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Muthiah Murugappan",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "E.I.D. Parry, part of the Murugappa Group, makes sugar, ethanol and other distillery products, and sells consumer goods such as Parry's sugar and pulses. It also owns a majority of Coromandel International, the fertiliser and crop protection company.",
+    "EARNS": "Through Coromandel, fertilisers and farm chemicals bring in most of its group revenue and profit. Its own business earns from sugar, ethanol sold to oil companies and nutraceuticals, which are more seasonal.",
+    "SIZE": "One of South India's largest sugar makers and, through Coromandel, part of one of India's biggest private fertiliser groups. Its sugar mills are mainly in Tamil Nadu and Karnataka.",
+    "RIVALS": "Balrampur Chini, Triveni Engineering and Shree Renuka Sugars in sugar and ethanol; Chambal Fertilisers and UPL against Coromandel. In fertilisers, Coromandel also competes with Paradeep Phosphates and state-run makers.",
+    "WATCH": "Government ethanol blending policy and sugar export rules, cane availability in Tamil Nadu and Karnataka, and how Coromandel's growth carries the group."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which fertiliser company is majority-owned by E.I.D. Parry?",
+     "options": [
+      "Chambal Fertilisers",
+      "Coromandel International",
+      "UPL",
+      "Paradeep Phosphates"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of E.I.D. Parry's group revenue come from?",
+     "options": [
+      "Fertilisers and farm chemicals via Coromandel",
+      "Hotels",
+      "Software",
+      "Cement"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with E.I.D. Parry in sugar?",
+     "options": [
+      "Britannia",
+      "Marico",
+      "Balrampur Chini",
+      "Tata Consumer"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "E.I.D. Parry makes sugar and ethanol and owns most of Coromandel International, which drives group profits. Watch ethanol policy, cane supply and Coromandel's growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "eih",
+   "name": "EIH (The Oberoi Group)",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Vikram Oberoi",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "EIH is the flagship company of The Oberoi Group. It runs luxury Oberoi hotels and the Trident chain, Nile cruisers, flight catering and airport restaurants. The Oberoi Udaivilas and The Oberoi Amarvilas are among its best-known properties.",
+    "EARNS": "It earns from room nights, food and drink, and banquets at its hotels, plus management fees from hotels it runs for other owners. Rooms and food at its luxury hotels in big Indian cities and leisure spots bring most profit.",
+    "SIZE": "One of India's best-known luxury hotel companies, smaller than Indian Hotels but often ranked among the world's top hotel brands. The Oberoi brand has a strong name in luxury travel worldwide.",
+    "RIVALS": "Indian Hotels (Taj), ITC Hotels, Leela Palaces, Marriott and Hyatt in India. International chains such as Four Seasons and Aman also compete for top-end travellers in India and abroad.",
+    "WATCH": "New hotels it has announced in India and abroad, strong luxury travel demand, and its catering business as air travel grows. ITC holds a large minority stake."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which hotel chains does EIH run?",
+     "options": [
+      "Taj and Vivanta",
+      "Oberoi and Trident",
+      "Leela and Lemon Tree",
+      "ITC and Welcomhotel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a luxury hotel rival of EIH?",
+     "options": [
+      "Indian Hotels (Taj)",
+      "IRCTC",
+      "MakeMyTrip",
+      "IndiGo"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which company owns a large minority stake in EIH?",
+     "options": [
+      "Reliance",
+      "Tata Sons",
+      "Adani Group",
+      "ITC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "EIH runs the luxury Oberoi and Trident hotels plus flight catering. It competes with Taj and ITC Hotels; watch new openings and luxury travel demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "embassy-office-parks-reit",
+   "name": "Embassy Office Parks REIT",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Amit Shetty",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Embassy REIT owns large office parks leased to global companies, mostly in Bengaluru, plus Mumbai, Pune and the Delhi region. Tenants include technology firms and global capability centres. It also owns hotels and a solar park. It was India's first listed REIT, in 2019.",
+    "EARNS": "It earns rent from long-term office leases and passes most of its cash to unit-holders as regular payouts, as REIT rules require. Bengaluru office parks such as Embassy Manyata and Embassy TechVillage bring in most of its rent.",
+    "SIZE": "India's largest office REIT by area and one of the largest office REITs in Asia. Its tenants are mostly large multinational companies. Its parks include Embassy Manyata and Embassy TechVillage in Bengaluru.",
+    "RIVALS": "Mindspace Business Parks REIT, Brookfield India REIT and Knowledge Realty Trust, plus office developers such as DLF and RMZ. It competes for tenants with other landlords too, including office arms of developers such as Prestige and Godrej Properties.",
+    "WATCH": "Leasing demand from global capability centres, new buildings it is constructing within its parks, acquisitions of finished offices, and how CEO Amit Shetty, in charge since August 2025, fills empty space."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Embassy REIT mainly own?",
+     "options": [
+      "Shopping malls",
+      "Office parks leased to companies",
+      "Housing societies",
+      "Warehouses only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which city brings Embassy REIT most of its rent?",
+     "options": [
+      "Chennai",
+      "Kolkata",
+      "Bengaluru",
+      "Hyderabad"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival office REIT?",
+     "options": [
+      "Mindspace Business Parks REIT",
+      "IRCTC",
+      "Nexus Select Trust",
+      "IndiGrid"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Embassy REIT owns big office parks, mainly in Bengaluru, leased to global firms. It pays out most rent to unit-holders; watch office leasing and new buildings.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "elecon-engineering",
+   "name": "Elecon Engineering",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Vallabh Vidyanagar, Gujarat",
+    "leader": "Prayasvin Patel",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Elecon makes industrial gearboxes, couplings and material handling equipment such as conveyors and stackers used by steel, cement, power, sugar and mining plants. It owns UK gear maker Benzlers-Radicon and sells across Europe, the Americas and Asia.",
+    "EARNS": "Gear and transmission products bring in most of its revenue and profit, with steady demand for spares and replacements. The material handling business is smaller and project-based, and overseas sales are a growing share.",
+    "SIZE": "One of Asia's largest industrial gear makers and India's leading maker of gearboxes for heavy industry. It sells gears to steel, cement, power and many other heavy industries in India and abroad.",
+    "RIVALS": "Siemens (Flender), SEW-Eurodrive, Premium Transmission, Shanthi Gears and Bonfiglioli. In material handling it competes with Tata's TRF, Thyssenkrupp and FLSmidth.",
+    "WATCH": "Its push to grow overseas sales of gears, new capacity it has announced, demand from steel, cement and defence, and its 75th anniversary year in 2026 under Prayasvin Patel, reappointed CMD from July 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Elecon's main product?",
+     "options": [
+      "Industrial gearboxes",
+      "Air conditioners",
+      "Two-wheelers",
+      "Tyres"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which UK gear maker does Elecon own?",
+     "options": [
+      "David Brown",
+      "Benzlers-Radicon",
+      "Renold",
+      "Flender"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Elecon in gears?",
+     "options": [
+      "Havells",
+      "Polycab",
+      "Shanthi Gears",
+      "Voltas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Elecon makes industrial gearboxes and material handling equipment for steel, cement and power plants. It is a leading Asian gear maker; watch overseas growth and capacity.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "elgi-equipments",
+   "name": "ELGi Equipments",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Coimbatore, Tamil Nadu",
+    "leader": "Jairam Varadaraj",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "ELGi makes air compressors, from small piston units for garages to large screw and oil-free compressors for factories, hospitals and mines. It also makes automotive service equipment. It sells in India, the US, Europe and Australia through subsidiaries and distributors.",
+    "EARNS": "It earns from selling compressors plus a steady stream of spares and servicing. Screw compressors bring in most revenue, and overseas markets, led by the US and Europe, now make up a large part of sales.",
+    "SIZE": "India's largest air compressor maker and one of the top compressor brands worldwide. Its products are sold in many countries through subsidiaries and distributors.",
+    "RIVALS": "Atlas Copco, Ingersoll Rand, Kaeser and Kirloskar Pneumatic. Kirloskar Pneumatic is its closest Indian rival, while the others are global brands with factories in India. Chinese makers are a growing threat on price.",
+    "WATCH": "Growth in the US and Europe, its oil-free compressor range, Chinese competition it has flagged as a concern, and how input costs affect margins. New products for the US market are a stated focus."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does ELGi mainly make?",
+     "options": [
+      "Elevators",
+      "Air compressors",
+      "Cables",
+      "Paints"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a global rival of ELGi?",
+     "options": [
+      "Atlas Copco",
+      "Bosch Home",
+      "Siemens Healthineers",
+      "ABB Robotics"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which competition has ELGi flagged as a concern?",
+     "options": [
+      "Japanese tyres",
+      "Korean phones",
+      "Chinese compressors",
+      "US software"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "ELGi is India's largest air compressor maker, selling across India, the US and Europe. It competes with Atlas Copco and Ingersoll Rand; watch overseas growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "emcure-pharmaceuticals",
+   "name": "Emcure Pharmaceuticals",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Satish Mehta",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Emcure makes branded medicines for women's health, heart, blood and infection treatments, plus injectables and biosimilars. It sells in India and in many emerging and European markets, and markets some Sanofi heart medicines in India. It listed on the stock exchanges in July 2024.",
+    "EARNS": "It earns by selling branded prescription drugs to doctors and hospitals in India, its largest market, and through subsidiaries in Europe and Canada. Gynaecology and cardiology brands are among its biggest earners in India.",
+    "SIZE": "A mid-sized Indian pharma company and one of the leaders in gynaecology medicines in India. It sells its medicines in many countries beyond India. It is listed in India.",
+    "RIVALS": "Mankind Pharma, Sun Pharma, Alkem, Intas and Abbott India in branded generics. In biosimilars it faces Biocon Biologics, Intas and Dr. Reddy's. Global drugmakers also compete with it abroad.",
+    "WATCH": "Its biosimilars pipeline, growth in Europe and Canada, and leadership as founder Satish Mehta became chairman from September 2026 while staying MD. Founder Satish Mehta also has a further term as MD from April 2027 awaiting shareholder approval."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which therapy area is Emcure a leader in within India?",
+     "options": [
+      "Gynaecology",
+      "Ophthalmology",
+      "Dermatology",
+      "Dentistry"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Emcure list on the stock exchanges?",
+     "options": [
+      "2015",
+      "2019",
+      "2024",
+      "2026"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which role did Satish Mehta add in September 2026?",
+     "options": [
+      "CFO",
+      "Chairman",
+      "Brand ambassador",
+      "Auditor"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Emcure sells branded medicines for women's health, heart and blood disorders in India and abroad. Watch biosimilars, Europe and founder Satish Mehta's added chairman role.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "emmvee-photovoltaic-power",
+   "name": "Emmvee Photovoltaic Power",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "D.V. Manjunatha",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Emmvee makes solar panels (modules) and the solar cells that go inside them, selling to solar power developers, rooftop installers and distributors in India. It listed on the stock exchanges in November 2025.",
+    "EARNS": "It earns by selling modules and cells, with modules bringing in most revenue. Making its own cells earns better margins because government rules increasingly require locally made cells for many projects.",
+    "SIZE": "One of India's larger solar module makers and among the few that also make their own solar cells at scale. Its plants are in Karnataka, near Bengaluru.",
+    "RIVALS": "Waaree Energies, Premier Energies, Adani Solar, Vikram Solar, Tata Power Solar and ReNew. Chinese module makers remain the main price-setters in the global solar market.",
+    "WATCH": "Its integrated TOPCon cell and module plant, with modules due by December 2026 and cells by March 2027, the ALMM List II rule for local cells, and pricing pressure as capacity grows."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Emmvee make?",
+     "options": [
+      "Wind turbines",
+      "Solar cells and modules",
+      "EV batteries",
+      "Power cables"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Emmvee?",
+     "options": [
+      "Waaree Energies",
+      "Exide Industries",
+      "Havells",
+      "Siemens"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which government rule supports demand for Emmvee's cells?",
+     "options": [
+      "GST reform",
+      "ALMM List II",
+      "RERA",
+      "FAME II"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Emmvee makes solar cells and modules for Indian developers and installers. It competes with Waaree and Premier; watch its new TOPCon plant and local-cell rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "endurance-technologies",
+   "name": "Endurance Technologies",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Chhatrapati Sambhajinagar, Maharashtra",
+    "leader": "Anurang Jain",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Endurance makes parts for two-wheelers, three-wheelers and cars: aluminium die castings, suspension, brakes, clutches and transmission parts. Bajaj Auto is its biggest customer. It also makes castings for carmakers in Europe through its subsidiaries there.",
+    "EARNS": "It earns by supplying parts to vehicle makers under long-term arrangements, plus aftermarket sales. India brings most revenue, led by two-wheeler parts, while Europe adds castings for car brands.",
+    "SIZE": "One of India's largest two-wheeler component makers and a leading maker of motorcycle suspension and brakes. It has plants across India and in Europe.",
+    "RIVALS": "Gabriel India, Sundram Fasteners, Uno Minda, Brembo and Bosch. Global suppliers such as ZF and KYB also compete for two-wheeler suspension work. Brembo is a strong rival in premium brakes.",
+    "WATCH": "Growth in electric two-wheeler parts such as battery packs, new customers beyond Bajaj Auto, its European business, and raw material shortages it flagged in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who is Endurance's largest customer?",
+     "options": [
+      "Maruti Suzuki",
+      "Hero MotoCorp",
+      "Tata Motors",
+      "Bajaj Auto"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which product does Endurance make?",
+     "options": [
+      "Tyres",
+      "Motorcycle suspension and brakes",
+      "Car glass",
+      "Seats"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of Endurance?",
+     "options": [
+      "Gabriel India",
+      "Bharat Forge Defence",
+      "Exide",
+      "MRF"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Endurance makes castings, suspension and brakes for two-wheelers, with Bajaj Auto its top client. Watch EV parts, new customers and its European castings business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "engineers",
+   "name": "Engineers India (EIL)",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Atul Gupta",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Engineers India is a government-owned engineering consultancy. It designs and manages construction of oil refineries, petrochemical plants, pipelines, fertiliser plants and other industrial projects for clients such as Indian Oil, BPCL and HPCL, and for overseas clients.",
+    "EARNS": "It earns consultancy fees for design and project management, which give higher margins, plus turnkey contracts where it builds whole projects. Consultancy for refineries and petrochemicals is its most profitable work.",
+    "SIZE": "India's largest engineering consultancy for oil, gas and petrochemical projects. It is majority owned by the Government of India. It has worked on most of India's big refineries.",
+    "RIVALS": "Tata Projects, Larsen & Toubro's energy business, Toyo Engineering, Technip Energies and McDermott. For overseas projects it also faces Korean and Italian engineering firms such as Samsung E&A and Saipem.",
+    "WATCH": "Refinery expansions announced by state oil companies, overseas orders in the Middle East and Africa, and a new CMD, Atul Gupta, who took charge in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which kind of projects does EIL mainly design?",
+     "options": [
+      "Shopping malls",
+      "Refineries and petrochemical plants",
+      "Metro trains",
+      "Smartphones"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which EIL work gives the highest margins?",
+     "options": [
+      "Consultancy",
+      "Retail fuel sales",
+      "Steel trading",
+      "Shipping"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became EIL's Chairman & MD in 2026?",
+     "options": [
+      "Vartika Shukla",
+      "Arun Kumar Singh",
+      "Sandeep Zanzaria",
+      "Atul Gupta"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Engineers India is a state-owned consultancy that designs refineries, pipelines and petrochemical plants. Watch refinery orders, overseas work and its new CMD.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "fertilisers-and-chemicals-travancore",
+   "name": "Fertilisers and Chemicals Travancore (FACT)",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Kochi, Kerala",
+    "leader": "S. Sakthimani",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "FACT is a government-owned fertiliser maker in Kerala. It sells complex fertilisers such as Factamfos and ammonium sulphate to farmers, mostly in South India, plus chemicals like caprolactam. Founded in 1943, it was India's first large-scale fertiliser plant.",
+    "EARNS": "It earns by selling fertilisers at government-set prices and receiving subsidy from the government for the gap. Complex fertilisers bring in most revenue, and southern states are its main market.",
+    "SIZE": "One of India's major government-owned fertiliser makers and a key supplier of complex fertilisers in South India. Its main plants are at Udyogamandal and Ambalamedu near Kochi.",
+    "RIVALS": "Coromandel International, Rashtriya Chemicals and Fertilizers, Madras Fertilizers, Zuari Agro and Chambal Fertilisers. Imported fertilisers also compete with its products in southern markets.",
+    "WATCH": "Its start of DAP production in 2026, government subsidy rates, raw material import costs, and changes in its board after several directors moved on in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is FACT's well-known complex fertiliser brand?",
+     "options": [
+      "Mahadhan",
+      "Factamfos",
+      "Gromor",
+      "Ujjwala"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does FACT earn on fertilisers?",
+     "options": [
+      "Free pricing",
+      "Set prices plus government subsidy",
+      "Export only",
+      "Advertising"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of FACT?",
+     "options": [
+      "Asian Paints",
+      "Pidilite",
+      "Coromandel International",
+      "UltraTech"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "FACT is a government fertiliser maker in Kerala selling complex fertilisers like Factamfos, backed by subsidies. Watch its new DAP output and subsidy rates.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "finolex-cables",
+   "name": "Finolex Cables",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Mahesh Viswanathan",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Finolex Cables makes electrical wires and cables for homes and industry, communication cables and optical fibre, plus fans, switches, lights and water heaters. Most products are sold through dealers to electricians and builders.",
+    "EARNS": "Electrical wires for homes and buildings bring in most of its revenue and profit. Communication cables are smaller, and newer consumer electrical products add volume.",
+    "SIZE": "One of India's largest makers of electrical wires and cables, especially strong in house wires in western India. Its brand is widely trusted by electricians across India.",
+    "RIVALS": "Polycab, Havells, KEI Industries, RR Kabel and V-Guard. In fans and switches it also competes with Crompton, Anchor (Panasonic) and Legrand. Large groups such as UltraTech have also entered cables.",
+    "WATCH": "Its new CEO Mahesh Viswanathan, appointed in June 2026, optical fibre capacity it has built, a long-running promoter family dispute, and copper price swings."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product brings Finolex Cables most of its revenue?",
+     "options": [
+      "Electrical wires",
+      "PVC pipes",
+      "Paint",
+      "Tiles"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a cable rival of Finolex Cables?",
+     "options": [
+      "Asian Paints",
+      "Polycab",
+      "Bajaj Auto",
+      "Dixon"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who became Finolex Cables' CEO in June 2026?",
+     "options": [
+      "Deepak Chhabria",
+      "Inder Jaisinghani",
+      "Mahesh Viswanathan",
+      "Anil Rai Gupta"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Finolex Cables makes electrical wires, communication cables and electricals, strong in house wires. It rivals Polycab and Havells; watch its new CEO and copper costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "firstsource-solutions",
+   "name": "Firstsource Solutions",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ritesh Idnani",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Firstsource, part of the RP-Sanjiv Goenka Group, runs business processes for other companies: customer service, collections, mortgage processing, healthcare billing and claims, and digital operations. Its clients are banks, health insurers, hospitals, telecom and media companies, mostly in the US and UK.",
+    "EARNS": "It earns fees under multi-year outsourcing contracts, priced per transaction, per hour or by outcome. The US is its largest market, followed by the UK, and banking and healthcare clients bring in most revenue.",
+    "SIZE": "One of India's larger business process management companies, mid-sized next to global players like Teleperformance. It works for many large US and UK banks, health insurers and media companies.",
+    "RIVALS": "Teleperformance, Concentrix, WNS (now part of Capgemini), eClerx, Hinduja Global Solutions and the BPM arms of Infosys and TCS. AI tools that automate customer service are also a new kind of competition.",
+    "WATCH": "How it uses AI tools to automate work it does for clients, new deals in healthcare and banking, acquisitions in the US and UK, and the impact of automation on traditional call-centre work."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group is Firstsource part of?",
+     "options": [
+      "Tata Group",
+      "RP-Sanjiv Goenka Group",
+      "Murugappa Group",
+      "Hinduja Group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Firstsource's largest market?",
+     "options": [
+      "India",
+      "Japan",
+      "The US",
+      "Germany"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Firstsource?",
+     "options": [
+      "Teleperformance",
+      "Nykaa",
+      "Delhivery",
+      "Info Edge"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Firstsource runs customer service, collections and healthcare processes for US and UK clients. It competes with Teleperformance and Concentrix; watch how AI changes outsourcing work.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "five-star-business-finance",
+   "name": "Five-Star Business Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Lakshmipathy Deenadayalan",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Five-Star gives small business loans to self-employed people such as shopkeepers and small traders who lack formal income papers. Loans are secured against the borrower's house. It listed on the stock exchanges in 2022.",
+    "EARNS": "It earns high interest on small, property-backed loans, funded by bank borrowings and equity. Tamil Nadu, Andhra Pradesh and Telangana bring in most of its loans, and its own field staff assess cash flows door to door.",
+    "SIZE": "One of India's leading lenders for small, property-backed business loans, strongest in South India. It has a large branch network in small towns and villages.",
+    "RIVALS": "SBFC Finance, Aptus Value Housing, Veritas Finance, Shriram Finance and small finance banks such as AU and Equitas. Informal moneylenders are also a big rival, since many of its borrowers had little access to formal credit.",
+    "WATCH": "Loan quality as small borrowers face stress, expansion beyond South India, and how it keeps growth steady while borrowing costs change. Rules from the RBI on small business lending also matter."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What do Five-Star's borrowers usually pledge as security?",
+     "options": [
+      "Gold",
+      "Their house",
+      "Shares",
+      "Vehicles"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region brings Five-Star most of its loans?",
+     "options": [
+      "South India",
+      "North-East India",
+      "Gujarat",
+      "Punjab"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which lender competes with Five-Star?",
+     "options": [
+      "Zerodha",
+      "Paytm",
+      "SBFC Finance",
+      "Policybazaar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Five-Star lends to small business owners against their homes, mainly in South India. It competes with SBFC and Aptus; watch loan quality and expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "force-motors",
+   "name": "Force Motors",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Prasan Firodia",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Force Motors makes vans and utility vehicles: the Traveller and Urbania vans used as school buses, ambulances and tourist vehicles, the Trax range and the Gurkha off-roader. It also assembles engines and axles for Mercedes-Benz and BMW cars made in India.",
+    "EARNS": "It earns by selling vans and utility vehicles to fleet owners, schools, hospitals and government buyers, plus steady income from engines built for Mercedes-Benz and BMW. Vans are its largest business, and a joint venture with Rolls-Royce makes large engines.",
+    "SIZE": "India's leading maker of large passenger vans, with a strong hold on the ambulance and school-van market. It is also known for building engines for luxury carmakers in India.",
+    "RIVALS": "Tata Motors (Winger), Mahindra in vans and SUVs, Ashok Leyland and Eicher in light buses, and Maruti Suzuki (Eeco) in small vans. In off-roaders, the Gurkha faces Mahindra's Thar and Maruti Suzuki's Jimny.",
+    "WATCH": "Growth of the Urbania premium van, defence orders for its vehicles, export markets, and electric van plans it has announced. Demand for school vans and ambulances from state governments also matters."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which van is made by Force Motors?",
+     "options": [
+      "Winger",
+      "Traveller",
+      "Eeco",
+      "Supro"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "For which carmakers does Force Motors assemble engines?",
+     "options": [
+      "Mercedes-Benz and BMW",
+      "Toyota and Honda",
+      "Hyundai and Kia",
+      "Tata and Mahindra"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Tata Motors van competes with Force?",
+     "options": [
+      "Nexon",
+      "Punch",
+      "Harrier",
+      "Winger"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Force Motors makes Traveller and Urbania vans and the Gurkha, and builds engines for Mercedes-Benz and BMW. Watch Urbania, defence orders and electric vans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "fractal-analytics",
+   "name": "Fractal Analytics",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Srikanth Velamakanni",
+    "leader_role": "Group Chief Executive & Executive Vice-Chairman",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Fractal sells artificial intelligence and data analytics services to large global companies in consumer goods, retail, banking, insurance and healthcare. It helps them forecast demand, price products and understand customers, and builds its own AI products. It listed on the stock exchanges in February 2026.",
+    "EARNS": "It earns fees from long-term analytics and AI projects for big clients, many of them Fortune 500 firms. The US is its largest market by far, and consumer goods and retail clients are a large share of revenue.",
+    "SIZE": "One of India's largest pure-play AI and analytics companies, with a long list of global clients. It has offices across the US, Europe and Asia. It was founded in 2000.",
+    "RIVALS": "Mu Sigma, LatentView Analytics, Tiger Analytics, Accenture and the analytics units of TCS and Infosys. Cloud companies and AI start-ups also compete for the same projects.",
+    "WATCH": "Demand for generative AI projects from its global clients, growth of its own AI products, and how it competes as large IT firms add AI services. Its first years as a listed company will show how steadily it grows."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Fractal Analytics mainly sell?",
+     "options": [
+      "Telecom towers",
+      "AI and analytics services",
+      "Packaged food",
+      "Steel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Fractal's largest market?",
+     "options": [
+      "India",
+      "The US",
+      "Brazil",
+      "China"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a direct analytics rival of Fractal?",
+     "options": [
+      "LatentView Analytics",
+      "Zomato",
+      "DLF",
+      "Dabur"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Fractal sells AI and analytics services to big global companies, mostly in the US. It rivals Mu Sigma and LatentView; watch generative AI demand and its products.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ge-vernova-t-and-d",
+   "name": "GE Vernova T&D India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Sandeep Zanzaria",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GE Vernova T&D India makes equipment that carries electricity over long distances: power transformers, switchgear, high-voltage direct current (HVDC) systems and grid automation software. It was renamed from GE T&D India after the GE Vernova spin-off in 2024.",
+    "EARNS": "It earns from selling and installing grid equipment for Power Grid, state utilities, renewable energy developers and industry, plus exports. Large transformer and switchgear orders bring most revenue, and services add steady income.",
+    "SIZE": "One of India's leading power transmission equipment makers, alongside Hitachi Energy and Siemens Energy. Its parent GE Vernova is a global energy equipment company.",
+    "RIVALS": "Hitachi Energy India, Siemens Energy India, CG Power, Bharat Heavy Electricals and Toshiba. Chinese and Korean makers also bid for some grid equipment contracts.",
+    "WATCH": "Large orders from India's grid build-out for renewable energy, HVDC projects, capacity expansion at its factories, and export orders from its parent's global network."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does GE Vernova T&D India mainly make?",
+     "options": [
+      "Wind turbines",
+      "Grid equipment like transformers and switchgear",
+      "Gas cylinders",
+      "Cars"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What was the company called before 2024?",
+     "options": [
+      "GE T&D India",
+      "Alstom Power",
+      "Areva India",
+      "ABB Power"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with GE Vernova T&D India?",
+     "options": [
+      "Asian Paints",
+      "Havells",
+      "Hitachi Energy India",
+      "Bajaj Electricals"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "GE Vernova T&D India makes transformers, switchgear and HVDC systems for India's power grid. It rivals Hitachi Energy and Siemens Energy; watch grid and renewable orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gmr-airports",
+   "name": "GMR Airports",
+   "type": "listed",
+   "industry": "aviation",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Kiran Kumar Grandhi",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GMR Airports builds and runs airports: Delhi's Indira Gandhi International, Hyderabad's Rajiv Gandhi International and Manohar International in Goa, plus airports abroad in Indonesia and Greece. It took its current name after a merger of group companies in 2024.",
+    "EARNS": "It earns aeronautical charges from airlines and passengers, set by the regulator AERA, and non-aeronautical income from duty-free shops, restaurants, parking, advertising and land around its airports. Delhi is its biggest earner.",
+    "SIZE": "One of India's two biggest private airport operators. Delhi airport, which it runs, is India's busiest. It also runs airports outside India. Hyderabad is among India's busier airports too.",
+    "RIVALS": "Adani Airport Holdings, the Airports Authority of India, and Fairfax-backed Bengaluru International Airport. Airports compete for airline hubs and transit passengers, so Mumbai and Bengaluru are rivals for Delhi.",
+    "WATCH": "New CEOs at Delhi and Hyderabad airports in 2026, ramp-up of its new airport at Bhogapuram near Visakhapatnam, tariff decisions by AERA, expansion at Delhi and Hyderabad, and its airport project in Crete, Greece."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which major Indian airport does GMR run?",
+     "options": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Kolkata"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who sets GMR's aeronautical charges?",
+     "options": [
+      "SEBI",
+      "RBI",
+      "AERA",
+      "TRAI"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which group is GMR's biggest private airport rival?",
+     "options": [
+      "Adani",
+      "Tata",
+      "Reliance",
+      "Mahindra"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "GMR Airports runs Delhi, Hyderabad and Goa airports, earning regulated fees plus retail income. It rivals Adani's airports; watch the new Visakhapatnam airport and tariffs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gabriel",
+   "name": "Gabriel India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Mahendra K. Goyal",
+    "leader_role": "Group CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Gabriel India, part of the Anand Group, makes shock absorbers, struts and front forks for motorcycles, scooters, cars, trucks and railway coaches. It sells to vehicle makers and in the replacement market.",
+    "EARNS": "It earns by supplying ride-control parts to vehicle makers such as TVS, Bajaj and Maruti Suzuki, plus higher-margin aftermarket sales. Two- and three-wheeler parts bring in the largest share of revenue.",
+    "SIZE": "One of India's largest makers of shock absorbers and a leader in two-wheeler suspension. It supplies most major Indian vehicle makers. It also sells widely in the aftermarket.",
+    "RIVALS": "Endurance Technologies, Munjal Showa, ZF, KYB and Tenneco. Endurance is its closest listed Indian rival, while the others are global suppliers with Indian factories.",
+    "WATCH": "How Mahendra K. Goyal, named Group CEO & MD in July 2026, steers the company, parts for electric two-wheelers, and new customers in cars, trucks and railways."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group is Gabriel India part of?",
+     "options": [
+      "Anand Group",
+      "TVS Group",
+      "Murugappa Group",
+      "Kirloskar Group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which vehicles bring Gabriel the largest share of revenue?",
+     "options": [
+      "Aircraft",
+      "Ships",
+      "Two- and three-wheelers",
+      "Tractors"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a suspension rival of Gabriel?",
+     "options": [
+      "Exide",
+      "MRF",
+      "Bosch Home",
+      "Munjal Showa"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Gabriel India makes shock absorbers and front forks for two-wheelers, cars and trains. It rivals Endurance and Munjal Showa; watch EV parts and new customers.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gallantt-ispat",
+   "name": "Gallantt Ispat",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Gorakhpur, Uttar Pradesh",
+    "leader": "Chandra Prakash Agrawal",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Gallantt Ispat makes steel, mainly TMT bars sold under the Gallantt brand for homes and construction, along with billets, sponge iron and pellets. It also runs power plants for its own use and a flour mill. It merged with group companies to form one larger steel business.",
+    "EARNS": "It earns by selling TMT bars through dealers in eastern Uttar Pradesh and Gujarat, near its plants in Gorakhpur and Kutch. Steel brings in most revenue, and its own power plants keep costs low.",
+    "SIZE": "A mid-sized regional steel maker and a known TMT bar brand in eastern Uttar Pradesh. Its plants make steel from iron ore and scrap in Uttar Pradesh and Gujarat.",
+    "RIVALS": "Kamdhenu, Shyam Metalics, Jindal Steel, SRMB and Tata Tiscon. Large steel makers such as JSW Steel and SAIL also sell TMT bars in its markets. Many small local mills also compete.",
+    "WATCH": "Capacity expansion it has announced at its plants, steel price swings, and its plans to secure iron ore and coal. Construction demand in Uttar Pradesh, its biggest market, also matters."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Gallantt Ispat's main product?",
+     "options": [
+      "Aluminium sheets",
+      "TMT bars",
+      "Copper wire",
+      "Glass"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where are Gallantt's main plants?",
+     "options": [
+      "Gorakhpur and Kutch",
+      "Pune and Chennai",
+      "Delhi and Mumbai",
+      "Kochi and Goa"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Gallantt in TMT bars?",
+     "options": [
+      "Dalmia",
+      "Asian Paints",
+      "Tata Tiscon",
+      "Havells"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Gallantt Ispat makes TMT bars, billets and sponge iron at plants in Gorakhpur and Kutch. It is a regional steel brand; watch capacity expansion and steel prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "garden-reach-shipbuilders-and-engineers",
+   "name": "Garden Reach Shipbuilders & Engineers (GRSE)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "P. R. Hari",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GRSE is a government-owned shipyard that builds warships for the Indian Navy and Coast Guard, including frigates, anti-submarine craft, survey vessels and patrol ships. It also makes portable steel bridges and marine engines, and builds commercial ships for export clients.",
+    "EARNS": "It earns from long-term shipbuilding contracts with the Navy, billed as work progresses. Warship building brings in most of its revenue, and bridges and engines add smaller amounts.",
+    "SIZE": "One of India's leading warship builders and the first Indian shipyard to export a warship. It is majority owned by the Government of India under the defence ministry.",
+    "RIVALS": "Mazagon Dock Shipbuilders, Cochin Shipyard, Goa Shipyard, Hindustan Shipyard and L&T Shipbuilding. Mazagon Dock and Cochin Shipyard are its closest listed rivals for Navy orders.",
+    "WATCH": "New Navy orders such as next-generation corvettes, export ship orders from European clients, delivery timelines on frigates, and government plans to boost Indian shipbuilding."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who is GRSE's main customer?",
+     "options": [
+      "Indian Railways",
+      "Indian Navy",
+      "Air India",
+      "ONGC"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which product does GRSE make besides ships?",
+     "options": [
+      "Portable steel bridges",
+      "Cement",
+      "Tyres",
+      "Smartphones"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which shipyard is a rival of GRSE?",
+     "options": [
+      "BEML",
+      "HAL",
+      "BHEL",
+      "Mazagon Dock"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "GRSE is a state-owned Kolkata shipyard building warships for the Navy and Coast Guard. It rivals Mazagon Dock and Cochin Shipyard; watch new Navy and export orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "general-insurance-of",
+   "name": "General Insurance Corporation of India (GIC Re)",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Hitesh Rameshchandra Joshi",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GIC Re is India's government-owned reinsurer. It insures the insurers: general insurance companies pass part of the risk on their fire, motor, health, crop, marine and aviation policies to GIC Re. By law, Indian general insurers must cede a share of each policy to it.",
+    "EARNS": "It earns premiums from insurers in India and abroad, pays a share of their claims, and earns income on the large pool of money it holds before claims are paid. India brings in most of its premium, with fire and health among the largest lines.",
+    "SIZE": "India's largest reinsurer by far and one of the bigger reinsurers in the world. It also writes business from many countries outside India. It is majority owned by the Government of India.",
+    "RIVALS": "Swiss Re, Munich Re, Hannover Re and SCOR through their Indian branches, Lloyd's syndicates in India and new Indian reinsurer Valueattics Re. Its compulsory share of Indian policies gives it an edge over foreign rivals.",
+    "WATCH": "Government plans to reduce its stake, any change to the compulsory share insurers must pass to it, crop and catastrophe claims, and how Hitesh Joshi leads after becoming CMD in June 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does GIC Re do?",
+     "options": [
+      "Sells car insurance to drivers",
+      "Reinsures other insurance companies",
+      "Runs hospitals",
+      "Lends to farmers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which global company competes with GIC Re?",
+     "options": [
+      "Swiss Re",
+      "LIC",
+      "Policybazaar",
+      "Bajaj Finserv"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who became GIC Re's CMD in June 2026?",
+     "options": [
+      "Ramaswamy Narayanan",
+      "Girish Radhakrishnan",
+      "Hitesh Rameshchandra Joshi",
+      "Devesh Srivastava"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "GIC Re is India's government-owned reinsurer, taking on part of other insurers' risks by law. Watch government stake sales, cession rules and its new CMD.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gillette",
+   "name": "Gillette India",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kumar Venkatasubramanian",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Gillette India is the listed Indian arm of Procter & Gamble's grooming and oral care business. It sells Gillette razors and blades such as Mach3, Guard and Venus, shaving foams and gels, and Oral-B toothbrushes and toothpaste.",
+    "EARNS": "It earns by selling razors, blades and toothbrushes through shops and online. Grooming brings in most of its revenue and profit, and repeat blade sales keep income steady.",
+    "SIZE": "India's leading razor and blade company, with Gillette the best-known shaving brand in the country. It sells through a very wide network of small shops and online stores.",
+    "RIVALS": "Bombay Shaving Company, Beardo (Marico), LetsShave and Bic in grooming; Colgate-Palmolive in oral care. Cheap unbranded double-edge blades are also a big competitor in small towns.",
+    "WATCH": "Its push to convert users of cheap double-edge blades to Guard and premium razors, competition from online grooming brands, and how Oral-B grows against Colgate."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which parent company owns Gillette India?",
+     "options": [
+      "Unilever",
+      "Procter & Gamble",
+      "Reckitt",
+      "Colgate-Palmolive"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which segment brings Gillette India most of its revenue?",
+     "options": [
+      "Grooming",
+      "Oral care",
+      "Detergents",
+      "Baby care"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Gillette in grooming?",
+     "options": [
+      "Pepsodent",
+      "Dove",
+      "Bombay Shaving Company",
+      "Lakme"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Gillette India sells P&G's Gillette razors and blades and Oral-B oral care. It leads Indian shaving; watch premium razors and competition from online grooming brands.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gland-pharma",
+   "name": "Gland Pharma",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Deepak Sapra",
+    "leader_role": "CEO (joins November 2026)",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Gland Pharma makes injectable medicines such as vials, pre-filled syringes and ampoules for other drug companies, which sell them under their own names. China's Fosun Pharma is its controlling shareholder, and it owns Cenexi, a French contract manufacturer.",
+    "EARNS": "It earns mainly by making and supplying generic injectables to partners, often sharing profits on products it develops. The US is its largest market, while Europe has grown through Cenexi.",
+    "SIZE": "One of India's largest makers of generic injectable medicines and a major supplier to the US market. It works with many global generic drug companies.",
+    "RIVALS": "Caplin Steriles, Eugia (Aurobindo), Hikma, Baxter and Fresenius Kabi. Large Indian drugmakers such as Sun Pharma and Dr. Reddy's also make their own injectables.",
+    "WATCH": "The arrival of new CEO Deepak Sapra from Dr. Reddy's in November 2026, turning around Cenexi, price pressure in US generics, and its move into complex injectables and biologics manufacturing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Gland Pharma mainly make?",
+     "options": [
+      "Tablets for retail chemists",
+      "Injectable medicines",
+      "Medical devices",
+      "Vaccines for children"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is Gland Pharma's controlling shareholder?",
+     "options": [
+      "Fosun Pharma",
+      "Sun Pharma",
+      "Pfizer",
+      "Temasek"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Gland in injectables?",
+     "options": [
+      "Dabur",
+      "Caplin Steriles",
+      "Nykaa",
+      "Metropolis"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Gland Pharma makes generic injectables for other drug companies, mainly for the US. Controlled by Fosun, it owns Cenexi; watch its new CEO and Cenexi turnaround.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "glaxosmithkline-pharmaceuticals",
+   "name": "GSK Pharmaceuticals India",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Bhushan Akshikar",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GSK India sells medicines and vaccines from Britain's GSK. Brands include Augmentin, Calpol, Ceftum, T-Bact and Neosporin, and vaccines such as Shingrix for shingles, Boostrix and Infanrix. It sells mainly to doctors, hospitals and chemists in India.",
+    "EARNS": "It earns by selling branded medicines and vaccines in India. Anti-infectives led by Augmentin are its biggest category, while adult vaccines and newer specialty medicines are its growth focus.",
+    "SIZE": "One of the largest multinational pharma companies in India, with Augmentin among the country's top-selling medicine brands. Its parent GSK plc owns most of the company.",
+    "RIVALS": "Pfizer India, Abbott India, Sanofi India, Sun Pharma, Cipla and Serum Institute in vaccines. Indian generic makers sell many cheaper versions of its older brands.",
+    "WATCH": "Growth of Shingrix and other adult vaccines, launches of specialty and cancer medicines from its parent, and government price controls on essential medicines."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which antibiotic is GSK India's best-known brand?",
+     "options": [
+      "Augmentin",
+      "Azithral",
+      "Taxim",
+      "Monocef"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Shingrix?",
+     "options": [
+      "A painkiller",
+      "An antacid",
+      "A shingles vaccine",
+      "A cough syrup"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a multinational rival of GSK India?",
+     "options": [
+      "Zydus Wellness",
+      "Pfizer India",
+      "Info Edge",
+      "Marico"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "GSK India sells Augmentin, Calpol and vaccines like Shingrix from Britain's GSK. Watch adult vaccine growth, new specialty launches and drug price controls.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "glenmark-pharmaceuticals",
+   "name": "Glenmark Pharmaceuticals",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Glenn Saldanha",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Glenmark makes branded medicines for skin, breathing and heart conditions, including Telma, Candid and the Ryaltris nasal spray, plus generics for the US and Europe. Its innovation arm, Ichnos Glenmark Innovation, signed a large licensing deal with AbbVie for a cancer drug in 2025.",
+    "EARNS": "It earns from branded medicines in India, which bring the largest share of revenue, plus generics in the US, Europe and emerging markets. Licensing income from its new drugs adds lumpy but sizeable earnings.",
+    "SIZE": "One of India's top pharma companies and a leader in dermatology and respiratory medicines in India. It sells medicines in many countries. It also has a strong US generics business.",
+    "RIVALS": "Sun Pharma, Cipla, Lupin, Dr. Reddy's and Torrent Pharma. In dermatology it also competes with Mankind Pharma and global brands, and in new drug research with global biotech firms.",
+    "WATCH": "Milestone payments from the AbbVie deal, US FDA compliance at its plants, global growth of Ryaltris, and its focus on branded markets after selling control of its API arm to Nirma in 2024."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which nasal spray is a Glenmark brand?",
+     "options": [
+      "Otrivin",
+      "Ryaltris",
+      "Nasivion",
+      "Flonase"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company signed a licensing deal with Glenmark's innovation arm in 2025?",
+     "options": [
+      "Pfizer",
+      "Novartis",
+      "Roche",
+      "AbbVie"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "To whom did Glenmark sell control of its API arm in 2024?",
+     "options": [
+      "Nirma",
+      "Piramal",
+      "Torrent",
+      "Mankind"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Glenmark sells branded skin, respiratory and heart medicines in India plus global generics. Watch AbbVie deal milestones, FDA compliance and growth of Ryaltris.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "global-health",
+   "name": "Medanta (Global Health)",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Naresh Trehan",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Global Health runs Medanta hospitals, led by its flagship Medanta in Gurugram, with hospitals in Lucknow, Patna, Indore and Ranchi. They offer complex care such as heart surgery, cancer treatment, organ transplants and neurosciences. It was founded by heart surgeon Dr. Naresh Trehan.",
+    "EARNS": "It earns from treating patients, mostly inpatients needing complex procedures, paid by patients, insurers and government schemes. The Gurugram flagship brings in the largest share of revenue and profit.",
+    "SIZE": "One of India's leading private hospital chains, with its Gurugram hospital often ranked among the country's best. Its hospitals have a large number of beds across North and East India.",
+    "RIVALS": "Apollo Hospitals, Max Healthcare, Fortis Healthcare, Narayana Health and Manipal Hospitals. In Lucknow and Patna it also faces strong government hospitals such as SGPGI and AIIMS.",
+    "WATCH": "New hospitals it is opening or building, including in Noida and Mumbai, ramp-up of its newer Lucknow and Patna hospitals, and insurance payment rates."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which city has Medanta's flagship hospital?",
+     "options": [
+      "Mumbai",
+      "Gurugram",
+      "Chennai",
+      "Bengaluru"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who founded Medanta?",
+     "options": [
+      "Dr. Prathap Reddy",
+      "Dr. Devi Shetty",
+      "Dr. Naresh Trehan",
+      "Dr. Arvind Lal"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which chain competes with Medanta?",
+     "options": [
+      "Max Healthcare",
+      "Dr. Lal PathLabs",
+      "Mankind Pharma",
+      "Star Health"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Medanta runs complex-care hospitals led by its Gurugram flagship, founded by Dr. Naresh Trehan. It rivals Max and Apollo; watch its new hospitals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "godawari-power-and-ispat",
+   "name": "Godawari Power & Ispat",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Raipur, Chhattisgarh",
+    "leader": "Bajrang Lal Agrawal",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Godawari Power & Ispat is an integrated steel maker in Chhattisgarh. It mines its own iron ore and makes iron ore pellets, sponge iron, steel billets, wire rods and wire, and runs captive power plants. It is part of the Hira Group.",
+    "EARNS": "It earns by selling pellets to other steel makers and steel products to construction and wire buyers. Iron ore pellets are its most profitable product, helped by its own captive iron ore mines.",
+    "SIZE": "One of India's larger iron ore pellet makers and a known mid-sized integrated steel company in central India. Owning its iron ore mines gives it a cost edge over many peers.",
+    "RIVALS": "Sarda Energy & Minerals, Jindal Steel, Shyam Metalics, NMDC and Lloyds Metals in pellets and steel. Several large steel makers in Chhattisgarh and Odisha compete with it.",
+    "WATCH": "Pellet and steel capacity expansion it has announced, mining approvals for its iron ore mines, and new energy businesses it has said it will build. Iron ore prices and pellet export demand also drive its profits."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product is Godawari's most profitable?",
+     "options": [
+      "Aluminium foil",
+      "Iron ore pellets",
+      "Cement",
+      "Copper rods"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "In which state does Godawari mainly operate?",
+     "options": [
+      "Kerala",
+      "Punjab",
+      "Chhattisgarh",
+      "Assam"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of Godawari?",
+     "options": [
+      "Sarda Energy & Minerals",
+      "Hindustan Zinc",
+      "Pidilite",
+      "Asian Paints"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Godawari Power & Ispat mines iron ore and makes pellets, sponge iron and steel in Chhattisgarh. Pellets lead profits; watch capacity expansion and mining approvals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "godfrey-phillips",
+   "name": "Godfrey Phillips India",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Bina Modi",
+    "leader_role": "Chairperson & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Godfrey Phillips, part of the Modi Enterprises group, makes cigarettes including Four Square, Red & White, Cavanders and Stellar, and makes and sells Marlboro in India under licence from Philip Morris, which holds a large stake. It also sells Pan Vilas mouth fresheners and confectionery.",
+    "EARNS": "Cigarettes bring in most of its revenue and profit, sold through distributors to small shops. It also exports unmanufactured tobacco, and contract-making Marlboro adds income.",
+    "SIZE": "India's second-largest cigarette company, far behind ITC. Its Four Square and Red & White brands are known across the country. ITC holds most of the market by a wide margin.",
+    "RIVALS": "ITC, VST Industries and smaller regional cigarette makers. Illegal and smuggled cigarettes are another big competitor for all legal makers. ITC's Gold Flake and Classic are the biggest brands it faces.",
+    "WATCH": "Changes to tobacco taxes, a long-running Modi family dispute over control of the group, growth of Marlboro, and exports of tobacco. The size of Philip Morris's stake also shapes the company's future."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which international brand does Godfrey Phillips make in India?",
+     "options": [
+      "Camel",
+      "Marlboro",
+      "Dunhill",
+      "Lucky Strike"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is the market leader ahead of Godfrey Phillips?",
+     "options": [
+      "VST Industries",
+      "Dabur",
+      "ITC",
+      "Britannia"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which issue is a live risk for Godfrey Phillips?",
+     "options": [
+      "Tobacco tax changes",
+      "Airport tariffs",
+      "Spectrum auctions",
+      "Monsoon fishing bans"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Godfrey Phillips makes Four Square, Red & White and Marlboro cigarettes, ranking second to ITC. Watch tobacco taxes and the Modi family's dispute over control.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "godrej-industries",
+   "name": "Godrej Industries",
+   "type": "listed",
+   "industry": "conglomerate",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Pirojsha Godrej",
+    "leader_role": "Executive Chairperson",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Godrej Industries is the holding company of the Godrej Industries Group, with stakes in Godrej Consumer Products, Godrej Properties, Godrej Agrovet and Godrej Capital. It also runs its own chemicals business making oleochemicals like fatty alcohols and surfactants used in soaps and personal care.",
+    "EARNS": "Most of its group revenue comes from its listed subsidiaries, especially Godrej Consumer, Godrej Properties and Godrej Agrovet. Its own chemicals business sells to FMCG and industrial buyers in India and abroad.",
+    "SIZE": "One of India's best-known family business groups, and one of India's largest makers of oleochemicals. Its subsidiaries lead in categories such as household insecticides and real estate.",
+    "RIVALS": "In chemicals: VVF, Galaxy Surfactants and global makers like Wilmar and KLK. Its subsidiaries face rivals such as HUL, DLF and Bajaj Finance. Its holding structure is often compared with other family groups.",
+    "WATCH": "Leadership as Pirojsha Godrej took over as Executive Chairperson from Nadir Godrej in August 2026, growth of Godrej Capital, and the group's direction after the 2024 Godrej family split."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is a Godrej Industries subsidiary?",
+     "options": [
+      "Godrej & Boyce",
+      "Godrej Properties",
+      "Hindustan Unilever",
+      "Tata Consumer"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What does Godrej Industries' own chemicals business make?",
+     "options": [
+      "Oleochemicals like fatty alcohols",
+      "Fertilisers",
+      "Paints",
+      "Fluoropolymers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Executive Chairperson of Godrej Industries in August 2026?",
+     "options": [
+      "Adi Godrej",
+      "Nisaba Godrej",
+      "Jamshyd Godrej",
+      "Pirojsha Godrej"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Godrej Industries holds stakes in Godrej Consumer, Properties, Agrovet and Capital and makes oleochemicals. Watch Pirojsha Godrej's leadership and Godrej Capital's growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "granules",
+   "name": "Granules India",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Krishna Prasad Chigurupati",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Granules makes common medicines in bulk: active ingredients, intermediates and finished tablets for paracetamol, metformin, ibuprofen and similar drugs. It sells to drug companies and markets its own generics in the US. It bought Swiss peptide maker Senn Chemicals in 2025.",
+    "EARNS": "It earns by selling high volumes of a few common molecules at low cost. Finished doses bring in the largest share of revenue, and North America is its biggest market.",
+    "SIZE": "One of the world's largest makers of paracetamol and metformin, and a leading Indian supplier of high-volume generic medicines. Its factories are mostly around Hyderabad.",
+    "RIVALS": "Aarti Drugs, IOL Chemicals, Aurobindo Pharma, Alembic Pharma and Chinese bulk drug makers. Chinese bulk drug makers are its main price competition in paracetamol and metformin.",
+    "WATCH": "Regulatory compliance at its Gagillapur plant after US FDA observations, growth of its peptide contract manufacturing, and new greenfield plants it has announced."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which medicine is Granules a major maker of?",
+     "options": [
+      "Insulin",
+      "Paracetamol",
+      "Vaccines",
+      "Antivenom"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Granules' biggest market?",
+     "options": [
+      "North America",
+      "Japan",
+      "India",
+      "Russia"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company did Granules buy in 2025?",
+     "options": [
+      "Cenexi",
+      "Senn Chemicals",
+      "Biocon Biologics",
+      "Laurus Bio"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Granules makes paracetamol, metformin and similar high-volume medicines, mainly for North America. Watch US FDA compliance and its new peptide manufacturing business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "graphite",
+   "name": "Graphite India",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "K. K. Bangur",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Graphite India, part of the Bangur family's group, makes graphite electrodes: large carbon rods that conduct electricity in electric arc furnaces used to melt scrap steel. It also makes carbon and graphite specialty products and runs small hydro power plants.",
+    "EARNS": "It earns by selling electrodes to steel makers in India and abroad, with exports bringing in a large share of sales. Graphite electrodes bring in most revenue, and profits swing with electrode prices and needle coke costs.",
+    "SIZE": "One of India's two big graphite electrode makers, alongside HEG, and among the larger electrode makers outside China. It has plants in several Indian states.",
+    "RIVALS": "HEG's graphite business, Resonac (formerly Showa Denko), GrafTech, Tokai Carbon and Chinese electrode makers. Chinese makers have grown fast and often set world prices.",
+    "WATCH": "Chinese competition and anti-dumping action, the shift to electric arc furnaces as steel makers cut emissions, and its capacity expansion plans. Prices of needle coke, its key raw material, also matter."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Graphite India mainly make?",
+     "options": [
+      "Pencil leads",
+      "Graphite electrodes for steel furnaces",
+      "Lithium batteries",
+      "Ceramic tiles"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is Graphite India's main Indian rival?",
+     "options": [
+      "HEG",
+      "Tata Steel",
+      "Hindalco",
+      "Vedanta"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which trend could raise demand for Graphite India's products?",
+     "options": [
+      "More coal power",
+      "More diesel cars",
+      "More electric arc furnace steelmaking",
+      "Fewer airports"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Graphite India makes graphite electrodes used to melt scrap in electric arc steel furnaces. It rivals HEG and Chinese makers; watch prices and the shift to greener steel.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gravita",
+   "name": "Gravita India",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Jaipur, Rajasthan",
+    "leader": "Yogesh Malhotra",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Gravita recycles used lead batteries, scrap aluminium, plastic and rubber into lead, aluminium alloys and plastic granules. It runs recycling plants in India and in several countries in Africa, Central America and Asia.",
+    "EARNS": "It earns by buying scrap, recycling it and selling the metal to battery makers and other industrial buyers. Lead brings in most of its revenue, with battery makers as its biggest customers.",
+    "SIZE": "One of India's largest lead recyclers and among the few Indian recycling companies with a large international footprint. It has recycling plants across several continents.",
+    "RIVALS": "Pondy Oxides & Chemicals, Nile Ltd and the in-house recycling arms of battery makers like Exide and Amara Raja. Informal scrap recyclers remain a large part of the market in India.",
+    "WATCH": "Battery waste rules that push formal recycling, its entry into lithium-ion battery and other new recycling lines, and plant expansion it has announced in India and abroad."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Gravita mainly recycle?",
+     "options": [
+      "Glass bottles",
+      "Used lead batteries",
+      "Paper",
+      "Textiles"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Gravita's biggest customers?",
+     "options": [
+      "Battery makers",
+      "Airlines",
+      "Banks",
+      "Hotels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which new recycling area is Gravita entering?",
+     "options": [
+      "Nuclear fuel",
+      "Medical waste",
+      "Lithium-ion batteries",
+      "Crude oil"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Gravita recycles lead batteries, aluminium and plastic in India and abroad, selling mostly to battery makers. Watch battery waste rules and lithium-ion recycling.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "great-eastern-shipping",
+   "name": "Great Eastern Shipping",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Bharat K. Sheth",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Great Eastern Shipping owns and charters ships that carry crude oil, petroleum products, LPG and dry bulk cargo such as coal and iron ore for global traders and oil companies. Its subsidiary Greatship (India) owns offshore vessels that serve oil and gas fields.",
+    "EARNS": "It earns freight and charter hire from its ships, either on spot voyages or longer time charters. Tankers bring in most of its earnings, and profits swing with global freight rates. It also earns from selling older ships.",
+    "SIZE": "India's largest private shipping company by fleet. Its fleet includes crude and product tankers, LPG carriers and dry bulk ships, and its offshore arm owns rigs and support vessels.",
+    "RIVALS": "Shipping Corporation of India, Seven Islands Shipping, and global owners such as Scorpio Tankers, Frontline and Star Bulk. Ship prices and freight rates are set in a global market, so it competes with owners worldwide.",
+    "WATCH": "Global freight rates, shipping disruptions around the Red Sea and West Asia, renewing its fleet, and India's new support for local shipbuilding and ship ownership."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Great Eastern Shipping mainly carry?",
+     "options": [
+      "Passengers",
+      "Oil, gas and dry bulk cargo",
+      "Containers of electronics",
+      "Cars only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What drives Great Eastern Shipping's profits?",
+     "options": [
+      "Ticket prices",
+      "Global freight rates",
+      "Toll fees",
+      "Mobile tariffs"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Indian company is a shipping rival?",
+     "options": [
+      "Adani Ports",
+      "Container Corporation",
+      "Shipping Corporation of India",
+      "Blue Dart"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Great Eastern Shipping is India's largest private shipowner, carrying oil, gas and dry bulk worldwide. Profits follow freight rates; watch West Asia disruptions and fleet renewal.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gujarat-fluorochemicals",
+   "name": "Gujarat Fluorochemicals (GFL)",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Vivek Jain",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Gujarat Fluorochemicals, part of the INOXGFL Group, makes fluoropolymers such as PTFE, refrigerant gases and fluorochemicals used in cars, electronics, pharma and industry. It is also building battery chemicals for electric vehicles and energy storage.",
+    "EARNS": "Fluoropolymers sold to global industrial customers bring in most of its revenue and profit, with exports to Europe and the US a large share. Refrigerants and chemicals are smaller, and battery materials are early stage.",
+    "SIZE": "India's largest maker of fluoropolymers and one of the few makers of PTFE outside China, the US, Europe and Japan. Its main plants are in Gujarat. It sells to customers in many countries.",
+    "RIVALS": "SRF, Navin Fluorine, Chemours, Daikin and Chinese fluoropolymer makers. Navin Fluorine and SRF are its closest Indian rivals. Global makers such as Daikin and Chemours set much of the world price for fluoropolymers.",
+    "WATCH": "Scale-up of its battery chemicals business, rules on PFAS chemicals in Europe and the US, and demand for fluoropolymers from electronics and EV makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Gujarat Fluorochemicals' main product line?",
+     "options": [
+      "Fluoropolymers like PTFE",
+      "Paints",
+      "Fertilisers",
+      "Cement"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which group does GFL belong to?",
+     "options": [
+      "Adani Group",
+      "INOXGFL Group",
+      "Murugappa Group",
+      "RPG Group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival of GFL?",
+     "options": [
+      "Asian Paints",
+      "Deepak Nitrite",
+      "SRF",
+      "Pidilite"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Gujarat Fluorochemicals makes fluoropolymers like PTFE, refrigerants and fluorochemicals, mostly for global buyers. Watch its battery chemicals business and PFAS rules abroad.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gujarat-mineral-development",
+   "name": "Gujarat Mineral Development Corporation (GMDC)",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Ajay Bhadoo",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GMDC is a Gujarat government company that mines lignite, a low-grade coal used by factories and power plants, plus bauxite, fluorspar and manganese. It also runs a lignite-based power plant and wind and solar farms.",
+    "EARNS": "Lignite sold to textile, chemical, ceramic and cement makers in Gujarat brings in most of its revenue and profit. Power and other minerals are smaller businesses.",
+    "SIZE": "India's largest seller of lignite to industrial buyers and one of the country's largest state mining companies. It is majority owned by the Government of Gujarat.",
+    "RIVALS": "NLC India in lignite, Coal India and imported coal as substitute fuels, and NMDC in minerals. Cheaper imported coal and gas can also replace lignite for factory fuel.",
+    "WATCH": "New lignite and coal mines it has been allotted, exploration for rare earths and critical minerals in Gujarat, and leadership under new MD Ajay Bhadoo, appointed in September 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is GMDC's main mineral?",
+     "options": [
+      "Gold",
+      "Lignite",
+      "Diamonds",
+      "Copper"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are GMDC's main lignite buyers?",
+     "options": [
+      "Industries in Gujarat",
+      "Airlines",
+      "Retail shoppers",
+      "Foreign governments"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with GMDC in lignite?",
+     "options": [
+      "Vedanta",
+      "NLC India",
+      "ONGC",
+      "Hindalco"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "GMDC is Gujarat's state miner, selling lignite to local industries plus other minerals and power. Watch new mines, rare-earth exploration and its new MD.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hbl-engineering",
+   "name": "HBL Engineering",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Aluru Jagadish Prasad",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HBL Engineering makes specialised batteries for aircraft, railways and the armed forces, defence electronics such as fuzes, and electronics for railways, including Kavach, India's train collision avoidance system. It also makes drive systems for electric vehicles.",
+    "EARNS": "It earns from supplying batteries and electronics to Indian Railways, defence forces and aircraft makers. Kavach orders from the railways have become its fastest-growing and most watched business.",
+    "SIZE": "One of a small group of companies approved to supply Kavach to Indian Railways, and a leading maker of specialised industrial batteries in India. Its batteries are used in aircraft and by the armed forces.",
+    "RIVALS": "Kernex Microsystems, Medha Servo Drives and Siemens in rail signalling; Amara Raja and Exide in industrial batteries; BEL in defence electronics. It is one of only a few Kavach suppliers.",
+    "WATCH": "Kavach orders and rollout pace across the rail network, defence electronics orders, and its electric vehicle drive business. Railway spending in the Union Budget also drives its orders."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Kavach?",
+     "options": [
+      "A home security app",
+      "A train collision avoidance system",
+      "A missile",
+      "A payment wallet"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who is a key customer for HBL's Kavach?",
+     "options": [
+      "Indian Railways",
+      "Air India",
+      "Reliance Jio",
+      "LIC"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with HBL in rail signalling?",
+     "options": [
+      "Asian Paints",
+      "Kernex Microsystems",
+      "Zomato",
+      "Titan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "HBL Engineering makes specialised batteries, defence electronics and Kavach train safety systems. Watch Kavach orders from Indian Railways and its defence business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hdb-financial-services",
+   "name": "HDB Financial Services",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ramesh G.",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HDB Financial Services is the non-bank lending arm of HDFC Bank. It gives business loans and loans against property, finances commercial vehicles, construction equipment and tractors, and offers personal and consumer durable loans. It listed on the stock exchanges in July 2025.",
+    "EARNS": "It earns the interest gap between its borrowing costs and loan rates, plus fees. Enterprise lending to small businesses and asset finance are its largest books, and it also earns fees for back-office services to HDFC Bank.",
+    "SIZE": "One of India's larger non-bank lenders, with branches spread across small towns and cities. Its parent HDFC Bank owns most of the company. It serves many customers in small towns.",
+    "RIVALS": "Bajaj Finance, Shriram Finance, Cholamandalam Finance, Tata Capital and L&T Finance. Banks, including HDFC Bank itself in some products, also compete for the same borrowers.",
+    "WATCH": "Loan quality in its unsecured and vehicle loans, RBI rules on overlap between banks and their lending arms, and its new chairman from May 2026. Growth after its listing is also watched."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank is HDB Financial Services' parent?",
+     "options": [
+      "ICICI Bank",
+      "HDFC Bank",
+      "Axis Bank",
+      "SBI"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "When did HDB Financial Services list?",
+     "options": [
+      "July 2025",
+      "2015",
+      "2019",
+      "It is not listed"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which lender is a rival of HDB?",
+     "options": [
+      "Zerodha",
+      "Shriram Finance",
+      "Policybazaar",
+      "IRCTC"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "HDB Financial Services is HDFC Bank's lending arm, offering business, vehicle and personal loans. Listed in 2025; watch loan quality and RBI rules on bank arms.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "heg-advanced-materials",
+   "name": "HEG Advanced Materials",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Riju Jhunjhunwala",
+    "leader_role": "Chairman, MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HEG Advanced Materials is the renamed listed company left after HEG, of the LNJ Bhilwara Group, moved its graphite electrode business into a separate company in September 2026. It keeps advanced materials such as synthetic graphite anodes for lithium-ion batteries and graphene, battery energy solutions and green power.",
+    "EARNS": "Its power plants earn from selling electricity. The anode business, run through The Advanced Carbons Company, is at an early stage, so the company's future earnings depend on battery materials scaling up.",
+    "SIZE": "A newly reshaped, early-stage company and one of the first in India building synthetic graphite anode capacity for batteries. Battery anode material is a field China dominates, so it is a young business in India.",
+    "RIVALS": "Epsilon Advanced Materials, Himadri Speciality Chemical and Chinese anode makers such as BTR and Shanshan. Most battery anode material used worldwide still comes from China.",
+    "WATCH": "Scaling up its anode plant, separate listing of the demerged graphite electrode company expected in late 2026, shareholder approval of Riju Jhunjhunwala's appointment, and battery storage plans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business moved out of HEG into a separate company in 2026?",
+     "options": [
+      "Green power",
+      "Graphite electrodes",
+      "Graphene",
+      "Battery storage"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which battery material is HEG Advanced Materials building?",
+     "options": [
+      "Cobalt cathodes",
+      "Synthetic graphite anodes",
+      "Lead plates",
+      "Nickel foam"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a rival in battery anode materials?",
+     "options": [
+      "Epsilon Advanced Materials",
+      "Exide",
+      "Havells",
+      "Tata Power"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "HEG Advanced Materials is HEG's renamed company after its graphite electrode business was demerged. It is building battery anode materials; watch its anode plant scale-up.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hfcl",
+   "name": "HFCL",
+   "type": "listed",
+   "industry": "telecom",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Mahendra Nahata",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HFCL makes optical fibre and fibre cables, telecom gear such as 5G radios, routers and Wi-Fi systems, and defence products like radars and thermal sights. It also builds fibre and mobile networks for telecom operators and government projects.",
+    "EARNS": "It earns from selling fibre cables and telecom equipment to operators such as Jio and Airtel, government programmes like BharatNet, and export customers. Optical fibre cables are a large and growing share of revenue, especially exports.",
+    "SIZE": "One of India's leading optical fibre cable makers and a major Indian telecom equipment supplier. It has fibre plants in India and sells cables abroad.",
+    "RIVALS": "Sterlite Technologies, Tejas Networks, Aksh Optifibre, Birla Cable and global makers like Corning and Prysmian. In defence electronics it also competes with BEL and private defence firms.",
+    "WATCH": "Fibre cable exports to the US and Europe, defence orders for its radars and thermal sights, BharatNet network orders, and sales of its own 5G equipment."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does HFCL make?",
+     "options": [
+      "Steel pipes",
+      "Optical fibre cables and telecom gear",
+      "Cement",
+      "Two-wheelers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which government programme gives HFCL network orders?",
+     "options": [
+      "Ujjwala",
+      "BharatNet",
+      "Swachh Bharat",
+      "PM Kisan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of HFCL?",
+     "options": [
+      "Sterlite Technologies",
+      "Bharti Airtel",
+      "Nykaa",
+      "Coal India"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "HFCL makes optical fibre cables, telecom gear and defence electronics for operators and government projects. Watch fibre exports, defence orders and BharatNet.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hexaware-technologies",
+   "name": "Hexaware Technologies",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Navi Mumbai, Maharashtra",
+    "leader": "R. Srikrishna",
+    "leader_role": "CEO & Executive Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Hexaware provides IT services: building and running software, moving companies to the cloud, data and AI work, and business process services. Clients are banks, insurers, healthcare, travel and manufacturing firms. Owned by private equity firm Carlyle, it returned to the stock exchanges in February 2025.",
+    "EARNS": "It earns fees from multi-year IT and process contracts. The US brings in most revenue, followed by Europe, and financial services is its biggest industry segment.",
+    "SIZE": "A mid-sized Indian IT services company, smaller than the top five but among the larger mid-tier players. It has delivery centres in India and other countries.",
+    "RIVALS": "Mphasis, LTIMindtree, Coforge, Persistent Systems and Birlasoft. Larger firms like Infosys and HCLTech also compete for its clients. Global firms such as Accenture and Cognizant also compete for its clients.",
+    "WATCH": "Large deal wins, demand for AI-led services, sales of shares by Carlyle, and pressure on IT budgets at clients in the US and Europe. Its use of AI in its own delivery will also be watched."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which private equity firm owns Hexaware?",
+     "options": [
+      "Blackstone",
+      "Carlyle",
+      "KKR",
+      "Bain Capital"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which industry is Hexaware's biggest segment?",
+     "options": [
+      "Mining",
+      "Financial services",
+      "Agriculture",
+      "Real estate"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a mid-tier IT rival of Hexaware?",
+     "options": [
+      "Mphasis",
+      "Zomato",
+      "Dixon",
+      "HFCL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Hexaware is a Carlyle-owned mid-sized IT services firm serving banks, insurers and other global clients. Watch deal wins, AI demand and Carlyle's stake sales.",
+   "review": "unreviewed"
+  }
+ ]
+}

@@ -1,0 +1,2960 @@
+{
+ "_meta": {
+  "batch": "004",
+  "about": "Nifty 500 explainers (United Spirits to Astral) in v2 format. Leaders checked on the web in Oct 2026 where marked 'Oct 2026'; others are best-known and marked not re-checked.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "united-spirits",
+   "name": "United Spirits (Diageo India)",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Praveen Someshwar",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "United Spirits makes and sells alcoholic drinks in India: whiskies like McDowell's No.1, Royal Challenge, Signature and Antiquity, plus imported Diageo brands such as Johnnie Walker and Black Dog. It is the Indian arm of Britain's Diageo, and it also owns the Royal Challengers Bengaluru cricket team.",
+    "EARNS": "It earns by selling spirits through state-regulated retail and bar channels, where each state sets its own taxes and pricing rules. The premium range, which Diageo calls Prestige & Above, brings in most of its revenue and profit, while cheaper popular brands have been trimmed.",
+    "SIZE": "India's largest spirits company by sales value and one of Diageo's biggest markets worldwide. Its brands sit on shelves in almost every state where alcohol is legal.",
+    "RIVALS": "Pernod Ricard India (Royal Stag, Blenders Pride), Allied Blenders and Distillers (Officer's Choice), Radico Khaitan (Magic Moments, 8PM) and Tilaknagar Industries.",
+    "WATCH": "Watch state excise and pricing changes, the India-UK trade deal's cut in duty on Scotch whisky, how fast the premium portfolio grows under Someshwar, who took charge in April 2025, and decisions about the future of the RCB cricket franchise."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which global drinks company owns a controlling stake in United Spirits?",
+     "options": [
+      "Diageo",
+      "Pernod Ricard",
+      "Bacardi",
+      "Beam Suntory"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which part of United Spirits' range brings in most of its revenue?",
+     "options": [
+      "Country liquor",
+      "Beer",
+      "Prestige & Above premium brands",
+      "Packaged water"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company sells Royal Stag and competes with United Spirits?",
+     "options": [
+      "Pernod Ricard India",
+      "United Breweries",
+      "Radico Khaitan",
+      "Tilaknagar Industries"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "United Spirits is Diageo's Indian arm, selling McDowell's, Royal Challenge and Johnnie Walker. Premium brands drive profit; state taxes and the UK trade deal matter most.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "radico-khaitan",
+   "name": "Radico Khaitan",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Abhishek Khaitan",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Radico Khaitan makes spirits sold across India and abroad: Magic Moments vodka, 8PM whisky, Royal Ranthambore whisky, Jaisalmer gin and Rampur Indian single malt. It started as a molasses distiller in Rampur, Uttar Pradesh, and still runs large distilleries there.",
+    "EARNS": "It earns by selling bottled spirits through state-regulated shops and bars, plus some bulk alcohol to other bottlers. Its premium brands, which it calls the Prestige & Above range, now earn most of its profit and are growing faster than its regular brands.",
+    "SIZE": "One of India's largest spirits makers and among the oldest. Magic Moments is one of the country's best-selling vodkas, and Rampur has won a following among single malt drinkers overseas.",
+    "RIVALS": "United Spirits (McDowell's, Smirnoff), Pernod Ricard India (Royal Stag), Allied Blenders and Distillers (Officer's Choice) and Tilaknagar Industries in brandy.",
+    "WATCH": "Watch how fast its luxury brands like Rampur and Sangam whisky grow, state excise and pricing changes, the price of grain and molasses it distils, and growth in exports to markets such as the US and Europe."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which vodka brand belongs to Radico Khaitan?",
+     "options": [
+      "Smirnoff",
+      "Magic Moments",
+      "Romanov",
+      "White Mischief"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which part of Radico's range earns most of its profit?",
+     "options": [
+      "Bulk alcohol",
+      "Soft drinks",
+      "Beer",
+      "Prestige & Above premium brands"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of Radico Khaitan in Indian whisky?",
+     "options": [
+      "United Breweries",
+      "Allied Blenders and Distillers",
+      "Tata Consumer",
+      "Varun Beverages"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Radico Khaitan makes Magic Moments vodka, 8PM whisky and Rampur single malt. Premium brands earn most profit; watch luxury launches, exports and grain costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "united-breweries",
+   "name": "United Breweries (Kingfisher)",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vivek Gupta",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "United Breweries brews and sells beer, led by Kingfisher in its Strong, Premium and Ultra versions, plus Heineken, Amstel and Kingfisher Ultra Max. Dutch brewer Heineken controls the company. It runs breweries across many states because beer is costly to move across state lines.",
+    "EARNS": "It earns by selling beer to state corporations and licensed retailers, with prices and taxes set state by state. Strong beer is the biggest part of its volume, while premium brands like Kingfisher Ultra and Heineken earn better margins.",
+    "SIZE": "India's largest beer company, and Kingfisher is the country's best-selling beer brand. It sells in nearly every state where beer is legal. Heineken counts India among its most important growth markets.",
+    "RIVALS": "AB InBev India (Budweiser, Haywards, Knock Out), Carlsberg India (Tuborg, Carlsberg) and craft brewers such as Bira 91 and Simba. AB InBev is its closest challenger in premium beer.",
+    "WATCH": "Watch state excise changes and beer pricing rules in big markets like Karnataka, Telangana and Uttar Pradesh, barley and glass bottle costs, the push into premium beer, and a hot or wet summer, which swings demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which global brewer controls United Breweries?",
+     "options": [
+      "Carlsberg",
+      "AB InBev",
+      "Heineken",
+      "Asahi"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which brands earn United Breweries better margins?",
+     "options": [
+      "Premium brands like Kingfisher Ultra and Heineken",
+      "Strong beer",
+      "Packaged water",
+      "Country liquor"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company owns Budweiser and Haywards in India?",
+     "options": [
+      "Carlsberg India",
+      "Radico Khaitan",
+      "AB InBev India",
+      "United Spirits"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "United Breweries, controlled by Heineken, sells Kingfisher, India's best-selling beer. Strong beer leads volume; premium brands earn more. State taxes and summers drive demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "emami",
+   "name": "Emami",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Harsha Vardhan Agarwal",
+    "leader_role": "Vice-Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Emami sells personal care and health products: Navratna cooling oil and talc, BoroPlus antiseptic cream, Zandu balm and ayurvedic medicines, Kesh King hair oil, Dermicool prickly heat powder and Smart and Handsome men's cream. It also owns D2C brands like The Man Company and Brillare.",
+    "EARNS": "It earns by selling these branded products through millions of small shops, chemists and online. India brings in most of its revenue, with exports to the Middle East, Bangladesh and Africa. Seasonal brands like Navratna and BoroPlus earn a large share of profit.",
+    "SIZE": "One of India's leading mid-sized FMCG companies, and a leader in niches such as cooling oils, antiseptic creams and pain balms. Its brands reach small towns and villages as well as big cities.",
+    "RIVALS": "Dabur (Dabur Amla, Pudin Hara), Marico (Parachute), Hindustan Unilever, Himalaya and Patanjali, plus Amrutanjan and Moov in pain relief. Global giants and ayurvedic specialists both fight it for shelf space.",
+    "WATCH": "Watch how weather affects its seasonal brands, growth of its digital-first brands, rural demand, and the reappointment of Harsha Vardhan Agarwal as vice-chairman and MD, approved by shareholders in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which balm brand belongs to Emami?",
+     "options": [
+      "Moov",
+      "Amrutanjan",
+      "Iodex",
+      "Zandu"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why do summers and winters matter to Emami's earnings?",
+     "options": [
+      "It sells air conditioners",
+      "Seasonal brands like Navratna and BoroPlus earn much of its profit",
+      "It runs ski resorts",
+      "It sells crop seeds"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Emami in hair oils?",
+     "options": [
+      "Jubilant FoodWorks",
+      "Asian Paints",
+      "Britannia",
+      "Marico"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Emami sells Navratna, BoroPlus, Zandu and Kesh King through shops and chemists. Seasonal brands earn much profit; watch weather, rural demand and digital brands.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "patanjali-foods",
+   "name": "Patanjali Foods",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Haridwar, Uttarakhand",
+    "leader": "Sanjeev Asthana",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Patanjali Foods sells edible oils such as Ruchi Gold, Mahakosh and Nutrela, soya chunks, Patanjali biscuits, noodles and other foods. Formerly Ruchi Soya, it was bought out of bankruptcy by Patanjali in 2019, and in 2025 it took over Patanjali Ayurved's home and personal care brands like Dant Kanti toothpaste.",
+    "EARNS": "Most of its revenue comes from edible oils, where margins are thin and move with global palm and soya oil prices. Branded foods and the newly added home and personal care business earn higher margins and are meant to lift overall profit.",
+    "SIZE": "One of India's largest edible oil companies, with refineries and seed crushing plants across the country, and part of the wider Patanjali group led by Baba Ramdev.",
+    "RIVALS": "AWL Agri Business (Fortune), Cargill (Gemini, Nature Fresh) and Emami Agrotech in oils; Britannia and ITC in biscuits; Dabur, Colgate-Palmolive and HUL in personal care.",
+    "WATCH": "Watch the integration of the home and personal care business, its oil palm plantation drive in the north-east and south, import duty changes on edible oils, and promoter stake sales required by listing rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Patanjali Foods called before its rename?",
+     "options": [
+      "Adani Wilmar",
+      "Ruchi Soya",
+      "Emami Agrotech",
+      "Gokul Agro"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which segment brings in most of Patanjali Foods' revenue?",
+     "options": [
+      "Toothpaste",
+      "Biscuits",
+      "Noodles",
+      "Edible oils"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Patanjali Foods in edible oil?",
+     "options": [
+      "Navratna",
+      "Fortune",
+      "Kissan",
+      "Haldiram's"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Patanjali Foods, formerly Ruchi Soya, sells edible oils, Nutrela, biscuits and now Patanjali personal care brands. Oils bring revenue; foods and personal care add margin.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "berger-paints",
+   "name": "Berger Paints India",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Abhijit Roy",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Berger Paints makes decorative paints for homes, sold under names like WeatherCoat, Silk, Easy Clean and Bison, plus waterproofing products. It also makes industrial coatings for cars, appliances and infrastructure, and powder coatings. The Dhingra family controls it.",
+    "EARNS": "It earns by selling paint through tens of thousands of dealers, many with tinting machines that mix colours in the shop. Decorative paints for homes bring in most of its revenue and profit; industrial and automotive coatings are a smaller part.",
+    "SIZE": "India's second-largest paint company after Asian Paints, with factories and depots across the country and a presence in Nepal, Bangladesh, Russia and Poland.",
+    "RIVALS": "Asian Paints, Birla Opus from Grasim, Kansai Nerolac, AkzoNobel India (Dulux, now owned by JSW Paints) and Indigo Paints. Asian Paints is far bigger, and new entrants have deep pockets and are spending heavily on dealers.",
+    "WATCH": "Watch the price war set off by Birla Opus and JSW Paints, crude-linked raw material costs, demand from new housing, and Abhijit Roy's reappointment as MD and CEO, approved by shareholders in August 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is a Berger Paints exterior paint brand?",
+     "options": [
+      "Apex",
+      "Royale",
+      "WeatherCoat",
+      "Impressions"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Berger's revenue come from?",
+     "options": [
+      "Decorative paints for homes",
+      "Car exports",
+      "Software",
+      "Cement"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which paint brand is a new entrant from the Aditya Birla group?",
+     "options": [
+      "Indigo Paints",
+      "Kansai Nerolac",
+      "Birla Opus",
+      "Shalimar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Berger Paints is India's second-largest paint maker, earning mostly from home paints sold through dealers. Watch the price war with Birla Opus and JSW Paints.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "escorts-kubota",
+   "name": "Escorts Kubota",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Faridabad, Haryana",
+    "leader": "Nikhil Nanda",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Escorts Kubota makes tractors under the Farmtrac, Powertrac and Kubota brands, plus construction equipment like backhoe loaders and cranes. Japan's Kubota became the controlling shareholder in 2022. In 2025 it agreed to sell its railway equipment business to Sona Comstar to focus on farm and construction machines.",
+    "EARNS": "Tractors bring in most of its revenue and profit, sold through dealers mainly to farmers in north and central India, with some exports. Construction equipment adds the rest. Earnings swing with the monsoon, crop prices and rural credit.",
+    "SIZE": "One of India's top tractor makers, behind Mahindra & Mahindra and TAFE, and a growing name in construction equipment. Its Farmtrac and Powertrac brands are well known in farming states like Punjab, Haryana and Uttar Pradesh.",
+    "RIVALS": "Mahindra & Mahindra (Mahindra and Swaraj tractors), TAFE (Massey Ferguson), Sonalika, John Deere and New Holland in tractors; JCB and ACE in construction equipment.",
+    "WATCH": "Watch monsoon and crop incomes, new Kubota-designed tractors and export plans, completion of the railway business sale, and capacity additions at its plants with Kubota."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Japanese company controls Escorts Kubota?",
+     "options": [
+      "Suzuki",
+      "Yanmar",
+      "Komatsu",
+      "Kubota"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business did Escorts Kubota agree to sell to Sona Comstar?",
+     "options": [
+      "Tractors",
+      "Railway equipment",
+      "Cranes",
+      "Engines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is India's largest tractor maker and an Escorts rival?",
+     "options": [
+      "John Deere",
+      "Sonalika",
+      "TAFE",
+      "Mahindra & Mahindra"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Escorts Kubota makes Farmtrac, Powertrac and Kubota tractors plus construction machines. Tractors earn most; monsoons drive demand. It is selling its railway business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sona-blw-precision-forgings",
+   "name": "Sona Comstar (Sona BLW)",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Vivek Vikram Singh",
+    "leader_role": "MD & Group CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Sona Comstar makes driveline parts like differential gears and assemblies, and electric traction motors and controllers, for car, tractor and EV makers in India and abroad. In 2025 it agreed to buy Escorts Kubota's railway equipment business, adding brakes and couplers for trains.",
+    "EARNS": "It earns by supplying parts to automakers under long-term programmes. Most of its revenue comes from overseas customers, especially in North America and Europe, and battery electric vehicles make up a large share of sales.",
+    "SIZE": "One of the world's leading makers of differential gears and a major Indian supplier of EV drivetrain parts. It supplies many of the world's big carmakers and EV makers from plants in India, China, Mexico, Serbia and the US.",
+    "RIVALS": "Bharat Forge, Uno Minda, BorgWarner, American Axle, Musashi Seimitsu and Nidec in EV motors. Global parts makers compete with it for the same carmaker programmes, often on price and engineering.",
+    "WATCH": "Watch the integration of the railway equipment business, new EV and robotics-related programmes, US tariffs on imported auto parts, and the board and family disputes that followed the death of chairman Sunjay Kapur in 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of products does Sona Comstar mainly make?",
+     "options": [
+      "Differential gears and EV motors",
+      "Car batteries",
+      "Tyres",
+      "Windshields"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Sona Comstar's revenue come from?",
+     "options": [
+      "Two-wheeler dealers",
+      "Indian government",
+      "Overseas customers",
+      "Rail ticket sales"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Indian company competes with Sona Comstar in forged auto parts?",
+     "options": [
+      "Bharat Forge",
+      "Exide Industries",
+      "Asahi India Glass",
+      "Amara Raja"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sona Comstar makes differential gears and EV motors, mostly for overseas automakers. It is adding railway equipment; watch US tariffs and board changes after Sunjay Kapur's death.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "exide-industries",
+   "name": "Exide Industries",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Avik Kumar Roy",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Exide makes lead-acid batteries for cars, two-wheelers, trucks and inverters, plus industrial batteries for telecom towers, railways and power plants. Through its subsidiary Exide Energy Solutions, it is building a lithium-ion cell plant in Bengaluru.",
+    "EARNS": "It earns by selling batteries to automakers when vehicles are built and, more profitably, to drivers replacing old batteries through a large dealer network. Automotive replacement is its biggest and most profitable segment.",
+    "SIZE": "India's largest maker of lead-acid batteries and one of the best-known battery brands in the country. Its brand reaches cities and villages through a very large network of dealers and service points.",
+    "RIVALS": "Amara Raja (Amaron) in lead-acid batteries; Luminous and Livguard in inverter batteries; Tata AutoComp, Ola Electric and imports from China in lithium-ion.",
+    "WATCH": "Watch the start-up of its lithium-ion cell plant in Bengaluru, orders from EV makers, lead prices, and the shift of inverter and telecom batteries to lithium."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Exide building its lithium-ion cell plant?",
+     "options": [
+      "Chennai",
+      "Pune",
+      "Bengaluru",
+      "Ahmedabad"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which is Exide's most profitable segment?",
+     "options": [
+      "Batteries for replacement buyers",
+      "Exports to China",
+      "Solar panels",
+      "Electric scooters"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company sells Amaron batteries?",
+     "options": [
+      "Tata AutoComp",
+      "Luminous",
+      "Amara Raja",
+      "Livguard"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Exide is India's largest lead-acid battery maker, earning most from replacement batteries. Watch its new lithium-ion cell plant in Bengaluru and EV customer orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "amber-enterprises",
+   "name": "Amber Enterprises India",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Jasbir Singh",
+    "leader_role": "Executive Chairman & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Amber makes room air conditioners and their parts for brands that sell them under their own names, such as Voltas, Daikin and LG. It also makes electronic circuit boards through IL JIN and Ascent, and railway and bus air conditioning through Sidwal. It does not sell under its own consumer brand.",
+    "EARNS": "It earns contract manufacturing fees from brands, so its business peaks before summer. Room AC parts and complete units bring in most of its revenue, while electronics boards are its fastest-growing segment.",
+    "SIZE": "India's largest contract maker of room air conditioners, supplying many of the country's top AC brands from plants across several states. Many ACs sold in India under well-known brands are partly or fully made in its plants.",
+    "RIVALS": "Dixon Technologies, PG Electroplast, Epack Durable and in-house factories of brands like Voltas and Blue Star. Brands can also choose to make ACs in their own factories, which limits its pricing power.",
+    "WATCH": "Watch its push into printed circuit boards under the government's electronics component scheme, a smartphone manufacturing tie-up with Oppo, the length of summers, and growth of railway subsystems."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Amber's main customers?",
+     "options": [
+      "Hospitals",
+      "Railway passengers",
+      "Car buyers",
+      "Air conditioner brands like Voltas and Daikin"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why does Amber's business peak before summer?",
+     "options": [
+      "Tax refunds arrive",
+      "It mainly makes room air conditioners",
+      "It sells ice cream",
+      "Schools reopen"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Amber in contract electronics?",
+     "options": [
+      "Havells",
+      "Titan",
+      "Bajaj Electricals",
+      "Dixon Technologies"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Amber makes room air conditioners and parts for brands like Voltas and Daikin, plus circuit boards. Summers drive demand; watch its electronics component expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kaynes-technology",
+   "name": "Kaynes Technology",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mysuru, Karnataka",
+    "leader": "Muthukumar Narayanaswamy",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Kaynes builds electronic systems and circuit boards for other companies in automotive, industrial, railway, aerospace, defence and medical uses. It is also setting up a chip assembly and testing plant in Sanand, Gujarat, and a bare circuit board plant.",
+    "EARNS": "It earns by designing and manufacturing electronics to order for its customers. Industrial and automotive electronics bring in most of its revenue, while aerospace, defence and railways add higher-margin work.",
+    "SIZE": "One of India's leading electronics manufacturing services companies, and among the first to win government approval for a semiconductor assembly plant.",
+    "RIVALS": "Dixon Technologies, Syrma SGS, Centum Electronics, Avalon Technologies and global players like Foxconn. Competition for chip assembly includes Tata Electronics and Micron's plant in Sanand.",
+    "WATCH": "Watch the start of its semiconductor assembly plant in Sanand, new government subsidies for electronic components, and questions raised in late 2025 about disclosures in its accounts, which the company has addressed."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Kaynes building its chip assembly and testing plant?",
+     "options": [
+      "Sanand",
+      "Hosur",
+      "Pune",
+      "Noida"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "How does Kaynes mainly earn money?",
+     "options": [
+      "Selling phones under its own brand",
+      "Running a telecom network",
+      "Making electronics to order for other companies",
+      "Mining copper"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Kaynes in electronics manufacturing?",
+     "options": [
+      "Syrma SGS",
+      "Havells",
+      "Titan",
+      "Voltas"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Kaynes makes circuit boards and electronic systems for automotive, industrial and defence customers. It is building a chip assembly plant in Sanand, Gujarat.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "waaree-energies",
+   "name": "Waaree Energies",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Jignesh Rathod",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Waaree makes solar panels for power developers, factories and homes, and is adding solar cell, wafer, inverter, battery and green hydrogen electrolyser plants. It listed on the stock exchanges in October 2024 and also owns a module plant in Texas.",
+    "EARNS": "It earns by selling solar modules, mostly to large power producers in India, with exports to the US a big source of profit. Its rooftop and engineering arm, Waaree Renewable Technologies, builds solar projects for customers.",
+    "SIZE": "India's largest solar module maker by manufacturing capacity, with factories mainly in Gujarat. Its brand is among the best known in Indian solar, and it supplies both large power projects and home rooftops.",
+    "RIVALS": "Adani Solar, Premier Energies, Vikram Solar, Tata Power Solar and Chinese makers such as LONGi and Trina in export markets. Cheaper Chinese modules remain the main price benchmark in most markets.",
+    "WATCH": "Watch US trade probes and tariffs on imported solar products, India's rules requiring locally made cells for some projects, the build-out of its cell and battery plants, and Jignesh Rathod, who became CEO in March 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product does Waaree mainly make?",
+     "options": [
+      "Wind turbines",
+      "Solar modules",
+      "Lead-acid batteries",
+      "Steel pipes"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which export market has been a big source of Waaree's profit?",
+     "options": [
+      "Japan",
+      "Russia",
+      "Brazil",
+      "United States"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Hyderabad company is a Waaree rival in solar cells and modules?",
+     "options": [
+      "Suzlon",
+      "Premier Energies",
+      "Inox Wind",
+      "Exide"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Waaree is India's largest solar module maker, selling to power developers and the US. It is adding cells and batteries; watch US tariffs and local-content rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "premier-energies",
+   "name": "Premier Energies",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Chiranjeev Singh Saluja",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Premier Energies makes solar cells and solar modules, selling to power developers, rooftop installers and other module makers. It listed in September 2024 and is expanding into wafers, batteries and inverters.",
+    "EARNS": "It earns by selling cells and modules, with Indian power producers as the main buyers. Solar cells earn higher margins than modules because few Indian firms can make them, and rules favouring local cells help demand.",
+    "SIZE": "One of India's largest makers of solar cells and among the top solar module makers, with factories in Telangana. It is one of the few Indian companies making solar cells at scale rather than importing them.",
+    "RIVALS": "Waaree Energies, Adani Solar, Tata Power Solar, Vikram Solar and Emmvee Photovoltaic. Chinese suppliers remain the global price benchmark for solar cells and modules, and Indian rivals are adding cell capacity fast.",
+    "WATCH": "Watch new cell and wafer plants coming up, government rules requiring domestically made cells from 2026, pressure on margins as rivals add capacity, and its tie-ups for battery storage and inverters."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which state are Premier Energies' factories in?",
+     "options": [
+      "Gujarat",
+      "Odisha",
+      "Tamil Nadu",
+      "Telangana"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Why do solar cells earn Premier better margins than modules?",
+     "options": [
+      "Cells are given away free",
+      "Few Indian firms can make cells",
+      "Cells are imported from China",
+      "Modules are banned"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Premier Energies?",
+     "options": [
+      "Exide Industries",
+      "Inox Wind",
+      "Polycab",
+      "Waaree Energies"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Premier Energies makes solar cells and modules in Telangana for Indian power developers. Cells earn better margins; watch local-cell rules and new capacity.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "suzlon-energy",
+   "name": "Suzlon Energy",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Ajay Kapur",
+    "leader_role": "Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Suzlon designs, makes and installs wind turbines for power developers and companies buying green power, and maintains them for years afterwards. It nearly collapsed under debt in the 2010s and recovered after a restructuring and fresh equity.",
+    "EARNS": "It earns mostly from selling and installing wind turbines, plus steady service fees from maintaining a large fleet of turbines already running across India. The service business is smaller but very profitable.",
+    "SIZE": "India's largest wind turbine maker by installed base, with blade and nacelle factories in Gujarat, Maharashtra, Madhya Pradesh and Tamil Nadu. It has decades of turbine experience in India.",
+    "RIVALS": "Inox Wind, Siemens Gamesa, Envision, Vestas and Adani Wind. Inox Wind is its closest Indian rival, while European and Chinese turbine makers compete for the same large orders from power developers.",
+    "WATCH": "Watch delivery of its large order book, the 'Suzlon 2.0' plan under Ajay Kapur, named group CEO in February 2026, demand for hybrid wind-solar projects, and component supply for its factories."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Suzlon make?",
+     "options": [
+      "Wind turbines",
+      "Gas turbines",
+      "Solar panels",
+      "Electric cars"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Suzlon business is small but very profitable?",
+     "options": [
+      "Making cement",
+      "Selling land",
+      "Maintaining turbines already running",
+      "Running power plants"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became Suzlon's group CEO in February 2026?",
+     "options": [
+      "Ajay Kapur",
+      "J.P. Chalasani",
+      "Girish Tanti",
+      "Tulsi Tanti"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Suzlon is India's largest wind turbine maker, earning from turbine sales and profitable maintenance. Watch its order book and the Suzlon 2.0 plan under Ajay Kapur.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "inox-wind",
+   "name": "Inox Wind",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Sanjeev Agarwal",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Inox Wind makes wind turbines and their blades, towers and nacelles, and builds wind farms for power producers and companies. It is part of the INOXGFL group. Its sister company Inox Green maintains wind farms, and Inox Renewable Solutions develops projects.",
+    "EARNS": "It earns by selling and installing turbines for independent power producers, utilities and industrial buyers, including state-run firms like NTPC Green and Indian Oil. Turbine supply is most of its revenue; project work adds the rest.",
+    "SIZE": "One of India's top wind turbine makers, with factories in Gujarat, Madhya Pradesh and Himachal Pradesh. It is the second big Indian name in wind turbines after Suzlon, with a growing order book from power developers and state firms.",
+    "RIVALS": "Suzlon Energy, Siemens Gamesa, Envision, Vestas and Adani Wind. Suzlon is its closest Indian rival, while European and Chinese turbine makers chase the same orders from power developers.",
+    "WATCH": "Watch execution of its order book, repeat orders from state-run companies, new factory capacity, and its plan to reduce debt and lift profitability under Sanjeev Agarwal, CEO since 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group does Inox Wind belong to?",
+     "options": [
+      "Adani",
+      "INOXGFL",
+      "Tata",
+      "Aditya Birla"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which kind of customer has given Inox Wind repeat orders?",
+     "options": [
+      "Airlines",
+      "Hospitals",
+      "Retail shoppers",
+      "State-run firms like Indian Oil"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is Inox Wind's main Indian rival?",
+     "options": [
+      "Waaree Energies",
+      "Suzlon Energy",
+      "BHEL",
+      "Tata Power"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Inox Wind makes wind turbines and builds wind farms for power producers and state-run firms. Watch order execution, debt reduction and factory expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hyundai-motor",
+   "name": "Hyundai Motor India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Tarun Garg",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Hyundai Motor India makes and sells cars like the Creta, Venue, Verna, Exter, i20 and Alcazar, and electric models like the Creta Electric. It listed in October 2024 in one of India's largest IPOs, and its Korean parent still owns most of the company.",
+    "EARNS": "It earns by selling cars through dealers in India and exporting to Africa, the Middle East and Latin America. SUVs, led by the Creta, bring in most of its sales and profit.",
+    "SIZE": "One of India's top three carmakers by sales, behind Maruti Suzuki and vying with Mahindra and Tata Motors for second place. India is Hyundai's biggest export hub outside Korea.",
+    "RIVALS": "Maruti Suzuki, Tata Motors, Mahindra & Mahindra, Kia (its sister company), Toyota Kirloskar and MG Motor. Maruti leads the overall market, while Mahindra and Tata are its closest rivals in SUVs.",
+    "WATCH": "Watch ramp-up of its new plant at Talegaon near Pune, new EV and hybrid launches, the fight with Mahindra and Tata for the number-two spot, and Tarun Garg, its first Indian MD and CEO from January 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Hyundai SUV is its biggest seller in India?",
+     "options": [
+      "Tucson",
+      "Kona",
+      "Creta",
+      "Santa Fe"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where is Hyundai's new Indian plant?",
+     "options": [
+      "Talegaon near Pune",
+      "Hosur",
+      "Sanand",
+      "Manesar"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which carmaker is a sister company of Hyundai?",
+     "options": [
+      "MG",
+      "Toyota",
+      "Kia",
+      "Skoda"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Hyundai Motor India sells the Creta, Venue and Verna, with SUVs driving profit. Listed in 2024; watch its Talegaon plant, EV launches and new Indian CEO.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "360-one-wam",
+   "name": "360 ONE WAM",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Karan Bhagat",
+    "leader_role": "Founder, MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "360 ONE, formerly IIFL Wealth, manages money for wealthy families, entrepreneurs and institutions. It offers wealth advice, mutual funds, alternative funds such as private equity and credit funds, and lending against securities. It bought B&K Securities in 2025 to add institutional broking and corporate advisory.",
+    "EARNS": "It earns recurring fees on the client assets it advises or manages, plus transaction and brokerage income. Annual recurring fees from wealth and asset management bring in most of its revenue.",
+    "SIZE": "One of India's largest wealth managers for the ultra-rich, and a leading manager of alternative funds. It manages money for a large share of India's richest families and is a big name in private credit and equity funds.",
+    "RIVALS": "Nuvama Wealth, Kotak Private Banking, ASK Wealth, Julius Baer India and Anand Rathi Wealth. Global private banks and the wealth arms of large Indian banks also chase the same wealthy clients.",
+    "WATCH": "Watch integration of B&K Securities, growth of its 360 ONE Plus service for the merely affluent, SEBI rules on fees and alternative funds, and the partnership with UBS for cross-border clients."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was 360 ONE called before its rename?",
+     "options": [
+      "IIFL Wealth",
+      "Edelweiss Wealth",
+      "Motilal Oswal Wealth",
+      "Anand Rathi"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings in most of 360 ONE's revenue?",
+     "options": [
+      "Insurance premiums",
+      "Credit card interest",
+      "Recurring fees on client assets",
+      "Property sales"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which firm competes with 360 ONE in wealth management?",
+     "options": [
+      "Nuvama Wealth",
+      "Bajaj Finance",
+      "Zerodha",
+      "Paytm"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "360 ONE, formerly IIFL Wealth, manages money for India's ultra-rich and earns mainly recurring fees. It added B&K Securities in 2025.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "acc",
+   "name": "ACC",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Vinod Bahety",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "ACC makes cement under the ACC Suraksha, ACC Gold and ACC F2R brands, plus ready-mix concrete. It is one of India's oldest cement companies and is controlled by Adani's Ambuja Cements, which bought Holcim's India business in 2022.",
+    "EARNS": "It earns by selling bagged cement to homebuilders through dealers and bulk cement to builders and infrastructure projects. Cement brings in nearly all its revenue; ready-mix concrete is a small add-on.",
+    "SIZE": "One of India's major cement makers with plants across the country, and together with Ambuja part of the country's second-largest cement group. Its brand has been known to Indian homebuilders for generations.",
+    "RIVALS": "UltraTech, Shree Cement, Dalmia Bharat, JK Cement and Nuvoco. UltraTech is the market leader, and prices across the industry move with regional demand and new capacity.",
+    "WATCH": "Watch its merger into Ambuja Cements, announced in December 2025 and pending tribunal approval after shareholder meetings in September 2026, after which ACC would cease to be separately listed. Also watch cement prices and fuel costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company controls ACC?",
+     "options": [
+      "UltraTech",
+      "Ambuja Cements",
+      "Shree Cement",
+      "JK Cement"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings in nearly all of ACC's revenue?",
+     "options": [
+      "Steel",
+      "Paints",
+      "Real estate",
+      "Cement"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What major change is pending for ACC?",
+     "options": [
+      "A move into airlines",
+      "A merger into Ambuja Cements",
+      "A demerger of paints",
+      "A US listing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "ACC is an old Indian cement brand controlled by Ambuja Cements of the Adani group. It is set to merge into Ambuja after tribunal approval.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "acme-solar-holdings",
+   "name": "ACME Solar Holdings",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Nikhil Dhingra",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ACME Solar builds and runs solar, wind, hybrid and round-the-clock renewable power plants and sells the electricity under long-term contracts. It listed in November 2024. It is adding battery storage to supply power when the sun is down.",
+    "EARNS": "It earns by selling power at fixed tariffs under long-term contracts with government agencies like SECI, NTPC and state utilities. Operating solar plants in Rajasthan bring in most of its revenue.",
+    "SIZE": "One of India's larger independent renewable power producers, with most of its projects in Rajasthan and a large pipeline under construction. It has worked in Indian solar for well over a decade.",
+    "RIVALS": "Adani Green, ReNew, NTPC Green, JSW Energy, Tata Power Renewables and Avaada. These companies bid against one another in government auctions for long-term power contracts, which keeps tariffs low.",
+    "WATCH": "Watch commissioning of its hybrid and storage projects, delays in signing power supply agreements with state utilities, and transmission line bottlenecks in Rajasthan."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does ACME Solar mainly earn money?",
+     "options": [
+      "Selling solar panels",
+      "Rooftop installation fees",
+      "Selling power under long-term contracts",
+      "Mining coal"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which state hosts most of ACME Solar's plants?",
+     "options": [
+      "Rajasthan",
+      "Punjab",
+      "Assam",
+      "Kerala"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which company is an ACME Solar rival?",
+     "options": [
+      "Suzlon",
+      "Waaree Energies",
+      "ReNew",
+      "Exide"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ACME Solar runs solar, wind and hybrid plants, mostly in Rajasthan, selling power under long-term contracts. Watch storage projects and transmission bottlenecks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aia-engineering",
+   "name": "AIA Engineering",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Bhadresh K. Shah",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "AIA Engineering makes high-chrome wear parts, such as mill liners and grinding media balls, used to crush ore in mines and to grind cement and coal in plants. It sells mainly under its Vega Industries brand to customers in many countries.",
+    "EARNS": "It earns by selling replacement wear parts that mines and cement plants use up and must keep reordering. Mining customers abroad bring in most of its revenue, and exports form the bulk of sales.",
+    "SIZE": "One of the world's largest makers of high-chrome grinding media and India's leading maker of wear parts. It sells to mines and cement plants across Asia, Africa, Australia and the Americas.",
+    "RIVALS": "Magotteaux of Belgium, Me Elecmetal of Chile, and Molycop in forged grinding media. Many mines still use cheaper forged steel balls, so its main contest is with that older technology.",
+    "WATCH": "Watch how fast mines switch from forged steel balls to its high-chrome products, metal and mining cycles, US tariffs, and new capacity at its Gujarat plants."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which industry is AIA Engineering's biggest customer?",
+     "options": [
+      "Airlines",
+      "Textiles",
+      "Banking",
+      "Mining"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What does AIA Engineering make?",
+     "options": [
+      "Tractors",
+      "High-chrome wear parts like grinding balls",
+      "Solar cells",
+      "Paint"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a global rival of AIA Engineering?",
+     "options": [
+      "Siemens Gamesa",
+      "Daikin",
+      "Bosch",
+      "Magotteaux"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "AIA Engineering makes high-chrome grinding balls and mill liners that mines and cement plants keep reordering. Exports to mining customers bring most revenue.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "apl-apollo-tubes",
+   "name": "APL Apollo Tubes",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Sanjay Gupta",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "APL Apollo makes structural steel tubes and hollow sections used in buildings, roofs, fencing, airports, stadiums and solar mounts, sold under brands like Apollo Structural, Apollo Z and Apollo Galv. It replaces traditional angles and channels with lighter steel tubes.",
+    "EARNS": "It earns a margin over the price of the steel coil it buys and shapes into tubes, selling through a large network of distributors and dealers. Value-added, branded tubes earn better margins than plain pipes.",
+    "SIZE": "India's largest maker of structural steel tubes, with plants spread across the country to reach customers quickly. Its brand is well known among fabricators and builders across the country.",
+    "RIVALS": "Tata Steel's tubes division, Jindal Pipes, Hi-Tech Pipes, Surya Roshni and JSW Steel's coated products. Unorganised local tube makers also compete on price in smaller towns.",
+    "WATCH": "Watch its new plants in Raipur, Dubai and eastern India, steel price swings that affect margins, demand from construction and infrastructure, and growth of heavy structural sections."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does APL Apollo mainly make?",
+     "options": [
+      "Plastic pipes",
+      "Structural steel tubes",
+      "Cement",
+      "Aluminium foil"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does APL Apollo mainly earn money?",
+     "options": [
+      "Mining iron ore",
+      "Leasing cranes",
+      "Building homes",
+      "A margin over the steel it shapes into tubes"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with APL Apollo in steel tubes?",
+     "options": [
+      "Astral",
+      "Tata Steel",
+      "Finolex",
+      "Supreme Industries"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "APL Apollo is India's largest structural steel tube maker, earning a margin over steel through dealers. Watch new plants, steel prices and construction demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "awl-agri-business",
+   "name": "AWL Agri Business (Fortune)",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Shrikant Kanhere",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "AWL Agri Business, formerly Adani Wilmar, sells Fortune edible oils, atta, rice, besan, pulses and sugar, plus King's soap and Alife. It renamed itself in 2025 after the Adani group sold its stake, leaving Singapore's Wilmar as the main shareholder.",
+    "EARNS": "Edible oils bring in most of its revenue, with thin margins that move with global palm and soya oil prices. Packaged foods earn more per rupee and are the growth focus; industrial products like castor oil and oleochemicals add the rest.",
+    "SIZE": "India's largest edible oil company, and Fortune is the country's best-selling edible oil brand. It is also among India's bigger packaged food companies, with Fortune atta and rice sold nationwide.",
+    "RIVALS": "Patanjali Foods (Ruchi Gold), Cargill (Gemini), Emami Agrotech, Marico (Saffola) and ITC (Aashirvaad) in packaged atta. Local and regional oil brands also compete hard on price.",
+    "WATCH": "Watch growth of packaged foods versus oils, edible oil import duty changes, its new ownership under Wilmar, Shrikant Kanhere taking over as MD and CEO in November 2025, and acquisitions such as GD Foods (Tops sauces)."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was AWL Agri Business called before 2025?",
+     "options": [
+      "Ruchi Soya",
+      "Cargill India",
+      "Adani Wilmar",
+      "Gokul Agro"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which segment brings in most of AWL's revenue?",
+     "options": [
+      "Edible oils",
+      "Sauces",
+      "Soaps",
+      "Rice exports"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Fortune in edible oil?",
+     "options": [
+      "Tata Sampann",
+      "Aashirvaad",
+      "Gemini",
+      "Kissan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "AWL Agri Business, formerly Adani Wilmar, sells Fortune oils, atta and rice. Oils bring most revenue; foods are the growth focus under main shareholder Wilmar.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aadhar-housing-finance",
+   "name": "Aadhar Housing Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rishi Anand",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aadhar Housing Finance gives home loans to lower-income families, many of them self-employed or informally employed, for small homes in smaller towns. It also offers loans against property. Blackstone controls it, and it listed in May 2024.",
+    "EARNS": "It earns the gap between the interest it charges borrowers and what it pays to borrow from banks and the National Housing Bank. Home loans bring in most of its income; loans against property earn higher rates.",
+    "SIZE": "One of India's largest affordable housing finance companies, with hundreds of branches across many states. It focuses on small-ticket loans that big banks often find too costly to serve.",
+    "RIVALS": "Aavas Financiers, Aptus Value Housing, Home First Finance, India Shelter and the affordable arms of LIC Housing and PNB Housing. Banks also compete for better-off borrowers.",
+    "WATCH": "Watch loan defaults among low-income borrowers, funding costs as RBI rates move, branch expansion in northern and central India, and government housing schemes like PMAY-Urban 2.0."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which private equity firm controls Aadhar Housing Finance?",
+     "options": [
+      "KKR",
+      "Carlyle",
+      "Warburg Pincus",
+      "Blackstone"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Aadhar mainly earn money?",
+     "options": [
+      "Selling homes it builds",
+      "The gap between interest charged and its borrowing cost",
+      "Insurance premiums",
+      "Brokerage fees"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Aadhar Housing Finance?",
+     "options": [
+      "Zerodha",
+      "Bajaj Auto",
+      "IRCTC",
+      "Aavas Financiers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aadhar Housing Finance lends to lower-income families for small homes, earning interest spreads. Blackstone controls it; watch defaults, funding costs and PMAY schemes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aarti-industries",
+   "name": "Aarti Industries",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Suyog Kotecha",
+    "leader_role": "CEO & Executive Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aarti Industries makes benzene-based specialty chemicals, mainly nitrochlorobenzenes and their derivatives, used to make agrochemicals, pharmaceuticals, dyes, pigments and polymers. It demerged its pharma business as Aarti Pharmalabs in 2022.",
+    "EARNS": "It earns by selling intermediates to chemical makers in India and abroad, partly through long-term supply contracts with global companies. Chemicals for agrochemicals and pharma bring in the most revenue.",
+    "SIZE": "One of India's largest benzene-based specialty chemical makers, with plants in Gujarat and Maharashtra. It is a key supplier of benzene-based building blocks to global chemical companies.",
+    "RIVALS": "Deepak Nitrite, Atul, Navin Fluorine, SRF and Chinese chemical producers. Chinese producers often set global prices, which squeezes Indian chemical makers when demand is weak.",
+    "WATCH": "Watch Chinese pricing pressure on chemicals, ramp-up of its new plants and long-term contracts, demand from global agrochemical makers, and anti-dumping duties."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What type of chemicals is Aarti Industries known for?",
+     "options": [
+      "Benzene-based specialty chemicals",
+      "Fluorochemicals",
+      "Fertilisers",
+      "Paints"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which end uses bring Aarti the most revenue?",
+     "options": [
+      "Construction",
+      "Cosmetics retail",
+      "Agrochemicals and pharma",
+      "Food delivery"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of Aarti Industries?",
+     "options": [
+      "Deepak Nitrite",
+      "Pidilite",
+      "Asian Paints",
+      "UPL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aarti Industries makes benzene-based chemicals for agrochemical, pharma and dye makers. Watch Chinese pricing, new plants and long-term global contracts.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aavas-financiers",
+   "name": "Aavas Financiers",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Jaipur, Rajasthan",
+    "leader": "Sachinderpalsingh Jitendrasingh Bhinder",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aavas gives home loans to low- and middle-income self-employed families in semi-urban and rural areas who often lack formal income proof. It also offers loans against property and small business loans.",
+    "EARNS": "It earns the gap between the interest it charges and its cost of borrowing from banks and bond markets. Home loans are most of its book; careful credit checks keep defaults low.",
+    "SIZE": "One of India's leading affordable housing finance companies, strongest in Rajasthan, Gujarat, Maharashtra and Madhya Pradesh. It is known for low loan defaults.",
+    "RIVALS": "Aadhar Housing Finance, Aptus Value Housing, Home First Finance and India Shelter. Banks and larger housing finance companies also compete for better-off borrowers in the same towns.",
+    "WATCH": "Watch the change in controlling shareholder to CVC Capital Partners, agreed in 2025, loan growth in new states, funding costs as RBI rates change, and asset quality."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Aavas Financiers' main customers?",
+     "options": [
+      "Foreign students",
+      "Big IT firms",
+      "Self-employed families in smaller towns",
+      "Airlines"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which firm agreed in 2025 to become Aavas's controlling shareholder?",
+     "options": [
+      "CVC Capital Partners",
+      "KKR",
+      "Warburg Pincus",
+      "Blackstone"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which lender competes with Aavas?",
+     "options": [
+      "SBI Life",
+      "Groww",
+      "Home First Finance",
+      "Paytm"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aavas Financiers gives home loans to self-employed families in smaller towns, mainly in western and central India. Watch its new controlling shareholder and asset quality.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "abbott",
+   "name": "Abbott India",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vivek V. Kamath",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Abbott India sells branded medicines, including Thyronorm for thyroid, Duphaston for women's health, Udiliv for the liver, Digene antacid and Cremaffin laxative. It is the listed Indian arm of US healthcare company Abbott.",
+    "EARNS": "It earns by selling prescription and over-the-counter brands through chemists, promoted to doctors by a large sales force. Women's health, gastro and thyroid medicines bring in most of its revenue, almost all from India.",
+    "SIZE": "One of India's top pharmaceutical companies by domestic sales, with several of the country's best-selling medicine brands. Its parent ranks among the world's largest healthcare companies.",
+    "RIVALS": "Sun Pharma, Cipla, Mankind Pharma, Alkem, Torrent Pharma and Dr. Reddy's. Each competes brand by brand in therapies like thyroid, women's health and gastro.",
+    "WATCH": "Watch drug price controls under the national list of essential medicines, new launches from its parent's portfolio, and growth of consumer health brands like Digene."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Abbott India brand treats thyroid problems?",
+     "options": [
+      "Dolo",
+      "Telma",
+      "Glycomet",
+      "Thyronorm"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does almost all of Abbott India's revenue come from?",
+     "options": [
+      "The US",
+      "India",
+      "Europe",
+      "Africa"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Abbott India?",
+     "options": [
+      "Titan",
+      "HUL",
+      "Hindalco",
+      "Mankind Pharma"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Abbott India, part of US-based Abbott, sells Thyronorm, Duphaston, Udiliv and Digene through chemists. Almost all revenue is domestic; watch price controls.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "action-construction-equipment",
+   "name": "Action Construction Equipment (ACE)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Faridabad, Haryana",
+    "leader": "Vijay Agarwal",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ACE makes pick-and-carry cranes, mobile and tower cranes, forklifts, backhoe loaders and tractors. Its cranes are used in construction, factories, ports and defence.",
+    "EARNS": "It earns by selling machines through dealers and directly to infrastructure firms, factories and the armed forces. Cranes bring in most of its revenue and profit; agri equipment and material handling add the rest.",
+    "SIZE": "India's largest maker of mobile cranes and a leader in pick-and-carry cranes. Its cranes are a common sight on Indian building sites, factory floors and ports, and it is expanding in other machines.",
+    "RIVALS": "Escorts Kubota and Tata Hitachi in cranes and construction equipment; JCB and Godrej in material handling; Mahindra in tractors. Global crane makers compete at the larger end.",
+    "WATCH": "Watch government infrastructure spending, defence orders for its cranes and vehicles, export growth, and new emission rules that raise machine prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product brings ACE most of its revenue?",
+     "options": [
+      "Cranes",
+      "Cars",
+      "Bicycles",
+      "Solar panels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which kind of buyer gives ACE defence orders?",
+     "options": [
+      "Airlines",
+      "Hospitals",
+      "The armed forces",
+      "Schools"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company competes with ACE in construction equipment?",
+     "options": [
+      "Tata Hitachi",
+      "Exide",
+      "Hero MotoCorp",
+      "Havells"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ACE is India's largest mobile crane maker, also selling forklifts, loaders and tractors. Cranes earn most; infrastructure spending and defence orders drive demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "acutaas-chemicals",
+   "name": "Acutaas Chemicals (Ami Organics)",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Surat, Gujarat",
+    "leader": "Nareshkumar Ramjibhai Patel",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Acutaas Chemicals, renamed from Ami Organics in 2025, makes advanced intermediates used to produce medicines, sold to drug makers in India and abroad. It also makes electrolyte additives for lithium-ion batteries and chemicals for semiconductors.",
+    "EARNS": "It earns by selling pharma intermediates and custom-made molecules to drug makers, much of it for export. Pharma intermediates bring in most of its revenue; battery and specialty chemicals are newer lines.",
+    "SIZE": "A leading Indian maker of pharma intermediates, with plants in Gujarat. It supplies intermediates for many widely used medicines, and its battery chemicals business is among the first of its kind in India.",
+    "RIVALS": "Neuland Labs, Anupam Rasayan, Aarti Pharmalabs, Laurus Labs and Chinese intermediates makers. Chinese suppliers often set the price benchmark for pharma intermediates, so supply chain shifts away from China help it.",
+    "WATCH": "Watch growth of its battery chemicals business, new contract manufacturing deals with global drug makers, and expansion at its Gujarat plants. Also watch demand from global generic drug makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Acutaas Chemicals called before 2025?",
+     "options": [
+      "Aarti Drugs",
+      "Ami Organics",
+      "Aether Industries",
+      "Anupam Rasayan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings Acutaas most of its revenue?",
+     "options": [
+      "Steel",
+      "Paints",
+      "Fertilisers",
+      "Pharma intermediates"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which newer business is Acutaas building?",
+     "options": [
+      "Airline catering",
+      "Battery electrolyte additives",
+      "Cement",
+      "Retail pharmacies"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Acutaas Chemicals, formerly Ami Organics, makes pharma intermediates for drug makers and is adding battery and semiconductor chemicals from its Gujarat plants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "adani-total-gas",
+   "name": "Adani Total Gas",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Suresh P. Manglani",
+    "leader_role": "Executive Director & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Adani Total Gas runs city gas networks that supply piped natural gas to homes, shops and factories, and CNG for vehicles at its own fuel stations. It is a joint venture of the Adani group and France's TotalEnergies, and also runs EV charging and biogas projects.",
+    "EARNS": "It earns a margin on gas it buys and sells through its pipelines and CNG stations. CNG for vehicles brings in most of its revenue; industrial and household piped gas add the rest.",
+    "SIZE": "One of India's largest private city gas distributors, licensed to serve dozens of geographical areas across many states. It also runs a growing network of EV charging points through a joint venture.",
+    "RIVALS": "Indraprastha Gas, Mahanagar Gas, Gujarat Gas, GAIL Gas, Torrent Gas and Think Gas. Rivals often hold licences next to its areas and compete for industrial customers and new city licences.",
+    "WATCH": "Watch cuts in cheaper government-allocated gas for CNG, which raise costs, build-out of new city gas areas, growth of EV charging, and compressed biogas plants."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which foreign company co-owns Adani Total Gas?",
+     "options": [
+      "Shell",
+      "BP",
+      "ExxonMobil",
+      "TotalEnergies"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings in most of Adani Total Gas's revenue?",
+     "options": [
+      "Petrol pumps",
+      "CNG for vehicles",
+      "Coal mining",
+      "LPG cylinders"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Adani Total Gas in city gas?",
+     "options": [
+      "Coal India",
+      "Suzlon",
+      "Adani Ports",
+      "Indraprastha Gas"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Adani Total Gas, a joint venture of Adani and TotalEnergies, supplies CNG and piped gas in many cities. Watch gas allocation costs and new city networks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aditya-birla-capital",
+   "name": "Aditya Birla Capital",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vishakha Mulye",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aditya Birla Capital is the Aditya Birla group's financial services company. It lends to individuals and businesses, finances homes through Aditya Birla Housing Finance, and owns stakes in life and health insurance, mutual funds and broking. Its lending arm, Aditya Birla Finance, was merged into it in 2024.",
+    "EARNS": "Lending is its biggest earner, through interest on personal, business and home loans. Insurance and asset management add fees and premiums. Its ABCD app sells all these products to retail customers.",
+    "SIZE": "One of India's largest diversified financial services groups, and its lending business is among the bigger non-bank lenders. It serves many millions of customers across lending, insurance and mutual funds.",
+    "RIVALS": "Bajaj Finserv, Tata Capital, Shriram Finance, L&T Finance and Mahindra Finance. Banks like HDFC Bank and ICICI Bank also compete for the same borrowers and insurance buyers.",
+    "WATCH": "Watch growth of its home loan and retail lending books, the ABCD consumer app, RBI rules for large non-bank lenders, and changes in its stake in the health insurance business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is Aditya Birla Capital's biggest earner?",
+     "options": [
+      "Lending",
+      "Cement",
+      "Telecom",
+      "Retail fashion"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is Aditya Birla Capital's consumer app called?",
+     "options": [
+      "Tata Neu",
+      "Bajaj Finserv App",
+      "ABCD",
+      "MyJio"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Aditya Birla Capital?",
+     "options": [
+      "Bajaj Finserv",
+      "UltraTech",
+      "Hindalco",
+      "Grasim"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aditya Birla Capital is the Birla group's financial arm, earning mainly from loans plus insurance and mutual funds. Watch its home loans and ABCD app.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aditya-birla-real-estate",
+   "name": "Aditya Birla Real Estate",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "R.K. Dalmia",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Aditya Birla Real Estate, formerly Century Textiles and Industries, develops homes and offices through Birla Estates in Mumbai, Pune, Bengaluru, Gurugram and other cities. It renamed itself in 2024 and sold its pulp and paper business to ITC. It still runs the Birla Century textiles business.",
+    "EARNS": "It earns by selling apartments in housing projects, often built on its own land or in partnership with landowners. Premium housing in Mumbai and the NCR brings in most of its real estate sales.",
+    "SIZE": "A fast-growing real estate developer backed by the Aditya Birla group, still smaller than leaders like DLF and Godrej Properties. Its projects cover several of India's biggest cities.",
+    "RIVALS": "Godrej Properties, DLF, Lodha (Macrotech), Prestige Estates, Oberoi Realty and Sobha. Each competes for land deals and homebuyers in Mumbai, Pune, Bengaluru and the NCR.",
+    "WATCH": "Watch launches of new projects, its large land parcel at Worli in Mumbai, home sales in a slowing luxury market, and debt taken to buy land. Also watch its remaining textiles business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Aditya Birla Real Estate called before 2024?",
+     "options": [
+      "Grasim",
+      "Century Textiles and Industries",
+      "Hindalco",
+      "Idea Cellular"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company bought its pulp and paper business?",
+     "options": [
+      "Reliance",
+      "JK Paper",
+      "Tata Steel",
+      "ITC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which developer competes with Aditya Birla Real Estate?",
+     "options": [
+      "UltraTech",
+      "Godrej Properties",
+      "Shriram Finance",
+      "Asian Paints"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aditya Birla Real Estate, formerly Century Textiles, builds homes and offices via Birla Estates. It sold paper to ITC; watch project launches and land deals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aditya-birla-sun-life-amc",
+   "name": "Aditya Birla Sun Life AMC",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "A. Balasubramanian",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aditya Birla Sun Life AMC manages mutual funds for millions of savers, plus portfolio management, alternative funds and offshore funds. It is a joint venture of the Aditya Birla group and Canada's Sun Life.",
+    "EARNS": "It earns a fee that is a small slice of the money it manages each year. Equity funds charge higher fees than debt funds, so they bring in most of its revenue; monthly SIP flows give it steady growth.",
+    "SIZE": "One of India's larger mutual fund houses by assets managed, though it has lost ground to faster-growing rivals. It serves savers across hundreds of towns through distributors and banks.",
+    "RIVALS": "SBI Mutual Fund, ICICI Prudential AMC, HDFC AMC, Nippon India AMC, Kotak Mahindra AMC and new entrants like Jio BlackRock. Fintech apps like Groww also sell low-cost funds.",
+    "WATCH": "Watch SEBI's changes to how much fund houses can charge, its share of equity fund inflows, new passive and alternative funds, and competition from low-cost entrants."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which foreign company co-owns Aditya Birla Sun Life AMC?",
+     "options": [
+      "BlackRock",
+      "Prudential",
+      "Sun Life",
+      "Nippon Life"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why do equity funds matter most to its revenue?",
+     "options": [
+      "They charge higher fees than debt funds",
+      "They are free",
+      "They are government funded",
+      "They pay rent"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which fund house competes with Aditya Birla Sun Life AMC?",
+     "options": [
+      "Indian Hotels",
+      "Bajaj Auto",
+      "HDFC AMC",
+      "Coal India"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aditya Birla Sun Life AMC runs mutual funds, earning fees on money managed, mostly from equity funds. Watch SEBI fee rules and competition from low-cost entrants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aditya-infotech",
+   "name": "Aditya Infotech (CP PLUS)",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Hari Shanker Khemka",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aditya Infotech sells video surveillance products, mainly CCTV cameras, recorders and smart home cameras under the CP PLUS brand, to homes, shops, offices and government projects. It listed on the stock exchanges in 2025.",
+    "EARNS": "It earns by selling cameras and recorders through a large network of distributors, dealers and system integrators, plus online. Its own CP PLUS products bring in most of its revenue, increasingly made at its factory in Andhra Pradesh.",
+    "SIZE": "One of India's largest video surveillance brands, with CP PLUS among the market leaders. Its products are sold in towns and cities across the country through a wide dealer network, and it also exports to nearby markets.",
+    "RIVALS": "Hikvision and Dahua from China, Prama, Godrej Security Solutions, Honeywell and Qubo from Hero Electronix. Chinese brands long led the market, and many Indian brands are now competing for the same government and business orders.",
+    "WATCH": "Watch government rules that require security cameras to be tested and certified, which hurt Chinese brands, growth in AI-enabled cameras, and expansion of local manufacturing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What brand does Aditya Infotech sell?",
+     "options": [
+      "CP PLUS",
+      "Qubo",
+      "Prama",
+      "Hikvision"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What does Aditya Infotech mainly sell?",
+     "options": [
+      "Air conditioners",
+      "Solar panels",
+      "CCTV cameras and recorders",
+      "Smartphones"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Chinese brand competes with CP PLUS?",
+     "options": [
+      "Hikvision",
+      "Xiaomi",
+      "Haier",
+      "Lenovo"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aditya Infotech sells CP PLUS CCTV cameras through distributors and dealers. Listed in 2025; watch camera certification rules that hurt Chinese rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aegis-logistics",
+   "name": "Aegis Logistics",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Anish K. Chandaria",
+    "leader_role": "Vice-Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aegis Logistics runs port terminals that store LPG, chemicals and petroleum products, and sources and distributes LPG to industries, homes and autogas stations. Its terminal business sits in Aegis Vopak Terminals, a joint venture with Dutch firm Vopak that listed in 2025.",
+    "EARNS": "It earns storage and handling fees from customers who rent its tanks, plus margins on LPG it buys and sells. Terminal storage is its more profitable business; LPG trading brings in more revenue.",
+    "SIZE": "One of India's largest private operators of LPG and liquid chemical terminals, with facilities at major ports on both coasts. It is also a big name in LPG supply to industries.",
+    "RIVALS": "Indian Oil, HPCL and BPCL terminals, IMC, JM Baxi and Adani Ports' storage facilities. State oil companies are both customers and rivals, and port operators compete for storage contracts at the same ports.",
+    "WATCH": "Watch new terminals at Kandla, Mangalore, Pipavav and other ports, LPG import demand, and the growth of Aegis Vopak Terminals. Also watch LPG import and pricing policy, and demand for chemical storage."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Aegis Logistics mainly store at its port terminals?",
+     "options": [
+      "Grain",
+      "LPG and liquid chemicals",
+      "Cars",
+      "Containers of clothing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Aegis's more profitable business?",
+     "options": [
+      "LPG trading",
+      "Shipbuilding",
+      "Retail stores",
+      "Terminal storage"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Dutch company is Aegis's terminal partner?",
+     "options": [
+      "Shell",
+      "Vopak",
+      "Maersk",
+      "Heineken"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Aegis Logistics stores LPG and chemicals at port terminals and trades LPG. Terminals earn better margins; its Vopak joint venture listed in 2025.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aegis-vopak-terminals",
+   "name": "Aegis Vopak Terminals",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Raj K. Chandaria",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aegis Vopak Terminals owns and runs storage tanks for LPG, chemicals and petroleum products at Indian ports. It is a joint venture between Aegis Logistics and Dutch storage giant Royal Vopak, and listed on the stock exchanges in June 2025.",
+    "EARNS": "It earns rent and handling fees from oil companies, chemical makers and traders that store products in its tanks, often under long-term contracts. LPG storage brings in a large and growing share of revenue.",
+    "SIZE": "One of India's largest third-party operators of LPG and liquid storage terminals at ports. Its terminals sit at key ports on both coasts of India and handle a large share of the country's LPG imports.",
+    "RIVALS": "IMC, JM Baxi, Adani Ports' storage arm and terminals owned by Indian Oil, HPCL and BPCL. Customers often choose between building their own tanks and renting from third parties like it.",
+    "WATCH": "Watch commissioning of new LPG terminals such as at Mangalore, use of the money raised in its IPO to cut debt, and LPG import demand. Also watch storage rental rates and capacity use."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which two companies own Aegis Vopak Terminals?",
+     "options": [
+      "IOC and Shell",
+      "Adani and TotalEnergies",
+      "Aegis Logistics and Royal Vopak",
+      "Reliance and BP"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Aegis Vopak mainly earn money?",
+     "options": [
+      "Rent and handling fees for storage tanks",
+      "Selling petrol at pumps",
+      "Shipping containers",
+      "Selling LPG cylinders to homes"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Aegis Vopak list on the stock exchanges?",
+     "options": [
+      "2015",
+      "2018",
+      "2025",
+      "2021"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Aegis Vopak Terminals, owned by Aegis Logistics and Royal Vopak, rents LPG and chemical storage tanks at Indian ports. It listed in June 2025.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aether-industries",
+   "name": "Aether Industries",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Surat, Gujarat",
+    "leader": "Ashwin Desai",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aether Industries makes advanced specialty chemical intermediates for pharma, agrochemical, material science and oil and gas customers. It also offers contract research and contract manufacturing, making chemicals to order for global companies.",
+    "EARNS": "It earns from three lines: large-scale manufacturing of its own intermediates, contract manufacturing for global clients under multi-year deals, and contract research. Large-scale manufacturing brings in the most revenue.",
+    "SIZE": "A fast-growing Indian specialty chemicals company known for complex chemistry, with plants and research labs in Surat. It counts several large global companies as long-term customers.",
+    "RIVALS": "Navin Fluorine, Clean Science, Anupam Rasayan, Vinati Organics and Aarti Industries. Chinese specialty chemical makers set the price benchmark for many of the products it makes.",
+    "WATCH": "Watch new long-term contract manufacturing deals with global companies, ramp-up of its new Surat plants, and Chinese price competition. Also watch demand from agrochemical customers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where are Aether Industries' plants?",
+     "options": [
+      "Ludhiana",
+      "Vizag",
+      "Kochi",
+      "Surat"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which business line brings Aether the most revenue?",
+     "options": [
+      "Retail pharmacies",
+      "Large-scale manufacturing of intermediates",
+      "Fertiliser sales",
+      "Paint shops"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Aether?",
+     "options": [
+      "Titan",
+      "Asian Paints",
+      "ITC",
+      "Clean Science"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aether Industries makes complex specialty chemical intermediates and runs contract manufacturing for global firms from Surat. Watch new contracts and plants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "afcons-infrastructure",
+   "name": "Afcons Infrastructure",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Srinivasan Paramasivan",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Afcons builds complex infrastructure: bridges, tunnels, metro rail, ports, highways, dams and oil and gas platforms, in India and abroad. It is the Shapoorji Pallonji group's engineering company and built the Chenab rail bridge in Jammu and Kashmir. It listed in November 2024.",
+    "EARNS": "It earns by executing construction contracts for governments and companies, billed as work progresses. Transport projects like metros, bridges and tunnels bring in most of its revenue, with a large share from overseas jobs.",
+    "SIZE": "One of India's largest infrastructure construction companies, with projects across Asia, Africa and the Middle East. It is known for technically difficult marine, tunnel and bridge projects.",
+    "RIVALS": "Larsen & Toubro, Tata Projects, J. Kumar Infraprojects, KEC International and Dilip Buildcon. Global contractors compete with it on overseas projects in Africa and the Middle East.",
+    "WATCH": "Watch new order wins at home and abroad, execution of its marine and tunnel projects, payments from government clients, and the Shapoorji Pallonji group's debt."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group owns Afcons?",
+     "options": [
+      "Tata",
+      "Shapoorji Pallonji",
+      "Adani",
+      "Mahindra"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which famous bridge did Afcons build?",
+     "options": [
+      "Bandra-Worli Sea Link",
+      "Howrah Bridge",
+      "Atal Setu",
+      "Chenab rail bridge"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Afcons' biggest rival?",
+     "options": [
+      "DLF",
+      "Larsen & Toubro",
+      "Hindalco",
+      "UltraTech"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Afcons, the Shapoorji Pallonji group's builder, constructs bridges, tunnels, metros and ports in India and abroad, including the Chenab rail bridge. Listed in 2024.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "affle-3i",
+   "name": "Affle 3i",
+   "type": "listed",
+   "industry": "saas",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Anuj Khanna Sohum",
+    "leader_role": "Chairman, MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Affle 3i, renamed from Affle (India) in 2025, runs a mobile advertising platform that helps brands and apps find users who will install, sign up or buy. It also owns platforms like Jampp and RevX, and works with telecom firms and phone makers.",
+    "EARNS": "It earns mostly when an ad leads to a real action, such as an app install or a purchase, a model it calls cost per converted user. Emerging markets including India bring in most of its revenue.",
+    "SIZE": "One of India's leading listed ad-tech companies, serving advertisers in many countries. It works with thousands of apps and brands, from e-commerce and fintech to gaming and food delivery.",
+    "RIVALS": "Google, Meta, InMobi, AppLovin, Moloco and Digital Turbine. Google and Meta take most digital ad budgets, so smaller platforms like Affle compete on results.",
+    "WATCH": "Watch privacy rules such as India's data protection law, ad budgets of e-commerce and fintech apps, its tie-ups with phone makers, and acquisitions. Also watch growth in developed markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Affle mainly earn money?",
+     "options": [
+      "Monthly subscriptions",
+      "Selling phones",
+      "When an ad leads to a real user action",
+      "Data centre rent"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which region brings Affle most of its revenue?",
+     "options": [
+      "Emerging markets including India",
+      "Japan",
+      "Antarctica",
+      "Canada only"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Affle in mobile ads?",
+     "options": [
+      "Nykaa",
+      "Infosys",
+      "InMobi",
+      "Zomato"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Affle 3i runs a mobile ad platform that earns when ads lead to installs or purchases, mainly in emerging markets. Watch privacy rules and app ad budgets.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ajanta-pharmaceuticals",
+   "name": "Ajanta Pharma",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Yogesh Agrawal",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Ajanta Pharma makes branded generic medicines for heart, eye, skin and pain conditions, sold in India, Asia and Africa, and generic medicines for the US. It also supplies anti-malaria drugs to global health programmes in Africa.",
+    "EARNS": "It earns by selling branded medicines promoted to doctors in India and emerging markets, plus US generics. Branded generics in India, Asia and Africa bring in most of its revenue and profit.",
+    "SIZE": "A mid-sized Indian pharma company, among the leaders in ophthalmology and fast-growing in cardiology in India. It sells in many countries across Asia and Africa.",
+    "RIVALS": "Sun Pharma, Cipla, Torrent Pharma, Alkem, Intas and Glenmark. Each competes for doctors' prescriptions in heart, eye and skin medicines, both in India and in Asian and African markets.",
+    "WATCH": "Watch new launches in India, US drug approvals and plant inspections by the US FDA, currency swings in Africa and Asia, and tenders for anti-malaria drugs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which region does Ajanta supply anti-malaria drugs to?",
+     "options": [
+      "Europe",
+      "Australia",
+      "South America",
+      "Africa"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings Ajanta most of its revenue?",
+     "options": [
+      "Hospital services",
+      "Branded generics in India, Asia and Africa",
+      "Vaccines",
+      "Medical devices"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Ajanta?",
+     "options": [
+      "DLF",
+      "Titan",
+      "Bajaj Auto",
+      "Torrent Pharma"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Ajanta Pharma sells branded heart, eye and skin medicines in India, Asia and Africa, plus US generics. Watch US FDA approvals and emerging-market currencies.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "allied-blenders-and-distillers",
+   "name": "Allied Blenders and Distillers",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Alok Gupta",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Allied Blenders and Distillers makes whisky, brandy, rum and vodka, led by Officer's Choice whisky, plus Sterling Reserve, ICONiQ White and premium launches. It listed on the stock exchanges in July 2024 and is controlled by the Chhabria family.",
+    "EARNS": "It earns by selling bottled spirits through state-regulated shops and bars. Mass-market brands like Officer's Choice give most of its volume, while premium brands like Sterling Reserve earn higher margins and are its focus.",
+    "SIZE": "One of India's largest spirits makers by volume, and Officer's Choice is one of the world's best-selling whisky brands. Its brands are especially strong in southern and eastern states.",
+    "RIVALS": "United Spirits (McDowell's), Pernod Ricard India (Royal Stag, Imperial Blue), Radico Khaitan (8PM) and Tilaknagar Industries (Mansion House). Pernod Ricard is its closest rival in mass whisky.",
+    "WATCH": "Watch its shift towards premium brands, new bottling and malt distillery capacity, state excise changes, and grain and glass costs. Also watch growth in its new premium whisky and gin launches."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which whisky is Allied Blenders' biggest brand?",
+     "options": [
+      "Officer's Choice",
+      "McDowell's",
+      "Royal Stag",
+      "8PM"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which brands earn Allied Blenders higher margins?",
+     "options": [
+      "Packaged water",
+      "Mass-market brands",
+      "Premium brands like Sterling Reserve",
+      "Beer"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company sells Royal Stag and competes with Allied Blenders?",
+     "options": [
+      "Pernod Ricard India",
+      "United Breweries",
+      "Varun Beverages",
+      "Dabur"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Allied Blenders makes Officer's Choice, Sterling Reserve and ICONiQ White spirits. Listed in 2024; it is shifting to premium brands as state taxes shape demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "amara-raja-energy-and-mobility",
+   "name": "Amara Raja Energy & Mobility",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Tirupati, Andhra Pradesh",
+    "leader": "Jayadev Galla",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Amara Raja makes lead-acid batteries for cars, two-wheelers and inverters under the Amaron and PowerZone brands, and industrial batteries for telecom towers, UPS systems and railways. It renamed itself from Amara Raja Batteries in 2023 as it moved into lithium-ion.",
+    "EARNS": "It earns by selling batteries to automakers and, more profitably, to drivers replacing old batteries through dealers. Automotive batteries bring in most of its revenue, with exports to the Middle East and Asia.",
+    "SIZE": "India's second-largest lead-acid battery maker after Exide, and Amaron is one of the country's best-known battery brands. It also supplies batteries to telecom towers and data centres.",
+    "RIVALS": "Exide Industries, Luminous, Livguard and lithium-ion makers like Tata AutoComp and Ola Electric. Exide is its closest rival in every segment, and both are moving into lithium-ion cells.",
+    "WATCH": "Watch its lithium-ion cell gigafactory in Telangana, battery pack orders from EV makers, lead prices, and the move of telecom and inverter batteries to lithium."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which battery brand belongs to Amara Raja?",
+     "options": [
+      "Exide",
+      "Luminous",
+      "Amaron",
+      "Livguard"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "In which state is Amara Raja building its lithium-ion gigafactory?",
+     "options": [
+      "Telangana",
+      "Maharashtra",
+      "Gujarat",
+      "Odisha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which is Amara Raja's biggest rival?",
+     "options": [
+      "Bosch",
+      "Havells",
+      "Exide Industries",
+      "Tata Power"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Amara Raja makes Amaron batteries for vehicles and inverters, earning most from replacement sales. Watch its lithium-ion gigafactory in Telangana and EV orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "anand-rathi-wealth",
+   "name": "Anand Rathi Wealth",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rakesh Rawal",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Anand Rathi Wealth advises wealthy individuals and families on where to put their savings, mainly mutual funds and market-linked debentures. It is part of the Anand Rathi group and also runs a digital service for affluent clients.",
+    "EARNS": "It earns commissions from mutual fund houses on client money placed in their funds, and income from structured products it distributes. Mutual fund commissions bring in a large and growing share of revenue.",
+    "SIZE": "One of India's largest mutual fund distributors focused on rich clients, with a model built on a standard set of products. It is among the most profitable listed wealth firms.",
+    "RIVALS": "360 ONE WAM, Nuvama Wealth, Kotak Private Banking, ASK Wealth and bank wealth arms like HDFC Bank's. Fintech apps also court wealthy clients with low-cost options.",
+    "WATCH": "Watch SEBI changes to mutual fund commissions and expense ratios, tax rule changes on debt products, hiring of relationship managers, and client additions."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Anand Rathi Wealth mainly earn from?",
+     "options": [
+      "Property rent",
+      "Bank deposits",
+      "Insurance claims",
+      "Mutual fund commissions and structured products"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who are Anand Rathi Wealth's main clients?",
+     "options": [
+      "Farmers",
+      "Wealthy individuals and families",
+      "Government ministries",
+      "Students"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which firm competes with Anand Rathi Wealth?",
+     "options": [
+      "Zomato",
+      "Infosys",
+      "DMart",
+      "360 ONE WAM"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Anand Rathi Wealth advises rich families, earning mainly mutual fund commissions and structured product income. Watch SEBI commission rules and adviser hiring.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "anant-raj",
+   "name": "Anant Raj",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Amit Sarin",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Anant Raj develops housing, offices, hotels and malls in Delhi NCR, and is building data centres under its Ashok Cloud brand at its land in Manesar, Panchkula and Rai. It sells homes mainly in Gurugram.",
+    "EARNS": "It earns from selling apartments and plots in its housing projects and from renting offices and data centre capacity. Housing sales in Gurugram bring in most of its revenue today; data centres are the long-term focus.",
+    "SIZE": "A mid-sized Delhi NCR developer with a large land bank, and one of the newer entrants in Indian data centres. Its land bank sits mainly in Delhi NCR and Haryana.",
+    "RIVALS": "DLF, Godrej Properties, Signature Global, M3M and Smartworld in housing; NTT, CtrlS, Yotta and STT GDC in data centres. Global data centre firms are much larger and well funded.",
+    "WATCH": "Watch the build-out of its data centre capacity and cloud services, new housing launches in Gurugram, and demand from AI and cloud customers. Also watch the debt it takes on to build data centres."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Anant Raj's data centre brand?",
+     "options": [
+      "Ashok Cloud",
+      "CtrlS",
+      "Yotta",
+      "Nxtra"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Anant Raj's revenue come from today?",
+     "options": [
+      "Exports",
+      "Hotels in Goa",
+      "Housing sales in Gurugram",
+      "Toll roads"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which developer competes with Anant Raj in Gurugram?",
+     "options": [
+      "Signature Global",
+      "Sobha",
+      "Puravankara",
+      "Brigade"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Anant Raj sells homes in Gurugram and is building data centres under its Ashok Cloud brand. Housing earns most today; data centres are its long-term focus.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "anthem-biosciences",
+   "name": "Anthem Biosciences",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Ajay Bhardwaj",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Anthem Biosciences is a contract research, development and manufacturing company that discovers, develops and makes drug molecules for pharma and biotech companies worldwide. Through Neoanthem it also makes fermentation-based products like probiotics and enzymes. It listed in July 2025.",
+    "EARNS": "It earns fees for research and development work and for making commercial drugs for clients, many of them biotech firms in the US, Europe and Japan. Manufacturing of commercial molecules brings in a large share of revenue.",
+    "SIZE": "One of India's fast-growing contract drug development and manufacturing companies, with facilities in Bengaluru. It counts many global biotech companies as clients.",
+    "RIVALS": "Syngene, Divi's Labs, Sai Life Sciences, Piramal Pharma Solutions and Suven (Cohance). Chinese contract firms like WuXi AppTec compete for the same global biotech clients.",
+    "WATCH": "Watch demand from US biotech clients, the US Biosecure Act, which could shift work away from Chinese contract firms, and new capacity at its plants. Also watch client wins."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of company is Anthem Biosciences?",
+     "options": [
+      "A hospital chain",
+      "A contract drug research and manufacturing company",
+      "A pharmacy retailer",
+      "A vaccine maker for India"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which law could move work from Chinese contract firms to Anthem?",
+     "options": [
+      "The Dodd-Frank Act",
+      "The CHIPS Act",
+      "GDPR",
+      "The US Biosecure Act"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company competes with Anthem?",
+     "options": [
+      "Apollo Hospitals",
+      "Syngene",
+      "Cipla",
+      "Dabur"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Anthem Biosciences researches and makes drug molecules for global pharma and biotech clients from Bengaluru. Listed in 2025; watch biotech demand and the Biosecure Act.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "anupam-rasayan",
+   "name": "Anupam Rasayan",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Surat, Gujarat",
+    "leader": "Anand Desai",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Anupam Rasayan makes specialty chemicals to order, mainly complex molecules for agrochemical, pharma and personal care companies in Japan, Europe and the US. It owns fluorochemical maker Tanfac Industries.",
+    "EARNS": "It earns through custom synthesis under long-term contracts with global companies, where it makes exclusive molecules to their specifications. Life science chemicals, mainly for agrochemicals, bring in most of its revenue.",
+    "SIZE": "One of India's leading custom synthesis chemical makers, with plants in Gujarat. It counts several large global agrochemical companies among its long-term customers.",
+    "RIVALS": "PI Industries, Navin Fluorine, SRF, Aarti Industries and Chinese chemical makers. Each competes for multi-year contracts with global agrochemical and pharma firms seeking non-Chinese suppliers.",
+    "WATCH": "Watch new long-term contracts and letters of intent with global companies, the agrochemical demand cycle, fluorochemical expansion through Tanfac, and debt levels."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Anupam Rasayan mainly do?",
+     "options": [
+      "Retail pharmacies",
+      "Steel trading",
+      "Paint manufacturing",
+      "Custom synthesis of specialty chemicals"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which fluorochemical company does Anupam own?",
+     "options": [
+      "Navin Fluorine",
+      "Tanfac Industries",
+      "Gujarat Fluorochemicals",
+      "SRF"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival of Anupam Rasayan?",
+     "options": [
+      "ITC Hotels",
+      "Britannia",
+      "Titan",
+      "PI Industries"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Anupam Rasayan makes custom specialty chemicals for global agrochemical and pharma firms under long-term contracts. Watch new contracts and Tanfac's expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "apar-industries",
+   "name": "Apar Industries",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kushal N. Desai",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Apar Industries makes power transmission conductors, cables and specialty oils such as transformer oil and lubricants. Its conductors carry electricity on high-voltage lines, and its cables go into power, railways, solar plants and homes.",
+    "EARNS": "It earns by selling conductors and cables to power utilities and companies, and oils to transformer makers and industry. Conductors bring in the most revenue, and exports, especially to the US, have become a big source of profit.",
+    "SIZE": "India's largest maker of power conductors and one of the largest in the world, plus a leading maker of transformer oils. It exports conductors to many countries.",
+    "RIVALS": "Sterlite Power, KEI Industries, Polycab, Hindustan Urban Infrastructure, and Savita Oil and Gulf Oil in specialty oils. State transmission tenders keep prices competitive.",
+    "WATCH": "Watch India's transmission line build-out for renewable energy, US tariffs that affect its exports, new copper and premium conductor capacity, and growth of its cables brand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product brings Apar Industries the most revenue?",
+     "options": [
+      "Power conductors",
+      "Ceiling fans",
+      "Steel tubes",
+      "Solar panels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which export market has been a big profit source for Apar?",
+     "options": [
+      "China",
+      "Russia",
+      "United States",
+      "Brazil"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Apar in cables?",
+     "options": [
+      "KEI Industries",
+      "Havells' fans",
+      "Dabur",
+      "Asian Paints"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Apar Industries is India's largest power conductor maker, also selling cables and transformer oils. Exports to the US matter; watch transmission spending and tariffs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aptus-value-housing-finance",
+   "name": "Aptus Value Housing Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "M. Anandan",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Aptus gives small home loans and loans against property to low- and middle-income self-employed families in semi-urban and rural South India. Many borrowers have no formal income proof.",
+    "EARNS": "It earns the gap between the interest it charges and its borrowing costs, with higher yields than most housing lenders. Home loans and small business loans against property make up its book, mainly in Tamil Nadu, Andhra Pradesh and Telangana.",
+    "SIZE": "One of India's most profitable affordable housing lenders, strongest in South India. Its customers are mainly in Tamil Nadu, Andhra Pradesh, Telangana and Karnataka, served through a wide branch network.",
+    "RIVALS": "Aavas Financiers, Aadhar Housing Finance, Home First Finance, India Shelter and Five-Star Business Finance. Banks and microfinance lenders also compete for the same borrowers.",
+    "WATCH": "Watch expansion beyond its home states, asset quality among self-employed borrowers, funding costs, and RBI rules for housing finance companies. Also watch growth of its business loans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which region is Aptus strongest in?",
+     "options": [
+      "North-east India",
+      "South India",
+      "Western Europe",
+      "Punjab"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Who are Aptus' main borrowers?",
+     "options": [
+      "Large corporates",
+      "Foreign students",
+      "Government agencies",
+      "Self-employed families in smaller towns"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which lender competes with Aptus?",
+     "options": [
+      "Bajaj Auto",
+      "Five-Star Business Finance",
+      "Zerodha",
+      "Nykaa"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aptus lends small home loans and property loans to self-employed families in South India, earning high yields. Watch expansion beyond its home states.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "asahi-glass",
+   "name": "Asahi India Glass (AIS)",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Sanjay Labroo",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Asahi India Glass makes windshields and other glass for cars, plus float, processed and decorative glass for buildings under the AIS brand. It also runs AIS Windows. Japan's AGC and the Labroo family are its main shareholders.",
+    "EARNS": "It earns by supplying glass to carmakers like Maruti Suzuki and Hyundai and to replacement buyers, and by selling architectural glass through dealers. Auto glass brings in most of its revenue and profit.",
+    "SIZE": "India's largest maker of automotive glass, supplying most cars made in the country, and a leading maker of building glass. It supplies most major carmakers in India.",
+    "RIVALS": "Saint-Gobain, Gold Plus Glass and Fuyao in auto glass; Saint-Gobain and imports from China in float glass. Cheaper imported glass is a constant price threat.",
+    "WATCH": "Watch car production trends, new float glass capacity in Rajasthan, demand from housing and offices, and sunroofs and advanced glass in new car models."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product brings Asahi India Glass most of its revenue?",
+     "options": [
+      "Smartphone screens",
+      "Glass bottles",
+      "Auto glass",
+      "Spectacle lenses"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Japanese company is a main shareholder of AIS?",
+     "options": [
+      "AGC",
+      "Asahi Breweries",
+      "Nippon Steel",
+      "Toyota"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with AIS?",
+     "options": [
+      "Pidilite",
+      "UltraTech",
+      "Saint-Gobain",
+      "Titan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Asahi India Glass is India's largest auto glass maker and also sells building glass. Auto glass earns most; watch car production and new float glass capacity.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aster-dm-quality-care",
+   "name": "Aster DM Quality Care",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Varun Khanna",
+    "leader_role": "MD & Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Aster DM runs hospitals, clinics, pharmacies and labs in India, mainly in Kerala, Karnataka and Andhra Pradesh. After selling its Gulf business in 2024, it merged with Quality Care India, owner of CARE Hospitals and KIMSHEALTH, in July 2026 and was renamed Aster DM Quality Care.",
+    "EARNS": "It earns from patient treatment: surgeries, room stays, diagnostics and medicines, paid by patients, insurers and government schemes. Hospitals bring in most of its revenue, with complex specialties like cardiac, cancer and organ transplants earning the most.",
+    "SIZE": "One of India's largest hospital chains after the Quality Care merger, with a strong position in south India. Its hospitals cover Kerala, Karnataka, Andhra Pradesh and Telangana.",
+    "RIVALS": "Apollo Hospitals, Manipal Hospitals, Narayana Health, Max Healthcare, Fortis and KIMS. Each competes for doctors, patients and insurer contracts in south Indian cities.",
+    "WATCH": "Watch integration of the Quality Care merger under new MD and Group CEO Varun Khanna, with founder Azad Moopen as executive chairman, new hospital beds in Kerala and Bengaluru, and insurer and government scheme pricing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which hospital brands does Quality Care India bring to Aster?",
+     "options": [
+      "CARE Hospitals and KIMSHEALTH",
+      "Fortis and Max",
+      "Apollo and Manipal",
+      "Narayana and Medanta"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business did Aster sell in 2024?",
+     "options": [
+      "Its labs",
+      "Its Kerala hospitals",
+      "Its Gulf business",
+      "Its pharmacies in India"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which hospital chain competes with Aster?",
+     "options": [
+      "Apollo Hospitals",
+      "Dr. Lal PathLabs",
+      "Lenskart",
+      "HDFC Life"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aster DM Quality Care runs hospitals across south India after merging with Quality Care India, owner of CARE Hospitals and KIMSHEALTH, in July 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "astral",
+   "name": "Astral",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Sandeep Engineer",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Astral makes plastic pipes for plumbing, drainage and farming, including CPVC pipes, plus water tanks, adhesives under Resinova and Bond-It, paints under Gem Paints, and bathware and faucets.",
+    "EARNS": "It earns by selling pipes and building products through a wide dealer and plumber network. Plumbing and CPVC pipes bring in most of its revenue and profit, while adhesives and paints add diversification.",
+    "SIZE": "One of India's largest plastic pipe makers and a leading brand in CPVC plumbing pipes. Its brand is well known among plumbers and builders, and it sells through dealers across the country.",
+    "RIVALS": "Supreme Industries, Finolex Industries, Prince Pipes, Ashirvad by Aliaxis, and Pidilite in adhesives. Unbranded local pipe makers also compete hard on price in smaller towns.",
+    "WATCH": "Watch PVC resin price swings, which affect margins, demand from housing and government water schemes, new plants, and the build-out of its paints and bathware businesses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which adhesives brand belongs to Astral?",
+     "options": [
+      "Fevicol",
+      "Resinova",
+      "Araldite",
+      "Anabond"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings Astral most of its revenue?",
+     "options": [
+      "Electric fans",
+      "Paints",
+      "Steel tubes",
+      "Plumbing and CPVC pipes"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Astral in pipes?",
+     "options": [
+      "UltraTech",
+      "Supreme Industries",
+      "Havells",
+      "Polycab"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Astral is a leading maker of plastic and CPVC pipes, also selling adhesives, paints and bathware. Pipes earn most; watch PVC prices and housing demand.",
+   "review": "unreviewed"
+  }
+ ]
+}

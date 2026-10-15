@@ -1,0 +1,2783 @@
+{
+ "_meta": {
+  "batch": "005",
+  "about": "Nifty 500 companies, batch 005 (Atul to Craftsman Automation) in v2 format without figures. Leaders checked on the web in Oct 2026 where as_of says 'Oct 2026'; the rest are marked 'mid-2026, not re-checked' because the search budget ran out.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "atul",
+   "name": "Atul",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Valsad, Gujarat",
+    "leader": "Sunil Lalbhai",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Atul makes a wide range of chemicals from a huge integrated site in south Gujarat: crop-protection chemicals such as herbicides, aromatics like para-cresol used in fragrances and medicines, epoxy resins and adhesives sold under the Lapox brand, dyes and pharma intermediates. Its buyers are other manufacturers in India and abroad.",
+    "EARNS": "It reports two segments: Life Science Chemicals, covering crop protection and pharma ingredients, and Performance and Other Chemicals, covering aromatics, polymers and colours. Performance chemicals bring in the larger share of sales, and exports to the US, Europe and Asia make up a big part of revenue.",
+    "SIZE": "One of India's oldest and most diversified chemical makers, founded in 1947 by the Lalbhai family. Its Gujarat site is among the largest single chemical complexes in the country.",
+    "RIVALS": "Aarti Industries, Vinati Organics, Deepak Nitrite and SRF in specialty chemicals, UPL in crop protection, and low-cost Chinese producers in many of its products.",
+    "WATCH": "New plants at its Gujarat site, including chlor-alkali and other upstream units it has announced, pricing pressure from Chinese suppliers, and demand from global agrochemical and fragrance customers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Under which brand does Atul sell epoxy resins and adhesives?",
+     "options": [
+      "Fevicol",
+      "Lapox",
+      "Araldite",
+      "Dr. Fixit"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Atul segment brings in the larger share of sales?",
+     "options": [
+      "Performance and Other Chemicals",
+      "Life Science Chemicals",
+      "Retail pharmacies",
+      "Textile mills"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a rival to Atul in specialty chemicals?",
+     "options": [
+      "Asian Paints",
+      "Pidilite",
+      "Vinati Organics",
+      "Berger Paints"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Atul is a diversified Gujarat chemical maker selling crop-protection chemicals, aromatics, epoxy resins and dyes to manufacturers worldwide. Watch Chinese competition and its new upstream plants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "authum-investment-and-infrastructure",
+   "name": "Authum Investment & Infrastructure",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Amit Dangi",
+    "leader_role": "Whole-time Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Authum is a non-bank finance company that holds a large portfolio of listed shares, unlisted stakes and real-estate assets, and also lends to businesses and individuals. It grew fast after taking over Reliance Commercial Finance through an insolvency process, which brought in a sizeable loan book.",
+    "EARNS": "Most of its income comes from gains and dividends on the shares and stakes it holds, so profits swing with financial markets. Interest earned on loans, including the book it took over from Reliance Commercial Finance, is the second engine.",
+    "SIZE": "One of the larger listed proprietary-portfolio NBFCs in India, controlled by the Dangi family. It entered the broader market indices only in recent years after very rapid growth.",
+    "RIVALS": "Other diversified finance groups such as JM Financial, IIFL Finance and Edelweiss, and holding-style NBFCs that earn mainly from their portfolios of listed shares.",
+    "WATCH": "How it builds out lending from the Reliance Commercial Finance book, how much of its profit keeps coming from market gains, and any further acquisitions of stressed finance companies it announces."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company did Authum take over through an insolvency process?",
+     "options": [
+      "Reliance Commercial Finance",
+      "DHFL",
+      "SREI Equipment Finance",
+      "IL&FS Financial"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Authum's income come from?",
+     "options": [
+      "Mobile phone sales",
+      "Gains and dividends on shares it holds",
+      "Toll roads",
+      "Insurance premiums"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company does Authum compete with?",
+     "options": [
+      "Asian Paints",
+      "Titan",
+      "Havells",
+      "JM Financial"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Authum is a Mumbai NBFC that earns mostly from a large portfolio of shares and stakes, plus lending from its Reliance Commercial Finance takeover. Profits swing with markets.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "avanti-feeds",
+   "name": "Avanti Feeds",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Alluri Indra Kumar",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Avanti Feeds makes feed for shrimp and fish farmers, mostly in Andhra Pradesh, and also processes and exports frozen shrimp through its subsidiary Avanti Frozen Foods. Thailand's Thai Union is its long-standing technology partner and shareholder.",
+    "EARNS": "Shrimp feed sold to aquaculture farmers is the largest business and the main profit driver. The processed-shrimp arm earns from exports, with the US and other overseas buyers taking most of its output.",
+    "SIZE": "India's largest shrimp-feed maker by most industry estimates and one of the country's bigger shrimp exporters, with feed mills and processing plants concentrated in coastal Andhra Pradesh.",
+    "RIVALS": "CP Aquaculture (part of Thailand's Charoen Pokphand), Growel Feeds, The Waterbase and other feed makers, plus Ecuadorian and Indonesian shrimp exporters in global markets.",
+    "WATCH": "Steep US tariffs on Indian goods that hit shrimp exports from 2025, how farmers in Andhra Pradesh respond to price swings, and its push into new markets and products beyond shrimp feed."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Avanti Feeds' largest business?",
+     "options": [
+      "Poultry feed",
+      "Shrimp feed for aquaculture farmers",
+      "Pet food retail",
+      "Dairy products"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Thai company is Avanti's long-standing partner?",
+     "options": [
+      "CP Foods",
+      "Siam Cement",
+      "Thai Union",
+      "PTT"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these competes with Avanti in shrimp feed?",
+     "options": [
+      "Growel Feeds",
+      "Godrej Agrovet's dairy",
+      "Amul",
+      "Heritage Foods"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Avanti Feeds is India's largest shrimp-feed maker and also exports frozen shrimp, partnered with Thai Union. Watch US tariffs on Indian shrimp and Andhra farm demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "azad-engineering",
+   "name": "Azad Engineering",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Rakesh Chopdar",
+    "leader_role": "Chairman, MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Azad Engineering makes precision-machined parts such as turbine blades and airfoils for power-plant turbines, jet engines, defence and oil-and-gas equipment. Its customers are global engine and turbine makers like GE Vernova, Siemens Energy, Mitsubishi Heavy Industries, Rolls-Royce and Honeywell. It listed in December 2023.",
+    "EARNS": "It earns by supplying critical rotating parts under long-term contracts with global manufacturers. Energy turbine parts bring in most revenue, with aerospace and defence growing, and the bulk of sales are exports.",
+    "SIZE": "One of a handful of Indian firms qualified to make critical turbine and aero-engine components for global majors. Still a mid-sized company, but growing quickly.",
+    "RIVALS": "PTC Industries and MTAR Technologies in India, and global precision-parts makers such as Precision Castparts and Doncasters, as well as the in-house parts units of big engine makers.",
+    "WATCH": "New manufacturing capacity it is building near Hyderabad, long-term supply deals it has signed with Rolls-Royce and Mitsubishi Heavy Industries, and demand from gas-turbine makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Azad Engineering mainly make?",
+     "options": [
+      "Car seats",
+      "Smartphone screens",
+      "Steel pipes",
+      "Turbine blades and airfoils"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Azad's revenue come from?",
+     "options": [
+      "Exports to global turbine and engine makers",
+      "Indian retail customers",
+      "Government railway tickets",
+      "Software licences"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Indian company is a rival to Azad?",
+     "options": [
+      "Bharat Electronics",
+      "PTC Industries",
+      "Havells",
+      "Polycab"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Azad Engineering makes turbine blades and precision aero-engine parts for global giants like GE Vernova and Rolls-Royce. Mostly exports. Watch new Hyderabad capacity and long-term contracts.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "beml",
+   "name": "BEML",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Shantanu Roy",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "BEML, a defence-ministry PSU, makes heavy machines in three verticals: mining and construction equipment such as dozers, dump trucks and rope shovels; rail and metro coaches, including Vande Bharat sleeper trainsets; and defence vehicles like Tatra-based trucks and the Arjun armoured recovery vehicle.",
+    "EARNS": "It earns by selling equipment and coaches to Coal India, metro corporations, Indian Railways and the armed forces, mostly through tenders. Mining and construction plus rail and metro are its biggest revenue sources.",
+    "SIZE": "One of India's largest makers of earth-moving equipment and metro coaches, and a key supplier to the Indian Army. The government owns a majority stake, and it runs plants in Karnataka and Kerala.",
+    "RIVALS": "Caterpillar, Komatsu and Tata Hitachi in mining equipment; Alstom, Titagarh Rail Systems and Medha in rail and metro; Ashok Leyland and Tata Advanced Systems in defence vehicles.",
+    "WATCH": "Delivery of Vande Bharat sleeper trains, a new plant it has announced in Chhattisgarh, metro coach orders, and defence export efforts it showcased at Land Forces 2026 in Australia."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which train does BEML build for Indian Railways?",
+     "options": [
+      "Rajdhani Express coaches only",
+      "Shatabdi locomotives",
+      "Vande Bharat sleeper trainsets",
+      "Bullet trains"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who mainly buys BEML's products?",
+     "options": [
+      "Retail shoppers",
+      "Coal India, metro corporations, railways and the army",
+      "Overseas airlines",
+      "Telecom operators"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with BEML in mining equipment?",
+     "options": [
+      "Komatsu",
+      "Maruti Suzuki",
+      "Infosys",
+      "Bharti Airtel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "BEML is a defence-ministry PSU making mining machines, metro and Vande Bharat coaches and army vehicles. Watch sleeper-train deliveries, a new Chhattisgarh plant and metro orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bls-international-services",
+   "name": "BLS International",
+   "type": "listed",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Nikhil Gupta",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "BLS International handles visa, passport and consular services for foreign governments, running application centres where travellers submit documents and biometrics. It also runs citizen-service centres for Indian states and, through BLS E-Services, banking correspondent outlets. It bought Turkey's iDATA to grow its visa business.",
+    "EARNS": "Visa and consular services are the largest and most profitable business: governments outsource processing and BLS earns a service fee on each application plus optional extras like courier and premium lounges. Digital and citizen services earn smaller margins.",
+    "SIZE": "One of the world's largest visa-outsourcing firms, second only to VFS Global in many markets, with application centres spread across dozens of countries on several continents.",
+    "RIVALS": "VFS Global and TLScontact in visa outsourcing for governments; CSC e-Governance Services and other operators in citizen services and banking correspondent outlets across India.",
+    "WATCH": "India's foreign ministry barred it in 2025 from bidding on new ministry tenders for a period, so watch how that plays out; also contract renewals with European governments and integration of iDATA."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is BLS International's main business?",
+     "options": [
+      "Airline ticketing",
+      "Hotel chains",
+      "Visa and consular services for governments",
+      "Foreign-exchange trading"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who is BLS International's biggest global rival?",
+     "options": [
+      "VFS Global",
+      "MakeMyTrip",
+      "Thomas Cook",
+      "Cox & Kings"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which Turkish visa firm did BLS buy?",
+     "options": [
+      "Gateway",
+      "iDATA",
+      "Pegasus",
+      "TAV"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "BLS International runs visa and consular centres for foreign governments, earning a fee per application. Watch the Indian foreign-ministry tender ban, European contracts and its iDATA purchase.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bagmane-prime-office-reit",
+   "name": "Bagmane Prime Office REIT",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Raja Bagmane",
+    "leader_role": "Chairman, Bagmane Group (sponsor)",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bagmane Prime Office REIT owns large Grade A office parks in Bengaluru, such as Bagmane Tech Park, Bagmane Constellation and Bagmane World Technology Center. Its tenants are mostly global technology firms and global capability centres. It is a recently listed REIT backed by Blackstone and the Bagmane Group.",
+    "EARNS": "It earns rent from office tenants on multi-year leases, plus fees for parking and maintenance. As a REIT it must pay out most of its cash to unitholders as distributions. Leasing to multinational tech tenants drives almost all of its income.",
+    "SIZE": "One of India's larger office REITs and among the biggest office landlords in Bengaluru, which is the country's main market for technology offices and global capability centres.",
+    "RIVALS": "Embassy Office Parks REIT, Mindspace Business Parks REIT, Knowledge Realty Trust and Brookfield India REIT, plus private landlords such as RMZ and Prestige.",
+    "WATCH": "Demand for Bengaluru offices from global capability centres, filling vacant space, new blocks it is developing within its parks, and how its sponsors manage their remaining stakes."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where are Bagmane REIT's office parks located?",
+     "options": [
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does a REIT like Bagmane mainly earn money?",
+     "options": [
+      "Selling flats",
+      "Hotel room sales",
+      "Rent from office tenants",
+      "Construction contracts"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global firm backs Bagmane REIT alongside the Bagmane Group?",
+     "options": [
+      "Brookfield",
+      "GIC",
+      "KKR",
+      "Blackstone"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Bagmane Prime Office REIT owns Grade A Bengaluru office parks leased to global tech firms and capability centres. Backed by Blackstone. Watch leasing demand and new blocks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "balkrishna-industries",
+   "name": "Balkrishna Industries (BKT)",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Arvind Poddar",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Balkrishna Industries makes off-highway tyres under the BKT brand: tyres for tractors and farm machines, construction and mining equipment, industrial vehicles and ATVs. Most of its customers are farm-equipment makers and replacement buyers in Europe and the Americas. The BKT name is well known from sports sponsorships.",
+    "EARNS": "It earns by selling specialty tyres, mostly in the replacement market, where margins are better than selling to vehicle makers. Agricultural tyres are the largest category, and Europe is its biggest region, followed by the Americas and India.",
+    "SIZE": "One of the world's leading off-highway tyre makers and India's largest exporter of such tyres, with large plants in Rajasthan, Gujarat and Maharashtra serving buyers worldwide.",
+    "RIVALS": "Michelin, Yokohama Off-Highway Tires (which owns the Alliance and Galaxy brands), Bridgestone, and Indian players like Apollo Tyres and CEAT in farm tyres.",
+    "WATCH": "Its push to sell more in India and the US, its carbon black and new capacity projects, US tariffs on Indian exports, and farm-machinery demand in Europe."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of tyres does BKT mainly make?",
+     "options": [
+      "Off-highway tyres for farm and mining machines",
+      "Bicycle tyres",
+      "Aircraft tyres",
+      "Premium car tyres only"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region is Balkrishna's biggest market?",
+     "options": [
+      "Africa",
+      "India",
+      "Europe",
+      "Japan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a global rival of BKT?",
+     "options": [
+      "MRF",
+      "Yokohama Off-Highway Tires",
+      "Bosch",
+      "Exide"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Balkrishna Industries sells BKT off-highway tyres for tractors, mining and construction machines, mostly to Europe and the Americas. Watch US tariffs, India push and new capacity.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "balrampur-chini-mills",
+   "name": "Balrampur Chini Mills",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Vivek Saraogi",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Balrampur Chini runs sugar mills across eastern Uttar Pradesh. It crushes sugarcane into sugar, turns molasses and cane juice into ethanol for blending into petrol, and burns cane waste to generate power. It is building India's first industrial plant for PLA, a plant-based bioplastic.",
+    "EARNS": "Sugar sales bring in most revenue, while ethanol sold to oil marketing companies under the government's blending programme adds steady, higher-margin income. Cane prices and sugar export rules are set by government, which shapes profits.",
+    "SIZE": "One of India's largest integrated sugar companies, with one of the biggest cane-crushing capacities in Uttar Pradesh, the country's top sugarcane-growing state.",
+    "RIVALS": "Triveni Engineering, EID Parry, Dalmia Bharat Sugar, Dhampur Sugar Mills and Bajaj Hindusthan Sugar, plus other ethanol producers selling to oil marketing companies.",
+    "WATCH": "Commissioning of its PLA bioplastics plant at Kumbhi in Uttar Pradesh, ethanol procurement prices, sugar export quotas and the state-set cane price each season."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What new product is Balrampur Chini building a plant for?",
+     "options": [
+      "Solar panels",
+      "Electric scooters",
+      "Packaged juice",
+      "PLA bioplastic"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Who buys Balrampur's ethanol?",
+     "options": [
+      "Oil marketing companies for petrol blending",
+      "Hospitals",
+      "Liquor brands only",
+      "Airlines"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Balrampur Chini?",
+     "options": [
+      "Tata Consumer",
+      "Triveni Engineering",
+      "Britannia",
+      "Nestle India"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Balrampur Chini runs Uttar Pradesh sugar mills, earning from sugar, ethanol and power. Watch its first-of-its-kind PLA bioplastics plant, ethanol prices and sugar export rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bandhan-bank",
+   "name": "Bandhan Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Partha Pratim Sengupta",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Bandhan Bank began as a microfinance lender to poor women in West Bengal and became a universal bank in 2015. It offers savings accounts, microloans to women's groups, home loans through the former Gruh Finance, and loans to small businesses, with most branches in east and north-east India.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors. Unsecured microloans to women borrowers have been its largest and highest-yielding book, though the bank is shifting towards secured loans like housing and business lending.",
+    "SIZE": "One of India's larger private banks by branch reach in the east, and the biggest Indian bank born out of microfinance, with a dense network of branches and banking units in rural areas.",
+    "RIVALS": "Microlenders such as CreditAccess Grameen and Ujjivan Small Finance Bank, and banks like IndusInd Bank, Federal Bank and State Bank of India in its home states of the east.",
+    "WATCH": "Its move away from unsecured microloans, stress among microfinance borrowers, the strategy under MD Partha Pratim Sengupta, and former regulator Debasish Panda's arrival as chairman in July 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How did Bandhan Bank start?",
+     "options": [
+      "As a home-loan company",
+      "As a microfinance lender to women",
+      "As a payments bank",
+      "As a cooperative bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which loan book has been Bandhan's largest?",
+     "options": [
+      "Car loans",
+      "Credit cards",
+      "Microloans to women borrowers",
+      "Corporate loans"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became Bandhan Bank's chairman in July 2026?",
+     "options": [
+      "Debasish Panda",
+      "Chandra Shekhar Ghosh",
+      "Uday Kotak",
+      "Shaktikanta Das"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Bandhan Bank grew from microfinance into a universal bank strong in eastern India. Watch its shift to secured loans, microfinance stress and new chairman Debasish Panda.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bank-of",
+   "name": "Bank of India",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rajneesh Karnatak",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Bank of India is a government-owned bank founded in 1906 that offers savings accounts, home and car loans, farm and small-business loans, and large corporate loans. It is known for a strong overseas network in places like London, Singapore and the Gulf, and has a big rural presence in Maharashtra, Jharkhand and other states.",
+    "EARNS": "Interest earned on loans minus interest paid to depositors is its main income. Retail, agriculture and MSME loans, called RAM loans, are its fastest-growing book, while corporate lending remains large. Fees and treasury gains add the rest.",
+    "SIZE": "One of India's larger public-sector banks by deposits and loans, and among the PSU banks with the widest international presence, with branches and subsidiaries across several continents.",
+    "RIVALS": "Bank of Baroda, Canara Bank, Union Bank of India and Punjab National Bank among state-owned lenders, plus SBI and large private banks such as HDFC Bank and ICICI Bank in retail lending.",
+    "WATCH": "MD Rajneesh Karnatak's term was extended by three years from April 2026, so watch his plans for growing retail loans, keeping bad loans low and any government stake sales."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Bank of India known for compared to many PSU banks?",
+     "options": [
+      "Only rural branches",
+      "A strong overseas network",
+      "No home loans",
+      "Being privately owned"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What do RAM loans stand for at Bank of India?",
+     "options": [
+      "Retail, agriculture and MSME",
+      "Real estate and mining",
+      "Railways and metro",
+      "Rupee asset management"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which bank is a direct PSU rival to Bank of India?",
+     "options": [
+      "HDFC Bank",
+      "Bandhan Bank",
+      "Yes Bank",
+      "Union Bank of India"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Bank of India is a government-owned bank with a strong overseas network and growing retail, farm and MSME lending. Watch Rajneesh Karnatak's extended term and asset quality.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bank-of-maharashtra",
+   "name": "Bank of Maharashtra",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Nidhu Saxena",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Bank of Maharashtra is a government-owned bank founded in 1935, with most of its branches in Maharashtra. It offers savings and current accounts, home, car and gold loans, loans to farmers and small businesses, and corporate lending.",
+    "EARNS": "Its main income is the gap between interest on loans and interest paid on deposits. It has an unusually large share of low-cost current and savings deposits, which keeps funding cheap, and it has become one of the most profitable PSU banks relative to its size.",
+    "SIZE": "A mid-sized public-sector bank, smaller than SBI or Bank of Baroda, but among the fastest-growing and most profitable state-owned banks in recent years, with a deep network across Maharashtra.",
+    "RIVALS": "Central Bank of India, UCO Bank, Indian Overseas Bank and Punjab & Sind Bank among state-owned lenders, plus private banks in Maharashtra such as HDFC Bank and Kotak Mahindra Bank.",
+    "WATCH": "The government has been cutting its stake to meet minimum public-shareholding rules, so watch further share sales; also MD Nidhu Saxena's plans to keep loan growth high and bad loans low."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "In which state are most of Bank of Maharashtra's branches?",
+     "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka",
+      "Tamil Nadu"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What keeps Bank of Maharashtra's funding cheap?",
+     "options": [
+      "Large share of low-cost current and savings deposits",
+      "Foreign bonds",
+      "Government grants",
+      "Insurance premiums"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Why is the government cutting its stake in the bank?",
+     "options": [
+      "To merge it with SBI",
+      "To delist it",
+      "To sell it abroad",
+      "To meet minimum public-shareholding rules"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Bank of Maharashtra is a Pune-based government bank with cheap deposits and strong profitability among PSU banks. Watch government stake sales and loan growth under Nidhu Saxena.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bata",
+   "name": "Bata India",
+   "type": "listed",
+   "industry": "retail",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Sanjay S. Rao",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Bata India sells footwear through its own stores, franchise stores, multi-brand outlets and online. Brands include Bata, Bata Comfit, Hush Puppies, North Star, Power for sports shoes, and Floatz. It is part of the global Bata group, headquartered in Switzerland.",
+    "EARNS": "It earns by selling shoes, sandals and bags, mostly through its own and franchise stores. Its own retail stores bring in most revenue, while franchising in smaller towns and online sales are growing.",
+    "SIZE": "India's largest footwear retailer by store network and one of the most recognised shoe brands in the country, present in big cities as well as many small towns through franchise outlets.",
+    "RIVALS": "Metro Brands, Relaxo Footwears, Campus Activewear, Liberty Shoes and Khadim's in Indian footwear, plus global sports brands such as Nike, Adidas and Puma in sneakers and sports shoes.",
+    "WATCH": "Sanjay S. Rao, formerly of Nike and Inditex, took over as MD & CEO from Gunjan Shah in October 2026. Watch his plans for sneakers, store refreshes and franchise expansion."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these is a Bata India brand?",
+     "options": [
+      "Woodland",
+      "Hush Puppies",
+      "Red Tape",
+      "Sparx"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Bata India's MD & CEO in October 2026?",
+     "options": [
+      "Gunjan Shah",
+      "Nissan Joseph",
+      "Sanjay S. Rao",
+      "Rajeev Gopalakrishnan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a rival to Bata in footwear?",
+     "options": [
+      "Metro Brands",
+      "Titan",
+      "Page Industries",
+      "Trent"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Bata India is the country's largest footwear retailer, with brands like Bata, Hush Puppies and Power. Watch new MD Sanjay S. Rao's plans for sneakers and franchising.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "belrise-industries",
+   "name": "Belrise Industries",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Shrikant Badve",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Belrise Industries, formerly Badve Engineering, makes sheet-metal and casting parts, chassis systems, exhaust systems and polymer components for two-wheelers, cars and commercial vehicles. Its customers include Bajaj Auto, Honda Motorcycle & Scooter India, Hero MotoCorp and Jaguar Land Rover. It listed in May 2025.",
+    "EARNS": "It earns by supplying parts to vehicle makers under long-running contracts. Two-wheeler components bring in most revenue, with four-wheeler and commercial-vehicle parts growing as it diversifies.",
+    "SIZE": "One of India's larger two-wheeler sheet-metal component makers, with many plants across Maharashtra and other states, and a founder-led company that has grown quickly since listing.",
+    "RIVALS": "Uno Minda, Endurance Technologies, JBM Auto, Lumax Industries and other auto-component makers that supply metal and plastic parts to two-wheeler and car makers in India.",
+    "WATCH": "Use of money it raised through a QIP in July 2026, diversification into cars and commercial vehicles, new plants it has announced, and two-wheeler demand in India."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Belrise Industries formerly called?",
+     "options": [
+      "Bharat Forge",
+      "Badve Engineering",
+      "Bajaj Engineering",
+      "Badve Motors"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which vehicle segment brings Belrise most revenue?",
+     "options": [
+      "Aircraft",
+      "Tractors",
+      "Two-wheelers",
+      "Buses only"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Belrise?",
+     "options": [
+      "Uno Minda",
+      "Ola Electric",
+      "Hero MotoCorp",
+      "Maruti Suzuki"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Belrise Industries makes sheet-metal, chassis and polymer parts mainly for two-wheeler makers like Bajaj and Honda. Recently listed. Watch diversification into cars and new plants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bharat-heavy-electricals",
+   "name": "Bharat Heavy Electricals (BHEL)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "K. Sadashiv Murthy",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "BHEL is a government-owned engineering company that builds equipment for power plants: boilers, steam turbines and generators for coal, gas, hydro and nuclear plants. It also makes transmission equipment, railway locomotives and Vande Bharat sleeper trains with Titagarh, defence products and industrial machinery.",
+    "EARNS": "Its largest business by far is power: designing, supplying and building thermal power plants for NTPC, state utilities and private firms. Industry segments like rail, transmission and defence add the rest.",
+    "SIZE": "India's largest power-equipment maker, which has built most of the country's coal-fired generating capacity, with large factories in Haridwar, Bhopal, Tiruchirappalli and Hyderabad.",
+    "RIVALS": "Larsen & Toubro in power projects, Siemens Energy, GE Vernova and Doosan in turbines and generators, and Chinese equipment makers such as Harbin Electric and Dongfang Electric in global bids.",
+    "WATCH": "Execution of a big wave of new thermal power orders, delivery of Vande Bharat sleeper trains, and the selection of a new CMD as K. Sadashiv Murthy is due to retire in February 2027."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is BHEL's largest business?",
+     "options": [
+      "Mobile phones",
+      "Power plant equipment",
+      "Steel making",
+      "Shipping"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is BHEL's main Indian rival in power projects?",
+     "options": [
+      "Larsen & Toubro",
+      "Tata Steel",
+      "ITC",
+      "Infosys"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which train is BHEL building with Titagarh?",
+     "options": [
+      "Duronto",
+      "Garib Rath",
+      "Tejas",
+      "Vande Bharat sleeper"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "BHEL is India's largest power-equipment maker, building boilers and turbines for thermal plants. Watch execution of new coal-plant orders and the search for its next CMD.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "birlasoft",
+   "name": "Birlasoft",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Angan Guha",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Birlasoft is a mid-sized IT services company in the CK Birla Group. It implements and runs enterprise software such as Oracle, SAP and Microsoft systems, and offers cloud, data and digital services. Its clients are mostly manufacturers, life-sciences firms, banks and energy companies.",
+    "EARNS": "It earns fees from multi-year contracts to build, run and upgrade clients' business software. North America brings in most of its revenue, and enterprise-software implementation, especially Oracle and SAP work, is its largest service line.",
+    "SIZE": "A mid-tier Indian IT services firm, much smaller than Infosys or HCLTech, but with deep expertise in enterprise resource planning software and a long list of large manufacturing clients.",
+    "RIVALS": "Mphasis, Zensar Technologies, Sonata Software, Hexaware and Coforge among mid-tier firms, plus the ERP practices of larger companies such as Infosys, Accenture and Deloitte.",
+    "WATCH": "Whether revenue growth picks up after a weak patch, the leadership reshuffle that brought in COO Vikram Puranik in April 2026, and how clients shift spending to AI-driven work."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group does Birlasoft belong to?",
+     "options": [
+      "Aditya Birla Group",
+      "CK Birla Group",
+      "Murugappa Group",
+      "Tata Group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region gives Birlasoft most of its revenue?",
+     "options": [
+      "India",
+      "Africa",
+      "Japan",
+      "North America"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a mid-tier rival of Birlasoft?",
+     "options": [
+      "Zensar Technologies",
+      "Nykaa",
+      "Zomato",
+      "Paytm"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Birlasoft is a CK Birla Group IT services firm specialising in Oracle, SAP and digital work, mostly for North American clients. Watch growth revival and AI-led demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "black-box",
+   "name": "Black Box",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sanjeev Verma",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Black Box, formerly AGC Networks, designs, builds and maintains digital infrastructure: data-centre cabling, enterprise networks, unified communications, cybersecurity and managed IT services. Its clients include large enterprises, hyperscale cloud firms and banks, mostly in the US and Europe. It is part of the Essar group.",
+    "EARNS": "It earns from projects to build networks and data-centre infrastructure, plus recurring support and managed-service contracts. North America brings in most of its revenue, and data-centre work for hyperscalers is a key growth area.",
+    "SIZE": "A mid-sized global IT infrastructure firm with operations across many countries, built largely through the acquisition of US-based Black Box Corporation in 2019.",
+    "RIVALS": "NTT DATA, Kyndryl and the infrastructure arms of Wipro and Tech Mahindra, plus specialist cabling and network integrators in the US that build data-centre and campus networks.",
+    "WATCH": "Growth from hyperscaler data-centre projects, its push to improve margins after a restructuring, and new leadership hires to grow international markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Black Box formerly called in India?",
+     "options": [
+      "Essar Telecom",
+      "AGC Networks",
+      "Tata Communications",
+      "Sify"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region gives Black Box most of its revenue?",
+     "options": [
+      "India",
+      "Middle East",
+      "North America",
+      "South America"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Black Box?",
+     "options": [
+      "Kyndryl",
+      "Zomato",
+      "Titan",
+      "Bata"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Black Box builds and manages networks, data-centre infrastructure and cybersecurity for enterprises and hyperscalers, mostly in the US. Part of Essar. Watch data-centre demand and margins.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "brigade-enterprises",
+   "name": "Brigade Enterprises",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Pavitra Shankar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Brigade Enterprises develops homes, offices, shopping malls and hotels, mostly in south India. It builds apartments and villas in Bengaluru, Chennai, Hyderabad and Mysuru, runs office parks such as World Trade Center Bengaluru and Chennai, and Orion malls. Its hotel arm, Brigade Hotel Ventures, listed separately in July 2025.",
+    "EARNS": "Selling apartments is its largest revenue source, recognised as projects are completed. Leasing offices and malls brings steady rental income, and hotels like Sheraton Grand and Holiday Inn add hospitality revenue.",
+    "SIZE": "One of south India's leading real-estate developers and among the largest in Bengaluru, with a big mix of residential, commercial and hospitality assets built up since it was founded in 1986.",
+    "RIVALS": "Prestige Estates, Sobha, Godrej Properties, Puravankara and Embassy Group in Bengaluru and other south Indian cities, plus national developers expanding into the south.",
+    "WATCH": "New project launches in Bengaluru, Chennai and Hyderabad, leasing of its office parks, its push into new cities, and how the separately listed hotel arm grows its portfolio."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Brigade business listed separately in July 2025?",
+     "options": [
+      "Its mall arm",
+      "Its hotel arm, Brigade Hotel Ventures",
+      "Its school chain",
+      "Its cement unit"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Brigade's largest revenue source?",
+     "options": [
+      "Selling apartments",
+      "Toll roads",
+      "Software",
+      "Steel trading"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which developer competes with Brigade in Bengaluru?",
+     "options": [
+      "DLF",
+      "Oberoi Realty",
+      "Lodha",
+      "Prestige Estates"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Brigade Enterprises is a Bengaluru developer of homes, offices, Orion malls and hotels across south India. Watch launches, office leasing and its separately listed hotel arm.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "brookfield-real-estate-trust",
+   "name": "Brookfield India REIT",
+   "type": "listed",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Alok Aggarwal",
+    "leader_role": "CEO, Brookprop Management",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Brookfield India Real Estate Trust owns large office campuses in Mumbai, Gurugram, Noida, Kolkata and Bengaluru, including Candor TechSpace parks, Downtown Powai and Ecoworld in Bengaluru. Its tenants are mainly global technology, consulting and financial firms. It is sponsored by Canada's Brookfield.",
+    "EARNS": "It earns rent from office tenants on multi-year leases, plus maintenance and parking income. As a REIT, it pays out most of its cash flow to unitholders. Leasing to multinational tenants and global capability centres drives its income.",
+    "SIZE": "One of India's largest office REITs and the only one fully sponsored by a global asset manager, with campuses spread across several of the country's biggest office markets.",
+    "RIVALS": "Embassy Office Parks REIT, Mindspace Business Parks REIT, Knowledge Realty Trust and Bagmane Prime Office REIT, plus private office landlords such as DLF and RMZ.",
+    "WATCH": "Leasing up vacant space, rent increases on renewals, integration of Ecoworld in Bengaluru, and further acquisitions from its sponsor that it announces."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which global firm sponsors this REIT?",
+     "options": [
+      "Blackstone",
+      "Brookfield",
+      "GIC",
+      "Capitaland"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Brookfield India REIT mainly earn money?",
+     "options": [
+      "Selling homes",
+      "Hotel rooms",
+      "Rent from office tenants",
+      "Construction contracts"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival office REIT?",
+     "options": [
+      "Embassy Office Parks REIT",
+      "DLF Homes",
+      "IRB InvIT",
+      "PowerGrid InvIT"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Brookfield India REIT owns office campuses in Mumbai, Gurugram, Noida, Kolkata and Bengaluru leased to multinationals. Watch leasing, rent renewals and acquisitions from its sponsor.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ccl-products-i",
+   "name": "CCL Products",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Challa Srishant",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CCL Products makes instant coffee, mostly as a private-label supplier for coffee brands and retailers around the world, and also sells its own Continental Coffee brand in India. It has factories in Andhra Pradesh, Vietnam and Switzerland, and offers spray-dried, freeze-dried and agglomerated coffee.",
+    "EARNS": "Most of its revenue comes from exporting instant coffee in bulk or packed form to brand owners across Europe, Russia, the Middle East and Asia. It earns a processing margin, passing on coffee bean price changes to customers. The Indian retail brand is small but growing.",
+    "SIZE": "One of the world's largest private-label instant coffee makers and India's biggest instant coffee exporter, supplying brand owners in many countries from its plants in India and Vietnam.",
+    "RIVALS": "Nestle's Nescafe, Hindustan Unilever's Bru and Tata Consumer in India; global private-label coffee makers in Brazil and Vietnam compete with it for export customers.",
+    "WATCH": "Its expansion of freeze-dried capacity in Vietnam and India, growth of the Continental Coffee brand, and swings in global coffee bean prices, which affect working capital even when passed on."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is CCL Products' own Indian coffee brand?",
+     "options": [
+      "Bru",
+      "Davidoff",
+      "Continental Coffee",
+      "Sunrise"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does CCL mainly earn?",
+     "options": [
+      "Running cafes",
+      "Exporting instant coffee for other brands",
+      "Selling coffee machines",
+      "Owning plantations"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with CCL in India?",
+     "options": [
+      "Nescafe",
+      "Amul",
+      "Red Label",
+      "Maggi"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CCL Products is a Hyderabad-based private-label instant coffee giant exporting worldwide, with its own Continental Coffee brand in India. Watch Vietnam expansion and coffee bean prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cesc",
+   "name": "CESC",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Sanjiv Goenka",
+    "leader_role": "Chairman",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "CESC, part of the RP-Sanjiv Goenka Group, generates and distributes electricity. It supplies power to homes and businesses in Kolkata and Howrah, and through subsidiaries in Greater Noida and distribution franchises in Rajasthan. It runs coal-fired plants in West Bengal and Maharashtra and is building renewable capacity through Purvah Green Power.",
+    "EARNS": "Its regulated distribution business in Kolkata, which owns its own power plants, is the core earner. Tariffs are set by state regulators, which allow a return on approved costs. Generation for other states and renewables add the rest.",
+    "SIZE": "One of India's oldest private power utilities, supplying electricity in Kolkata since the end of the nineteenth century, and one of the largest privately owned integrated utilities in the country.",
+    "RIVALS": "Tata Power, Adani Energy Solutions, Torrent Power and NTPC, especially in bids for new distribution licences and renewable projects, plus other renewable developers selling green power.",
+    "WATCH": "Its build-out of solar and wind capacity through Purvah, bids for state distribution businesses being privatised, and tariff orders from the West Bengal regulator."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group owns CESC?",
+     "options": [
+      "Tata Group",
+      "Adani Group",
+      "RP-Sanjiv Goenka Group",
+      "Essar Group"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is CESC's core earner?",
+     "options": [
+      "Regulated power distribution in Kolkata",
+      "Telecom towers",
+      "Coal exports",
+      "Software"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a CESC rival?",
+     "options": [
+      "Asian Paints",
+      "Torrent Power",
+      "Infosys",
+      "Titan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CESC, an RP-Sanjiv Goenka Group utility, supplies power to Kolkata and runs plants and franchises elsewhere. Watch renewable build-out via Purvah and new distribution bids.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cg-power-and-industrial-solutions",
+   "name": "CG Power and Industrial Solutions",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Amar Kaul",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CG Power makes electrical equipment: industrial and railway motors, transformers, switchgear and traction systems for trains. It is part of the Murugappa Group, which rescued it in 2020. Through CG Semi, a joint venture with Renesas and Stars Microelectronics, it is building a chip assembly and testing plant in Sanand, Gujarat.",
+    "EARNS": "Industrial systems, mainly motors sold to factories, pump makers and railways, bring in most revenue. Power systems, such as transformers and switchgear sold to utilities and industries, are the second, fast-growing segment.",
+    "SIZE": "One of India's largest makers of industrial motors and a leading supplier of transformers and railway traction equipment, with factories across Maharashtra, Madhya Pradesh and Gujarat.",
+    "RIVALS": "Siemens, ABB, Hitachi Energy and Bharat Bijlee in motors, transformers and switchgear, plus other electrical equipment makers such as WEG and Toshiba in specific products.",
+    "WATCH": "Start of production at its Sanand semiconductor assembly plant, new transformer and switchgear capacity it has announced, and power-grid spending in India."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group rescued CG Power in 2020?",
+     "options": [
+      "Tata Group",
+      "Murugappa Group",
+      "Mahindra Group",
+      "TVS Group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What new plant is CG Power building in Sanand?",
+     "options": [
+      "A car factory",
+      "A steel mill",
+      "A cement kiln",
+      "A chip assembly and testing plant"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a rival to CG Power?",
+     "options": [
+      "Siemens",
+      "Nestle",
+      "Zomato",
+      "Titan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CG Power, a Murugappa company, makes motors, transformers and rail traction gear. Watch its Sanand chip assembly plant with Renesas and new power-equipment capacity.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cie-automotive",
+   "name": "CIE Automotive India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Ander Arenaza Alvarez",
+    "leader_role": "CEO & Executive Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CIE Automotive India makes forgings, castings, stampings, gears, aluminium parts and composites for cars, tractors, two-wheelers and trucks. Its customers include Mahindra, Maruti Suzuki and European vehicle makers. It is majority-owned by Spain's CIE Automotive and was earlier known as Mahindra CIE.",
+    "EARNS": "It earns by supplying components under long-term contracts. India is its larger business, while its forging operations in Europe, mainly Germany and Spain, serve European truck and car makers.",
+    "SIZE": "One of India's larger multi-technology auto-component makers, with many plants in India plus forging units in Europe, giving it a mix of Indian and European customers.",
+    "RIVALS": "Bharat Forge, Ramkrishna Forgings, Sundram Fasteners, Sona BLW and Endurance Technologies in India, and European forging and casting suppliers in its overseas markets.",
+    "WATCH": "Weak demand in European trucks and cars, growth in India's tractor and passenger-vehicle markets, and new parts it is developing for electric vehicles."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company majority-owns CIE Automotive India?",
+     "options": [
+      "Spain's CIE Automotive",
+      "Germany's Bosch",
+      "Japan's Denso",
+      "Mahindra"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where are CIE India's European forging operations mainly?",
+     "options": [
+      "France and Italy",
+      "UK and Ireland",
+      "Germany and Spain",
+      "Poland and Hungary"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with CIE Automotive India?",
+     "options": [
+      "Maruti Suzuki",
+      "Bharat Forge",
+      "Infosys",
+      "ITC"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CIE Automotive India makes forgings, castings and other parts for vehicle makers in India and Europe, controlled by Spain's CIE. Watch European demand and India tractor sales.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "crisil",
+   "name": "CRISIL",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Amish Mehta",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CRISIL rates the credit quality of companies, banks and bonds, and sells research, data and analytics. Its global research arm works for big banks and asset managers, while its India research covers industries and the economy. It is majority-owned by S&P Global.",
+    "EARNS": "Research and analytics services, mainly sold to global banks and financial firms, bring in the largest share of revenue. Credit ratings in India are the most profitable and best-known business, earning fees from issuers.",
+    "SIZE": "India's largest credit rating agency and one of the most respected names in Indian financial research, with analytics teams serving many of the world's biggest banks.",
+    "RIVALS": "ICRA (Moody's), CARE Ratings and India Ratings (Fitch) in credit ratings; Evalueserve and the research arms of global consulting and data firms in analytics.",
+    "WATCH": "Growth in India's bond market and bank loan ratings, demand from global banks for research outsourcing, and new analytics and data products it launches."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which global company majority-owns CRISIL?",
+     "options": [
+      "Moody's",
+      "S&P Global",
+      "Fitch",
+      "MSCI"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is CRISIL's best-known business in India?",
+     "options": [
+      "Credit ratings",
+      "Stockbroking",
+      "Insurance",
+      "Lending"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival rating agency to CRISIL?",
+     "options": [
+      "NSDL",
+      "CAMS",
+      "ICRA",
+      "CDSL"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CRISIL, majority-owned by S&P Global, is India's largest credit rating agency and also sells research and analytics to global banks. Watch bond-market growth and research outsourcing.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "can-fin-homes",
+   "name": "Can Fin Homes",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Suresh Iyer",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Can Fin Homes is a housing finance company promoted by Canara Bank. It gives home loans mainly to salaried people buying their first home, plus loans for building and repairing houses, and a small book of loans against property. Most of its branches are in south India.",
+    "EARNS": "It earns the gap between interest on home loans and the cost of its borrowings from banks, the bond market and the National Housing Bank. Salaried home buyers make up most of its loan book, which keeps bad loans low.",
+    "SIZE": "One of India's mid-sized housing finance companies and among the oldest, with a strong presence in Karnataka, Tamil Nadu and Telangana and a reputation for low bad loans.",
+    "RIVALS": "LIC Housing Finance, PNB Housing Finance, Aavas Financiers, Aptus Value Housing, Bajaj Housing Finance, and large banks such as SBI and HDFC Bank that compete hard for salaried home buyers.",
+    "WATCH": "Its expansion beyond south India with new branches, loan growth amid tough competition from banks for salaried borrowers, and Canara Bank's plans for its stake."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank promotes Can Fin Homes?",
+     "options": [
+      "SBI",
+      "Canara Bank",
+      "Bank of Baroda",
+      "Indian Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who makes up most of Can Fin's borrowers?",
+     "options": [
+      "Large corporates",
+      "Farmers",
+      "Salaried home buyers",
+      "Car buyers"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Can Fin Homes?",
+     "options": [
+      "LIC Housing Finance",
+      "Muthoot Finance",
+      "Paytm",
+      "CRISIL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Can Fin Homes is a Canara Bank-promoted housing finance firm lending mainly to salaried first-time buyers in south India. Watch expansion beyond the south and bank competition.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "canara-hsbc-life-insurance",
+   "name": "Canara HSBC Life Insurance",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Anuj Mathur",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Canara HSBC Life Insurance is a joint venture of Canara Bank and HSBC that sells life insurance: savings plans, term protection, unit-linked plans, pensions and group cover. It sells mainly through Canara Bank's large branch network, plus HSBC and other partners. It listed on the exchanges in October 2025.",
+    "EARNS": "It earns from premiums, the spread on money it manages for policyholders, and margins on protection products. Bancassurance through Canara Bank brings in most of its new business, with savings plans the biggest product category.",
+    "SIZE": "A mid-sized private life insurer, smaller than SBI Life or HDFC Life, but with one of the widest bank-branch distribution networks among bank-backed insurers.",
+    "RIVALS": "SBI Life, HDFC Life, ICICI Prudential Life, Axis Max Life and Bajaj Allianz Life among private insurers, plus state-owned LIC, the largest life insurer in India.",
+    "WATCH": "Growth of new business through Canara Bank, its push into protection products, and regulatory changes on commissions and surrender charges from the insurance regulator."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which two lenders own Canara HSBC Life?",
+     "options": [
+      "SBI and Standard Chartered",
+      "Canara Bank and HSBC",
+      "Bank of Baroda and Citi",
+      "PNB and Barclays"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Through which channel does Canara HSBC Life get most new business?",
+     "options": [
+      "Canara Bank branches",
+      "TV shopping",
+      "Online marketplaces only",
+      "Car dealers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which insurer is a rival?",
+     "options": [
+      "Star Health",
+      "ICICI Lombard",
+      "Go Digit",
+      "SBI Life"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Canara HSBC Life is a Canara Bank and HSBC life-insurance joint venture selling mainly through Canara branches. Recently listed. Watch bank-led growth and regulatory changes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "caplin-point-laboratories",
+   "name": "Caplin Point Laboratories",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "C. C. Paarthipan",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Caplin Point makes and sells generic medicines, mainly in Central and Latin America and Francophone Africa, where it also runs its own distribution and warehousing. Its subsidiary Caplin Steriles makes injectables and eye drops for the US and other regulated markets.",
+    "EARNS": "Emerging markets in Latin America bring in most revenue, where Caplin earns from owning the supply chain from factory to pharmacy. Caplin Steriles' US business is smaller but growing fast with new product approvals.",
+    "SIZE": "A mid-sized Indian generic drug maker that has become one of the leading Indian medicine suppliers in several Central American countries, such as Guatemala and Honduras.",
+    "RIVALS": "Aurobindo Pharma, Gland Pharma and other injectable makers in the US, and local and multinational generic drug companies in Latin American and African markets.",
+    "WATCH": "New US product approvals for Caplin Steriles, its oncology and injectables plants, and expansion into larger Latin American markets beyond its Central American base, which it has talked about for years."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where does Caplin Point earn most of its revenue?",
+     "options": [
+      "Japan",
+      "Latin America",
+      "Europe",
+      "China"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What does Caplin Steriles make?",
+     "options": [
+      "Vaccines only",
+      "Ayurvedic products",
+      "Injectables and eye drops",
+      "Medical devices"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival in injectables?",
+     "options": [
+      "Gland Pharma",
+      "Dabur",
+      "Marico",
+      "Emami"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Caplin Point sells generic medicines mainly in Latin America and Africa, owning distribution there, while Caplin Steriles grows US injectables. Watch new US approvals and Latin expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "capri-global-capital",
+   "name": "Capri Global Capital",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rajesh Sharma",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Capri Global Capital is a non-bank lender offering loans to small businesses, affordable home loans through Capri Global Housing Finance, gold loans and construction finance for developers. It also distributes car loans for banks and has an insurance distribution arm.",
+    "EARNS": "It earns interest on its loan book and fees from loan and insurance distribution. Gold loans have become its fastest-growing book, alongside MSME and housing loans, which are its largest segments.",
+    "SIZE": "A mid-sized Indian NBFC that has grown quickly, with a branch network spread mainly across north and west India and a fast-expanding chain of gold-loan branches.",
+    "RIVALS": "Muthoot Finance and Manappuram Finance in gold loans; Five-Star Business Finance, Aavas Financiers and Aptus Value Housing in small-business and housing loans.",
+    "WATCH": "Growth of its gold-loan branches, credit quality in small-business loans, and fresh equity and debt fund-raising it announces to support its rapid expansion."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Capri Global loan book has grown fastest recently?",
+     "options": [
+      "Gold loans",
+      "Credit cards",
+      "Aircraft leasing",
+      "Education loans"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is Capri Global's housing finance arm called?",
+     "options": [
+      "Capri Homes",
+      "Capri Global Housing Finance",
+      "Capri Realty",
+      "Capri Nivas"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which gold lender competes with Capri Global?",
+     "options": [
+      "CRISIL",
+      "CAMS",
+      "Manappuram Finance",
+      "Zerodha"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Capri Global Capital is an NBFC lending to small businesses, home buyers and gold-loan customers, with car-loan distribution too. Watch gold-loan expansion and small-business credit quality.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "carborundum-universal",
+   "name": "Carborundum Universal (CUMI)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "N. Ananthaseshan",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Carborundum Universal, part of the Murugappa Group, makes abrasives such as grinding wheels and sandpaper, industrial ceramics and refractories, and electrominerals like silicon carbide and fused alumina. It has subsidiaries in Russia, South Africa, Germany and Australia.",
+    "EARNS": "It earns by selling to steel, auto, engineering, power and construction industries. Electrominerals and abrasives are its largest segments, and its Russian subsidiary Volzhsky Abrasive Works is a major contributor.",
+    "SIZE": "One of India's largest abrasives makers and a global player in silicon carbide and electrominerals, with plants on several continents and a long history as one of the Murugappa Group's flagship industrial companies.",
+    "RIVALS": "Grindwell Norton (Saint-Gobain), 3M, Tyrolit and Chinese abrasive and electromineral makers that compete on price in global markets, along with smaller Indian abrasive makers.",
+    "WATCH": "The impact of sanctions on Russia on its Volzhsky operations, demand from steel and auto industries, and new products in ceramics and electronic materials."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group owns CUMI?",
+     "options": [
+      "Murugappa Group",
+      "TVS Group",
+      "Tata Group",
+      "RPG Group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "In which country is CUMI's subsidiary Volzhsky Abrasive Works?",
+     "options": [
+      "Germany",
+      "South Africa",
+      "Australia",
+      "Russia"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to CUMI?",
+     "options": [
+      "Asian Paints",
+      "Grindwell Norton",
+      "Havells",
+      "Voltas"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Carborundum Universal, a Murugappa company, makes abrasives, ceramics and electrominerals for industries worldwide. Watch its Russian unit amid sanctions and steel and auto demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cartrade-tech",
+   "name": "CarTrade Tech",
+   "type": "listed",
+   "industry": "internet-classifieds",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vinay Sanghi",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CarTrade Tech runs online auto platforms CarWale, BikeWale and CarTrade, the vehicle auction business Shriram Automall, and OLX India, which it bought in 2023. Buyers browse cars, bikes and other goods; dealers, carmakers and lenders pay to reach them.",
+    "EARNS": "It earns from advertising and lead fees paid by carmakers and dealers on CarWale and BikeWale, auction fees from banks and finance firms on Shriram Automall, and listing fees and ads on OLX. Consumer classifieds are its largest segment.",
+    "SIZE": "India's largest online auto classifieds group and, with OLX, one of the country's biggest general classifieds platforms by visitors, alongside a large physical auction network.",
+    "RIVALS": "CarDekho, Cars24, Spinny and Droom in autos; Quikr and Facebook Marketplace in general classifieds; and other auction houses for repossessed and used vehicles.",
+    "WATCH": "Monetisation of OLX India, growth of used-car auctions on Shriram Automall, and new-car advertising spending by carmakers, which tracks how many new models are launched in India."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which classifieds platform did CarTrade buy in 2023?",
+     "options": [
+      "Quikr",
+      "OLX India",
+      "JustDial",
+      "Droom"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who pays CarTrade for leads on CarWale?",
+     "options": [
+      "Car buyers only",
+      "Fuel companies",
+      "Insurance regulators",
+      "Carmakers and dealers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a CarTrade rival?",
+     "options": [
+      "CarDekho",
+      "Ola Electric",
+      "Uber",
+      "Rapido"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CarTrade Tech runs CarWale, BikeWale, Shriram Automall auctions and OLX India, earning ads, lead and auction fees. Watch OLX monetisation and used-car auction growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "castrol",
+   "name": "Castrol India",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Saugata Basuray",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Castrol India makes and sells lubricants: engine oils for bikes and cars such as Castrol Activ, GTX, Magnatec and Edge, oils for trucks and tractors like CRB, and industrial and marine lubricants. Its parent BP agreed to sell a majority of the global Castrol business to US infrastructure firm Stonepeak, which triggered an open offer in India.",
+    "EARNS": "It earns by selling branded lubricants through workshops, retailers and vehicle makers. Automotive lubricants, especially for two-wheelers and passenger cars, bring in most of its revenue and profits, helped by strong brand pricing.",
+    "SIZE": "One of India's largest lubricant makers and the leading private-sector brand in automotive engine oils, sold through a very wide network of mechanics and retailers.",
+    "RIVALS": "Shell, Gulf Oil Lubricants, Indian Oil's Servo, HP Lubricants, Valvoline Cummins and Mobil, plus lubricants sold by vehicle makers under their own brands.",
+    "WATCH": "The change in global ownership from BP to Stonepeak, demand shifts as electric vehicles grow, and the plans of Saugata Basuray, a company veteran who became MD in June 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Castrol brand is aimed at motorcycles?",
+     "options": [
+      "Castrol Activ",
+      "Castrol Edge",
+      "Castrol CRB",
+      "Castrol Magnatec"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which investor agreed to buy a majority of Castrol from BP?",
+     "options": [
+      "Blackstone",
+      "KKR",
+      "Stonepeak",
+      "Brookfield"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which brand competes with Castrol?",
+     "options": [
+      "Asian Paints",
+      "Gulf Oil",
+      "Pidilite",
+      "Havells"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Castrol India is a leading lubricant maker with brands like Activ, GTX and Magnatec. Watch the shift of global ownership from BP to Stonepeak and EV-driven demand changes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ceat",
+   "name": "CEAT",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Arnab Banerjee",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CEAT, part of the RPG Group, makes tyres for two-wheelers, cars, trucks, buses, tractors and off-highway machines. It sells to vehicle makers and in the replacement market in India and abroad. In 2025 it bought Michelin's Camso brand of compact construction tracks and tyres.",
+    "EARNS": "Replacement tyres sold through dealers bring in most revenue and better margins than supplying vehicle makers. Two-wheeler and passenger-car tyres are its strongest categories, while exports and off-highway tyres are growing.",
+    "SIZE": "One of India's top tyre makers and a leader in two-wheeler tyres, with plants in Maharashtra, Gujarat, Tamil Nadu and Sri Lanka through a joint venture.",
+    "RIVALS": "MRF, Apollo Tyres, JK Tyre, Bridgestone and TVS Srichakra in Indian tyres, and Balkrishna Industries, Michelin and other global brands in off-highway and export tyres.",
+    "WATCH": "Integration of the Camso business it bought from Michelin, swings in natural rubber and crude-linked raw material prices, export growth, and new plant capacity it has announced."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group does CEAT belong to?",
+     "options": [
+      "Murugappa Group",
+      "RPG Group",
+      "Tata Group",
+      "Bajaj Group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Michelin brand did CEAT buy in 2025?",
+     "options": [
+      "BFGoodrich",
+      "Uniroyal",
+      "Kleber",
+      "Camso"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is CEAT's rival?",
+     "options": [
+      "MRF",
+      "Bosch",
+      "Exide",
+      "Amara Raja"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CEAT, an RPG Group tyre maker, is strong in two-wheeler and car tyres. Watch integration of Michelin's Camso brand, rubber prices and export growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cemindia-projects",
+   "name": "Cemindia Projects",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Jayanta Basu",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Cemindia Projects, formerly ITD Cementation India, is an engineering and construction company that builds ports, jetties and marine structures, metro rail, tunnels, dams, highways, airports and industrial buildings. It was renamed in 2025 after Renew Exim DMCC, linked to the Adani family, bought control from Italian-Thai Development.",
+    "EARNS": "It earns from construction contracts paid as work progresses. Marine works and urban infrastructure such as metro and tunnels are its biggest sources of revenue, with a growing share from industrial projects.",
+    "SIZE": "One of India's leading marine construction specialists and a mid-sized infrastructure contractor with decades of experience on ports, metros and hydro projects.",
+    "RIVALS": "Larsen & Toubro, Afcons Infrastructure, J Kumar Infraprojects, NCC and Tata Projects in metro, marine and urban infrastructure work, plus foreign contractors on large port projects.",
+    "WATCH": "Order wins under its new owners, execution of its large order book of ports, metros and tunnels, and expansion into international projects it has announced."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Cemindia Projects formerly called?",
+     "options": [
+      "ITD Cementation India",
+      "IRB Infrastructure",
+      "HCC",
+      "Gammon India"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is one of Cemindia's biggest work areas?",
+     "options": [
+      "Software",
+      "Marine works like ports and jetties",
+      "Retail stores",
+      "Film production"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Cemindia?",
+     "options": [
+      "Titan",
+      "Infosys",
+      "Afcons Infrastructure",
+      "HUL"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Cemindia Projects, formerly ITD Cementation, builds ports, metros, tunnels and dams. Now controlled by an Adani family-linked buyer. Watch order wins and execution.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "central-bank-of",
+   "name": "Central Bank of India",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kalyan Kumar",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Central Bank of India is a government-owned bank founded in 1911, the first Indian commercial bank wholly owned and controlled by Indians. It offers savings accounts, home, car and gold loans, farm and small-business loans, and corporate lending through a large rural and semi-urban branch network.",
+    "EARNS": "It earns the gap between interest on loans and interest paid on deposits. Retail, agriculture and MSME loans make up most of its book, and its large base of low-cost savings deposits helps keep funding costs down.",
+    "SIZE": "One of India's mid-sized public-sector banks, with one of the larger branch networks among state-owned lenders, especially in rural and semi-urban India.",
+    "RIVALS": "Bank of India, Bank of Maharashtra, UCO Bank and Indian Overseas Bank among state-owned lenders, plus SBI and private banks in retail and small-business lending.",
+    "WATCH": "Kalyan Kumar took over as MD & CEO in September 2025. Watch the equity raise shareholders approved in July 2026 to cut the government's stake, and loan growth and asset quality."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who became Central Bank of India's MD & CEO in September 2025?",
+     "options": [
+      "M. V. Rao",
+      "Kalyan Kumar",
+      "Rajneesh Karnatak",
+      "Nidhu Saxena"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "What makes up most of Central Bank's loan book?",
+     "options": [
+      "Retail, agriculture and MSME loans",
+      "Aircraft leases",
+      "Overseas corporate loans",
+      "Credit cards"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which bank is a PSU rival to Central Bank?",
+     "options": [
+      "Kotak Mahindra Bank",
+      "Bandhan Bank",
+      "UCO Bank",
+      "Yes Bank"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Central Bank of India is a government-owned bank with a large rural network and retail, farm and MSME focus. Watch new MD Kalyan Kumar and stake-reducing equity raises.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "chambal-fertilizers-and-chemicals",
+   "name": "Chambal Fertilisers and Chemicals",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Abhay Baijal",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Chambal Fertilisers, part of the K.K. Birla group, makes urea at its plants in Gadepan near Kota, Rajasthan, and sells it under the Uttam brand. It also trades imported fertilisers such as DAP and complex fertilisers, and sells crop-protection chemicals and specialty nutrients to farmers.",
+    "EARNS": "Urea made in its own plants is the core profit engine, sold at government-fixed prices with a subsidy paid by the government. Trading of imported fertilisers adds a large share of revenue at thinner margins.",
+    "SIZE": "One of India's largest private-sector urea makers, and a major fertiliser supplier to farmers across north, central and west India through a wide network of dealers.",
+    "RIVALS": "Coromandel International, Deepak Fertilisers, Rashtriya Chemicals & Fertilizers, National Fertilizers and cooperative giant IFFCO, plus importers of DAP and complex fertilisers.",
+    "WATCH": "A technical ammonium nitrate plant it has announced at Kota, changes in the fertiliser subsidy system, gas prices for urea plants and monsoon-driven farm demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Under which brand does Chambal sell fertilisers?",
+     "options": [
+      "Uttam",
+      "Gromor",
+      "Kisan",
+      "Mahadhan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How is Chambal's urea priced?",
+     "options": [
+      "Freely by the market",
+      "At government-fixed prices with a subsidy",
+      "Through auctions",
+      "By export contracts only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which cooperative competes with Chambal?",
+     "options": [
+      "Amul",
+      "NAFED",
+      "Mother Dairy",
+      "IFFCO"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Chambal Fertilisers, a K.K. Birla group company, makes Uttam urea in Rajasthan and trades other fertilisers. Watch subsidy policy, gas prices and its new ammonium nitrate plant.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "chennai-petroleum",
+   "name": "Chennai Petroleum (CPCL)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "H. Shankar",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Chennai Petroleum Corporation is a refining company and a subsidiary of Indian Oil. It runs the Manali refinery in Chennai, turning crude oil into petrol, diesel, jet fuel, LPG, lubricant base oils and petrochemical feedstocks. Most of its output goes to Indian Oil for marketing.",
+    "EARNS": "It earns the refining margin, the gap between the price of crude oil and the value of the fuels it produces. Diesel and petrol make up most of its output, and profits swing with global refining margins.",
+    "SIZE": "One of India's mid-sized refiners and a key fuel supplier for Tamil Nadu and south India, with its Manali refinery running above its rated capacity in recent years.",
+    "RIVALS": "Mangalore Refinery and Petrochemicals, Hindustan Petroleum, Bharat Petroleum, Reliance Industries and Nayara Energy in refining and fuel supply across India.",
+    "WATCH": "The new Cauvery Basin refinery at Nagapattinam it is building with Indian Oil, global refining margins and crude prices, and director changes approved by the government."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is CPCL's parent?",
+     "options": [
+      "Bharat Petroleum",
+      "ONGC",
+      "Indian Oil",
+      "Reliance"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does CPCL mainly earn money?",
+     "options": [
+      "Refining margins on fuels",
+      "Selling cars",
+      "Mobile data",
+      "Toll collection"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where is CPCL building its new refinery?",
+     "options": [
+      "Paradip",
+      "Nagapattinam",
+      "Barmer",
+      "Jamnagar"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Chennai Petroleum, an Indian Oil subsidiary, runs the Manali refinery and earns refining margins. Watch its new Nagapattinam refinery project and global refining margins.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "choice-international",
+   "name": "Choice International",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kamal Poddar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Choice International offers stockbroking, wealth and insurance distribution, loans through its NBFC arm, and consulting services for governments and companies on infrastructure, energy and e-governance projects. Its customers range from retail traders to state agencies.",
+    "EARNS": "Broking and distribution of financial products bring in the largest share of revenue. Government advisory and consulting work is a fast-growing second engine, while its lending arm adds interest income.",
+    "SIZE": "A mid-sized Indian financial services group, smaller than large brokers like Angel One, but growing quickly with branches and partners across many smaller towns.",
+    "RIVALS": "Angel One, Motilal Oswal, Zerodha and Groww in broking; Nuvama and other wealth firms in distribution; and consulting firms in government advisory work.",
+    "WATCH": "Growth of its broking client base after market rule changes on derivatives trading, new government consulting mandates, and expansion of its lending arm."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these businesses does Choice International run?",
+     "options": [
+      "Stockbroking",
+      "Airline",
+      "Hotel chain",
+      "Cement plant"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Choice's fast-growing second engine?",
+     "options": [
+      "Cement sales",
+      "Government advisory and consulting",
+      "Food delivery",
+      "Shipping"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which broker competes with Choice?",
+     "options": [
+      "CRISIL",
+      "CAMS",
+      "BSE",
+      "Angel One"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Choice International offers broking, financial product distribution, lending and government consulting. Watch broking growth after derivatives rule changes and new consulting mandates.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cholamandalam-financial-holdings",
+   "name": "Cholamandalam Financial Holdings",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Vellayan Subbiah",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Cholamandalam Financial Holdings is the Murugappa Group's holding company for financial services. It owns a controlling stake in Chola, the vehicle, home and business-loan lender, and a majority stake in Cholamandalam MS General Insurance, its joint venture with Japan's Mitsui Sumitomo.",
+    "EARNS": "Its income comes from the businesses it controls: consolidated results are dominated by Chola's lending, which earns interest on vehicle, home and small-business loans. The general insurance arm adds motor, health and property insurance premiums.",
+    "SIZE": "One of India's larger financial holding companies, whose main subsidiary Chola is among the country's biggest vehicle-finance lenders, with a growing home-loan and small-business book.",
+    "RIVALS": "Bajaj Finserv as a fellow financial holding company; Shriram Finance and Mahindra Finance in vehicle loans; ICICI Lombard and Bajaj Allianz General in insurance.",
+    "WATCH": "Loan growth and bad loans at Chola, growth of the general insurance joint venture, and regulatory rules for holding companies of NBFCs, which shape how capital moves across the group."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group owns Cholamandalam Financial Holdings?",
+     "options": [
+      "Tata Group",
+      "TVS Group",
+      "Murugappa Group",
+      "Mahindra Group"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What dominates the holding company's consolidated results?",
+     "options": [
+      "Chola's lending business",
+      "Cement sales",
+      "Hotel rooms",
+      "Software exports"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Japanese firm is its insurance partner?",
+     "options": [
+      "Tokio Marine",
+      "Mitsui Sumitomo",
+      "Nippon Life",
+      "Sompo"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Cholamandalam Financial Holdings is the Murugappa Group's holding company for Chola, a major vehicle lender, and Chola MS general insurance. Watch Chola's loan growth and asset quality.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "city-union-bank",
+   "name": "City Union Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Kumbakonam, Tamil Nadu",
+    "leader": "N. Kamakodi",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "City Union Bank is an old private-sector bank founded in 1904 in Kumbakonam, Tamil Nadu. It lends mainly to small businesses, traders and farmers, and offers gold loans, home loans and savings accounts, with most branches in Tamil Nadu.",
+    "EARNS": "It earns the gap between interest on loans and interest paid on deposits. Loans to MSMEs and traders and gold loans make up most of its book, and its long relationships with small businesses help it charge good rates.",
+    "SIZE": "One of India's oldest private banks and a mid-sized lender, with a dense branch network in Tamil Nadu and a growing presence in other southern states.",
+    "RIVALS": "Karur Vysya Bank, Tamilnad Mercantile Bank, South Indian Bank and Federal Bank, plus Indian Bank and other banks with large branch networks in Tamil Nadu.",
+    "WATCH": "Loan growth outside Tamil Nadu, its push into digital lending, gold-loan rules from the RBI, and asset quality in small-business loans as competition from larger banks grows."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is City Union Bank headquartered?",
+     "options": [
+      "Chennai",
+      "Kumbakonam",
+      "Madurai",
+      "Coimbatore"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are City Union Bank's main borrowers?",
+     "options": [
+      "Large corporates",
+      "Small businesses, traders and gold-loan customers",
+      "Foreign governments",
+      "Airlines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which bank is a City Union Bank rival?",
+     "options": [
+      "Karur Vysya Bank",
+      "HSBC",
+      "Citibank",
+      "DBS"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "City Union Bank is an old Tamil Nadu private bank lending mainly to small businesses, traders and gold-loan customers. Watch growth outside its home state and RBI gold-loan rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "clean-max-enviro-energy-solutions",
+   "name": "CleanMax",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kuldeep Jain",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "CleanMax builds and runs solar, wind and hybrid power plants that supply renewable electricity directly to companies such as factories, data centres and offices, usually under long-term power purchase agreements. It also offers rooftop solar. It listed on the NSE and BSE in March 2026.",
+    "EARNS": "It earns by selling green power to corporate customers at agreed tariffs over many years. Large open-access solar and wind farms supplying multiple companies bring in most of its revenue, with rooftop projects a smaller share.",
+    "SIZE": "One of India's largest commercial and industrial renewable energy providers, serving many well-known Indian and multinational companies across manufacturing, technology and data centres.",
+    "RIVALS": "Fourth Partner Energy, AMPIN Energy Transition, Tata Power Renewables, Adani Green Energy and ReNew in renewable power for businesses, plus state utilities that also supply industry.",
+    "WATCH": "New capacity it is building for data centres and industrial customers, state open-access rules for selling power directly to companies, and use of money raised at its listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are CleanMax's main customers?",
+     "options": [
+      "Households",
+      "Companies like factories and data centres",
+      "State electricity boards only",
+      "Railways"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does CleanMax earn?",
+     "options": [
+      "Selling solar panels in shops",
+      "Coal mining",
+      "Long-term green power contracts with companies",
+      "Electric car sales"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with CleanMax?",
+     "options": [
+      "Fourth Partner Energy",
+      "Coal India",
+      "BPCL",
+      "GAIL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CleanMax supplies solar and wind power directly to companies under long-term contracts. Listed in March. Watch data-centre demand and state open-access rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "clean-science-and-technology",
+   "name": "Clean Science and Technology",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Ashok Boob",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Clean Science and Technology makes specialty chemicals using its own catalytic processes that cut waste and energy use. Products include MEHQ and BHA used as polymer inhibitors and food antioxidants, anisole and guaiacol used in fragrances and medicines, and new hindered amine light stabilisers for plastics made by its subsidiary Clean Fino-Chem.",
+    "EARNS": "Performance chemicals such as MEHQ and BHA bring in the largest share of revenue, followed by pharma and agro intermediates and FMCG chemicals. Exports to China, Europe and the US make up a large part of sales, and its low-cost green processes give it strong margins.",
+    "SIZE": "One of the world's largest makers of several niche chemicals such as MEHQ and anisole, and among the most profitable mid-sized chemical companies in India.",
+    "RIVALS": "Camlin Fine Sciences, Vinati Organics and Atul in India, and global chemical makers such as Solvay, Eastman and Chinese producers in its export markets.",
+    "WATCH": "Ramp-up of its new hindered amine light stabiliser plants, pricing pressure from Chinese competitors, and new products it is developing at its Kurkumbh site near Pune."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What sets Clean Science's manufacturing apart?",
+     "options": [
+      "Hand-made batches",
+      "Its own catalytic processes that cut waste",
+      "Imported finished goods",
+      "Outsourced production in China"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which segment brings Clean Science the largest share of revenue?",
+     "options": [
+      "Performance chemicals like MEHQ and BHA",
+      "Paints",
+      "Fertilisers",
+      "Steel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Indian company is a rival?",
+     "options": [
+      "Asian Paints",
+      "Pidilite",
+      "Berger Paints",
+      "Camlin Fine Sciences"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Clean Science makes niche specialty chemicals like MEHQ, BHA and anisole using its own green catalytic processes. Watch ramp-up of new light-stabiliser plants and Chinese competition.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cohance-lifesciences",
+   "name": "Cohance Lifesciences",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Umang Vohra",
+    "leader_role": "Executive Chairman & Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Cohance Lifesciences is a contract development and manufacturing company that makes drug ingredients and intermediates for global pharmaceutical and specialty chemical companies. It was formed by merging Suven Pharmaceuticals with Advent International's Cohance, and it also offers antibody-drug conjugate services through NJ Bio in the US.",
+    "EARNS": "It earns by developing and producing molecules under contracts with innovator drug companies, often for drugs under patent. Pharma CDMO work for global innovators brings in most revenue, with specialty chemicals and generic ingredients adding the rest.",
+    "SIZE": "One of India's larger contract drug-manufacturing platforms, backed by private equity firm Advent International, and still building scale against bigger rivals.",
+    "RIVALS": "Divi's Laboratories, Syngene International, Piramal Pharma Solutions, Neuland Laboratories and Sai Life Sciences in Indian contract manufacturing, plus global CDMOs.",
+    "WATCH": "Former Cipla chief Umang Vohra took over as executive chairman and group CEO in May 2026; watch his strategy, new client wins and growth of its antibody-drug conjugate business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which two businesses merged to form Cohance Lifesciences?",
+     "options": [
+      "Suven Pharmaceuticals and Cohance",
+      "Cipla and Suven",
+      "Divi's and Cohance",
+      "Lupin and Suven"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Cohance's executive chairman and group CEO in 2026?",
+     "options": [
+      "Kiran Mazumdar-Shaw",
+      "Dilip Shanghvi",
+      "Umang Vohra",
+      "Glenn Saldanha"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a CDMO rival to Cohance?",
+     "options": [
+      "Syngene International",
+      "Dabur",
+      "Marico",
+      "Emami"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Cohance Lifesciences is an Advent-backed contract drug manufacturer formed from Suven and Cohance. Watch new chief Umang Vohra's strategy, client wins and its antibody-drug conjugate business.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "computer-age-management-services",
+   "name": "Computer Age Management Services (CAMS)",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Anuj Kumar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "CAMS runs the back office for mutual funds: it processes transactions by fund unitholders, maintains records and sends statements as a registrar and transfer agent. It also offers payment services through CAMSPay, KYC records, insurance repository services, an account aggregator and services for alternative funds.",
+    "EARNS": "Mutual fund registrar services bring in most revenue, earned as fees linked to the assets of the funds it serves. Growth in mutual fund assets lifts its income, while newer businesses add smaller fee streams.",
+    "SIZE": "India's largest registrar and transfer agent for mutual funds, serving most of the country's biggest fund houses and handling a majority of industry assets.",
+    "RIVALS": "KFin Technologies is its main rival in mutual fund services; NSDL, CDSL and fintech firms compete in KYC, payments and account aggregation services for financial firms.",
+    "WATCH": "Fee pressure from fund houses when contracts are renewed, growth in mutual fund assets and SIPs, and the scale-up of its non-mutual-fund businesses such as payments."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is CAMS's main role for mutual funds?",
+     "options": [
+      "Selling funds door-to-door",
+      "Registrar and transfer agent",
+      "Fund manager",
+      "Stock exchange"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is CAMS's main rival in mutual fund services?",
+     "options": [
+      "KFin Technologies",
+      "Zerodha",
+      "CRISIL",
+      "BSE"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "How are CAMS's mutual fund fees mainly linked?",
+     "options": [
+      "To the assets of the funds it serves",
+      "To petrol prices",
+      "To rainfall",
+      "To gold prices"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "CAMS is India's largest mutual fund registrar, earning fees linked to fund assets, plus payments, KYC and other services. Watch fee pressure and mutual fund asset growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "concord-biotech",
+   "name": "Concord Biotech",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Sudhir Vaid",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Concord Biotech makes drug ingredients through fermentation, a process that uses microbes to produce complex molecules. Its main products are immunosuppressants used after organ transplants, such as tacrolimus, mycophenolate and cyclosporine, plus oncology, antifungal and anti-infective ingredients and finished formulations.",
+    "EARNS": "Selling fermentation-based active ingredients to drug makers in the US, Europe, Japan and India brings in most revenue. Finished formulations are a smaller but growing segment, and immunosuppressants are its biggest product family.",
+    "SIZE": "One of the world's leading makers of fermentation-based immunosuppressant ingredients, and among the few Indian companies with large-scale fermentation capacity. It listed in August 2023.",
+    "RIVALS": "Biocon in fermentation-based ingredients, plus global makers such as Teva and Chinese fermentation producers that compete on immunosuppressants and antibiotics.",
+    "WATCH": "Its new formulations and injectables capacity, approvals from US and European regulators for new products, and expansion into new fermentation molecules it has announced."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What production process is Concord Biotech known for?",
+     "options": [
+      "Fermentation using microbes",
+      "Chemical synthesis only",
+      "Plant extraction",
+      "3D printing"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which product family is Concord's biggest?",
+     "options": [
+      "Vaccines",
+      "Painkillers",
+      "Immunosuppressants",
+      "Vitamins"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Indian company is a rival in fermentation?",
+     "options": [
+      "Dabur",
+      "Biocon",
+      "Marico",
+      "Emami"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Concord Biotech makes fermentation-based drug ingredients, especially transplant immunosuppressants, for drug makers worldwide. Watch new formulations capacity and regulatory approvals for new products.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "container-of",
+   "name": "Container Corporation of India (CONCOR)",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Ajit Kumar Panda",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "CONCOR, a government company under the Ministry of Railways, moves shipping containers by rail between ports and inland cities. It runs a large network of inland container depots and container freight stations, and also offers warehousing, first and last-mile road transport and cold-chain services.",
+    "EARNS": "Export-import (EXIM) container movement between ports and inland depots brings in most revenue, while domestic container traffic is smaller but growing. It earns freight charges, terminal fees and handling and storage charges.",
+    "SIZE": "India's largest container rail operator by a wide margin, with the biggest network of inland container depots in the country and a dominant share of container trains running to major ports.",
+    "RIVALS": "Adani Logistics, Gateway Distriparks, Hind Terminals and other private container train operators, plus road trucking companies that compete for cargo on many shorter routes.",
+    "WATCH": "Ajit Kumar Panda took over as CMD in August 2026; watch growth of traffic on the dedicated freight corridors, land-licence fees paid to railways, and domestic container growth."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which ministry does CONCOR fall under?",
+     "options": [
+      "Ministry of Shipping",
+      "Ministry of Railways",
+      "Ministry of Road Transport",
+      "Ministry of Commerce"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business brings CONCOR most revenue?",
+     "options": [
+      "Passenger trains",
+      "Domestic airlines",
+      "Export-import container movement",
+      "Pipeline transport"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became CONCOR's CMD in August 2026?",
+     "options": [
+      "Sanjay Swarup",
+      "Ajit Kumar Panda",
+      "K. Sadashiv Murthy",
+      "Shantanu Roy"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "CONCOR is India's largest container rail operator, moving export-import and domestic boxes via inland depots. Watch new CMD Ajit Kumar Panda and freight-corridor traffic growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "coromandel-international",
+   "name": "Coromandel International",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "S. Sankarasubramanian",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Coromandel International, part of the Murugappa Group, makes phosphatic and complex fertilisers sold under the Gromor brand, plus crop-protection chemicals, organic fertilisers and specialty nutrients. It runs Mana Gromor rural retail stores and took control of crop-protection maker NACL Industries in 2025.",
+    "EARNS": "Nutrient and allied products, mainly phosphatic fertilisers sold under a government subsidy system, bring in most revenue. Crop protection is smaller but earns higher margins, and it is growing through NACL and new products.",
+    "SIZE": "India's largest private-sector maker of phosphatic fertilisers and one of the country's leading agri-input companies, with especially strong reach in south India.",
+    "RIVALS": "Chambal Fertilisers, Paradeep Phosphates, Deepak Fertilisers and cooperative IFFCO in fertilisers; UPL, PI Industries and Dhanuka Agritech in crop protection.",
+    "WATCH": "Integration of NACL Industries, new fertiliser and phosphoric acid capacity it has announced, changes to the nutrient-based subsidy, and monsoon-driven farm demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Under which brand does Coromandel sell fertilisers?",
+     "options": [
+      "Uttam",
+      "Gromor",
+      "Mahadhan",
+      "Godavari"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which crop-protection company did Coromandel take control of in 2025?",
+     "options": [
+      "Dhanuka Agritech",
+      "Rallis India",
+      "NACL Industries",
+      "Bayer CropScience"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company competes with Coromandel in fertilisers?",
+     "options": [
+      "Paradeep Phosphates",
+      "Asian Paints",
+      "Pidilite",
+      "Tata Elxsi"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Coromandel International, a Murugappa company, is India's largest private phosphatic fertiliser maker under the Gromor brand. Watch NACL integration, new capacity and subsidy changes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "craftsman-automation",
+   "name": "Craftsman Automation",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Coimbatore, Tamil Nadu",
+    "leader": "Srinivasan Ravi",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Craftsman Automation makes precision-machined engine parts such as cylinder blocks and heads for trucks, tractors and construction equipment; aluminium die-cast parts for cars and two-wheelers; and industrial products like storage solutions and gearboxes. It expanded in aluminium castings by buying Sunbeam Lightweighting in 2024.",
+    "EARNS": "Its powertrain business, machining engine and transmission parts for commercial vehicles and tractors, has been its biggest profit driver. Aluminium products have grown into a major revenue segment after the Sunbeam acquisition.",
+    "SIZE": "One of India's leading machining specialists for commercial-vehicle engine parts, and among the larger aluminium die-casting suppliers after its acquisitions.",
+    "RIVALS": "Endurance Technologies, Rico Auto, Sundram Fasteners, Bharat Forge and Sandhar Technologies in auto components, and Godrej Storage Solutions in industrial storage.",
+    "WATCH": "Integration of Sunbeam Lightweighting, new plants it has announced, commercial-vehicle and tractor demand, and supply to global customers for exports."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Craftsman Automation headquartered?",
+     "options": [
+      "Pune",
+      "Chennai",
+      "Gurugram",
+      "Coimbatore"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company did Craftsman buy in 2024 to grow aluminium castings?",
+     "options": [
+      "Sunbeam Lightweighting",
+      "Endurance Technologies",
+      "Rico Auto",
+      "Minda Industries"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company competes with Craftsman?",
+     "options": [
+      "Bajaj Auto",
+      "Rico Auto",
+      "Ashok Leyland",
+      "Eicher Motors"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Craftsman Automation machines engine parts for trucks and tractors and makes aluminium castings for cars and bikes. Watch Sunbeam integration, new plants and commercial-vehicle demand.",
+   "review": "unreviewed"
+  }
+ ]
+}

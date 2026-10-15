@@ -1,0 +1,2547 @@
+{
+ "_meta": {
+  "batch": "010",
+  "about": "Nifty 500 tail (U to Z) plus unlisted startups: ed-tech, B2B commerce, agritech. Leaders checked on the web where possible; others marked not re-checked.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "uno-minda",
+   "name": "UNO Minda",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ravi Mehra",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "UNO Minda makes auto parts: lighting, switches, horns, alloy wheels, seating systems, sensors and a growing range of electric-vehicle parts such as motor controllers and chargers. Its buyers are two-wheeler, car and commercial-vehicle makers, plus the replacement market.",
+    "EARNS": "It earns by supplying parts under long relationships with vehicle makers, with a steady aftermarket business on top. Switches and lighting for two-wheelers and cars are its core, and it runs several joint ventures with Japanese and Chinese partners for technology.",
+    "SIZE": "One of India's largest auto component groups and a leading supplier of switches and automotive lighting, with plants across India and some overseas. Its customer list includes most major Indian vehicle makers.",
+    "RIVALS": "Lumax Industries in lighting, Varroc Engineering, Bosch, Spark Minda (Minda Corporation, a separate group) and Sona Comstar in EV parts. Global suppliers such as Valeo also compete for lighting and electronics orders.",
+    "WATCH": "In 2025 Nirmal Minda became executive chairman and Ravi Mehra took over as managing director. Watch its new plants for EV components and alloy wheels, and how fast electric two-wheeler demand grows."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who became UNO Minda's managing director in 2025?",
+     "options": [
+      "Ravi Mehra",
+      "Nirmal Minda",
+      "Ashok Minda",
+      "Vivek Chaand Sehgal"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which of these is a core UNO Minda product line?",
+     "options": [
+      "Tyres",
+      "Automotive switches and lighting",
+      "Engine pistons",
+      "Car batteries"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to UNO Minda in automotive lighting?",
+     "options": [
+      "Asian Paints",
+      "Havells",
+      "Lumax Industries",
+      "Amara Raja"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "UNO Minda supplies switches, lighting, alloy wheels and EV parts to Indian vehicle makers. Ravi Mehra now runs it day to day; watch its electric-vehicle components push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "uti-asset-management",
+   "name": "UTI Asset Management (UTI AMC)",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vetri Subramaniam",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "UTI AMC runs UTI Mutual Fund, one of India's oldest fund houses, which grew out of the government's Unit Trust of India. It offers equity, debt, hybrid and index funds to households, and also manages pension money through UTI Retirement Solutions and funds for overseas clients.",
+    "EARNS": "It earns a management fee on the money in its schemes, charged as a small share of assets each year. Equity funds earn the richest fees; its pension and offshore businesses add steadier income. Its large shareholders include SBI, LIC, Bank of Baroda, PNB and T. Rowe Price.",
+    "SIZE": "One of India's larger mutual fund houses and among the oldest, with a strong presence in smaller towns through a wide distributor network. Its pension and offshore arms widen its reach beyond mutual funds.",
+    "RIVALS": "SBI Mutual Fund, HDFC AMC, ICICI Prudential AMC, Nippon India Mutual Fund and Kotak Mutual Fund. In pension fund management it competes with SBI Pension Funds, HDFC Pension and LIC Pension Fund.",
+    "WATCH": "Vetri Subramaniam, its long-time chief of fund management, became MD & CEO in February 2026, succeeding Imtaiyazur Rahman. Watch SEBI's changes to fund expense rules and whether UTI regains share in equity funds."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who became UTI AMC's MD & CEO in February 2026?",
+     "options": [
+      "Imtaiyazur Rahman",
+      "Nilesh Shah",
+      "Navneet Munot",
+      "Vetri Subramaniam"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "How does UTI AMC mainly earn money?",
+     "options": [
+      "Management fees on the money in its schemes",
+      "Interest on loans",
+      "Brokerage on share trades",
+      "Insurance premiums"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a rival fund house?",
+     "options": [
+      "Bajaj Housing Finance",
+      "HDFC AMC",
+      "CRISIL",
+      "CDSL"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "UTI AMC runs UTI Mutual Fund, a fund house born from the Unit Trust of India, earning fees on schemes and pensions. Vetri Subramaniam took charge in 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "usha-martin",
+   "name": "Usha Martin",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Rajeev Jhawar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Usha Martin makes steel wire ropes, wires and strands used in oil rigs, mines, cranes, elevators, bridges and fishing. It also makes related products like cables and conveyor cord. It sold its steel-making business to Tata Steel in 2019 to focus on wire ropes.",
+    "EARNS": "It earns by selling specialised ropes, often engineered to order for oil and gas, mining and infrastructure customers. A large part of revenue comes from exports, helped by its plants and distribution units in the UK, the UAE and Thailand alongside its Indian plants in Ranchi and Hoshiarpur.",
+    "SIZE": "One of the world's leading makers of steel wire ropes and among the largest in India, with a global sales and service network. Its ropes are used on oil platforms, in mines and on cranes in many countries.",
+    "RIVALS": "Bharat Wire Ropes in India, and global players such as Bridon-Bekaert and WireCo WorldGroup. It also competes with Chinese and Korean rope makers in export markets, especially on price.",
+    "WATCH": "Watch its push into high-value ropes for offshore oil, mining and elevators, demand from infrastructure projects, and how trade tariffs affect its export markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Usha Martin's main product?",
+     "options": [
+      "Copper wires for homes",
+      "Galvanised roofing sheets",
+      "Steel wire ropes",
+      "Aluminium foil"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business did Usha Martin sell to Tata Steel in 2019?",
+     "options": [
+      "Its rope business",
+      "Its cable business",
+      "Its UK unit",
+      "Its steel-making business"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which Indian company is a rival in wire ropes?",
+     "options": [
+      "Bharat Wire Ropes",
+      "Polycab",
+      "APL Apollo",
+      "Ratnamani Metals"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Usha Martin makes specialised steel wire ropes for oil rigs, mines, cranes and elevators, with a large export business. It exited steel-making in 2019 to focus on ropes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vardhman-textiles",
+   "name": "Vardhman Textiles",
+   "type": "listed",
+   "industry": "textiles-apparel",
+   "profile": {
+    "hq": "Ludhiana, Punjab",
+    "leader": "Neeraj Jain",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Vardhman Textiles makes cotton and blended yarn, woven fabrics, acrylic fibre and some garments. Its buyers are fabric mills, garment exporters and global apparel brands. It is the flagship of the Ludhiana-based Vardhman group.",
+    "EARNS": "Yarn is its largest business, sold to weavers and knitters in India and abroad; fabric is the second pillar. Profits swing with cotton prices and the gap between cotton and yarn prices, so buying cotton well matters a lot.",
+    "SIZE": "One of India's largest textile companies and among its biggest yarn spinners, with mills spread across Punjab, Himachal Pradesh and Madhya Pradesh. Its scale in yarn gives it strong buying power in cotton.",
+    "RIVALS": "Trident, Arvind, KPR Mill, Nitin Spinners and Welspun Living in parts of the value chain. Exporters from Bangladesh, Vietnam and China also compete for global garment orders.",
+    "WATCH": "Watch cotton prices, US tariffs on Indian textile exports, and the India-UK trade deal, which opens up a market for Indian fabrics and garments. Also watch government support for textiles under the PM MITRA parks scheme."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Vardhman Textiles' largest business?",
+     "options": [
+      "Home furnishing retail",
+      "Yarn",
+      "Denim jeans brand",
+      "Polyester chips"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "In which city is Vardhman Textiles based?",
+     "options": [
+      "Surat",
+      "Coimbatore",
+      "Ludhiana",
+      "Tiruppur"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a textile rival of Vardhman?",
+     "options": [
+      "Page Industries",
+      "Raymond Lifestyle",
+      "Bata",
+      "Trident"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vardhman Textiles is a major Indian yarn and fabric maker from Ludhiana. Profits ride on cotton prices; watch US tariffs and the India-UK trade deal.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vedanta-aluminium-metal",
+   "name": "Vedanta Aluminium Metal",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rajiv Kumar",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Vedanta Aluminium makes primary aluminium, in ingots, billets, wire rods and rolled products, sold to power, auto, packaging and construction customers in India and abroad. It was carved out of Vedanta Ltd and listed separately in June 2026 as part of the group's demerger.",
+    "EARNS": "It earns by selling aluminium at prices linked to the London Metal Exchange, so global prices drive profits. Its edge is low cost: it makes its own alumina at Lanjigarh in Odisha and runs captive power for its smelters at Jharsuguda in Odisha and BALCO in Chhattisgarh.",
+    "SIZE": "India's largest aluminium producer and one of the biggest outside China. It runs some of the largest aluminium smelters in the world, in Odisha and Chhattisgarh, backed by its own alumina refinery.",
+    "RIVALS": "Hindalco Industries and state-owned NALCO in India, and global producers such as Rio Tinto, Alcoa and Chinese smelters. Imports also compete in India.",
+    "WATCH": "Vedanta has announced plans to roughly double smelting capacity and expand the Lanjigarh refinery. Watch bauxite and coal mine supply, the new company's debt after the demerger, and global aluminium prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "When was Vedanta Aluminium listed as a separate company?",
+     "options": [
+      "June 2026",
+      "March 2020",
+      "January 2024",
+      "It is not listed"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What mainly drives Vedanta Aluminium's profits?",
+     "options": [
+      "Mobile tariffs",
+      "Global aluminium prices and its production cost",
+      "Government subsidies on fertiliser",
+      "Retail store sales"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which state-owned company competes with Vedanta Aluminium?",
+     "options": [
+      "NMDC",
+      "SAIL",
+      "NALCO",
+      "Coal India"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vedanta Aluminium, demerged and listed in 2026, is India's largest aluminium maker, with its own alumina refinery and power. Watch its smelter expansion and global aluminium prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vedanta-iron-and-steel",
+   "name": "Vedanta Iron and Steel",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Anil Agarwal",
+    "leader_role": "Chairman, Vedanta Group",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Vedanta Iron and Steel holds the group's iron ore mines in Goa and Karnataka, the ESL Steel plant in Bokaro, Jharkhand, and pig iron and metallurgical coke units. It was separated from Vedanta Ltd and listed on its own in June 2026.",
+    "EARNS": "It earns from selling iron ore, pig iron and steel products such as long steel and ductile iron pipes. Steel from ESL is the largest piece, while ore from its own mines lowers its raw material costs.",
+    "SIZE": "A mid-sized steel and iron ore player with large iron ore resources, much smaller than India's top steelmakers. Its iron ore mines in Goa were once among India's biggest ore exporters.",
+    "RIVALS": "JSW Steel, Tata Steel, Jindal Steel, SAIL and NMDC in iron ore. Its iron ore business also competes with private miners in Odisha and Karnataka. Imports too.",
+    "WATCH": "The group has announced plans to expand ESL Steel and move into electrical, specialty and green steel. Watch mining restarts in Goa, steel prices and cheap imports."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Vedanta's ESL Steel plant?",
+     "options": [
+      "Vizag, Andhra Pradesh",
+      "Bellary, Karnataka",
+      "Raigarh, Chhattisgarh",
+      "Bokaro, Jharkhand"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a larger rival steelmaker?",
+     "options": [
+      "JSW Steel",
+      "Hindustan Zinc",
+      "Hindalco",
+      "NALCO"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What new steel areas has the group said it will focus on?",
+     "options": [
+      "Stainless cutlery",
+      "Electrical, specialty and green steel",
+      "Steel roofing retail",
+      "Shipbuilding"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Vedanta Iron and Steel, demerged in 2026, combines Goa and Karnataka iron ore mines with ESL Steel in Bokaro. Watch its expansion plans and steel prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vedanta-oil-and-gas",
+   "name": "Vedanta Oil and Gas (Cairn)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Nick Walker",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Vedanta Oil and Gas, known as Cairn Oil and Gas, produces crude oil and natural gas, mainly from the Rajasthan block in Barmer, with smaller offshore fields at Ravva and in Cambay. It was demerged from Vedanta Ltd and listed separately in June 2026.",
+    "EARNS": "It earns by selling crude and gas at prices linked to global benchmarks, after sharing profit with the government under production-sharing contracts. Rajasthan's Mangala, Bhagyam and Aishwariya fields bring in most of its income.",
+    "SIZE": "India's largest private-sector producer of crude oil, behind only state-owned ONGC overall among domestic producers. Its Rajasthan fields are among the largest onshore oil discoveries in India.",
+    "RIVALS": "ONGC and Oil India in exploration and production, and Reliance Industries in gas. Global oil producers set the prices it gets, so it also competes indirectly with imported crude.",
+    "WATCH": "Watch the extension of its Rajasthan contract with the government, new exploration blocks it won in government licensing rounds, its stated ambition to raise output sharply, and global oil prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Cairn's main oil block?",
+     "options": [
+      "Assam",
+      "Bombay High",
+      "Barmer, Rajasthan",
+      "KG Basin"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How are Cairn's oil prices set?",
+     "options": [
+      "Fixed by Vedanta",
+      "Set by OPEC for India only",
+      "By retail petrol pumps",
+      "Linked to global benchmarks"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which state-owned company is Cairn's biggest rival?",
+     "options": [
+      "ONGC",
+      "BPCL",
+      "GAIL",
+      "IOC"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vedanta Oil and Gas, or Cairn, is India's largest private crude producer, centred on Rajasthan's Barmer fields. Watch contract extensions, new blocks and global oil prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vedanta-power",
+   "name": "Vedanta Power",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rajinder Singh Ahuja",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Vedanta Power runs coal-fired power plants, including Talwandi Sabo in Punjab, and sells electricity to state utilities and on power exchanges. It was demerged from Vedanta Ltd and listed separately in June 2026.",
+    "EARNS": "It earns from long-term power purchase agreements with state electricity boards, which give steady income, plus sales on power exchanges when prices are high. Talwandi Sabo, which supplies Punjab, is its anchor plant.",
+    "SIZE": "One of India's larger private thermal power producers, though well behind NTPC and Adani Power. Talwandi Sabo in Punjab is among the larger private thermal plants in North India.",
+    "RIVALS": "NTPC, Adani Power, Tata Power, JSW Energy and Torrent Power. Renewable producers such as Adani Green and ReNew also compete for state utility contracts.",
+    "WATCH": "Vedanta has announced plans to add generating capacity and to explore hydro and nuclear power. Watch coal supply, new power purchase agreements and rising peak electricity demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which plant is Vedanta Power's anchor asset?",
+     "options": [
+      "Mundra",
+      "Talwandi Sabo",
+      "Tiroda",
+      "Sasan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who buys most of Vedanta Power's electricity?",
+     "options": [
+      "Households directly",
+      "Foreign buyers",
+      "State utilities under long-term agreements",
+      "Railways only"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival thermal power producer?",
+     "options": [
+      "Suzlon",
+      "Inox Wind",
+      "Waaree",
+      "Adani Power"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vedanta Power, demerged in 2026, runs coal power plants like Talwandi Sabo and sells mainly to state utilities. Watch its capacity additions and hydro, nuclear ambitions.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vijaya-diagnostic-centre",
+   "name": "Vijaya Diagnostic Centre",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Suprita Reddy",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Vijaya Diagnostic runs diagnostic centres that offer both pathology tests, like blood work, and radiology, like MRI and CT scans, under one roof. Most of its patients walk in directly. It is strongest in Telangana and Andhra Pradesh and has expanded into Kolkata, Pune and Bengaluru.",
+    "EARNS": "It earns fees per test, mostly from walk-in patients rather than hospital referrals or labs. Combining radiology with pathology lifts revenue per visit, and its home market of Hyderabad drives most of its income.",
+    "SIZE": "One of India's leading diagnostic chains and the largest in South India's Telugu states by most accounts. It has built a strong brand among patients in Hyderabad over decades.",
+    "RIVALS": "Dr Lal PathLabs, Metropolis Healthcare, Thyrocare, Apollo Diagnostics and Tata 1mg Labs. Hospital-run labs and local standalone diagnostic centres also compete in every city.",
+    "WATCH": "Watch its new hub centres outside the Telugu states, how quickly new centres break even, and price competition from online lab-test platforms. Also watch leadership changes in its finance and technology teams."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What makes Vijaya Diagnostic different from many lab chains?",
+     "options": [
+      "It offers radiology and pathology under one roof",
+      "It only does home collection",
+      "It sells medicines",
+      "It runs hospitals"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Vijaya Diagnostic strongest?",
+     "options": [
+      "Gujarat",
+      "Telangana and Andhra Pradesh",
+      "Punjab",
+      "Kerala"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival diagnostic chain?",
+     "options": [
+      "Narayana Health",
+      "Medplus",
+      "Dr Lal PathLabs",
+      "Lenskart"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vijaya Diagnostic runs combined pathology and radiology centres, led by Hyderabad and the Telugu states. Watch its expansion into new cities and competition from online labs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vishal-mega-mart",
+   "name": "Vishal Mega Mart",
+   "type": "listed",
+   "industry": "retail",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Gunender Kapur",
+    "leader_role": "Founder, MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Vishal Mega Mart runs value hypermarkets selling clothes, home goods and groceries to middle and lower-middle income families, mostly in smaller cities. Much of what it sells is its own brands. It listed on the stock exchanges in December 2024.",
+    "EARNS": "It earns a retail margin on goods sold. Clothing and general merchandise, mostly own brands, make up the bigger and more profitable part of sales, while groceries drive footfall. It runs on leased stores to keep costs light.",
+    "SIZE": "One of India's largest value retailers, with a wide network of stores across tier-two and tier-three towns. Its stores are concentrated in smaller towns where organised retail is still young.",
+    "RIVALS": "DMart, Reliance Retail's Smart Bazaar and Trends, Tata's Zudio, V-Mart and Style Bazaar. Online platforms such as Meesho and Flipkart also compete for its value-seeking shoppers.",
+    "WATCH": "Watch new store openings in the north and east, growth of its app-based home delivery, and stake sales by its private-equity-backed promoter. Its board reappointed Gunender Kapur as MD and CEO for a fresh term from September 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who is Vishal Mega Mart's core customer?",
+     "options": [
+      "Luxury shoppers",
+      "Restaurants",
+      "Exporters",
+      "Middle and lower-middle income families"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which category is more profitable for Vishal?",
+     "options": [
+      "Own-brand clothing and general merchandise",
+      "Groceries",
+      "Electronics",
+      "Fuel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a value-retail rival?",
+     "options": [
+      "Nykaa",
+      "V-Mart",
+      "Croma",
+      "Tanishq"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vishal Mega Mart sells mostly own-brand clothes, home goods and groceries to value-seeking families in smaller cities. Listed in 2024; watch its store expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "welspun-corp",
+   "name": "Welspun Corp",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vipul Mathur",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Welspun Corp makes large-diameter steel pipes for oil, gas and water pipelines, plus ductile iron pipes, TMT bars and specialty steel. It also owns Sintex, the water-tank and plastics brand it bought in 2023.",
+    "EARNS": "It earns from big pipeline orders won from oil companies and water projects in India and the US. Line pipes are its largest business, with its US plant in Little Rock, Arkansas a key earner from American gas pipelines.",
+    "SIZE": "One of the world's largest makers of large-diameter welded line pipes, with plants in India, the US and Saudi Arabia. Its pipes have been used in major oil, gas and water pipelines across several continents.",
+    "RIVALS": "Jindal SAW, Ratnamani Metals, Man Industries and Maharashtra Seamless in pipes; Supreme Industries in Sintex's categories. Global pipe makers also bid for overseas projects.",
+    "WATCH": "Watch US pipeline demand and trade tariffs, its expansion in the US and Saudi Arabia, and India's water-pipeline projects under the Jal Jeevan Mission."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Welspun Corp's largest business?",
+     "options": [
+      "Home textiles",
+      "Cement",
+      "Line pipes for oil, gas and water",
+      "Solar panels"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which consumer brand did Welspun Corp buy in 2023?",
+     "options": [
+      "Supreme",
+      "Astral",
+      "Finolex",
+      "Sintex"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a pipe rival?",
+     "options": [
+      "Jindal SAW",
+      "Welspun Living",
+      "Asian Paints",
+      "Ultratech"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Welspun Corp makes large steel line pipes for oil, gas and water in India and the US, plus Sintex tanks. Watch US pipeline demand and tariffs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "welspun-living",
+   "name": "Welspun Living",
+   "type": "listed",
+   "industry": "textiles-apparel",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Dipali Goenka",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Welspun Living, formerly Welspun India, makes towels, bed sheets, rugs and other home textiles, plus flooring. It supplies big US and UK retailers like Walmart and Target, and also sells its own brands Welspun, Spaces and Christy. It was renamed in 2024.",
+    "EARNS": "It earns mainly by exporting home textiles to large retailers under long relationships. The US is by far its biggest market and towels and bed linen its largest products; flooring and domestic brands are smaller but growing.",
+    "SIZE": "One of the world's largest home-textile makers and among the biggest suppliers of towels to US retailers. It also has a growing presence in Indian homes through its own retail brands.",
+    "RIVALS": "Trident, Indo Count Industries and Himatsingka Seide in India, plus Pakistani and Chinese exporters. Its own Indian brands compete with D'Decor, Bombay Dyeing and online home brands.",
+    "WATCH": "Watch US tariffs on Indian goods, the India-UK trade deal that helps its UK business, and growth in its flooring and Indian retail brands. Also watch its push into advanced textiles and the growth of its Spaces brand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Welspun Living's earlier name?",
+     "options": [
+      "Welspun Enterprises",
+      "Welspun India",
+      "Welspun Textiles",
+      "Welspun Corp"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Welspun Living's biggest market?",
+     "options": [
+      "Japan",
+      "Russia",
+      "The United States",
+      "China"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Indian company competes in towels and bed linen?",
+     "options": [
+      "Raymond",
+      "Page Industries",
+      "Arvind Fashions",
+      "Trident"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Welspun Living, formerly Welspun India, exports towels, bed linen and rugs mainly to US retailers like Walmart. Watch US tariffs and its UK and flooring growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "whirlpool-of",
+   "name": "Whirlpool of India",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Pralhad Bhutada",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Whirlpool of India makes refrigerators, washing machines, air conditioners and microwaves, and also sells water purifiers and kitchen appliances. It is the Indian listed arm of US-based Whirlpool Corporation and also owns a stake in kitchen-appliance maker Elica India.",
+    "EARNS": "It earns by selling appliances through dealers, large retail chains and online. Refrigerators are its biggest and strongest category, followed by washing machines, while air conditioners are smaller.",
+    "SIZE": "One of India's leading appliance brands and among the top players in refrigerators and washing machines. It sells through a wide dealer network that reaches small towns across India.",
+    "RIVALS": "LG, Samsung, Godrej, Haier and Voltas Beko. Other rivals include Bosch and IFB in washing machines, and Blue Star in air conditioners. Online-first brands add pressure.",
+    "WATCH": "Its US parent cut its stake in 2025 and has said it plans to reduce it further. Watch the effect on ownership and brand licensing, and how Whirlpool defends share against fast-growing Haier and Voltas Beko."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Whirlpool of India's biggest product category?",
+     "options": [
+      "Refrigerators",
+      "Televisions",
+      "Smartphones",
+      "Fans"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who is Whirlpool of India's parent?",
+     "options": [
+      "LG Electronics",
+      "Whirlpool Corporation of the US",
+      "Tata Group",
+      "Haier"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What did its parent announce about its stake?",
+     "options": [
+      "It will raise it to full ownership",
+      "It will merge it with Elica",
+      "It plans to reduce it further",
+      "It will delist the company"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Whirlpool of India sells refrigerators, washing machines and air conditioners, with refrigerators the strongest. Its US parent is reducing its stake; watch rivals LG and Haier.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "wockhardt",
+   "name": "Wockhardt",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Murtaza Khorakiwala",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Wockhardt makes generic medicines, vaccines and biologics, and is known for its own research into new antibiotics for drug-resistant infections. India approved its antibiotic Miqnaf (nafithromycin) in 2025, and it has filed its antibiotic Zaynich with the US FDA.",
+    "EARNS": "It earns from selling branded generics in India and generics in Europe, where its UK business is one of its biggest. The hope is that patented antibiotics like Zaynich will add higher-margin income from global markets.",
+    "SIZE": "A mid-sized Indian drugmaker, but among the few Indian companies to discover and develop new antibiotics. Its UK operations give it a meaningful presence in the British medicines market.",
+    "RIVALS": "Sun Pharma, Cipla, Lupin and Glenmark in generics; global antibiotic developers such as Pfizer and GSK. Antibiotic research in India is rare, so its closest research rivals are global firms.",
+    "WATCH": "Watch the US FDA decision on Zaynich, the launch of Miqnaf in India, and how it funds research while cutting its debt. Also watch demand from hospitals for new antibiotics against resistant infections."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Wockhardt known for in research?",
+     "options": [
+      "Cancer biosimilars only",
+      "Cosmetics",
+      "Medical devices",
+      "New antibiotics for drug-resistant infections"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Wockhardt antibiotic is filed with the US FDA?",
+     "options": [
+      "Zaynich",
+      "Miqnaf",
+      "Augmentin",
+      "Ozempic"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a generics rival to Wockhardt?",
+     "options": [
+      "Apollo Hospitals",
+      "Lupin",
+      "Dr Lal PathLabs",
+      "Max Healthcare"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Wockhardt sells generics in India and Europe and develops new antibiotics like Miqnaf and Zaynich. Watch the US FDA decision on Zaynich and its debt reduction.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zf-commercial-vehicle-control-systems",
+   "name": "ZF Commercial Vehicle Control Systems India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Paramjit Singh Chadha",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "ZF CV India, formerly WABCO India, makes braking and control systems for trucks, buses and trailers: air brakes, anti-lock braking systems, air compressors, valves and electronic controls. It was renamed after Germany's ZF bought WABCO globally in 2020.",
+    "EARNS": "It earns by supplying truck and bus makers such as Tata Motors and Ashok Leyland, by exporting parts to ZF companies abroad, and from the replacement aftermarket. Exports and aftermarket help balance the ups and downs of truck sales.",
+    "SIZE": "India's leading maker of air-braking systems for commercial vehicles. Most big Indian truck and bus makers use its braking systems, and it also exports to ZF plants worldwide.",
+    "RIVALS": "Brakes India (TVS group), Knorr-Bremse and Haldex. Global brake makers also compete with it for export and aftermarket business. Its parent's scale is its edge.",
+    "WATCH": "Watch truck and bus demand, safety rules that push advanced braking and stability systems, and growth in exports to its parent's global plants. Paramjit Singh Chadha took over as managing director in July 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was ZF CV India's earlier name?",
+     "options": [
+      "Bosch Chassis India",
+      "Rane Brake",
+      "WABCO India",
+      "Sundram Fasteners"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customers does ZF CV India mainly supply?",
+     "options": [
+      "Two-wheeler makers",
+      "Airlines",
+      "Railways only",
+      "Truck and bus makers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival in braking systems?",
+     "options": [
+      "Brakes India",
+      "Endurance Technologies",
+      "Motherson",
+      "MRF"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ZF CV India, formerly WABCO India, makes air brakes and control systems for trucks and buses, and exports to its German parent. Watch truck demand and safety rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zee-entertainment-enterprises",
+   "name": "Zee Entertainment",
+   "type": "listed",
+   "industry": "media-entertainment",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Punit Goenka",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Zee runs TV channels in Hindi and many regional languages, such as Zee TV, Zee Cinema, Zee Marathi and Zee Tamil, plus the ZEE5 streaming app, Zee Studios films and Zee Music. Its planned merger with Sony's Indian business was called off in 2024.",
+    "EARNS": "It earns from advertising on its channels and apps and from subscription fees paid by cable, DTH and streaming viewers. Linear TV is still the main earner, while ZEE5 has been narrowing its losses.",
+    "SIZE": "One of India's largest TV broadcasters, with a big library of shows and films and strong regional channels. Its regional channels are among the most watched in several Indian languages.",
+    "RIVALS": "JioStar (the Reliance-Disney merger), Sony Pictures Networks India, Sun TV, and streaming apps like Netflix and Amazon Prime Video. YouTube also competes for viewers.",
+    "WATCH": "Watch how Zee competes with the much larger JioStar, ZEE5's path to profit, falling TV advertising, and the promoter family's plan to raise its stake."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Zee's streaming app called?",
+     "options": [
+      "SonyLIV",
+      "ZEE5",
+      "JioHotstar",
+      "Sun NXT"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What happened to Zee's planned merger with Sony's India business?",
+     "options": [
+      "It was completed in 2023",
+      "It is still pending approval",
+      "It was called off in 2024",
+      "Zee bought Sony"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Zee's largest broadcasting rival?",
+     "options": [
+      "Info Edge",
+      "PVR Inox",
+      "Saregama",
+      "JioStar"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zee runs Hindi and regional TV channels plus ZEE5, earning from ads and subscriptions. The Sony merger collapsed in 2024; watch competition from JioStar.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zen-technologies",
+   "name": "Zen Technologies",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Ashok Atluri",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Zen Technologies makes combat training simulators, such as tank, gunnery and driving simulators and live firing ranges, and anti-drone systems. Its main buyers are the Indian Army, other armed forces, paramilitary and police, plus some overseas militaries.",
+    "EARNS": "It earns from defence contracts for simulators and anti-drone systems, and from annual maintenance contracts that bring repeat income. Orders are lumpy, so revenue can swing a lot between years.",
+    "SIZE": "India's leading maker of military training simulators and one of the key domestic anti-drone players. Its simulators are used by the Indian Army and by several foreign forces.",
+    "RIVALS": "Bharat Electronics, Tata Advanced Systems and global simulator makers such as CAE. Foreign simulator makers also bid for Indian contracts, though local buying rules favour Indian firms.",
+    "WATCH": "Watch new defence orders, demand for anti-drone systems after recent conflicts, export wins, and the government's push to source defence gear from Indian companies."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Zen Technologies best known for?",
+     "options": [
+      "Combat training simulators and anti-drone systems",
+      "Fighter jets",
+      "Ammunition",
+      "Satellites"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why can Zen's revenue swing a lot?",
+     "options": [
+      "It sells to consumers",
+      "Defence orders are lumpy",
+      "It depends on oil prices",
+      "It is a bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a domestic defence rival?",
+     "options": [
+      "Bajaj Electricals",
+      "Dixon",
+      "Bharat Electronics",
+      "Polycab"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zen Technologies builds combat simulators and anti-drone systems for India's armed forces. Revenue follows lumpy defence orders; watch new contracts and exports.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zensar-technolgies",
+   "name": "Zensar Technologies",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Manish Tandon",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Zensar is an IT services company in the RPG Group that builds and runs software, cloud, data and AI systems for clients in banking, insurance, retail, manufacturing and hi-tech.",
+    "EARNS": "It earns from multi-year technology contracts priced on time spent or fixed outcomes. The US is its largest market, with Europe, led by the UK, and South Africa next. Hi-tech and banking clients are its largest industry groups.",
+    "SIZE": "A mid-sized Indian IT services firm, smaller than leaders like TCS and Infosys. It works with a mix of large global clients across the US, Europe and Africa, and is known for its hi-tech and banking work.",
+    "RIVALS": "Birlasoft, Mphasis, Coforge, Persistent Systems and Hexaware. Larger firms like Infosys and Wipro also compete for the same clients. Smaller niche firms also compete.",
+    "WATCH": "Watch how it wins deals in AI-led services, client spending in the US and Europe, and its attempt to grow faster under CEO Manish Tandon. Also watch how it uses AI tools to improve its own delivery."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group owns Zensar?",
+     "options": [
+      "Murugappa Group",
+      "Tata Group",
+      "Mahindra Group",
+      "RPG Group"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Zensar's largest market?",
+     "options": [
+      "The United States",
+      "Japan",
+      "India",
+      "Middle East"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a mid-sized IT rival?",
+     "options": [
+      "Info Edge",
+      "Birlasoft",
+      "Tata Elxsi Retail",
+      "Naukri"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zensar is a mid-sized RPG Group IT services firm earning mostly from US clients in hi-tech and banking. Watch its AI services push and client spending.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zydus-wellness",
+   "name": "Zydus Wellness",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Tarun Arora",
+    "leader_role": "CEO & Whole-time Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Zydus Wellness sells health and wellness brands: Complan, Glucon-D, Sugar Free, Nutralite, Everyuth and Nycil. In 2025 it bought Comfort Click, a UK online seller of vitamins and supplements, giving it an international business.",
+    "EARNS": "It earns by selling its brands through grocers, chemists and online. Glucon-D and Nycil peak in summer, so results are seasonal. Sugar Free and Glucon-D lead their categories and are among the most profitable.",
+    "SIZE": "A leading Indian wellness FMCG company; Sugar Free and Glucon-D are market leaders in their segments. Complan and Everyuth are also well-known household names across India.",
+    "RIVALS": "HUL (Horlicks), Nestle, Mondelez (Bournvita), Dabur and Emami. Online wellness brands and private labels also compete for health-conscious shoppers. Amul also competes.",
+    "WATCH": "Watch the integration of Comfort Click, how weather affects summer brands, and growth of its nutrition and personal care lines. It also hired a new chief revenue officer in 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which UK business did Zydus Wellness buy in 2025?",
+     "options": [
+      "Holland & Barrett",
+      "Boots",
+      "Comfort Click",
+      "Vitabiotics"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why are Zydus Wellness results seasonal?",
+     "options": [
+      "It only sells in winter",
+      "Its factories shut in monsoon",
+      "Its sales depend on festivals only",
+      "Glucon-D and Nycil sell most in summer"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Complan?",
+     "options": [
+      "Horlicks",
+      "Sugar Free",
+      "Everyuth",
+      "Nycil"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zydus Wellness owns Complan, Glucon-D, Sugar Free and Nycil, and bought UK supplements seller Comfort Click in 2025. Watch summer demand and the integration.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "eclerx-services",
+   "name": "eClerx Services",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kapil Jain",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "eClerx provides data, analytics and operations services: it runs trade processing and reporting for global banks, manages digital content and online stores for retailers, and handles customer operations for telecom and tech firms.",
+    "EARNS": "It earns from long-term contracts with large, mostly US and European clients. Financial markets work for big banks is its largest business, and a handful of large clients contribute a big part of revenue.",
+    "SIZE": "A mid-sized Indian knowledge-process company, known for deep work with the world's largest banks. Several of the world's largest banks have been its clients for many years.",
+    "RIVALS": "EXL, WNS, Genpact, Firstsource and Accenture's operations business. Large IT firms such as TCS and Infosys also compete for bank operations work. So does Wipro.",
+    "WATCH": "Watch how AI changes the data and process work it does, client concentration, and spending by global banks. Also watch whether it widens its client base beyond financial services."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is eClerx's largest business?",
+     "options": [
+      "Selling laptops",
+      "Financial markets work for global banks",
+      "Running call centres for Indian telecoms",
+      "Logistics"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What kind of services does eClerx provide?",
+     "options": [
+      "Courier delivery",
+      "Hospital management",
+      "Data, analytics and operations services",
+      "Construction"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to eClerx?",
+     "options": [
+      "Delhivery",
+      "Zomato",
+      "Indigo",
+      "EXL"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "eClerx runs data, analytics and operations work for global banks, retailers and telecoms, earning mostly from large US and European clients. Watch AI's impact.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "flipkart",
+   "name": "Flipkart",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Kalyan Krishnamurthy",
+    "leader_role": "Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Flipkart runs India's biggest homegrown e-commerce marketplace, selling phones, electronics, fashion, home goods and groceries. The group also owns Myntra for fashion, Cleartrip for travel, Shopsy for low-cost shopping, Flipkart Minutes for quick commerce and Ekart for logistics. Walmart owns most of it.",
+    "EARNS": "It earns commissions and fees from sellers, advertising from brands, and logistics charges through Ekart. Ads and seller services are its richest income; big sale events like the Big Billion Days drive a large share of yearly orders.",
+    "SIZE": "One of India's two largest e-commerce platforms and a leader in online sales of smartphones and fashion. It is also one of India's largest e-commerce employers, with Ekart running a nationwide delivery network.",
+    "RIVALS": "Amazon India, Meesho, Reliance's JioMart and Ajio, Tata's Croma and BigBasket, and Blinkit, Zepto and Swiggy Instamart in quick commerce. Myntra faces Ajio and Nykaa Fashion.",
+    "WATCH": "Flipkart has moved its holding company base from Singapore to India ahead of a planned stock market listing, though it has set no timeline. It has also received an RBI licence to lend. Watch Flipkart Minutes' expansion and e-commerce rules on foreign-owned marketplaces."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company owns most of Flipkart?",
+     "options": [
+      "Walmart",
+      "Amazon",
+      "SoftBank",
+      "Tencent"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Flipkart's quick-commerce service called?",
+     "options": [
+      "Instamart",
+      "Flipkart Minutes",
+      "Blinkit",
+      "Zepto Now"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Flipkart's biggest e-commerce rival?",
+     "options": [
+      "Nykaa",
+      "Urban Company",
+      "Amazon India",
+      "Swiggy"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Flipkart, majority-owned by Walmart, runs India's biggest homegrown marketplace plus Myntra, Cleartrip and Flipkart Minutes. It earns from commissions and ads; watch its planned listing.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rapido",
+   "name": "Rapido",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Aravind Sanka",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Rapido is a ride-hailing app known for bike taxis, which also offers auto-rickshaw and cab rides across many Indian cities. In 2025 it launched Ownly, a food delivery app, in Bengaluru.",
+    "EARNS": "Instead of taking a commission on each ride, Rapido charges drivers a daily or monthly subscription fee to use the platform. Bike taxis built its scale; autos and cabs now add a growing share of rides.",
+    "SIZE": "One of India's largest ride-hailing apps and the leader in bike taxis. It operates in a large number of Indian cities and towns, and raised fresh funds led by Prosus in 2026.",
+    "RIVALS": "Uber, Ola, Namma Yatri and inDrive in rides; Zomato and Swiggy in food delivery. Electric cab and auto services also compete in some cities. Local taxi apps too.",
+    "WATCH": "Rapido has said it plans to begin preparing for a stock market listing. Watch state rules on bike taxis, which some states have restricted, the growth of Ownly, and whether its subscription model keeps working against Uber and Ola."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Rapido mainly charge drivers?",
+     "options": [
+      "A commission on every ride",
+      "Fuel sales",
+      "Vehicle rentals",
+      "A subscription fee to use the platform"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is Rapido's food delivery app called?",
+     "options": [
+      "Ownly",
+      "Genie",
+      "District",
+      "Dunzo Daily"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which is a ride-hailing rival to Rapido?",
+     "options": [
+      "Zepto",
+      "Uber",
+      "Delhivery",
+      "Myntra"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Rapido is a ride-hailing app led by bike taxis, charging drivers subscriptions rather than commissions. Watch state bike-taxi rules and its Ownly food delivery push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "byju-s",
+   "name": "Byju's (Think & Learn)",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Byju Raveendran",
+    "leader_role": "Founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Byju's, run by Think & Learn Pvt Ltd, sold online learning apps for school students and test prep, and built a group of brands including WhiteHat Jr and stakes in Aakash. Since 2024 it has been in insolvency proceedings and much of its business has shrunk or stopped.",
+    "EARNS": "It earned from selling course subscriptions to parents, often through an aggressive sales force and financing plans. As demand fell after the pandemic and lenders and creditors went to court, revenue collapsed and its control passed to an insolvency process.",
+    "SIZE": "Once India's most valuable edtech startup, it is now a shadow of its peak size. At its peak it had a huge student base and ran ads with top cricketers and film stars.",
+    "RIVALS": "PhysicsWallah, Unacademy, Vedantu, Allen and Aakash. Most of its old market has moved to these rivals and to free content on YouTube. Online test-prep apps also took share.",
+    "WATCH": "Watch the insolvency case, the court fights between founder Byju Raveendran, US lenders and creditors, and what happens to its remaining brands and stakes."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Since 2024, what has Byju's been going through?",
+     "options": [
+      "A stock market listing",
+      "A merger with Unacademy",
+      "Insolvency proceedings",
+      "A government takeover"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How did Byju's mainly earn money?",
+     "options": [
+      "Advertising",
+      "Running schools",
+      "Selling tablets to schools only",
+      "Selling course subscriptions to parents"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which edtech company is a rival to Byju's?",
+     "options": [
+      "PhysicsWallah",
+      "Paytm",
+      "Ola",
+      "Nykaa"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Byju's, once India's most valuable edtech startup, sold learning subscriptions to parents but has been in insolvency since 2024. Watch the court fights over its future.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "vedantu",
+   "name": "Vedantu",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vamsi Krishna",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Vedantu sells live online classes for school students and coaching for JEE and NEET, along with offline learning centres. It owns Deeksha, a chain of pre-university colleges and coaching centres in Karnataka, which it bought in 2022.",
+    "EARNS": "It earns from course fees paid by parents for live online courses and from offline programmes, where Deeksha brings steady revenue. It cut costs heavily after the pandemic boom to move towards break-even.",
+    "SIZE": "One of India's better-known online tutoring brands, though smaller than leaders like PhysicsWallah. Its Deeksha centres give it a strong base in Karnataka.",
+    "RIVALS": "PhysicsWallah, Unacademy, Allen, Aakash and Byju's. Free content on YouTube also competes for the same students. Offline coaching chains also compete.",
+    "WATCH": "Watch its shift towards hybrid and offline learning, its push to break even, and new central rules on coaching centres. Also watch whether it raises fresh funding."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Karnataka chain did Vedantu buy in 2022?",
+     "options": [
+      "Aakash",
+      "Deeksha",
+      "FIITJEE",
+      "Resonance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Vedantu mainly earn money?",
+     "options": [
+      "Advertising",
+      "Selling books to libraries",
+      "Course fees from parents",
+      "Government grants"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a larger edtech rival?",
+     "options": [
+      "Udaan",
+      "Zetwerk",
+      "Moglix",
+      "PhysicsWallah"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Vedantu sells live online classes and JEE, NEET coaching, plus offline centres through Deeksha. Watch its move to hybrid learning and push to break even.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "eruditus",
+   "name": "Eruditus (Emeritus)",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ashwin Damera",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Eruditus, which sells under the Emeritus brand, offers online and blended executive-education courses, certificates and degrees with universities such as MIT, Wharton, Columbia, Cambridge and the IIMs. Its learners are working professionals around the world.",
+    "EARNS": "It earns course fees and shares them with partner universities, which lend their names and faculty. Much of its revenue comes from outside India, especially the US and other international markets.",
+    "SIZE": "One of the world's largest executive-education platforms and among India's most valuable edtech startups. Its partner list includes many of the world's best-known universities.",
+    "RIVALS": "upGrad, Coursera, Simplilearn, Great Learning and 2U. Universities' own online programmes also compete for working professionals. Business schools' own executive programmes also compete.",
+    "WATCH": "Watch its path to profit, demand for AI and leadership courses from working professionals, and whether it moves towards a listing. Also watch its push into degree programmes in India and abroad."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What brand does Eruditus mainly sell under?",
+     "options": [
+      "Emeritus",
+      "Coursera",
+      "Udemy",
+      "Harappa"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Eruditus's main learners?",
+     "options": [
+      "School children",
+      "Working professionals",
+      "Retirees",
+      "Farmers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Eruditus?",
+     "options": [
+      "Testbook",
+      "Allen",
+      "upGrad",
+      "LEAD School"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Eruditus, under the Emeritus brand, sells executive courses with top global universities to working professionals worldwide. Watch its path to profit and AI course demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "simplilearn",
+   "name": "Simplilearn",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Krishna Kumar",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Simplilearn sells online bootcamps and certification courses in data science, AI, cloud, cybersecurity, project management and digital marketing, many with partners like Purdue University and Caltech's continuing education centre. It is owned by Blackstone.",
+    "EARNS": "It earns from course fees paid by individuals and from corporate training deals with companies upskilling their staff. A large part of revenue comes from the US and other overseas learners.",
+    "SIZE": "One of India's leading online upskilling platforms, with learners across many countries. Its courses reach learners and companies in many countries, with the US a major market.",
+    "RIVALS": "upGrad, Great Learning, Coursera, Emeritus and Udemy. Free courses on YouTube and company training programmes also compete for learners. Pluralsight also competes.",
+    "WATCH": "Watch demand for AI and cloud courses, competition from cheaper online platforms, and how Blackstone grows the business. Also watch growth of its corporate training business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which firm owns Simplilearn?",
+     "options": [
+      "Byju's",
+      "SoftBank",
+      "Tiger Global",
+      "Blackstone"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What kinds of courses does Simplilearn focus on?",
+     "options": [
+      "Tech and professional certifications",
+      "School tuition",
+      "Medical entrance exams",
+      "Cooking classes"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Simplilearn?",
+     "options": [
+      "Ninjacart",
+      "Great Learning",
+      "Rapido",
+      "Country Delight"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Simplilearn, owned by Blackstone, sells online bootcamps and certifications in AI, data and cloud to individuals and companies worldwide. Watch demand for AI courses.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lead-school",
+   "name": "LEAD Group (LEAD School)",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sumeet Mehta",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "LEAD sells an integrated school system to affordable private schools in smaller towns: curriculum, teacher training, smart-class technology and assessment tools. It also offers English and coding programmes through partner schools.",
+    "EARNS": "It earns a per-student fee paid by partner schools, which pass it on to parents through school fees. Its core business is the school system for low and mid-fee schools in tier-two and smaller towns.",
+    "SIZE": "One of India's largest school-edtech companies by number of partner schools. It works with a large network of schools across many states, mostly outside big metros.",
+    "RIVALS": "Extramarks, Next Education, Byju's and Teachmint. Low-cost tablets and free government digital content also compete for schools' budgets. Ed-tech apps sold to parents also compete.",
+    "WATCH": "Watch its push towards profitability, adoption of the National Education Policy curriculum changes, and its growth in new states. Also watch whether partner schools keep renewing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are LEAD's main customers?",
+     "options": [
+      "Engineering colleges",
+      "Corporate offices",
+      "Affordable private schools",
+      "Coaching centres in Kota"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does LEAD mainly earn money?",
+     "options": [
+      "Advertising",
+      "Selling uniforms",
+      "Government grants only",
+      "A per-student fee from partner schools"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to LEAD?",
+     "options": [
+      "Extramarks",
+      "Udaan",
+      "Bizongo",
+      "Moglix"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "LEAD sells curriculum, teacher training and classroom tech to affordable private schools in smaller towns, charging a per-student fee. Watch its path to profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "classplus",
+   "name": "Classplus",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Mukul Rustagi",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Classplus lets coaching institutes, teachers and content creators launch their own branded learning apps to sell courses, run live classes and give tests. Its customers are tutors and coaching centres across India's smaller cities.",
+    "EARNS": "It earns from subscription fees that educators pay for their apps and from a share of course sales. Its core market is independent tutors and small coaching institutes moving online.",
+    "SIZE": "One of India's leading platforms for tutors and creators to build their own learning apps. Its apps are used by a large number of tutors in small towns.",
+    "RIVALS": "Teachmint, Graphy, Spayee and general course platforms like YouTube memberships. Teachmint and Graphy target the same tutors with similar app-building tools.",
+    "WATCH": "Watch its path to profit, growth among creators outside education, and competition from free tools. Also watch how it keeps tutors from moving to rival tools."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Classplus provide to tutors?",
+     "options": [
+      "Classroom furniture",
+      "Their own branded learning apps",
+      "Loans",
+      "Printed books"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Classplus's main customers?",
+     "options": [
+      "Hospitals",
+      "Retail stores",
+      "Tutors and coaching institutes",
+      "Airlines"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Classplus?",
+     "options": [
+      "Zetwerk",
+      "Country Delight",
+      "DeHaat",
+      "Teachmint"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Classplus lets coaching institutes and tutors launch their own branded learning apps, earning subscriptions and course-sale shares. Watch its path to profit.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "adda247",
+   "name": "Adda247",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Anil Nagar",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Adda247 sells preparation for government job exams such as banking, SSC, railways, teaching and state public service exams, through its app, YouTube channels, test series, books and some offline centres. Much of its content is in Hindi and regional languages.",
+    "EARNS": "It earns from course and test-series subscriptions, books and a subscription pass that bundles content. Banking and SSC exams are its core categories, and YouTube is its main funnel for paying users.",
+    "SIZE": "One of India's largest government-exam preparation platforms, especially in Hindi and regional languages. Its YouTube channels have a very large following among job aspirants.",
+    "RIVALS": "Testbook, PhysicsWallah, Unacademy and Oliveboard. Free YouTube educators also compete for the same aspirants. Offline coaching centres also compete in many towns.",
+    "WATCH": "Watch changes to government recruitment calendars, its expansion into offline centres, and competition from free content. Also watch how it grows paid users in new regional languages."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Adda247 prepare students for?",
+     "options": [
+      "Government job exams",
+      "MBA abroad",
+      "School board exams only",
+      "Coding interviews"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Adda247's main funnel for paying users?",
+     "options": [
+      "TV ads",
+      "YouTube channels",
+      "Newspaper inserts",
+      "School tie-ups"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Adda247?",
+     "options": [
+      "Eruditus",
+      "Simplilearn",
+      "Testbook",
+      "Leap Scholar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Adda247 prepares students for government job exams like banking and SSC through apps, YouTube and test series, often in Hindi. Watch recruitment calendars and offline expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "testbook",
+   "name": "Testbook",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Navi Mumbai, Maharashtra",
+    "leader": "Ashutosh Kumar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Testbook sells online mock tests, courses and study material for government job exams such as SSC, banking, railways, defence and teaching. Its Testbook Pass subscription gives access to test series across many exams.",
+    "EARNS": "It earns mainly from subscriptions like Testbook Pass and from paid courses. Mock test series are its core product and draw most paying users. Most of its users start on free tests and upgrade when exams near.",
+    "SIZE": "One of India's leading online test-preparation platforms for government exams. Its mock tests are used by a large base of government job aspirants. Its brand is widely known among SSC and banking aspirants.",
+    "RIVALS": "Adda247, Oliveboard, Unacademy and PhysicsWallah. Free mock tests on YouTube and Telegram also compete for users. Offline coaching centres also compete in many towns.",
+    "WATCH": "Watch shifts in government recruitment schedules, growth of its paid courses, and its push towards profitability. Also watch how it competes with free content."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Testbook's main subscription called?",
+     "options": [
+      "Testbook Prime",
+      "Unacademy Plus",
+      "Adda Pass",
+      "Testbook Pass"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is Testbook's core product?",
+     "options": [
+      "Mock test series for government exams",
+      "Coding bootcamps",
+      "Study-abroad loans",
+      "School management software"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Testbook?",
+     "options": [
+      "Scaler",
+      "Oliveboard",
+      "Leap Scholar",
+      "Eruditus"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Testbook sells mock tests and courses for government job exams, mainly through its Testbook Pass subscription. Watch recruitment schedules and its push to profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "scaler-interviewbit",
+   "name": "Scaler (InterviewBit)",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Abhimanyu Saxena",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Scaler sells long-format online programmes that teach working software engineers advanced coding, system design, data science and AI. InterviewBit is its free coding-interview practice platform, and the Scaler School of Technology offers a full-time undergraduate programme in Bengaluru.",
+    "EARNS": "It earns course fees from working professionals, often paid in instalments, and tuition from its school students. Its programmes for software engineers who want better jobs are the core business.",
+    "SIZE": "One of India's leading upskilling platforms for software engineers. Its InterviewBit platform is widely used by engineers preparing for tech interviews.",
+    "RIVALS": "upGrad, Masai School, Newton School, Coding Ninjas and Great Learning. Free resources like LeetCode and YouTube also compete for engineers' time. So do Udemy courses.",
+    "WATCH": "Watch how AI changes demand for coding courses, the growth of Scaler School of Technology, and the tech hiring market. Also watch placement outcomes for its learners."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is InterviewBit?",
+     "options": [
+      "A recruitment agency",
+      "A government exam app",
+      "Scaler's free coding-interview practice platform",
+      "A job portal for doctors"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Scaler's main paying learners?",
+     "options": [
+      "Farmers",
+      "School children",
+      "Retired officers",
+      "Working software engineers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Scaler?",
+     "options": [
+      "Newton School",
+      "Adda247",
+      "Country Delight",
+      "OfBusiness"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Scaler teaches advanced coding and AI to software engineers, runs free InterviewBit practice and a tech undergraduate school. Watch AI's effect on coding course demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "leap-scholar",
+   "name": "Leap Scholar",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vaibhav Singh",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Leap helps Indian students study abroad: it offers counselling and university applications through LeapScholar, IELTS preparation, visa help and accommodation, and education loans through Leap Finance.",
+    "EARNS": "It earns commissions from foreign universities for students it places, plus fees for test prep and services, and income from loans arranged through Leap Finance. University commissions are its core income.",
+    "SIZE": "One of India's leading study-abroad platforms. It helps a large number of Indian students reach universities in the UK, Canada, the US, Ireland and Australia every year.",
+    "RIVALS": "upGrad Abroad, Yocket, IDP Education and traditional study-abroad agents. Local study-abroad consultants in every city also compete for students. So do banks' loan desks.",
+    "WATCH": "Watch visa and immigration policy changes in Canada, the UK, the US and Australia, which directly hit student flows, and its expansion into new destinations."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Leap mainly earn money?",
+     "options": [
+      "Advertising",
+      "Commissions from foreign universities",
+      "Selling flights",
+      "School fees"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What does Leap Finance provide?",
+     "options": [
+      "Insurance",
+      "Stock broking",
+      "Education loans",
+      "Credit cards"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Leap?",
+     "options": [
+      "Vedantu",
+      "Testbook",
+      "Classplus",
+      "Yocket"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Leap helps Indian students study abroad with counselling, IELTS prep and loans, earning university commissions. Watch visa rules in Canada, the UK, US and Australia.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "allen-career-institute",
+   "name": "Allen Career Institute",
+   "type": "startup",
+   "industry": "ed-tech",
+   "profile": {
+    "hq": "Kota, Rajasthan",
+    "leader": "Naveen Maheshwari",
+    "leader_role": "Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Allen runs coaching centres for JEE, NEET and school Olympiads, starting in Kota and now spread across many cities. It also sells online courses through Allen Online. James Murdoch and Uday Shankar's Bodhi Tree took a stake in 2023.",
+    "EARNS": "It earns from course fees for classroom coaching, which is the core business, plus online courses and test series. Its large classroom network and track record of top ranks draw students.",
+    "SIZE": "One of India's largest test-prep coaching institutes for engineering and medical entrance exams. Its Kota campus is one of the best-known coaching hubs in India.",
+    "RIVALS": "PhysicsWallah, Aakash, FIITJEE, Motion and Resonance. Allen also faces online rivals like Unacademy and Vedantu. Offline coaching chains in Kota and other cities also compete.",
+    "WATCH": "Allen is reported to be exploring a stock market listing. Watch central and state rules on coaching centres, student welfare concerns in Kota, the growth of Allen Online, and its expansion into new cities."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which exams does Allen mainly coach for?",
+     "options": [
+      "JEE and NEET",
+      "UPSC only",
+      "CAT and GMAT",
+      "Bank exams"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which group took a stake in Allen in 2023?",
+     "options": [
+      "Tiger Global",
+      "Bodhi Tree",
+      "Byju's",
+      "Prosus"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which institute is a rival to Allen?",
+     "options": [
+      "Eruditus",
+      "Simplilearn",
+      "Aakash",
+      "Leap Scholar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Allen is a Kota-born coaching giant for JEE and NEET with centres across India and an online arm. Watch coaching-centre rules and student welfare concerns.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "udaan",
+   "name": "Udaan",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vaibhav Gupta",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Udaan is a business-to-business e-commerce app that supplies kirana stores, chemists, restaurants and small retailers with groceries, FMCG goods, staples, electronics and pharmacy products, along with credit to buy them.",
+    "EARNS": "It earns a margin on goods it sells to retailers and fees from brands and sellers using the platform. Food, FMCG and staples make up most of its orders, and it cut costs sharply to move towards profit.",
+    "SIZE": "One of India's largest B2B e-commerce platforms for small retailers. It serves a large number of small retailers across many Indian towns and cities. It is among the best-funded B2B startups.",
+    "RIVALS": "Jumbotail, Reliance's JioMart and Metro wholesale, Walmart's Flipkart Wholesale and distributors of big FMCG firms. Quick-commerce apps also pull shoppers away from its kirana customers.",
+    "WATCH": "Watch its path to profit, competition from Reliance's B2B push, and how quick commerce affects the small kirana stores it serves. Also watch its reported plans for a public listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Udaan's main customers?",
+     "options": [
+      "Large hospitals",
+      "Car makers",
+      "Foreign tourists",
+      "Kirana stores and small retailers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What makes up most of Udaan's orders?",
+     "options": [
+      "Food, FMCG and staples",
+      "Furniture",
+      "Gold",
+      "Cars"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a B2B rival to Udaan?",
+     "options": [
+      "Myntra",
+      "Jumbotail",
+      "Rapido",
+      "Eruditus"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Udaan supplies kirana stores and small retailers with groceries, FMCG and more, plus credit. Watch its path to profit and Reliance's B2B competition.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jumbotail",
+   "name": "Jumbotail",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Karthik Venkateswaran",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Jumbotail runs a B2B marketplace and supply chain that supplies kirana stores with groceries and FMCG products, plus credit and store technology. In 2025 it bought Solv, another B2B commerce platform for small businesses.",
+    "EARNS": "It earns a margin on goods sold to retailers and fees from brands that use its network to reach small towns. Groceries and staples are its core, and the Solv deal widened its reach and categories.",
+    "SIZE": "One of India's leading B2B grocery platforms for kirana stores. It works with a large number of kirana stores across many Indian cities. It has grown through both organic expansion and acquisition.",
+    "RIVALS": "Udaan, Reliance's JioMart and Metro, Walmart's Flipkart Wholesale and traditional distributors. Quick-commerce apps also pull shoppers away from kirana stores.",
+    "WATCH": "Watch the integration of Solv, expansion into new cities, and its path to profit. Also watch how it competes with Reliance's B2B push and quick-commerce apps."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company did Jumbotail buy in 2025?",
+     "options": [
+      "Udaan",
+      "Dunzo",
+      "Solv",
+      "Milkbasket"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who does Jumbotail mainly supply?",
+     "options": [
+      "Airlines",
+      "Hospitals",
+      "Automakers",
+      "Kirana stores"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Jumbotail?",
+     "options": [
+      "Udaan",
+      "Scaler",
+      "Leap Scholar",
+      "Simplilearn"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Jumbotail supplies kirana stores with groceries and FMCG goods through its B2B marketplace, and bought Solv in 2025. Watch the integration and its path to profit.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "moglix",
+   "name": "Moglix",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Rahul Garg",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Moglix is a B2B commerce platform that supplies factories and businesses with industrial goods: tools, safety gear, electricals, maintenance supplies and raw materials. It also sells its own private-label products.",
+    "EARNS": "It earns a margin on goods sold to large manufacturers and small businesses, plus supply-chain and financing services. Big corporate buyers in manufacturing make up much of its revenue.",
+    "SIZE": "One of India's leading B2B platforms for industrial supplies. Its customers include many large manufacturing companies in India and some abroad. It also handles sourcing and delivery.",
+    "RIVALS": "OfBusiness, IndustryBuying, Amazon Business and IndiaMART. Traditional industrial distributors also compete for the same factory orders. Brand-owned dealer networks compete too.",
+    "WATCH": "Watch its moves into raw materials and financing, its path to profit, and its stated plans for a public listing. Also watch how it manages cash. Also watch its margins."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Moglix mainly sell?",
+     "options": [
+      "Groceries to homes",
+      "Industrial supplies to businesses",
+      "Fashion",
+      "Online courses"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Moglix's main customers?",
+     "options": [
+      "School students",
+      "Tourists",
+      "Manufacturers and businesses",
+      "Farmers"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Moglix?",
+     "options": [
+      "Myntra",
+      "Vedantu",
+      "Rapido",
+      "OfBusiness"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Moglix supplies factories and businesses with tools, safety gear and industrial goods through its B2B platform. Watch its raw-materials push and path to profit.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ofbusiness",
+   "name": "OfBusiness",
+   "type": "startup",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Asish Mohapatra",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "OfBusiness supplies raw materials like steel, polymers, chemicals and agri commodities to small and mid-sized manufacturers and builders. It also lends to businesses through its NBFC arm, Oxyzo, and has started making some materials itself.",
+    "EARNS": "It earns a margin on raw materials it sells and interest on loans from Oxyzo. Commerce is the larger business, while lending is more profitable per rupee of revenue. It is one of the few profitable Indian unicorns.",
+    "SIZE": "One of India's largest B2B raw-material platforms and a profitable unicorn. Its customers include a large number of small and mid-sized manufacturers.",
+    "RIVALS": "Moglix, Zetwerk, Infra.Market and traditional steel and chemical distributors. Traditional steel and chemical distributors also compete for the same customers.",
+    "WATCH": "Watch its plans for a public listing, growth of Oxyzo, and its expansion into manufacturing. Also watch Oxyzo's credit quality as it lends to small businesses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is OfBusiness's lending arm called?",
+     "options": [
+      "Oxyzo",
+      "Flipkart Finance",
+      "Kissht",
+      "Lendingkart"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What does OfBusiness mainly supply?",
+     "options": [
+      "Groceries",
+      "Raw materials like steel and chemicals",
+      "Mobile phones",
+      "Medicines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to OfBusiness?",
+     "options": [
+      "Rapido",
+      "Leap Scholar",
+      "Moglix",
+      "Myntra"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "OfBusiness supplies steel, polymers and chemicals to small manufacturers and lends through Oxyzo. A profitable unicorn; watch its listing plans and manufacturing push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zetwerk",
+   "name": "Zetwerk",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Amrit Acharya",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Zetwerk is a contract-manufacturing company that makes precision parts, electronics, steel structures, solar modules and components for aerospace and energy, using its own factories and a network of partner plants. Its customers are large companies in India, the US and elsewhere.",
+    "EARNS": "It earns by taking manufacturing orders and delivering them through its own and partner factories. Electronics manufacturing and renewable-energy products are among its largest businesses.",
+    "SIZE": "One of India's largest manufacturing startups. It works with a large network of factories across India and serves clients in the US and other markets.",
+    "RIVALS": "Dixon Technologies and Kaynes in electronics, Waaree in solar, and global contract manufacturers. Global contract manufacturers also compete for the same orders.",
+    "WATCH": "Watch its plans for a public listing, growth in electronics and solar, and demand from companies shifting supply chains to India. Also watch how it manages cash as it builds factories."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Zetwerk do?",
+     "options": [
+      "Food delivery",
+      "Online coaching",
+      "Ride-hailing",
+      "Contract manufacturing"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which are among Zetwerk's largest businesses?",
+     "options": [
+      "Electronics and renewable energy products",
+      "Restaurants",
+      "Insurance",
+      "Movies"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Zetwerk in electronics?",
+     "options": [
+      "Nykaa",
+      "Dixon Technologies",
+      "Simplilearn",
+      "Testbook"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zetwerk is a contract manufacturer making electronics, solar modules and precision parts for global companies. Watch its listing plans and electronics growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "infra-market",
+   "name": "Infra.Market",
+   "type": "startup",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Thane, Maharashtra",
+    "leader": "Souvik Sengupta",
+    "leader_role": "Co-founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Infra.Market sells construction and home materials, including ready-mix concrete, blocks, tiles, pipes, paints and steel, to builders, contractors and retailers. It sells many of these under its own brands and makes some in its own plants.",
+    "EARNS": "It earns a margin on materials it supplies to builders and dealers, with private-label products giving higher margins. Ready-mix concrete and building materials for real estate projects are its core.",
+    "SIZE": "One of India's largest construction-materials startups. It serves builders, contractors and retailers across many states, and runs its own factories. Its own brands span concrete, tiles and paints.",
+    "RIVALS": "UltraTech and Ambuja in ready-mix concrete, Kajaria and Somany in tiles, and OfBusiness in raw materials. Local dealers and contractors also compete on price.",
+    "WATCH": "Infra.Market has filed for a stock market listing through the confidential route. Watch the listing, growth of its own brands, and the housing construction cycle."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Infra.Market mainly sell?",
+     "options": [
+      "Groceries",
+      "Software",
+      "Construction materials",
+      "Fashion"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What gives Infra.Market higher margins?",
+     "options": [
+      "Advertising",
+      "Insurance",
+      "Ticket sales",
+      "Its own private-label products"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival in tiles?",
+     "options": [
+      "Kajaria",
+      "Rapido",
+      "Myntra",
+      "Testbook"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Infra.Market supplies ready-mix concrete, tiles, blocks and other building materials, many under its own brands. Watch its listing plans and the housing cycle.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bizongo",
+   "name": "Bizongo",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Aniket Deb",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bizongo is a B2B platform that helps brands and manufacturers buy packaging and other supplies, and manage their supply chain with software and financing tools. Its customers are FMCG, pharma and e-commerce companies.",
+    "EARNS": "It earns a margin on supplies it sources for brands and fees for its supply-chain software and financing services. Packaging procurement for large brands is its core business.",
+    "SIZE": "One of India's notable B2B supply-chain startups, smaller than leaders like Zetwerk and OfBusiness. It serves many FMCG, pharma and e-commerce brands across India.",
+    "RIVALS": "Zetwerk, OfBusiness, Moglix and traditional packaging suppliers. Traditional packaging suppliers remain its biggest competition. Large brands sometimes buy direct, too.",
+    "WATCH": "Watch its move towards software and financing, its path to profit, and how it competes with larger B2B platforms. Also watch whether it raises fresh funding."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Bizongo help brands buy?",
+     "options": [
+      "Advertising slots",
+      "Packaging and supplies",
+      "Flights",
+      "Real estate"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Bizongo's core business?",
+     "options": [
+      "Food delivery",
+      "Coaching",
+      "Packaging procurement for large brands",
+      "Ride-hailing"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Bizongo?",
+     "options": [
+      "Vedantu",
+      "Allen",
+      "Rapido",
+      "Zetwerk"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Bizongo helps brands buy packaging and manage supply chains through its B2B platform, software and financing tools. Watch its path to profit.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "dehaat",
+   "name": "DeHaat",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Shashank Kumar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "DeHaat is an agritech company that sells seeds, fertilisers and crop protection to farmers through village DeHaat Centres, gives crop advice, and buys produce from farmers to sell to traders, processors and retailers.",
+    "EARNS": "It earns a margin on farm inputs sold through its centres and on produce it trades. Input sales are its core, and its strongest presence is in Bihar, Uttar Pradesh and other eastern states.",
+    "SIZE": "One of India's largest agritech startups, working with a very large farmer network. It works with a very large network of village centres in eastern and northern India.",
+    "RIVALS": "AgroStar, BigHaat, Gramophone and Ninjacart, plus traditional agri-input dealers. Traditional agri-input dealers remain its biggest competition in villages.",
+    "WATCH": "Watch its path to profit, crop and monsoon conditions, and its plans for a public listing. Also watch how it manages credit to farmers and retailers. And weather."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does DeHaat sell to farmers?",
+     "options": [
+      "Seeds, fertilisers and crop protection",
+      "Tractors only",
+      "Insurance only",
+      "Smartphones"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is DeHaat strongest?",
+     "options": [
+      "Kerala",
+      "Bihar and Uttar Pradesh",
+      "Goa",
+      "Ladakh"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to DeHaat?",
+     "options": [
+      "Udaan",
+      "Zetwerk",
+      "AgroStar",
+      "Scaler"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "DeHaat sells farm inputs through village centres, gives crop advice and buys produce from farmers, strongest in Bihar and UP. Watch monsoons and its path to profit.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ninjacart",
+   "name": "Ninjacart",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Thirukumaran Nagarajan",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Ninjacart runs a fresh-produce supply chain that buys fruits and vegetables from farmers and delivers them to retailers, restaurants and kirana stores. It also offers software, payments and credit for agri traders. Walmart and Flipkart are among its backers.",
+    "EARNS": "It earns a margin on produce it moves from farms to buyers and fees from its trader tools. Its core is the daily fruit and vegetable supply to businesses in big cities.",
+    "SIZE": "One of India's largest fresh-produce supply-chain startups. It moves fresh produce to buyers in several of India's largest cities every day. Its buyers include retailers and restaurants.",
+    "RIVALS": "DeHaat, Vegrow, WayCool, Jumbotail and traditional mandi traders. Quick-commerce firms also build their own produce supply chains. Local wholesale traders too.",
+    "WATCH": "Watch its shift to trader software and credit, its path to profit, and weather shocks that swing vegetable prices. Also watch whether it raises fresh funding."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Ninjacart supply?",
+     "options": [
+      "Steel",
+      "Fashion",
+      "Medicines",
+      "Fresh fruits and vegetables"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which companies are backers of Ninjacart?",
+     "options": [
+      "Walmart and Flipkart",
+      "Amazon and Reliance",
+      "Tata and Mahindra",
+      "Zomato and Swiggy"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Ninjacart?",
+     "options": [
+      "Simplilearn",
+      "WayCool",
+      "Moglix",
+      "Classplus"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Ninjacart moves fresh fruits and vegetables from farmers to retailers and restaurants, and offers tools for traders. Watch its path to profit and weather shocks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "country-delight",
+   "name": "Country Delight",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Chakradhar Gade",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Country Delight sells fresh milk, curd, paneer, ghee, eggs, bread, fruits and staples through a subscription app with early-morning home delivery. It started with milk and has grown into a wider daily-essentials brand.",
+    "EARNS": "It earns by selling its own-brand dairy and fresh products directly to households, without middlemen. Milk and dairy are its core and the reason customers subscribe; other products raise spend per home.",
+    "SIZE": "One of India's largest direct-to-consumer dairy brands, present in many big cities. Its delivery network covers many large Indian cities, and it is one of the best-funded consumer brands of its kind.",
+    "RIVALS": "Amul, Mother Dairy, Akshayakalpa, BigBasket's BB Daily and Reliance's Milkbasket. Quick-commerce apps also sell dairy to the same households. Also local dairies.",
+    "WATCH": "Watch its expansion into new cities, its path to profit, and competition from quick-commerce apps selling dairy. Also watch how it manages milk sourcing and quality."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Country Delight's core product?",
+     "options": [
+      "Packaged snacks",
+      "Soft drinks",
+      "Milk and dairy",
+      "Frozen food"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Country Delight reach customers?",
+     "options": [
+      "Only supermarkets",
+      "Only exports",
+      "Restaurants",
+      "Subscription app with morning home delivery"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a dairy rival to Country Delight?",
+     "options": [
+      "Amul",
+      "Myntra",
+      "Rapido",
+      "Udaan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Country Delight sells fresh milk, dairy and daily essentials by subscription with morning home delivery. Watch city expansion and quick-commerce competition.",
+   "review": "unreviewed"
+  }
+ ]
+}

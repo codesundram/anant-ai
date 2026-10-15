@@ -1,0 +1,2724 @@
+{
+ "_meta": {
+  "batch": "011",
+  "about": "Batch 011: D2C, food, consumer, logistics and lending companies. Leaders not re-checked on the web for this batch because the search budget ran out early; profiles carry an honest as_of. Listing status for Wakefit, Shadowfax and Shiprocket verified.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "freshtohome",
+   "name": "FreshToHome",
+   "type": "startup",
+   "industry": "food-tech-quick-commerce",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Shan Kadavil",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "FreshToHome sells fresh fish, seafood, chicken and mutton online, promising chemical-free meat with no preservatives. It also sells marinated ready-to-cook items, eggs and some groceries. Buyers are city households ordering through its app and website, and it supplies other retailers too.",
+    "EARNS": "It earns the margin between what it pays fishermen, farmers and suppliers and what customers pay. Buying directly from fishing harbours and running its own processing centres cuts middlemen. Fish and seafood are the heart of the business, and big southern cities are its strongest markets.",
+    "SIZE": "One of India's largest online sellers of fresh fish and meat, alongside Licious. It runs processing and delivery operations in several large Indian cities and has also worked in the Gulf region.",
+    "RIVALS": "Licious is its closest rival. It also competes with quick-commerce apps such as Blinkit, Zepto and Swiggy Instamart, with BigBasket, and with neighbourhood butchers and fish markets.",
+    "WATCH": "Watch whether it can turn steadily profitable while keeping cold chains tight, how it handles competition from quick-commerce apps that now stock fresh meat, and how far it grows its own processing capacity."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is FreshToHome's core product category?",
+     "options": [
+      "Packaged snacks",
+      "Fresh fish and meat",
+      "Dairy products",
+      "Frozen desserts"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does FreshToHome cut out middlemen?",
+     "options": [
+      "By buying directly from harbours and farmers",
+      "By franchising butcher shops",
+      "By importing all its fish",
+      "By running restaurants"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is FreshToHome's closest online rival?",
+     "options": [
+      "Zomato",
+      "Rebel Foods",
+      "Licious",
+      "Haldiram's"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "FreshToHome sells chemical-free fish and meat online, buying straight from harbours and farms. It rivals Licious and quick-commerce apps. Watch profitability and cold-chain discipline.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "haldiram-s",
+   "name": "Haldiram's",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Krishan Kumar Chutani",
+    "leader_role": "CEO, Haldiram Snacks Food",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Haldiram's sells namkeen such as bhujia and mixtures, sweets like soan papdi and rasgulla, ready-to-eat meals, frozen foods and biscuits. It also runs restaurants serving Indian snacks and meals. The Delhi and Nagpur family businesses were combined into one snacks company, which brought in outside shareholders in 2025.",
+    "EARNS": "Most money comes from packaged namkeen and sweets sold through kirana stores, supermarkets, e-commerce and quick-commerce apps. Restaurants and exports add to revenue. Traditional namkeen is the largest and most important category.",
+    "SIZE": "India's largest maker of packaged namkeen and one of the country's best-known food brands. Its products reach shops across India and Indian communities in many countries abroad.",
+    "RIVALS": "Bikaji Foods, PepsiCo's Lay's and Kurkure, ITC's Bingo, Balaji Wafers, Prataap Snacks and many regional namkeen makers compete for the same snack shelf.",
+    "WATCH": "Watch how the combined company integrates its Delhi and Nagpur operations, how new outside shareholders shape its plans, and whether it moves towards a stock market listing, which has been widely discussed."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product category is Haldiram's best known for?",
+     "options": [
+      "Soft drinks",
+      "Packaged namkeen",
+      "Breakfast cereals",
+      "Ice cream"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which listed company is a direct namkeen rival to Haldiram's?",
+     "options": [
+      "Bikaji Foods",
+      "Nestle India",
+      "Marico",
+      "Dabur"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which businesses were combined into one Haldiram's snacks company?",
+     "options": [
+      "Its Kolkata and Chennai units",
+      "Its restaurant and export units",
+      "Its Delhi and Nagpur family businesses",
+      "Its dairy and bakery units"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Haldiram's is India's largest packaged namkeen maker, also selling sweets and running restaurants. Its Delhi and Nagpur businesses combined into one company. Rivals include Bikaji and PepsiCo.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "parle-products",
+   "name": "Parle Products",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vijay Chauhan",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Parle Products makes biscuits and confectionery, led by Parle-G glucose biscuits. Other brands include Monaco, Krackjack, Hide & Seek, Milano and Happy Happy biscuits, plus Melody, Mango Bite and Kismi sweets. It sells to households across India, especially in small towns and villages.",
+    "EARNS": "It earns by selling huge volumes of low-priced packs through a vast network of distributors and kirana stores. Margins per pack are thin, so scale matters. Biscuits are by far its largest category, with Parle-G as the anchor brand.",
+    "SIZE": "One of India's largest biscuit makers and among the most widely distributed food companies in the country. Parle-G is often described as one of the world's best-selling biscuit brands.",
+    "RIVALS": "Britannia is its main rival, with Good Day, Marie Gold and Tiger. ITC's Sunfeast, Mondelez's Oreo and Cadbury, Anmol, Priyagold and regional bakeries also compete.",
+    "WATCH": "Watch how it handles swings in wheat, sugar and palm oil costs, its push into premium biscuits and snacks, and competition for shelf space on quick-commerce apps."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is Parle Products' best-known biscuit brand?",
+     "options": [
+      "Good Day",
+      "Parle-G",
+      "Oreo",
+      "Sunfeast"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why does scale matter so much to Parle Products?",
+     "options": [
+      "It sells mostly luxury items",
+      "Its packs are low-priced with thin margins",
+      "It earns mainly from exports",
+      "It earns licence fees"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is Parle Products' main biscuit rival?",
+     "options": [
+      "Nestle India",
+      "Haldiram's",
+      "Amul",
+      "Britannia"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Parle Products makes Parle-G, Monaco, Krackjack and Melody, selling cheap packs in huge volumes through kirana stores. Britannia is its main rival. Watch input costs and premium push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "amul-gcmmf",
+   "name": "Amul (GCMMF)",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Anand, Gujarat",
+    "leader": "Jayen Mehta",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Amul is the brand of the Gujarat Cooperative Milk Marketing Federation, owned by milk unions of Gujarat dairy farmers. It sells milk, butter, ghee, cheese, curd, paneer, ice cream, chocolates and protein products. It is not a listed company; farmers own it through their cooperatives.",
+    "EARNS": "GCMMF markets products made by member unions and passes most of what consumers pay back to farmers as milk prices. Liquid milk is its largest product, while butter, ghee, cheese and ice cream carry better margins.",
+    "SIZE": "India's largest dairy brand and one of the largest dairy cooperatives in the world. Its products are sold nationwide and exported to many countries.",
+    "RIVALS": "Mother Dairy, Nestle India, Hatsun Agro, Heritage Foods, Karnataka's Nandini, Britannia in cheese, and Hindustan Unilever's Kwality Wall's in ice cream compete with Amul.",
+    "WATCH": "Watch its expansion into new states and abroad, including fresh milk in the US, its push into protein and organic products, and how it balances farmer milk prices with consumer prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who owns Amul?",
+     "options": [
+      "The Gujarat government",
+      "A listed company",
+      "Dairy farmers through cooperatives",
+      "Nestle"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Amul's largest product?",
+     "options": [
+      "Liquid milk",
+      "Chocolates",
+      "Ice cream",
+      "Cheese"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a dairy rival to Amul?",
+     "options": [
+      "Parle Products",
+      "Mother Dairy",
+      "Bikaji Foods",
+      "Paper Boat"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Amul is India's largest dairy brand, owned by Gujarat dairy farmers through cooperatives. It sells milk, butter, cheese and ice cream. Rivals include Mother Dairy and Nandini.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "balaji-wafers",
+   "name": "Balaji Wafers",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Rajkot, Gujarat",
+    "leader": "Chandubhai Virani",
+    "leader_role": "Co-founder & Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Balaji Wafers makes potato chips, namkeen and extruded snacks under the Balaji brand, including wafers in many flavours, bhujia, chevda and puffs. It is a family-run company that sells mostly in western and central India, at low prices aimed at mass buyers.",
+    "EARNS": "It earns by selling large volumes of affordable snack packs through distributors and kirana stores. Keeping costs low through its own factories and potato sourcing lets it price below national brands. Potato wafers are its largest product.",
+    "SIZE": "One of India's largest regional snack makers and a market leader in Gujarat. It is often cited as a regional brand that holds its own against multinational chip makers in its home markets.",
+    "RIVALS": "PepsiCo's Lay's and Kurkure, ITC's Bingo, Haldiram's, Bikaji Foods, Gopal Snacks and Prataap Snacks compete with Balaji.",
+    "WATCH": "Watch its expansion beyond its core western markets, any new factories, and reports of large food companies and funds seeking a stake in the family business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Balaji Wafers' largest product?",
+     "options": [
+      "Biscuits",
+      "Potato wafers",
+      "Soft drinks",
+      "Chocolates"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "In which state is Balaji Wafers a market leader?",
+     "options": [
+      "Kerala",
+      "Punjab",
+      "Gujarat",
+      "Assam"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which multinational chip brand competes with Balaji?",
+     "options": [
+      "Lay's",
+      "Oreo",
+      "Maggi",
+      "Tropicana"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Balaji Wafers is a Rajkot family company selling cheap potato chips and namkeen, strongest in western India. It competes with Lay's, Bingo and Haldiram's. Watch expansion beyond Gujarat.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bikaji-foods",
+   "name": "Bikaji Foods",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Bikaner, Rajasthan",
+    "leader": "Deepak Agarwal",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bikaji Foods makes Bikaneri bhujia, namkeen, papad, packaged sweets like rasgulla and soan papdi, and western snacks such as chips. It sells under the Bikaji brand to households across India and to Indian communities abroad. It listed on the stock exchanges in 2022.",
+    "EARNS": "It earns by selling packaged snacks through distributors, modern trade and online channels. Ethnic namkeen and bhujia make up most of its revenue. Its home states such as Rajasthan, Assam and Bihar are its strongest markets.",
+    "SIZE": "One of India's largest ethnic snack makers and among the biggest producers of Bikaneri bhujia. It is a leading packaged snack brand in its core states.",
+    "RIVALS": "Haldiram's is its main rival. PepsiCo's Kurkure and Lay's, ITC's Bingo, Balaji Wafers, Prataap Snacks and Gopal Snacks also compete.",
+    "WATCH": "Watch its push into new states, frozen foods and quick-service outlets, its acquisitions of regional brands, and how it manages edible oil and grain costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which snack is Bikaji best known for?",
+     "options": [
+      "Potato chips",
+      "Bikaneri bhujia",
+      "Biscuits",
+      "Chocolate"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Bikaji Foods headquartered?",
+     "options": [
+      "Bikaner",
+      "Nagpur",
+      "Rajkot",
+      "Kolkata"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is Bikaji's main namkeen rival?",
+     "options": [
+      "Britannia",
+      "Amul",
+      "Varun Beverages",
+      "Haldiram's"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Bikaji Foods sells Bikaneri bhujia, namkeen, papad and sweets, strongest in Rajasthan, Assam and Bihar. Listed in 2022, it competes with Haldiram's. Watch expansion into new states.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "wow-momo",
+   "name": "Wow! Momo",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Sagar Daryani",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Wow! Momo runs quick-service restaurants selling momos, including steamed, fried and pan-fried versions. It also runs Wow! China for Chinese food and Wow! Chicken, and sells packaged frozen momos in shops. Young city diners are its main customers.",
+    "EARNS": "It earns from food sold in its outlets and kiosks, plus delivery orders through Zomato and Swiggy. Momos are its largest and best-known product line. Packaged frozen food is a smaller but growing business.",
+    "SIZE": "One of India's largest momo restaurant chains, with outlets in many Indian cities, especially in malls, airports and high streets.",
+    "RIVALS": "It competes with quick-service chains such as McDonald's, Domino's, Burger King and KFC, with Rebel Foods brands, and with countless local momo stalls.",
+    "WATCH": "Watch its expansion into smaller cities, the growth of its packaged frozen momos, and its moves towards profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What food is Wow! Momo mainly known for?",
+     "options": [
+      "Pizza",
+      "Momos",
+      "Biryani",
+      "Burgers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which smaller business is Wow! Momo growing alongside its restaurants?",
+     "options": [
+      "Packaged frozen momos",
+      "Coffee beans",
+      "Kitchen appliances",
+      "Cooking classes"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which cloud-kitchen company competes with Wow! Momo?",
+     "options": [
+      "Rebel Foods",
+      "Shiprocket",
+      "Bluestone",
+      "Porter"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Wow! Momo runs momo-focused quick-service restaurants and sells frozen momos in shops. It rivals McDonald's, Domino's and street stalls. Watch smaller-city expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "chaayos",
+   "name": "Chaayos",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Nitin Saluja",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Chaayos runs tea cafes that serve customised chai, letting customers pick milk, sugar and spice options, along with Indian snacks such as samosas and vada pav. It also sells packaged tea online. Office-goers and students are its core customers.",
+    "EARNS": "It earns from beverages and food sold in its cafes and through delivery apps. Chai is its main product and carries strong margins compared with food. Delhi NCR, Mumbai and Bengaluru are its main markets.",
+    "SIZE": "One of India's largest tea cafe chains, with cafes across several big cities.",
+    "RIVALS": "Chai Point and Chai Sutta Bar are direct tea cafe rivals. Coffee chains such as Starbucks, Third Wave Coffee, Blue Tokai and Cafe Coffee Day compete for the same cafe visits.",
+    "WATCH": "Watch its cafe expansion, its moves towards profitability, and growth in packaged tea and delivery."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Chaayos' main product?",
+     "options": [
+      "Coffee",
+      "Customised chai",
+      "Momos",
+      "Smoothies"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a direct tea cafe rival to Chaayos?",
+     "options": [
+      "Third Wave Coffee",
+      "Chai Point",
+      "Wow! Momo",
+      "Haldiram's"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which product carries strong margins for Chaayos?",
+     "options": [
+      "Packaged snacks",
+      "Merchandise",
+      "Chai",
+      "Franchise fees"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Chaayos runs tea cafes serving customised chai and Indian snacks in big cities. It rivals Chai Point and coffee chains like Starbucks. Watch expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "third-wave-coffee",
+   "name": "Third Wave Coffee",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Rajat Luthra",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Third Wave Coffee runs specialty coffee cafes serving espresso drinks, cold brews and food. It also sells roasted coffee beans and merchandise. Its customers are young urban professionals and students, mostly in large cities.",
+    "EARNS": "It earns mainly from beverages and food sold in its cafes, plus delivery orders and packaged coffee. Coffee drinks are the largest and highest-margin part of sales. Bengaluru is its strongest market.",
+    "SIZE": "One of India's fastest-growing specialty coffee chains, with cafes across several large cities, though smaller than Tata Starbucks.",
+    "RIVALS": "Tata Starbucks, Blue Tokai, Cafe Coffee Day, Costa Coffee, Barista and Chaayos compete for urban cafe customers.",
+    "WATCH": "Watch its new leadership team's push for profitability, the pace of new cafe openings, and how it handles rising rents and coffee bean costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Third Wave Coffee mainly sell?",
+     "options": [
+      "Specialty coffee in cafes",
+      "Tea leaves",
+      "Coffee machines",
+      "Packaged snacks"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which city is Third Wave's strongest market?",
+     "options": [
+      "Kolkata",
+      "Bengaluru",
+      "Lucknow",
+      "Jaipur"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a Third Wave rival?",
+     "options": [
+      "Bira 91",
+      "Tata Starbucks",
+      "Paper Boat",
+      "Amul"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Third Wave Coffee runs specialty coffee cafes, strongest in Bengaluru. It competes with Starbucks, Blue Tokai and Cafe Coffee Day. Watch profitability and cafe expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "blue-tokai-coffee",
+   "name": "Blue Tokai Coffee",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Matt Chitharanjan",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Blue Tokai roasts Indian specialty coffee sourced from estates in Karnataka, Kerala and Tamil Nadu. It sells roasted beans and ground coffee online and in stores, and runs its own cafes. It also sells brewing equipment and has opened cafes abroad.",
+    "EARNS": "It earns from cafe sales of coffee and food and from packaged beans sold online, in supermarkets and on quick-commerce apps. Cafes bring in most of its revenue, while packaged coffee builds the brand at home.",
+    "SIZE": "One of India's best-known specialty coffee roasters and a leading homegrown cafe chain, with cafes in many Indian cities.",
+    "RIVALS": "Third Wave Coffee, Tata Starbucks and Cafe Coffee Day compete in cafes. In packaged coffee it faces Sleepy Owl, Nestle's Nescafe, Tata Coffee and Rage Coffee.",
+    "WATCH": "Watch its cafe expansion in India and overseas, including Japan, and how it handles volatile global coffee prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where does Blue Tokai source its coffee?",
+     "options": [
+      "Brazil only",
+      "Indian coffee estates",
+      "Vietnam",
+      "Ethiopia only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which part brings in most of Blue Tokai's revenue?",
+     "options": [
+      "Cafes",
+      "Equipment sales",
+      "Licensing",
+      "Export of green beans"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which packaged coffee brand competes with Blue Tokai?",
+     "options": [
+      "Sleepy Owl",
+      "Paper Boat",
+      "Bira 91",
+      "Yoga Bar"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Blue Tokai roasts Indian specialty coffee, selling beans online and running cafes in India and abroad. It rivals Third Wave and Starbucks. Watch overseas cafes and coffee prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sleepy-owl",
+   "name": "Sleepy Owl",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Ajai Thandi",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Sleepy Owl sells ready-to-drink and easy-brew coffee: cold brew packs, instant coffee, hot brew bags and canned coffee. It started as a direct-to-consumer brand online and now sells in supermarkets, quick-commerce apps and cafes.",
+    "EARNS": "It earns by selling packaged coffee through its own website, marketplaces like Amazon, quick-commerce apps and retail stores. Instant and cold brew products are its main lines, and online channels remain a big share of sales.",
+    "SIZE": "One of India's best-known direct-to-consumer coffee brands, though much smaller than mass instant coffee brands.",
+    "RIVALS": "Nestle's Nescafe and Hindustan Unilever's Bru dominate instant coffee. Rage Coffee, Blue Tokai, Continental and Tata Coffee also compete.",
+    "WATCH": "Watch its push into offline retail and quick-commerce, new product launches such as ready-to-drink cans, and its path to profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product does Sleepy Owl sell?",
+     "options": [
+      "Cold brew and instant coffee",
+      "Green tea",
+      "Energy bars",
+      "Craft beer"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which big brand dominates instant coffee against Sleepy Owl?",
+     "options": [
+      "Paper Boat",
+      "Nescafe",
+      "Bira 91",
+      "Chaayos"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Where did Sleepy Owl start selling?",
+     "options": [
+      "In airports",
+      "Online, direct to consumers",
+      "In petrol pumps",
+      "Through exports"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Sleepy Owl sells cold brew, instant and canned coffee, first online and now in shops. It competes with Nescafe, Bru and Rage Coffee. Watch offline retail growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "whole-truth",
+   "name": "The Whole Truth",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Shashank Mehta",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "The Whole Truth sells protein bars, peanut butter, protein powder, muesli, dark chocolate and snack bars marketed as having no added sugar or hidden ingredients. Its pitch is clean labels with ingredients listed upfront. Health-conscious urban shoppers are its buyers.",
+    "EARNS": "It earns by selling packaged foods through its website, Amazon, quick-commerce apps and supermarkets. Protein bars and protein powders are its most important categories. Online and quick-commerce channels bring in much of its sales.",
+    "SIZE": "One of India's fastest-growing health food brands and a leader among clean-label protein snack startups.",
+    "RIVALS": "Yoga Bar from ITC, RiteBite Max Protein, Pintola, MuscleBlaze, Super You and Mars-owned brands compete in protein snacks.",
+    "WATCH": "Watch its expansion into offline stores and new categories, and how stricter food labelling rules from FSSAI affect a brand built on label transparency."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is The Whole Truth's core pitch?",
+     "options": [
+      "Lowest price",
+      "Clean labels with no hidden ingredients",
+      "Imported products",
+      "Organic farm produce"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which ITC-owned brand competes with The Whole Truth?",
+     "options": [
+      "Bingo",
+      "Yoga Bar",
+      "Sunfeast",
+      "Aashirvaad"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which regulator's labelling rules matter for The Whole Truth?",
+     "options": [
+      "SEBI",
+      "TRAI",
+      "FSSAI",
+      "IRDAI"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "The Whole Truth sells clean-label protein bars, peanut butter and protein powder, mainly online. It competes with Yoga Bar and RiteBite. Watch offline expansion and labelling rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "paper-boat-hector-beverages",
+   "name": "Paper Boat (Hector Beverages)",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Neeraj Kakkar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Hector Beverages sells Paper Boat drinks inspired by traditional Indian flavours such as aam panna, jaljeera, kokum and aamras, plus juices, coconut water and snacks like chikki. Its packaging and ads play on nostalgia. Urban families and young adults are its buyers.",
+    "EARNS": "It earns by selling packaged drinks and snacks through stores, supermarkets, online and quick-commerce apps. Ethnic and fruit drinks are its largest line, and summer is its biggest season.",
+    "SIZE": "One of India's best-known homegrown packaged drinks brands, though far smaller than cola and juice giants.",
+    "RIVALS": "Coca-Cola's Maaza and Minute Maid, PepsiCo's Slice and Tropicana, Dabur's Real, Raw Pressery and Reliance's Campa compete with Paper Boat.",
+    "WATCH": "Watch its push for profitability, wider distribution in smaller towns, and competition from cheaper drinks like Campa."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Paper Boat's main product?",
+     "options": [
+      "Drinks based on Indian flavours",
+      "Instant noodles",
+      "Bottled water only",
+      "Beer"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which juice brand is a Paper Boat rival?",
+     "options": [
+      "Real",
+      "Bisleri",
+      "Amul Kool",
+      "Tang"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What is Paper Boat's biggest season?",
+     "options": [
+      "Winter",
+      "Monsoon",
+      "Summer",
+      "Festive season"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Paper Boat sells drinks built on traditional Indian flavours like aam panna and jaljeera. It competes with Maaza, Real and Campa. Watch profitability and small-town reach.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bira-91",
+   "name": "Bira 91",
+   "type": "startup",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Ankur Jain",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bira 91, run by B9 Beverages, makes craft-style beers such as Bira 91 White, Blonde and Boom, and runs taprooms. It sells in bars, restaurants and liquor stores. Young urban drinkers are its core buyers.",
+    "EARNS": "It earns by selling beer to state distributors, retailers and bars, with each state controlling licences and prices. Wheat beer and lager are its main lines, and big states with open liquor markets matter most.",
+    "SIZE": "One of India's best-known craft beer brands, though much smaller than the market leaders.",
+    "RIVALS": "United Breweries, which owns Kingfisher and Heineken, dominates. Carlsberg, AB InBev's Budweiser and Hoegaarden, Simba and White Owl also compete.",
+    "WATCH": "Watch how it recovers from losses after a company name change forced it to re-register product labels state by state, reports of unpaid dues, and shareholder pressure on management."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company owns Kingfisher, Bira 91's biggest rival?",
+     "options": [
+      "Carlsberg",
+      "United Breweries",
+      "AB InBev",
+      "Diageo"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What caused Bira 91 to re-register its product labels?",
+     "options": [
+      "A factory fire",
+      "A company name change",
+      "A new beer tax",
+      "A product recall"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Who controls beer licences and prices in India?",
+     "options": [
+      "The central government",
+      "Individual states",
+      "SEBI",
+      "FSSAI only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Bira 91 is a craft beer brand selling White and Blonde beers to young urban drinkers. It trails Kingfisher. Watch recovery after relabelling troubles and shareholder pressure.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sugar-cosmetics",
+   "name": "Sugar Cosmetics",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vineeta Singh",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Sugar Cosmetics sells makeup such as lipsticks, kajal, foundations and eyeliners, plus skincare, under the Sugar brand. Its products are designed for Indian skin tones. Young women are its main buyers, through its app, marketplaces and its own stores.",
+    "EARNS": "It earns by selling products online through its own site, Nykaa, Amazon and quick-commerce apps, and offline through its stores and retail counters. Lip and eye makeup are its biggest categories.",
+    "SIZE": "One of India's largest homegrown makeup brands, with a large network of retail touchpoints across the country.",
+    "RIVALS": "Lakme from Hindustan Unilever, Maybelline and L'Oreal, Nykaa Cosmetics, Swiss Beauty, Myglamm and Renee compete with Sugar.",
+    "WATCH": "Watch its offline expansion, its push to cut losses and turn profitable, and how it fares against fast-growing value brands."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Sugar Cosmetics mainly sell?",
+     "options": [
+      "Makeup",
+      "Hair oil",
+      "Perfume only",
+      "Shaving products"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which HUL brand competes with Sugar?",
+     "options": [
+      "Lakme",
+      "Mamaearth",
+      "Plum",
+      "Minimalist"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What are Sugar's biggest categories?",
+     "options": [
+      "Hair care",
+      "Lip and eye makeup",
+      "Fragrances",
+      "Men's grooming"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Sugar Cosmetics sells makeup made for Indian skin, online and through its own stores. It rivals Lakme, Maybelline and Nykaa Cosmetics. Watch offline expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "plum-pureplay-skin-sciences",
+   "name": "Plum (Pureplay Skin Sciences)",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Shankar Prasad",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Plum sells vegan skincare, haircare, body care and makeup, including green tea face washes, serums and sunscreens. It also owns the bodycare brand Phy for men. Young urban buyers shop its products online and in stores.",
+    "EARNS": "It earns by selling products through its own website, marketplaces like Nykaa and Amazon, quick-commerce apps, and its own and partner stores. Skincare is its largest category.",
+    "SIZE": "One of India's leading homegrown clean-beauty brands, with products sold online across the country and in a growing number of stores.",
+    "RIVALS": "Mamaearth from Honasa, Minimalist from HUL, The Derma Co, Dot & Key, Foxtale and Lakme compete with Plum.",
+    "WATCH": "Watch its offline expansion, its moves towards profitability, and reported plans for a stock market listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of products does Plum mainly sell?",
+     "options": [
+      "Vegan skincare and personal care",
+      "Kitchen appliances",
+      "Packaged food",
+      "Apparel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Plum's largest category?",
+     "options": [
+      "Makeup",
+      "Fragrance",
+      "Skincare",
+      "Hair colour"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Honasa brand competes with Plum?",
+     "options": [
+      "Mamaearth",
+      "Sugar",
+      "Foxtale",
+      "Lakme"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Plum sells vegan skincare, haircare and makeup online and in stores. Skincare is its biggest line. It competes with Mamaearth and Minimalist. Watch offline growth and listing plans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mcaffeine",
+   "name": "mCaffeine",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Tarun Sharma",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "mCaffeine sells caffeine-based personal care products: coffee body scrubs, face washes, shampoos, body washes and under-eye creams. It also owns Hyphen, a skincare brand co-founded with actor Kriti Sanon. Young adults are its main buyers.",
+    "EARNS": "It earns by selling products through its own site, Nykaa, Amazon, quick-commerce apps and retail stores. Body care and skincare are its largest categories, and online channels bring in most sales.",
+    "SIZE": "One of India's best-known direct-to-consumer personal care brands, known for building a niche around coffee-based products.",
+    "RIVALS": "Mamaearth, Plum, Minimalist, The Derma Co, Bombay Shaving Company and global brands like Nivea compete with mCaffeine.",
+    "WATCH": "Watch its push into offline retail, growth of the Hyphen brand, and its moves towards profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which ingredient defines mCaffeine's products?",
+     "options": [
+      "Charcoal",
+      "Coffee and caffeine",
+      "Turmeric",
+      "Aloe vera"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which skincare brand does mCaffeine own?",
+     "options": [
+      "Hyphen",
+      "Plum",
+      "Foxtale",
+      "Dot & Key"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does mCaffeine get most of its sales?",
+     "options": [
+      "Exports",
+      "Online channels",
+      "Salons",
+      "Pharmacies"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "mCaffeine sells coffee-based body care and skincare, mostly online, and owns the Hyphen brand. It competes with Mamaearth and Plum. Watch offline expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "man",
+   "name": "The Man Company",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Hitesh Dhingra",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "The Man Company sells men's grooming products: beard oils, face washes, body washes, perfumes, deodorants and gift sets. FMCG company Emami is its majority owner. Young urban men are its main buyers, online and in stores.",
+    "EARNS": "It earns by selling grooming products through its website, marketplaces, quick-commerce apps and retail stores. Fragrances, body care and gift packs are important, with gifting driving festive sales.",
+    "SIZE": "One of India's better-known direct-to-consumer men's grooming brands, though smaller than Gillette and Nivea Men.",
+    "RIVALS": "Bombay Shaving Company, Beardo from Marico, Ustraa, Gillette, Nivea Men and Park Avenue compete with The Man Company.",
+    "WATCH": "Watch how Emami folds it into its wider men's grooming portfolio, its offline distribution push, and new product launches."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which FMCG company is The Man Company's majority owner?",
+     "options": [
+      "Dabur",
+      "Emami",
+      "Marico",
+      "Godrej Consumer"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Marico brand competes with The Man Company?",
+     "options": [
+      "Beardo",
+      "Parachute",
+      "Saffola",
+      "Set Wet Gel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What drives The Man Company's festive sales?",
+     "options": [
+      "Gifting",
+      "Exports",
+      "Hotel contracts",
+      "Salon services"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "The Man Company sells men's grooming products online and in stores and is majority owned by Emami. It rivals Bombay Shaving Company and Beardo. Watch offline growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bombay-shaving",
+   "name": "Bombay Shaving Company",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Shantanu Deshpande",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bombay Shaving Company sells razors, shaving kits, beard care, skincare and body care for men, and women's razors and hair removal products. Buyers are young men and women shopping online and in stores.",
+    "EARNS": "It earns by selling grooming products through its website, Amazon, Nykaa, quick-commerce apps and general trade. Razors and shaving products are its anchor, with skincare a growing share.",
+    "SIZE": "One of India's largest direct-to-consumer grooming brands, sold across the country.",
+    "RIVALS": "Gillette from Procter & Gamble is the market leader. Beardo, Ustraa, The Man Company, Philips trimmers and Veet compete in different categories.",
+    "WATCH": "Watch its expansion into general trade and offline stores, new product categories, and its path to profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company leads razors against Bombay Shaving Company?",
+     "options": [
+      "Gillette",
+      "Philips",
+      "Nivea",
+      "Veet"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What is Bombay Shaving Company's anchor product line?",
+     "options": [
+      "Fragrances",
+      "Razors and shaving products",
+      "Hair colour",
+      "Toothpaste"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Besides men, who does Bombay Shaving Company sell to?",
+     "options": [
+      "Hotels only",
+      "Women",
+      "Barbers only",
+      "Hospitals"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Bombay Shaving Company sells razors, beard care and skincare for men and women, online and in stores. Gillette leads the market. Watch offline expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "foxtale",
+   "name": "Foxtale",
+   "type": "startup",
+   "industry": "beauty-ecommerce",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Kanika Talreja",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Foxtale sells science-led skincare such as sunscreens, vitamin C serums, face washes, moisturisers and acne treatments. Its products target young women and men who want active-ingredient skincare at mass prices.",
+    "EARNS": "It earns by selling skincare through its website, Nykaa, Amazon and quick-commerce apps. Sunscreens and serums are among its biggest products, and online channels bring in most sales.",
+    "SIZE": "One of India's fastest-growing young skincare brands, though still smaller than established players.",
+    "RIVALS": "Minimalist from HUL, The Derma Co from Honasa, Dot & Key from Nykaa, Plum, Deconstruct and Neutrogena compete with Foxtale.",
+    "WATCH": "Watch its push into offline retail, new product categories, and how it competes with brands now backed by big FMCG and beauty companies."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Foxtale mainly sell?",
+     "options": [
+      "Makeup",
+      "Science-led skincare",
+      "Hair oil",
+      "Fragrances"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which are among Foxtale's biggest products?",
+     "options": [
+      "Shampoos",
+      "Lipsticks",
+      "Sunscreens and serums",
+      "Deodorants"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which HUL-owned brand competes with Foxtale?",
+     "options": [
+      "Plum",
+      "Minimalist",
+      "Deconstruct",
+      "Dot & Key"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Foxtale sells active-ingredient skincare like sunscreens and serums, mostly online. It competes with Minimalist, The Derma Co and Dot & Key. Watch offline expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "wakefit",
+   "name": "Wakefit",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Ankit Garg",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Wakefit sells mattresses, beds, sofas, wardrobes, tables and home furnishings under its own brand. It started selling mattresses online and now also runs its own stores. It listed on the stock exchanges in December 2025.",
+    "EARNS": "It earns by designing, making and selling its own products, keeping the margin that would go to distributors. Mattresses are its largest category, with furniture growing. Online sales are big, and its own stores add a growing share.",
+    "SIZE": "One of India's largest direct-to-consumer home and sleep brands, and a leading online mattress seller.",
+    "RIVALS": "Sleepwell from Sheela Foam, Kurl-on, Duroflex, The Sleep Company, Pepperfry, IKEA and Godrej Interio compete with Wakefit.",
+    "WATCH": "Watch its store expansion using money raised in its listing, growth in furniture, and how it handles competition and raw material costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Wakefit's largest product category?",
+     "options": [
+      "Sofas",
+      "Mattresses",
+      "Kitchenware",
+      "Lighting"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Wakefit list on the stock exchanges?",
+     "options": [
+      "2021",
+      "2023",
+      "December 2025",
+      "2019"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Sheela Foam brand competes with Wakefit?",
+     "options": [
+      "Sleepwell",
+      "Kurl-on",
+      "Duroflex",
+      "Godrej Interio"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Wakefit makes and sells mattresses, furniture and furnishings online and through stores. It listed in December 2025. Rivals include Sleepwell and Duroflex. Watch store expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pepperfry",
+   "name": "Pepperfry",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ashish Shah",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Pepperfry is an online furniture and home goods marketplace selling sofas, beds, dining sets, decor and furnishings. It also has private-label brands and studios where shoppers see products in person. Urban households are its buyers.",
+    "EARNS": "It earns commissions from third-party sellers and margins on its own private-label furniture. It also earns from services such as delivery and assembly. Furniture is its largest category.",
+    "SIZE": "One of India's largest online furniture marketplaces, with studios in many Indian cities.",
+    "RIVALS": "IKEA, Urban Ladder from Reliance Retail, Wakefit, Godrej Interio, Home Centre, Amazon and Flipkart compete with Pepperfry.",
+    "WATCH": "Watch its push for profitability, expansion of studios into smaller cities, and growth of its private-label brands."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Pepperfry mainly sell?",
+     "options": [
+      "Furniture and home goods",
+      "Electronics",
+      "Groceries",
+      "Clothes"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Pepperfry earn from third-party sellers?",
+     "options": [
+      "Through commissions",
+      "Through rent only",
+      "Through ads on TV",
+      "Through loans"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global furniture retailer competes with Pepperfry?",
+     "options": [
+      "Zara",
+      "IKEA",
+      "Decathlon",
+      "Uniqlo"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Pepperfry is an online furniture and home goods marketplace with studios across India. It competes with IKEA, Urban Ladder and Wakefit. Watch profitability and studio expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "livspace",
+   "name": "Livspace",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Anuj Srivastava",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Livspace offers home interior design and renovation: modular kitchens, wardrobes, false ceilings and full-home interiors. Customers work with its designers, and its partner contractors carry out the work. It operates in India and abroad.",
+    "EARNS": "It earns from fees and margins on interior projects, including materials, design and installation. Modular kitchens and wardrobes are among its largest project types. Big Indian cities bring in most of its business.",
+    "SIZE": "One of India's largest home interiors platforms, operating in many Indian cities.",
+    "RIVALS": "HomeLane, Design Cafe, Bonito Designs, local interior designers and carpenters, and furniture retailers such as Godrej Interio compete with Livspace.",
+    "WATCH": "Watch its push for profitability, use of AI in design tools, and its expansion in overseas markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Livspace offer?",
+     "options": [
+      "Home interior design and renovation",
+      "Home loans",
+      "Property sales",
+      "Moving services"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a direct Livspace rival?",
+     "options": [
+      "HomeLane",
+      "Pepperfry",
+      "Wakefit",
+      "Duroflex"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which are among Livspace's largest project types?",
+     "options": [
+      "Garden landscaping",
+      "Modular kitchens and wardrobes",
+      "Roof repairs",
+      "Swimming pools"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Livspace designs and builds home interiors such as modular kitchens and wardrobes. It competes with HomeLane and Design Cafe. Watch profitability and overseas expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "duroflex",
+   "name": "Duroflex",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Sridhar Balakrishnan",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Duroflex makes mattresses, pillows, sofas, recliners and beds under the Duroflex and Sleepyhead brands. It sells through dealers, its own stores and online. Households across India are its buyers, especially in the south.",
+    "EARNS": "It earns by making and selling its own products through dealer stores, company stores and e-commerce. Mattresses are its largest category, and south India is its strongest region.",
+    "SIZE": "One of India's largest mattress makers and a leading brand in south India.",
+    "RIVALS": "Sleepwell from Sheela Foam, Kurl-on, Wakefit, The Sleep Company, Springwel and Peps compete with Duroflex.",
+    "WATCH": "Watch its expansion into north and west India, its online push through Sleepyhead, and reported plans for a stock market listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Duroflex's largest category?",
+     "options": [
+      "Sofas",
+      "Mattresses",
+      "Pillows",
+      "Beds"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand does Duroflex own?",
+     "options": [
+      "Sleepyhead",
+      "Sleepwell",
+      "Kurl-on",
+      "Peps"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Duroflex strongest?",
+     "options": [
+      "North India",
+      "South India",
+      "East India",
+      "Overseas"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SIZE"
+    }
+   ],
+   "note_30w": "Duroflex makes mattresses and furniture, selling through dealers, its stores and online via Sleepyhead. It is strongest in south India. Rivals include Sleepwell and Wakefit.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "noise",
+   "name": "Noise",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Gaurav Khatri",
+    "leader_role": "Co-founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Noise sells smartwatches, wireless earbuds, neckbands and smart rings under the Noise brand. Products are made by contract manufacturers. Young buyers shop for them on Amazon, Flipkart, its own site and in stores.",
+    "EARNS": "It earns by selling gadgets at affordable prices, mostly online. Smartwatches are its largest category, followed by audio products. It is pushing more offline sales through retail chains.",
+    "SIZE": "One of India's leading smartwatch brands and a major player in wearables alongside boAt and Fire-Boltt.",
+    "RIVALS": "boAt, Fire-Boltt, Samsung, Apple, OnePlus, Realme and Boult compete with Noise.",
+    "WATCH": "Watch how it handles a slowdown in the smartwatch market, its push into smart rings and premium products, and local manufacturing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Noise's largest product category?",
+     "options": [
+      "Phones",
+      "Smartwatches",
+      "Laptops",
+      "Televisions"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which wearables brand is a direct Noise rival?",
+     "options": [
+      "boAt",
+      "Wakefit",
+      "Atomberg",
+      "Giva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which newer product is Noise pushing?",
+     "options": [
+      "Smart rings",
+      "Electric scooters",
+      "Air conditioners",
+      "Drones"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Noise sells affordable smartwatches, earbuds and smart rings, mostly online. It competes with boAt and Fire-Boltt. Watch the smartwatch slowdown and premium push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "fire-boltt",
+   "name": "Fire-Boltt",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Arnav Kishore",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Fire-Boltt sells budget smartwatches, earbuds and other wearables. Its products are endorsed by celebrities and priced for mass buyers. It sells mostly through Flipkart, Amazon and its website, with some offline presence.",
+    "EARNS": "It earns by selling low-priced wearables in large volumes, mostly online. Smartwatches are its largest category. Thin margins mean it depends on scale and marketing.",
+    "SIZE": "One of India's top smartwatch brands, alongside Noise and boAt.",
+    "RIVALS": "Noise, boAt, Samsung, Amazfit, Realme and Boult compete with Fire-Boltt.",
+    "WATCH": "Watch how it copes with a slowdown in the smartwatch market, its moves to grow offline, and its push into new categories."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Fire-Boltt's largest category?",
+     "options": [
+      "Smartwatches",
+      "Phones",
+      "Speakers",
+      "Laptops"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where does Fire-Boltt mostly sell?",
+     "options": [
+      "Online marketplaces",
+      "Airports",
+      "Exports",
+      "Government tenders"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which brand is a Fire-Boltt rival?",
+     "options": [
+      "Duroflex",
+      "Noise",
+      "Giva",
+      "Snitch"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Fire-Boltt sells budget smartwatches and earbuds, mostly on Flipkart and Amazon. It competes with Noise and boAt. Watch the smartwatch slowdown and offline push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "atomberg",
+   "name": "Atomberg",
+   "type": "startup",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Arindam Paul",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Atomberg makes energy-efficient ceiling fans using brushless DC motors, plus mixer grinders, smart locks and water purifiers. Its fans use far less electricity than ordinary fans. Households buy them online and in electrical stores.",
+    "EARNS": "It earns by selling its own products through dealers, retail chains and e-commerce. Energy-efficient BLDC fans are its largest category. Its own motor technology is its edge.",
+    "SIZE": "One of India's largest makers of energy-efficient BLDC fans and a fast-growing consumer appliance brand.",
+    "RIVALS": "Crompton, Havells, Orient Electric, Usha, Bajaj Electricals, Polycab and Superfan compete with Atomberg.",
+    "WATCH": "Watch its expansion into new kitchen and home appliances, its offline dealer growth, and energy efficiency rules for fans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What technology makes Atomberg's fans energy-efficient?",
+     "options": [
+      "Brushless DC motors",
+      "Solar panels",
+      "Gas engines",
+      "Diesel motors"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Atomberg's largest category?",
+     "options": [
+      "Water purifiers",
+      "Smart locks",
+      "BLDC fans",
+      "Mixer grinders"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which fan brand competes with Atomberg?",
+     "options": [
+      "Crompton",
+      "Noise",
+      "Wakefit",
+      "Duroflex"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Atomberg makes energy-efficient BLDC ceiling fans and is expanding into kitchen appliances. It competes with Crompton, Havells and Orient. Watch new categories and dealer growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bluestone",
+   "name": "BlueStone",
+   "type": "listed",
+   "industry": "retail",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Gaurav Singh Kushwaha",
+    "leader_role": "Founder, MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "BlueStone sells diamond, gold and platinum jewellery under its own brand, including rings, earrings and pendants. It started online and now runs many showrooms. It listed on the stock exchanges in 2025.",
+    "EARNS": "It earns by designing and selling its own jewellery, mostly through company stores and online. Diamond jewellery is its largest category and carries better margins than plain gold.",
+    "SIZE": "One of India's leading omnichannel jewellery brands, with stores in many cities, though smaller than Tanishq.",
+    "RIVALS": "Tanishq and CaratLane from Titan, Kalyan Jewellers, Malabar Gold, Senco Gold, Giva and Joyalukkas compete with BlueStone.",
+    "WATCH": "Watch its store expansion, its push to cut losses and turn profitable, and how gold price swings affect demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is BlueStone's largest category?",
+     "options": [
+      "Gold coins",
+      "Diamond jewellery",
+      "Silver utensils",
+      "Watches"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Titan brand competes with BlueStone?",
+     "options": [
+      "Tanishq",
+      "Giva",
+      "Senco",
+      "Kalyan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "When did BlueStone list on the stock exchanges?",
+     "options": [
+      "2015",
+      "2020",
+      "2025",
+      "2022"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "BlueStone sells diamond and gold jewellery online and through showrooms. It listed in 2025. Tanishq and CaratLane are key rivals. Watch store expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "giva",
+   "name": "Giva",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Ishendra Agarwal",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Giva sells silver jewellery, plus gold and lab-grown diamond jewellery, aimed at affordable everyday wear and gifting. It started online and now runs many stores. Young women are its main buyers.",
+    "EARNS": "It earns by selling its own jewellery online and in company stores. Silver jewellery is its largest category, with gold and lab-grown diamonds a growing share. Gifting drives sales around festivals.",
+    "SIZE": "One of India's largest silver jewellery brands, with stores in many cities.",
+    "RIVALS": "CaratLane and Mia from Titan, Palmonas, Salty, BlueStone and local jewellers compete with Giva.",
+    "WATCH": "Watch its fast store expansion, growth in gold and lab-grown diamond jewellery, and reported plans for a stock market listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Giva's largest category?",
+     "options": [
+      "Silver jewellery",
+      "Platinum rings",
+      "Watches",
+      "Handbags"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Titan brand competes with Giva?",
+     "options": [
+      "Mia",
+      "Fastrack",
+      "Raga",
+      "Sonata"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which newer category is Giva growing?",
+     "options": [
+      "Lab-grown diamonds",
+      "Furniture",
+      "Shoes",
+      "Eyewear"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Giva sells affordable silver, gold and lab-grown diamond jewellery online and in stores. It competes with CaratLane and Mia. Watch store expansion and listing plans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bewakoof",
+   "name": "Bewakoof",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Prabhkiran Singh",
+    "leader_role": "Co-founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bewakoof sells casual clothing such as graphic T-shirts, joggers, hoodies and licensed merchandise featuring Marvel, Disney and anime characters. Aditya Birla Fashion and Retail owns a majority through its TMRW brands arm. Young buyers shop mainly online.",
+    "EARNS": "It earns by designing and selling its own clothing through its app, website and marketplaces. T-shirts, especially graphic and licensed designs, are its largest category. It also runs a few stores.",
+    "SIZE": "One of India's best-known online casualwear brands for young people.",
+    "RIVALS": "The Souled Store, Snitch, H&M, Zara, Myntra's private labels and Flipkart fashion brands compete with Bewakoof.",
+    "WATCH": "Watch how ABFRL's TMRW unit grows it, its offline expansion, and its push for profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group owns a majority of Bewakoof?",
+     "options": [
+      "Reliance Retail",
+      "Aditya Birla Fashion and Retail",
+      "Tata Trent",
+      "Myntra"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Bewakoof's largest category?",
+     "options": [
+      "Formal shirts",
+      "T-shirts",
+      "Shoes",
+      "Sarees"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand is a Bewakoof rival?",
+     "options": [
+      "The Souled Store",
+      "Libas",
+      "Neeman's",
+      "Giva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Bewakoof sells graphic T-shirts and casualwear online, majority owned by ABFRL's TMRW. It competes with The Souled Store and Snitch. Watch offline growth and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "souled-store",
+   "name": "The Souled Store",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vedang Patel",
+    "leader_role": "Co-founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "The Souled Store sells licensed pop-culture clothing and merchandise: T-shirts, hoodies, phone covers and accessories featuring Marvel, DC, Harry Potter, anime and sports teams. It also sells its own basics. Young fans buy online and in its stores.",
+    "EARNS": "It earns by designing and selling licensed and own-brand products, paying royalties to licence owners. T-shirts are its largest category. Its website and app bring in most sales, with stores growing.",
+    "SIZE": "One of India's largest licensed pop-culture apparel brands.",
+    "RIVALS": "Bewakoof, Snitch, H&M, Myntra's private labels and official brand merchandise stores compete with The Souled Store.",
+    "WATCH": "Watch its store expansion across cities, new licence deals, and its moves into new categories like footwear."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is The Souled Store known for?",
+     "options": [
+      "Licensed pop-culture clothing",
+      "Ethnic wear",
+      "Sports shoes",
+      "Jewellery"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who does The Souled Store pay royalties to?",
+     "options": [
+      "Licence owners",
+      "Banks",
+      "Celebrity endorsers only",
+      "Malls"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand is a direct rival?",
+     "options": [
+      "Bewakoof",
+      "Rare Rabbit",
+      "Libas",
+      "BlueStone"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "The Souled Store sells licensed pop-culture T-shirts and merchandise online and in stores. It rivals Bewakoof and Snitch. Watch store expansion and new licence deals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "snitch",
+   "name": "Snitch",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Siddharth Dungarwal",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Snitch sells fast-fashion menswear: shirts, T-shirts, trousers, jeans and jackets with frequent new designs. Young men buy through its app, website, marketplaces and its fast-growing chain of stores.",
+    "EARNS": "It earns by designing and selling its own clothing with quick turnaround from design to shelf. Shirts are a major category. Online sales are big, and its stores bring a growing share.",
+    "SIZE": "One of India's fastest-growing menswear brands, with stores in many cities.",
+    "RIVALS": "Zara, H&M, Bewakoof, Rare Rabbit, The Souled Store, Westside from Trent, and Myntra's private labels compete with Snitch.",
+    "WATCH": "Watch its rapid store expansion, quick-delivery fashion experiments, and its push for profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Snitch's main buyers?",
+     "options": [
+      "Young men",
+      "Children",
+      "Older women",
+      "Corporates"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Snitch's approach to clothing?",
+     "options": [
+      "Fast fashion with frequent new designs",
+      "Luxury tailoring",
+      "Traditional handloom",
+      "Uniforms"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Trent brand competes with Snitch?",
+     "options": [
+      "Westside",
+      "Pantaloons",
+      "Max",
+      "Lifestyle"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Snitch sells fast-fashion menswear online and through a fast-growing store chain. It competes with Zara, H&M and Bewakoof. Watch store expansion and profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "libas",
+   "name": "Libas",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Sidhant Keshwani",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Libas sells women's ethnic wear: kurtas, kurta sets, suits, co-ords and dresses with Indian prints. It started selling online and now also runs stores. Working women and young buyers are its main customers.",
+    "EARNS": "It earns by designing and selling its own clothing through its website, Myntra, other marketplaces and its stores. Kurtas and kurta sets are its largest category, and festive and wedding seasons drive big sales.",
+    "SIZE": "One of India's leading online women's ethnic wear brands.",
+    "RIVALS": "W, Aurelia, Biba, Fabindia, Global Desi, Soch and Myntra's private labels compete with Libas.",
+    "WATCH": "Watch its offline store expansion, its growth beyond online marketplaces, and new categories such as occasion wear."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Libas mainly sell?",
+     "options": [
+      "Women's ethnic wear",
+      "Menswear",
+      "Footwear",
+      "Kidswear"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Libas' largest category?",
+     "options": [
+      "Sarees",
+      "Kurtas and kurta sets",
+      "Jeans",
+      "Jewellery"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Libas?",
+     "options": [
+      "Biba",
+      "Snitch",
+      "Bewakoof",
+      "Neeman's"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Libas sells women's ethnic wear such as kurtas online and through stores. Festive seasons drive sales. It competes with Biba and W. Watch offline expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rare-rabbit",
+   "name": "Rare Rabbit",
+   "type": "startup",
+   "industry": "textiles-apparel",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Manish Poddar",
+    "leader_role": "Founder & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Rare Rabbit sells premium casual menswear such as shirts, trousers and jackets, plus women's wear under Rareism and Rare Ones. Its parent is Radhamani Textiles, a family textile business. Urban buyers shop in its stores and online.",
+    "EARNS": "It earns by designing and selling its own clothing, mostly through company stores in malls and high streets. Men's shirts are its anchor, and its own fabric expertise helps margins.",
+    "SIZE": "One of India's fastest-growing premium casualwear brands, with stores in many cities.",
+    "RIVALS": "Zara, Tommy Hilfiger, U.S. Polo Assn., Louis Philippe, Snitch and Massimo Dutti compete with Rare Rabbit.",
+    "WATCH": "Watch its store expansion into more cities and abroad, growth of its women's labels, and reported plans for outside funding or a listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Rare Rabbit's parent company?",
+     "options": [
+      "Radhamani Textiles",
+      "Arvind",
+      "Raymond",
+      "Page Industries"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does Rare Rabbit mostly sell?",
+     "options": [
+      "Company stores",
+      "Kirana shops",
+      "Exports only",
+      "TV shopping"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which brand competes with Rare Rabbit?",
+     "options": [
+      "Tommy Hilfiger",
+      "Bewakoof",
+      "Libas",
+      "Giva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Rare Rabbit sells premium casual menswear, mostly through its own stores, plus women's labels Rareism and Rare Ones. It competes with Zara and Tommy Hilfiger. Watch store expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "neeman-s",
+   "name": "Neeman's",
+   "type": "startup",
+   "industry": "fashion-ecommerce",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Taran Chhabra",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Neeman's sells comfortable shoes made with natural materials such as merino wool and recycled plastic, including sneakers, loafers and slip-ons. It started online and now runs some stores. Urban professionals are its main buyers.",
+    "EARNS": "It earns by designing and selling its own footwear through its website, marketplaces and stores. Casual sneakers and slip-ons are its largest category.",
+    "SIZE": "One of India's better-known direct-to-consumer footwear brands, though smaller than mass footwear makers.",
+    "RIVALS": "Bata, Campus, Metro Brands, Skechers, Adidas, Puma and Red Tape compete with Neeman's.",
+    "WATCH": "Watch its offline store expansion, new product lines, and its push for profitability."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which material does Neeman's use?",
+     "options": [
+      "Merino wool",
+      "Leather only",
+      "Rubber only",
+      "Silk"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Neeman's largest category?",
+     "options": [
+      "Formal shoes",
+      "Casual sneakers and slip-ons",
+      "Sandals",
+      "Sports cleats"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which footwear company competes with Neeman's?",
+     "options": [
+      "Bata",
+      "Snitch",
+      "Libas",
+      "Giva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Neeman's sells comfortable shoes made with merino wool and recycled materials, online and in stores. It competes with Bata, Campus and Skechers. Watch offline expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "decathlon",
+   "name": "Decathlon India",
+   "type": "startup",
+   "industry": "retail",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Sankar Chatterjee",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Decathlon India sells sports equipment, clothing and footwear for many sports, mostly under its own brands such as Quechua, Kipsta and Domyos. It is the Indian arm of the French retailer Decathlon. Families and sports enthusiasts buy in its big stores and online.",
+    "EARNS": "It earns by selling its own-brand products, which keeps prices low and margins healthy. Large stores bring in most sales, with online growing. Running, cycling, fitness and outdoor gear are important categories.",
+    "SIZE": "India's largest sports goods retailer, with large stores across many cities.",
+    "RIVALS": "Adidas, Nike, Puma, Reliance's sports stores, Sports Station, Amazon, Flipkart and local sports shops compete with Decathlon.",
+    "WATCH": "Watch its smaller-format stores, plans to make more products in India for local and export markets, and growth online and through quick-commerce."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is a Decathlon own brand?",
+     "options": [
+      "Quechua",
+      "Nike",
+      "Adidas",
+      "Puma"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Decathlon's parent company based?",
+     "options": [
+      "Germany",
+      "France",
+      "US",
+      "Japan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What gives Decathlon low prices?",
+     "options": [
+      "Selling own-brand products",
+      "Government subsidies",
+      "Selling only used gear",
+      "Imports from the US"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Decathlon India sells own-brand sports gear like Quechua and Kipsta through big stores and online. It is India's largest sports retailer. Watch smaller stores and local manufacturing.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "shiprocket",
+   "name": "Shiprocket",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Saahil Goel",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Shiprocket helps online sellers ship orders. It connects small businesses and brands with courier companies, and offers checkout, warehousing, marketing and cross-border shipping tools. It listed on the stock exchanges in August 2026.",
+    "EARNS": "It earns fees on each shipment it books through its partner couriers, plus software and service fees from checkout, warehousing and other tools. Domestic shipping is its largest business.",
+    "SIZE": "One of India's largest e-commerce shipping platforms for small businesses and direct-to-consumer brands.",
+    "RIVALS": "Delhivery, Shadowfax, Ecom Express, NimbusPost, Pickrr, iThink Logistics and Amazon's shipping services compete with Shiprocket.",
+    "WATCH": "Watch how it uses money raised in its August 2026 listing, growth of its non-shipping products, and how it handles competition among couriers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Shiprocket's main customers?",
+     "options": [
+      "Online sellers and brands",
+      "Airlines",
+      "Banks",
+      "Hospitals"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Shiprocket's largest business?",
+     "options": [
+      "Warehousing",
+      "Domestic shipping",
+      "Lending",
+      "Ads"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Shiprocket list on the stock exchanges?",
+     "options": [
+      "2022",
+      "2024",
+      "August 2026",
+      "2020"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Shiprocket helps online sellers ship orders by linking them with couriers and offering checkout and warehousing tools. It listed in August 2026. Watch non-shipping growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "shadowfax",
+   "name": "Shadowfax",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Abhishek Bansal",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Shadowfax delivers parcels for e-commerce companies, food and grocery orders for apps, and hyperlocal deliveries. It uses a large network of gig delivery partners. It listed on the stock exchanges in January 2026.",
+    "EARNS": "It earns fees per delivery from clients such as Meesho, Flipkart, Swiggy and Zomato. E-commerce parcel delivery is its largest business, with quick-commerce and hyperlocal delivery growing.",
+    "SIZE": "One of India's largest last-mile delivery companies, covering thousands of pin codes.",
+    "RIVALS": "Delhivery, Ecom Express, Xpressbees, Ekart from Flipkart, Amazon Transportation and Blue Dart compete with Shadowfax.",
+    "WATCH": "Watch how it uses money raised in its listing to build sorting centres, its dependence on a few big clients, and gig worker welfare rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Shadowfax's largest business?",
+     "options": [
+      "Air cargo",
+      "E-commerce parcel delivery",
+      "Trucking",
+      "Warehousing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Shadowfax list on the stock exchanges?",
+     "options": [
+      "January 2026",
+      "2022",
+      "2024",
+      "2019"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Shadowfax?",
+     "options": [
+      "Delhivery",
+      "Lendingkart",
+      "Giva",
+      "Libas"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Shadowfax delivers e-commerce parcels and food orders using gig partners. It listed in January 2026. Delhivery and Xpressbees are rivals. Watch client concentration and gig rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "xpressbees",
+   "name": "Xpressbees",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Amitava Saha",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Xpressbees delivers e-commerce parcels and offers business-to-business freight, cross-border shipping and warehousing. Its clients are online marketplaces, brands and small sellers.",
+    "EARNS": "It earns fees on each parcel delivered and on freight carried. E-commerce parcel delivery is its largest business, with business-to-business freight and other services growing.",
+    "SIZE": "One of India's largest e-commerce logistics companies.",
+    "RIVALS": "Delhivery, Shadowfax, Ecom Express, Ekart from Flipkart, Amazon Transportation and Blue Dart compete with Xpressbees.",
+    "WATCH": "Watch its push for profitability, growth in business-to-business freight, and reported plans for a stock market listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Xpressbees' largest business?",
+     "options": [
+      "E-commerce parcel delivery",
+      "Air travel",
+      "Food delivery",
+      "Ride-hailing"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where is Xpressbees headquartered?",
+     "options": [
+      "Pune",
+      "Chennai",
+      "Kolkata",
+      "Jaipur"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is an Xpressbees rival?",
+     "options": [
+      "Delhivery",
+      "Plum",
+      "Giva",
+      "Chaayos"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Xpressbees delivers e-commerce parcels and offers freight and warehousing. It competes with Delhivery and Shadowfax. Watch profitability and listing plans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "porter",
+   "name": "Porter",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Pranav Goel",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Porter is an app for booking mini-trucks, tempos and two-wheelers to move goods within cities and between cities. It also offers house-shifting services. Small businesses and households are its customers.",
+    "EARNS": "It earns a commission on each trip booked through its app, with vehicles owned by independent drivers. Intra-city goods transport for small businesses is its largest business.",
+    "SIZE": "One of India's largest intra-city logistics platforms, operating in many cities.",
+    "RIVALS": "Lalamove, Shadowfax, LetsTransport, Rapido's parcel service, Uber Courier and local tempo operators compete with Porter.",
+    "WATCH": "Watch its push into new cities, growth of inter-city and packers and movers services, and gig worker welfare rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Porter let users book?",
+     "options": [
+      "Mini-trucks and two-wheelers for goods",
+      "Flights",
+      "Hotel rooms",
+      "Movie tickets"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who owns the vehicles on Porter?",
+     "options": [
+      "Independent drivers",
+      "Porter itself",
+      "The government",
+      "Banks"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Porter?",
+     "options": [
+      "Lalamove",
+      "Bluestone",
+      "Plum",
+      "Amul"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Porter is an app for booking mini-trucks and two-wheelers to move goods within and between cities. It earns trip commissions. Watch city expansion and gig rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "blackbuck-zinka-logistics",
+   "name": "BlackBuck (Zinka Logistics)",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Rajesh Yabaji",
+    "leader_role": "Chairman, MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "BlackBuck, run by Zinka Logistics Solutions, is an app for truck operators. It offers FASTag and fuel payment, vehicle tracking, load matching and vehicle financing. It listed on the stock exchanges in November 2024.",
+    "EARNS": "It earns fees and commissions on toll and fuel payments, subscriptions for tracking and load services, and interest on vehicle loans. Payments for tolls and fuel are its largest business.",
+    "SIZE": "India's largest digital platform for truck operators by users, by its own account.",
+    "RIVALS": "Wheelseye, Fleetx, Vahak, banks issuing FASTags such as Paytm and ICICI, and vehicle financiers like Shriram Finance compete with BlackBuck.",
+    "WATCH": "Watch the growth of its vehicle financing business, its push for steady profits, and changes in toll collection rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are BlackBuck's main customers?",
+     "options": [
+      "Truck operators",
+      "Airlines",
+      "Students",
+      "Hotels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is BlackBuck's largest business?",
+     "options": [
+      "Toll and fuel payments",
+      "Car rentals",
+      "Food delivery",
+      "Insurance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with BlackBuck?",
+     "options": [
+      "Wheelseye",
+      "Giva",
+      "Libas",
+      "Foxtale"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "BlackBuck is an app for truck operators offering FASTag, fuel payments, tracking and vehicle loans. It listed in November 2024. Watch vehicle financing growth and toll rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "blue-dart",
+   "name": "Blue Dart",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Balfour Manuel",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Blue Dart offers express courier and air cargo services across India for documents, parcels and e-commerce shipments. It is majority owned by Germany's DHL Group and runs its own cargo airline. It renamed its domestic premium service Bharat Dart in 2024.",
+    "EARNS": "It earns from delivery charges paid by businesses and e-commerce companies. Air express for time-critical shipments is its largest and most profitable business, while ground express adds volume.",
+    "SIZE": "India's largest express air logistics company, with its own fleet of cargo aircraft.",
+    "RIVALS": "Delhivery, DTDC, India Post, Professional Couriers, Shadowfax, Xpressbees and Ekart from Flipkart compete with Blue Dart.",
+    "WATCH": "Watch its new aircraft and hub expansion, growth in e-commerce volumes, and price competition in ground express."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group majority owns Blue Dart?",
+     "options": [
+      "DHL Group",
+      "FedEx",
+      "UPS",
+      "Tata Group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Blue Dart's largest business?",
+     "options": [
+      "Food delivery",
+      "Air express",
+      "Trucking",
+      "Warehousing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Blue Dart?",
+     "options": [
+      "Delhivery",
+      "Plum",
+      "Libas",
+      "Giva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Blue Dart is India's largest express air logistics company, majority owned by DHL and running its own cargo airline. It competes with Delhivery and DTDC. Watch aircraft expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "letstransport",
+   "name": "LetsTransport",
+   "type": "startup",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Pushkar Singh",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "LetsTransport provides trucks and drivers to businesses for city and regional deliveries, such as e-commerce, FMCG and retail companies. It works as a tech-led fleet operator with vehicles owned by partners.",
+    "EARNS": "It earns by charging business clients for dedicated and on-demand trucking, keeping the margin over what it pays vehicle partners. Contracted deliveries for large businesses are its largest business.",
+    "SIZE": "One of India's established tech-led intra-city trucking companies for businesses.",
+    "RIVALS": "Porter, Shadowfax, Delhivery, Blackbuck and local fleet operators compete with LetsTransport.",
+    "WATCH": "Watch its push for profitability, use of electric vehicles in its fleet, and growth with quick-commerce clients."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are LetsTransport's main customers?",
+     "options": [
+      "Businesses",
+      "Tourists",
+      "Students",
+      "Farmers only"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is LetsTransport's largest business?",
+     "options": [
+      "Contracted deliveries for large businesses",
+      "Ride-hailing",
+      "Air cargo",
+      "Bus tickets"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with LetsTransport?",
+     "options": [
+      "Porter",
+      "Plum",
+      "Libas",
+      "Giva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "LetsTransport provides trucks and drivers to businesses for city and regional deliveries. It competes with Porter and Shadowfax. Watch profitability and electric vehicles.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cred-avenue-yubi",
+   "name": "Yubi (formerly CredAvenue)",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Gaurav Kumar",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Yubi, formerly CredAvenue, runs a digital marketplace connecting borrowers such as companies and NBFCs with lenders like banks and mutual funds. It covers loans, bonds and co-lending. Its customers are financial institutions and corporate borrowers.",
+    "EARNS": "It earns fees on deals arranged through its platform and from software used by lenders. Debt marketplace and co-lending services are its largest businesses.",
+    "SIZE": "One of India's largest digital debt marketplaces.",
+    "RIVALS": "Northern Arc, Vivriti Capital, Jiraaf, Clear and traditional debt arrangers compete with Yubi.",
+    "WATCH": "Watch its push for profitability, growth of co-lending under RBI rules, and new AI-based tools for lenders."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Yubi mainly run?",
+     "options": [
+      "A digital debt marketplace",
+      "A stock exchange",
+      "An insurance company",
+      "A bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What was Yubi formerly called?",
+     "options": [
+      "CredAvenue",
+      "Cred",
+      "Lendingkart",
+      "KreditBee"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Yubi?",
+     "options": [
+      "Northern Arc",
+      "Zerodha",
+      "Groww",
+      "Paytm"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Yubi, formerly CredAvenue, runs a digital debt marketplace connecting borrowers with lenders. It earns platform fees. It competes with Northern Arc and Vivriti. Watch profitability.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lendingkart",
+   "name": "Lendingkart",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Prashant Joshi",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Lendingkart gives working-capital loans to small businesses through a digital process. Temasek-owned Fullerton Financial Holdings took majority control in 2025. It also bought Upwards, which offers personal loans to salaried professionals.",
+    "EARNS": "It earns interest on business loans and processing fees. Small business working-capital loans are its main product, lent through its own NBFC and partner lenders.",
+    "SIZE": "One of India's best-known digital lenders to small businesses.",
+    "RIVALS": "Indifi, FlexiLoans, NeoGrowth, Bajaj Finance, Tata Capital and banks compete with Lendingkart.",
+    "WATCH": "Watch how it runs under Fullerton's control after leadership changes, its loan quality, and the founder's legal challenge over control."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Lendingkart's main borrowers?",
+     "options": [
+      "Small businesses",
+      "Large corporations",
+      "Governments",
+      "Students"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company took majority control of Lendingkart in 2025?",
+     "options": [
+      "Fullerton Financial Holdings",
+      "Tata Capital",
+      "Bajaj Finance",
+      "SoftBank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Lendingkart?",
+     "options": [
+      "Indifi",
+      "Zomato",
+      "Blinkit",
+      "Nykaa"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Lendingkart lends to small businesses digitally and is now controlled by Temasek-owned Fullerton. It competes with Indifi and FlexiLoans. Watch loan quality and control disputes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kreditbee",
+   "name": "KreditBee",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Madhusudan Ekambaram",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "KreditBee is a digital lending app offering personal loans to salaried and self-employed people, plus insurance and other financial products. It lends through its own NBFC and partners. Young earners are its main customers.",
+    "EARNS": "It earns interest and processing fees on personal loans. Personal loans are its main product, and it targets borrowers who may be new to formal credit.",
+    "SIZE": "One of India's largest digital personal loan apps.",
+    "RIVALS": "Moneyview, Navi, Fibe, Bajaj Finserv, Kissht and banks' digital loans compete with KreditBee.",
+    "WATCH": "Watch RBI rules on digital lending, its loan quality, and reported plans for a stock market listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does KreditBee mainly offer?",
+     "options": [
+      "Personal loans",
+      "Home loans",
+      "Stock broking",
+      "Car sales"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are KreditBee's main customers?",
+     "options": [
+      "Young earners",
+      "Large corporations",
+      "Retirees only",
+      "Farmers only"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with KreditBee?",
+     "options": [
+      "Moneyview",
+      "Zomato",
+      "Wakefit",
+      "Plum"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "KreditBee is a digital app offering personal loans to young earners through its own NBFC. It competes with Moneyview and Navi. Watch RBI digital lending rules.",
+   "review": "unreviewed"
+  }
+ ]
+}

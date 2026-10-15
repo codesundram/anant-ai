@@ -1,0 +1,2252 @@
+{
+  "_meta": {
+    "batch": "014",
+    "about": "Coworking, consumer internet, gaming, classifieds, private pharma and vaccines, hospitals and diagnostics, and Indian arms of global consumer and auto companies.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-14"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "smartworks",
+      "name": "Smartworks Coworking",
+      "type": "listed",
+      "industry": "real-estate",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Neetish Sarda",
+        "leader_role": "Founder & MD",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Smartworks leases large, bare-shell office buildings, fits them out and rents them as fully managed office campuses to mid-sized and large companies, including global capability centres. It listed on the NSE and BSE in July 2025.",
+        "EARNS": "It signs long leases with landlords and earns monthly seat fees from client companies on multi-year contracts, plus charges for custom fit-outs, meals, events and other services. Large enterprise clients taking whole floors or buildings bring most of its revenue.",
+        "SIZE": "One of India's largest managed office operators by space leased, with campuses across the big metros such as Bengaluru, Pune, Hyderabad, Mumbai and the Delhi region.",
+        "RIVALS": "Awfis, WeWork India, Table Space and IndiQube in managed and flexible offices, plus landlords such as DLF and Embassy that lease offices directly to companies.",
+        "WATCH": "Smartworks announced the acquisition of Workstudio, a flexible workspace business in Singapore, in July 2026, its first step outside India. Watch how fast it fills new campuses and keeps lease costs in line with client fees."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does Smartworks mainly rent out?",
+          "options": [
+            "Fully managed office campuses",
+            "Warehouses for e-commerce",
+            "Serviced apartments",
+            "Retail mall space"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which overseas business did Smartworks announce buying in July 2026?",
+          "options": [
+            "WeWork Japan",
+            "Workstudio in Singapore",
+            "Regus Dubai",
+            "Spaces London"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which of these is a direct rival of Smartworks?",
+          "options": [
+            "Godrej Properties",
+            "Oberoi Realty",
+            "IndiQube",
+            "Lodha"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Smartworks turns bare office buildings into managed campuses for large companies on multi-year contracts. Recently listed, it is expanding abroad through a Singapore acquisition.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "awfis",
+      "name": "Awfis Space Solutions",
+      "type": "listed",
+      "industry": "real-estate",
+      "profile": {
+        "hq": "New Delhi, Delhi",
+        "leader": "Sumit Lakhani",
+        "leader_role": "CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Awfis runs flexible workspaces: coworking desks, private cabins and managed offices for freelancers, startups and large firms. It also offers Awfis Transform for office design and fit-out, and facility services. It listed in 2024.",
+        "EARNS": "Most revenue comes from renting seats and offices, often in buildings where landlords share the setup cost and income. Fit-out projects through Awfis Transform and add-on services such as meeting rooms and food add a second stream.",
+        "SIZE": "One of India's largest flexible workspace operators by number of centres. It is present in all the big metros and a growing list of smaller cities, serving everyone from freelancers to large companies.",
+        "RIVALS": "WeWork India, Smartworks, Table Space, IndiQube and Regus (IWG) in flexible offices, along with traditional office landlords that now offer their own managed or plug-and-play floors.",
+        "WATCH": "Sumit Lakhani became CEO in 2025, with founder Amit Ramani staying on as chairman and MD. Watch growth in smaller cities, the design-and-build business, and office demand from startups and global capability centres."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Awfis Transform?",
+          "options": [
+            "A coworking membership plan",
+            "Its office design and fit-out business",
+            "A mobile app for desk booking",
+            "A real estate fund"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where does most of Awfis's revenue come from?",
+          "options": [
+            "Property brokerage fees",
+            "Selling office furniture online",
+            "Renting seats and offices",
+            "Hotel rooms"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which of these companies competes with Awfis?",
+          "options": [
+            "Nykaa",
+            "Zomato",
+            "OYO",
+            "Regus (IWG)"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Awfis rents flexible desks and offices across Indian cities and also designs and fits out offices. A listed company, it is pushing into smaller cities.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "wework",
+      "name": "WeWork India",
+      "type": "listed",
+      "industry": "real-estate",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Karan Virwani",
+        "leader_role": "MD & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "WeWork India runs premium flexible workspaces under the WeWork brand: private offices, coworking desks, whole managed floors and day passes through WeWork On Demand and All Access. It is controlled by the Embassy Group and listed in October 2025.",
+        "EARNS": "It earns membership fees from companies renting desks and offices, mostly on contracts of a year or more, plus fees for meeting rooms, events and services. Large enterprises renting private offices bring most of its income.",
+        "SIZE": "One of India's biggest premium flexible workspace brands, with centres in Grade A buildings across Bengaluru, Mumbai, the Delhi region, Pune, Hyderabad and Chennai.",
+        "RIVALS": "Awfis, Smartworks, Table Space, IndiQube and Regus (IWG) in flexible offices, plus big office landlords such as DLF and Brookfield that offer their own flexible floors.",
+        "WATCH": "It runs the WeWork brand in India under a licence from the global WeWork group. Watch how it fills new centres, renews big enterprise clients and manages long lease commitments."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which group controls WeWork India?",
+          "options": [
+            "Brigade Group",
+            "DLF",
+            "Embassy Group",
+            "Prestige Group"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does WeWork India use the WeWork brand?",
+          "options": [
+            "It owns the global brand",
+            "Through a franchise of Regus",
+            "It rebranded away from it",
+            "Under a licence from global WeWork"
+          ],
+          "correct_idx": 3,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which company is a rival to WeWork India?",
+          "options": [
+            "Smartworks",
+            "Ola",
+            "Delhivery",
+            "Info Edge"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "WeWork India runs premium flexible offices under a licence from global WeWork. Controlled by Embassy Group and now listed, it serves mostly large enterprises.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "table-space",
+      "name": "Table Space",
+      "type": "startup",
+      "industry": "real-estate",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Karan Chopra",
+        "leader_role": "Chairman & Co-CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Table Space builds and runs custom managed offices for large companies, especially global capability centres of multinationals. Clients get a ready, branded office without signing leases or managing fit-outs themselves.",
+        "EARNS": "It leases large offices, designs and fits them out to each client's needs, and charges a monthly fee per seat on long contracts. Big enterprise clients taking full floors or buildings bring nearly all its revenue.",
+        "SIZE": "One of India's larger enterprise-focused managed office providers, with most of its space in Bengaluru, Hyderabad, Pune, Chennai and the Delhi region.",
+        "RIVALS": "Smartworks, WeWork India, Awfis and IndiQube in managed offices, plus large landlords such as Embassy and RMZ that lease offices and build campuses directly for big clients.",
+        "WATCH": "Founder Amit Banerji died in January 2025; co-founders Karan Chopra and Kunal Mehra now lead as co-CEOs. Table Space filed draft papers with SEBI for an IPO in 2026, with debt repayment as a stated use of the money."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who are Table Space's main customers?",
+          "options": [
+            "Students and freelancers",
+            "Government offices",
+            "Small retail shops",
+            "Large companies and global capability centres"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who leads Table Space after founder Amit Banerji's death?",
+          "options": [
+            "Co-CEOs Karan Chopra and Kunal Mehra",
+            "Karan Virwani",
+            "Amit Ramani",
+            "Neetish Sarda"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which of these competes with Table Space?",
+          "options": [
+            "Lodha",
+            "Smartworks",
+            "Urban Company",
+            "Paytm"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Table Space builds custom managed offices for multinationals' India centres on long contracts. Led by co-CEOs after its founder's death, it has filed IPO papers.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "sharechat-mohalla-tech",
+      "name": "ShareChat (Mohalla Tech)",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Ankush Sachdeva",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Mohalla Tech runs ShareChat, a social media app in Indian languages, and Moj, a short-video app that absorbed MX TakaTak in 2022. Users are mostly outside big English-speaking cities.",
+        "EARNS": "Most money comes from advertising: brands pay to reach users in regional languages. It also earns from virtual gifts that users send to creators in live audio and video rooms.",
+        "SIZE": "One of India's largest homegrown social media companies, with a very large user base across Hindi and other Indian languages. It became a unicorn in 2021, one of the best-known consumer apps from Bengaluru.",
+        "RIVALS": "Instagram Reels and YouTube Shorts are the biggest rivals by far. Josh from VerSe Innovation competes in Indian-language short video, and Snapchat competes for younger users.",
+        "WATCH": "After deep cost cuts and layoffs in recent years, watch whether ShareChat and Moj reach profitability and how they hold users against Instagram and YouTube."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which short-video app does Mohalla Tech own?",
+          "options": [
+            "Moj",
+            "Josh",
+            "Roposo",
+            "Chingari"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Besides ads, how does ShareChat make money?",
+          "options": [
+            "Selling smartphones",
+            "Virtual gifts sent to creators",
+            "Paid news subscriptions",
+            "Loans to creators"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which short-video app belongs to VerSe Innovation and competes with Moj?",
+          "options": [
+            "MX TakaTak",
+            "Moj",
+            "Josh",
+            "Snapchat"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Mohalla Tech runs ShareChat and Moj, social and short-video apps in Indian languages that earn mainly from ads, competing hard with Instagram Reels and YouTube Shorts.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "pocket-fm",
+      "name": "Pocket FM",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Rohan Nayak",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Pocket FM is an app for long, serialised audio stories, like a radio soap that runs for hundreds of episodes. It started in Indian languages and now earns heavily from English listeners in the US.",
+        "EARNS": "Listeners unlock new episodes with paid coins or subscriptions after a few free ones. The US is its largest market by revenue, while India brings most listeners.",
+        "SIZE": "One of the world's largest audio series platforms by listeners and revenue, and one of India's best-known consumer content startups, with large audiences in India and the US.",
+        "RIVALS": "Kuku FM is its closest rival in India. Globally it competes with Audible and Spotify audiobooks, and with other serial fiction and microdrama apps fighting for paying users.",
+        "WATCH": "The company says it has turned EBITDA-positive. It shut its microdrama video unit Pocket TV in June 2026 to focus on audio, and named a new CFO and COO in 2026."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does Pocket FM mainly offer?",
+          "options": [
+            "Music streaming",
+            "Serialised audio stories",
+            "Live radio",
+            "Podcasts about finance"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which market brings Pocket FM the most revenue?",
+          "options": [
+            "Indonesia",
+            "India",
+            "The United States",
+            "The UK"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which unit did Pocket FM shut down in June 2026?",
+          "options": [
+            "Pocket Novel",
+            "Pocket Comics",
+            "Pocket Radio",
+            "Pocket TV"
+          ],
+          "correct_idx": 3,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Pocket FM sells long audio series episode by episode, earning most revenue in the US. It recently shut its microdrama unit to focus on audio.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "kuku-fm",
+      "name": "Kuku FM",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Lal Chand Bisu",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Kuku FM offers audiobooks, audio shows and self-help content in Hindi and other Indian languages, aimed at listeners beyond the big metros. It has also launched Kuku TV for short vertical microdramas.",
+        "EARNS": "It earns mainly from low-priced subscriptions that unlock its full library, keeping prices affordable for smaller-town users. Hindi audio is its core business.",
+        "SIZE": "One of India's largest audio content apps by paying subscribers, focused squarely on Hindi-speaking audiences in smaller towns rather than English listeners in the metros.",
+        "RIVALS": "Pocket FM, Audible, Spotify and Pratilipi FM in audio. In microdramas, Kuku TV faces a growing set of short-video drama apps, including ones backed by large media companies.",
+        "WATCH": "Kuku raised a large funding round led by Granite Asia in 2025. Watch how Kuku TV microdramas grow next to audio, and its creator programmes across Indian languages."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which new format did Kuku launch with Kuku TV?",
+          "options": [
+            "Live cricket",
+            "Music videos",
+            "Short vertical microdramas",
+            "News bulletins"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Kuku FM mainly make money?",
+          "options": [
+            "Book publishing rights",
+            "Selling e-readers",
+            "Radio ad slots",
+            "Low-priced subscriptions"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which firm led Kuku's large 2025 funding round?",
+          "options": [
+            "Granite Asia",
+            "Tiger Global",
+            "Peak XV",
+            "SoftBank"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Kuku FM sells affordable subscriptions to Hindi audiobooks and shows for smaller-town listeners, and is adding microdramas through Kuku TV.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "pratilipi",
+      "name": "Pratilipi",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Ranjeet Pratap Singh",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Pratilipi is a storytelling platform where writers publish stories, novels and comics in Indian languages. It also runs Pratilipi Comics and Pratilipi FM audio, and adapts popular stories into shows.",
+        "EARNS": "Readers pay through subscriptions and coins to unlock new chapters early, and writers share the income. Licensing popular stories for audio, video and print adds more.",
+        "SIZE": "One of India's largest platforms for regional-language fiction, with a very large base of writers and readers across languages such as Hindi, Bengali, Tamil, Marathi and Malayalam.",
+        "RIVALS": "Pocket FM and Kuku FM compete for paid storytelling, Wattpad is the closest global peer, and Amazon Kindle competes for readers of e-books in Indian languages.",
+        "WATCH": "Pratilipi raised a Series E round led by Jungle Ventures in 2025, with Krafton among its backers. It has spoken of plans to list; watch how it grows paid readers."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Pratilipi?",
+          "options": [
+            "A news app",
+            "A video game studio",
+            "An e-book reader maker",
+            "A storytelling platform in Indian languages"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How do readers pay on Pratilipi?",
+          "options": [
+            "Subscriptions and coins",
+            "Paper book orders only",
+            "Ads before each chapter only",
+            "Library memberships"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which global platform is a rival to Pratilipi?",
+          "options": [
+            "Goodreads",
+            "Wattpad",
+            "Medium",
+            "Scribd"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Pratilipi lets writers publish fiction in Indian languages and earns as readers pay to unlock chapters, competing with Pocket FM, Kuku FM and Wattpad.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "dailyhunt-verse-innovation",
+      "name": "Dailyhunt (VerSe Innovation)",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Umang Bedi",
+        "leader_role": "Co-founder",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "VerSe Innovation runs Dailyhunt, a news and content aggregator in Indian languages, and Josh, a short-video app. It also runs NexVerse.ai, an AI ad platform for brands.",
+        "EARNS": "Almost all its money comes from advertising: brands pay to reach readers and viewers on Dailyhunt and Josh, increasingly through its own AI ad tools that target users by language and interest.",
+        "SIZE": "One of India's largest local-language content companies, with a very large monthly audience across news and short video, and one of the most highly funded consumer internet startups in India.",
+        "RIVALS": "Instagram Reels, YouTube Shorts and Moj (ShareChat) compete with Josh in short video, while Google News and Inshorts compete with Dailyhunt for news readers.",
+        "WATCH": "VerSe named Prakashan Manikoth as group CFO in October 2025 to lead global finance and its IPO plans. Watch progress on a stock market listing and on narrowing its losses."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which short-video app does VerSe Innovation run?",
+          "options": [
+            "Josh",
+            "Moj",
+            "Roposo",
+            "Chingari"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is VerSe Innovation's main source of money?",
+          "options": [
+            "App subscriptions",
+            "Advertising",
+            "Newspaper sales",
+            "Telecom fees"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which news app is a rival to Dailyhunt?",
+          "options": [
+            "Zerodha",
+            "Josh",
+            "Inshorts",
+            "Swiggy"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "VerSe Innovation runs Dailyhunt news and Josh short video in Indian languages, earning mostly from ads. It appointed a CFO to steer listing plans.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "inmobi",
+      "name": "InMobi",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Naveen Tewari",
+        "leader_role": "Founder & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "InMobi is an advertising technology company: it helps brands and app makers place and measure ads inside mobile apps worldwide. It also controls Glance, a lock-screen content platform, and Roposo, a short-video app.",
+        "EARNS": "Advertisers pay InMobi to reach users across thousands of apps, and InMobi keeps a share of that ad spend. Most of its revenue comes from outside India, especially the US.",
+        "SIZE": "India's first unicorn and one of the larger independent mobile advertising platforms globally, with most of its business coming from advertisers in the US and other developed markets.",
+        "RIVALS": "Google AdMob, AppLovin, Unity and Meta's ad network compete in mobile app ads. Glance competes with lock-screen and content features built by phone makers themselves.",
+        "WATCH": "InMobi's founders bought back SoftBank's stake in 2024, and the company is moving its holding structure to India ahead of a planned listing. Watch the IPO filing."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does InMobi mainly do?",
+          "options": [
+            "Makes smartphones",
+            "Places and measures ads inside mobile apps",
+            "Runs a news website",
+            "Sells cloud storage"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which lock-screen platform is part of the InMobi group?",
+          "options": [
+            "Moj",
+            "Josh",
+            "Glance",
+            "Dailyhunt"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which company is a rival to InMobi in mobile ads?",
+          "options": [
+            "Zomato",
+            "Nazara",
+            "Infosys",
+            "AppLovin"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "InMobi is a Bengaluru adtech firm earning mostly abroad by placing ads inside mobile apps. It owns Glance and is moving home ahead of an IPO.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "nazara-technologies",
+      "name": "Nazara Technologies",
+      "type": "listed",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Raymond Albaladejo Stauffer",
+        "leader_role": "CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Nazara is a listed gaming and sports media group. It owns Kiddopia, a kids' learning games subscription, Animal Jam, the UK studio Fusebox, and the sports media sites Sportskeeda and Pro Football Network.",
+        "EARNS": "It earns from subscriptions and in-game spending on its games, mostly from players in the US and Europe, plus advertising on its sports media sites. Kids' games and other global titles bring most of its revenue.",
+        "SIZE": "One of India's few listed gaming companies and among the most acquisitive, built largely by buying game studios and sports media sites in the US, UK and Europe.",
+        "RIVALS": "Krafton India in Indian gaming; globally, kids' game makers such as Toca Boca and PBS Kids apps, and mobile studios owned by large groups such as Playtika and Zynga.",
+        "WATCH": "Raymond Stauffer, founder of Bluetile Games, became CEO in September 2026, with founder Nitish Mittersain moving to managing director. The real-money gaming ban of 2025 hit its poker stake."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which kids' learning games app does Nazara own?",
+          "options": [
+            "Toca Boca",
+            "Byju's",
+            "Kiddopia",
+            "Duolingo"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who became Nazara's CEO in September 2026?",
+          "options": [
+            "Nitish Mittersain",
+            "Sean Sohn",
+            "Naveen Tewari",
+            "Raymond Stauffer"
+          ],
+          "correct_idx": 3,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Where does Nazara earn most of its game revenue?",
+          "options": [
+            "The US and Europe",
+            "China",
+            "Rural India",
+            "Middle East only"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        }
+      ],
+      "note_30w": "Nazara is a listed gaming group earning mostly abroad through Kiddopia, Animal Jam and sports media. A new CEO took charge recently.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "games24x7",
+      "name": "Games24x7",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Trivikraman Thampy",
+        "leader_role": "Co-founder & Co-CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Games24x7 built RummyCircle, an online rummy app, and My11Circle, a fantasy cricket app. After the Online Gaming Act of August 2025 banned real-money games, it stopped paid contests and offers free-to-play versions.",
+        "EARNS": "It used to earn platform fees from paid rummy and fantasy contests. With real money games banned, that income has largely gone and it is trying free games supported by other revenue.",
+        "SIZE": "Before the ban it was one of India's largest real-money gaming companies by users and revenue, with RummyCircle and My11Circle among the best-known gaming apps in the country.",
+        "RIVALS": "Dream11, MPL, Junglee Games and WinZO, all of which also ended real-money games after the 2025 law, plus free casual game makers competing for the same players now.",
+        "WATCH": "Games24x7 cut most of its workforce after the ban. Watch whether its free-to-play games can build a lasting business, and any court challenges to the law."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which fantasy cricket app belongs to Games24x7?",
+          "options": [
+            "Dream11",
+            "MPL",
+            "Howzat",
+            "My11Circle"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What law changed Games24x7's business in August 2025?",
+          "options": [
+            "Online Gaming Act banning real-money games",
+            "GST hike on gaming",
+            "IT Rules on social media",
+            "Data protection law"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which company is a rival to Games24x7?",
+          "options": [
+            "Swiggy",
+            "Junglee Games",
+            "Info Edge",
+            "Krafton"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Games24x7 built RummyCircle and My11Circle, but India's real-money gaming ban ended paid contests, forcing a shift to free games and deep layoffs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "winzo",
+      "name": "WinZO",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Saumya Singh Rathore",
+        "leader_role": "Co-founder",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "WinZO ran a gaming app with many casual games in Indian languages, where users once played for cash prizes. After the August 2025 law banning real-money games, it stopped those games in India.",
+        "EARNS": "It earned platform fees from paid contests. With the ban, that income in India ended, and the company is looking at free and social gaming formats allowed under the law.",
+        "SIZE": "Before the ban it was one of India's largest real-money gaming apps by users, especially popular in smaller towns, and it also ran a games accelerator for Indian developers.",
+        "RIVALS": "Games24x7, MPL, Junglee Games and Dream11 were its rivals in real-money gaming before the ban. In casual social games it now faces Ludo King and many free game apps.",
+        "WATCH": "The Enforcement Directorate arrested co-founders Saumya Singh Rathore and Paavan Nanda in November 2025 in a money-laundering case and froze company assets. The company is contesting the action in court."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What happened to WinZO's cash games in India after August 2025?",
+          "options": [
+            "They stopped after the ban",
+            "They doubled",
+            "They moved to TV",
+            "They became esports only"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which agency arrested WinZO's co-founders in November 2025?",
+          "options": [
+            "SEBI",
+            "Enforcement Directorate",
+            "CBI",
+            "RBI"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which company was a rival of WinZO?",
+          "options": [
+            "Pratilipi",
+            "Nykaa",
+            "MPL",
+            "BookMyShow"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "WinZO ran cash-prize casual games until India's real-money gaming ban. Its co-founders were arrested in a money-laundering case, which the company is fighting in court.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "junglee-games",
+      "name": "Junglee Games",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Kapil Rathee",
+        "leader_role": "CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Junglee Games built Junglee Rummy, the Howzat fantasy sports app and Junglee Poker. It is majority-owned by the global betting group Flutter Entertainment. It stopped real-money games in India after the August 2025 ban.",
+        "EARNS": "It earned platform fees on paid rummy, poker and fantasy contests. With real-money games banned in India, it is relying on free-to-play formats and Flutter's backing while it reshapes the business.",
+        "SIZE": "Before the ban it was one of India's larger online rummy and fantasy sports companies, and the main Indian business of Flutter, the world's largest online betting and gaming group.",
+        "RIVALS": "Games24x7, Dream11, MPL and WinZO, all of which shut real-money games after the 2025 law. In free-to-play games it now competes with casual game apps of every size.",
+        "WATCH": "Kapil Rathee took over as CEO from founder Ankush Gera, who stays as an adviser to the board. Watch how the company rebuilds under Flutter after the ban."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which global group controls Junglee Games?",
+          "options": [
+            "Krafton",
+            "Flutter Entertainment",
+            "Tencent",
+            "Nazara"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which fantasy sports app belongs to Junglee Games?",
+          "options": [
+            "My11Circle",
+            "Dream11",
+            "Howzat",
+            "MPL"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who succeeded Ankush Gera as Junglee's CEO?",
+          "options": [
+            "Bhavin Pandya",
+            "Harsh Jain",
+            "Paavan Nanda",
+            "Kapil Rathee"
+          ],
+          "correct_idx": 3,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Junglee Games, owned by Flutter, ran rummy, poker and Howzat fantasy contests until India's real-money ban. New CEO Kapil Rathee is reshaping it.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "krafton",
+      "name": "Krafton India",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Sean Hyunil Sohn",
+        "leader_role": "CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Krafton India is the Indian arm of South Korea's Krafton, maker of PUBG. Its main product is Battlegrounds Mobile India (BGMI), a battle-royale game built for India. It also backs Indian startups such as Pratilipi and Kuku FM.",
+        "EARNS": "BGMI is free to play; Krafton earns when players spend on in-game currency, skins, passes and other virtual items. It also runs esports tournaments that bring in sponsorship money.",
+        "SIZE": "BGMI is one of India's most played mobile games, and Krafton is among the largest foreign game companies in India, as well as one of the most active backers of Indian gaming and content startups.",
+        "RIVALS": "Garena's Free Fire MAX and Activision's Call of Duty Mobile are its main rivals in shooter games, while Indian studios such as Nazara compete for players' time and spending.",
+        "WATCH": "BGMI was blocked in 2022 and returned in 2023. Krafton has said it will keep expanding in India, launched an India-focused fund, and set out an esports roadmap for 2026."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Krafton India's main game?",
+          "options": [
+            "Free Fire MAX",
+            "Call of Duty Mobile",
+            "Battlegrounds Mobile India",
+            "Clash of Clans"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Krafton earn from BGMI?",
+          "options": [
+            "Players pay to download",
+            "Selling gaming phones",
+            "Government grants",
+            "In-game purchases of virtual items"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which game is a direct rival to BGMI?",
+          "options": [
+            "Free Fire MAX",
+            "Candy Crush",
+            "Ludo King",
+            "Subway Surfers"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Krafton India runs BGMI, a free battle-royale game that earns from in-game purchases. Krafton also backs Indian startups and esports.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bookmyshow-bigtree",
+      "name": "BookMyShow (Bigtree Entertainment)",
+      "type": "startup",
+      "industry": "media-entertainment",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Ashish Hemrajani",
+        "leader_role": "Founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "BookMyShow is India's best-known app for booking movie tickets, plays, sports and concerts. Its parent Bigtree Entertainment also promotes and produces live events, including Coldplay's 2025 India concerts, and offers movie rentals through BookMyShow Stream.",
+        "EARNS": "It earns convenience fees on every ticket, commissions from cinemas and organisers, advertising from film studios and brands, and income from live events it produces. Movie ticketing remains the core business.",
+        "SIZE": "India's largest online entertainment ticketing platform, covering most cinemas in the country and many of its biggest concerts, comedy shows, plays and sporting events.",
+        "RIVALS": "District by Zomato is now its strongest rival in movies and events. Cinema chains such as PVR INOX also push their own apps, and concert promoters sometimes sell through other platforms.",
+        "WATCH": "Watch how the live events business grows, and scrutiny of ticket scalping and resale for big concerts, which led police to question the company in 2024."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which company owns BookMyShow?",
+          "options": [
+            "Viacom18",
+            "PVR INOX",
+            "Eternal",
+            "Bigtree Entertainment"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is BookMyShow's main way of earning per ticket?",
+          "options": [
+            "Convenience fees and commissions",
+            "Monthly subscriptions only",
+            "Selling popcorn",
+            "Film production rights"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which app is BookMyShow's strongest rival?",
+          "options": [
+            "Swiggy Instamart",
+            "District by Zomato",
+            "Paytm Money",
+            "MakeMyTrip"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "BookMyShow is India's leading ticketing app for movies and live events, earning fees on tickets plus income from concerts it produces. Zomato's District is its main rival.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "magicpin",
+      "name": "magicpin",
+      "type": "startup",
+      "industry": "food-tech-quick-commerce",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Anshoo Sharma",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "magicpin started as a discovery and rewards app for local shops and restaurants and now runs food and grocery delivery, much of it through the government-backed ONDC network. It also offers software tools for merchants.",
+        "EARNS": "It earns commissions from restaurants and stores on orders, fees from brands for promotions, and charges for merchant software. Food delivery is now its largest business.",
+        "SIZE": "One of the most active food delivery players on the ONDC network, with a large base of partner restaurants and stores, though far smaller than Zomato and Swiggy overall.",
+        "RIVALS": "Zomato and Swiggy dominate food delivery and are its main rivals. In local discovery, offers and rewards it competes with Google Maps, Paytm and bank card loyalty programmes.",
+        "WATCH": "magicpin launched Vera, an AI assistant for restaurants and retailers, in April 2026. Watch whether ONDC grows enough to give it scale against the big two."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which open network carries much of magicpin's food delivery?",
+          "options": [
+            "ONDC",
+            "UPI",
+            "FASTag",
+            "Aadhaar"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What AI tool did magicpin launch in April 2026?",
+          "options": [
+            "Nova",
+            "Vera",
+            "Sage",
+            "Echo"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which company is magicpin's rival in food delivery?",
+          "options": [
+            "Nykaa",
+            "Delhivery",
+            "Swiggy",
+            "CarDekho"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "magicpin connects local restaurants and shops to customers, mainly via ONDC food delivery, earning commissions. It competes with Zomato and Swiggy and launched an AI merchant assistant.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "apna",
+      "name": "Apna",
+      "type": "startup",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Nirmit Parikh",
+        "leader_role": "Founder & Group CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Apna is a jobs app that connects employers with workers for entry-level and mid-level roles such as sales, delivery, telecalling and office jobs. It also offers community groups, interview practice and skills content.",
+        "EARNS": "Employers pay to post jobs, unlock candidate databases and promote listings. Job seekers use it mostly for free, with some paid upskilling and career tools.",
+        "SIZE": "One of India's largest job platforms for blue-collar and grey-collar workers by user base, with jobs listed across most large cities and a growing number of smaller towns.",
+        "RIVALS": "WorkIndia is its closest rival for entry-level hiring. Naukri (Info Edge), Indeed and LinkedIn compete for employers, and Quikr Jobs and staffing firms such as TeamLease also compete.",
+        "WATCH": "Founder Nirmit Parikh also started Blue Machines AI, a voice AI company, in 2025. Apna named its first chief technology officer in 2026; watch how it uses AI in hiring."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which jobs does Apna mainly focus on?",
+          "options": [
+            "Senior executive roles",
+            "Entry-level and mid-level roles",
+            "Film acting roles",
+            "Government exams"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who pays Apna most of its revenue?",
+          "options": [
+            "Job seekers",
+            "The government",
+            "Employers",
+            "Advertisers in films"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which of these is a rival to Apna?",
+          "options": [
+            "Glance",
+            "Shaadi.com",
+            "BookMyShow",
+            "WorkIndia"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Apna connects employers with entry-level and mid-level workers, charging employers for job posts and candidate access. It competes with WorkIndia, Naukri and Indeed.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "workindia",
+      "name": "WorkIndia",
+      "type": "startup",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Nilesh Dungarwal",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "WorkIndia is a jobs app for blue-collar workers such as drivers, delivery staff, cooks, security guards and telecallers. Small and medium businesses use it to hire quickly.",
+        "EARNS": "Employers pay for job posts and to contact candidates; workers use the app for free. Small and medium businesses make up most of its paying customers.",
+        "SIZE": "One of India's larger blue-collar hiring platforms, active across big cities and many smaller towns, with a large base of small and medium businesses posting jobs.",
+        "RIVALS": "Apna is its closest rival. Naukri (Info Edge) and Indeed compete for employers, while Quikr Jobs and staffing firms such as TeamLease compete for blue-collar hiring.",
+        "WATCH": "Co-founder Nilesh Dungarwal became CEO in 2023, with co-founder Kunal Patil moving to chairman. Watch hiring demand from small businesses and competition from Apna."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who are WorkIndia's main job seekers?",
+          "options": [
+            "Software engineers",
+            "Doctors",
+            "Blue-collar workers",
+            "Pilots"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who mostly pays WorkIndia?",
+          "options": [
+            "Workers",
+            "Banks",
+            "State governments",
+            "Small and medium businesses hiring staff"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which staffing firm competes with WorkIndia for blue-collar hiring?",
+          "options": [
+            "TeamLease",
+            "Infosys",
+            "Deloitte",
+            "Zerodha"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "WorkIndia helps small businesses hire blue-collar workers like drivers and cooks, charging employers while workers use it free. Apna is its closest rival.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "shaadi-com",
+      "name": "Shaadi.com",
+      "type": "startup",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Anupam Mittal",
+        "leader_role": "Founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Shaadi.com is one of India's oldest online matchmaking sites, used by people and families searching for marriage partners in India and among the Indian diaspora. It is run by People Interactive, part of People Group.",
+        "EARNS": "Most money comes from paid premium memberships that let users contact matches and see more details. Members abroad, especially in the US, UK and Gulf, are an important source of income.",
+        "SIZE": "One of India's two biggest online matrimony brands, founded in 1997, and one of the best-known Indian internet brands among the Indian diaspora in the US, UK and Gulf.",
+        "RIVALS": "BharatMatrimony (Matrimony.com) and Jeevansathi (Info Edge) are its direct rivals, while dating apps such as Tinder, Bumble and Aisle compete for younger singles.",
+        "WATCH": "Founder Anupam Mittal is widely known as a judge on Shark Tank India. Watch how Shaadi.com competes with dating apps among younger users and its use of AI matching."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does Shaadi.com mainly sell?",
+          "options": [
+            "Wedding catering",
+            "Travel packages",
+            "Jewellery",
+            "Premium matchmaking memberships"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company owns Jeevansathi, a rival to Shaadi.com?",
+          "options": [
+            "Info Edge",
+            "Matrimony.com",
+            "People Group",
+            "Reliance"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        },
+        {
+          "prompt": "Which TV show is Shaadi.com's founder known for?",
+          "options": [
+            "Kaun Banega Crorepati",
+            "Shark Tank India",
+            "Indian Idol",
+            "Bigg Boss"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Shaadi.com is a leading online matrimony site for Indians at home and abroad, earning from premium memberships. It faces BharatMatrimony, Jeevansathi and dating apps.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bharatmatrimony-matrimony-com",
+      "name": "Matrimony.com (BharatMatrimony)",
+      "type": "listed",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Chennai, Tamil Nadu",
+        "leader": "Murugavel Janakiraman",
+        "leader_role": "Founder, Chairman & MD",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Matrimony.com runs BharatMatrimony and many community and regional matchmaking sites, EliteMatrimony for wealthy families, and Jodii for non-graduates. It also runs wedding services under Mandap.com.",
+        "EARNS": "Nearly all its money comes from paid memberships on its matchmaking sites, which let members contact matches. Its regional and community sites, especially in South India, are its strongest business.",
+        "SIZE": "One of India's largest online matrimony companies by paying members, and one of the few listed consumer internet firms headquartered in Chennai. It has run matchmaking sites since the early 2000s.",
+        "RIVALS": "Shaadi.com and Jeevansathi (Info Edge) are its direct rivals in online matrimony, while dating apps such as Tinder, Bumble and Aisle compete for younger users.",
+        "WATCH": "Watch how it grows paid members as dating apps attract young users, how its Jodii app for non-graduates grows, and how far wedding services under Mandap.com grow alongside matchmaking."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which matchmaking app does Matrimony.com run for non-graduates?",
+          "options": [
+            "Jodii",
+            "Aisle",
+            "Hinge",
+            "Jeevansathi"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where does Matrimony.com earn most of its money?",
+          "options": [
+            "Wedding venue rentals",
+            "Paid memberships",
+            "Bank loans",
+            "TV ads"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which is a rival to BharatMatrimony?",
+          "options": [
+            "Naukri",
+            "Swiggy",
+            "Shaadi.com",
+            "Practo"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Matrimony.com runs BharatMatrimony and community matchmaking sites, earning almost entirely from paid memberships. It is strongest in South India and competes with Shaadi.com.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "cardekho",
+      "name": "CarDekho Group",
+      "type": "startup",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Amit Jain",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "CarDekho Group runs car and bike research sites CarDekho, BikeDekho and ZigWheels, helps people find new and used cars, and offers car insurance through InsuranceDekho and car loans through Rupyy. It is owned by Girnar Software.",
+        "EARNS": "It earns from carmakers and dealers paying for leads and ads, commissions on used-car deals, and commissions on insurance and loans sold on its platforms. Ads and leads from carmakers are the core.",
+        "SIZE": "One of India's largest auto classifieds and research platforms by traffic, founded in Jaipur in 2008, with a growing fintech arm through InsuranceDekho and Rupyy.",
+        "RIVALS": "CarWale and BikeWale (CarTrade Tech) in auto research; Cars24, Spinny and OLX for used cars; and Policybazaar and Acko in car insurance. Carmakers' own websites also compete for buyers.",
+        "WATCH": "CarDekho has been preparing to file draft IPO papers with SEBI. Watch progress on the listing, and on InsuranceDekho, which has raised money on its own as a separate growth business."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which insurance brand belongs to the CarDekho Group?",
+          "options": [
+            "Acko",
+            "InsuranceDekho",
+            "Policybazaar",
+            "Digit"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which company owns CarWale, a rival to CarDekho?",
+          "options": [
+            "Cars24",
+            "Spinny",
+            "CarTrade Tech",
+            "Info Edge"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        },
+        {
+          "prompt": "What is CarDekho preparing for?",
+          "options": [
+            "A merger with Ola",
+            "Leaving India",
+            "Making its own cars",
+            "An IPO"
+          ],
+          "correct_idx": 3,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "CarDekho Group runs auto research sites, used-car deals, InsuranceDekho and Rupyy loans, earning from carmaker ads and commissions. It is preparing for an IPO.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "quikr",
+      "name": "Quikr",
+      "type": "startup",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Pranay Chulet",
+        "leader_role": "Founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Quikr is an online classifieds platform where people and businesses post ads to sell used goods, rent homes, find jobs and hire services. It has run verticals such as QuikrCars, QuikrHomes and QuikrJobs.",
+        "EARNS": "It earns from paid listings, premium ads that show higher, and fees from businesses such as dealers, brokers and service providers. Business sellers bring most of its income.",
+        "SIZE": "Once one of India's two largest horizontal classifieds sites alongside OLX, it is smaller today than at its peak, as buyers and sellers have spread across specialist apps.",
+        "RIVALS": "OLX (now owned by CarTrade Tech) and Facebook Marketplace for used goods, NoBroker and MagicBricks for homes, and Apna and Naukri for jobs. Each of these focuses on one category, which squeezes general sites.",
+        "WATCH": "Watch whether Quikr can hold users and paying businesses as Facebook Marketplace and specialist apps for cars, homes and jobs take more of the classifieds market."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does Quikr mainly run?",
+          "options": [
+            "A payments bank",
+            "A food delivery app",
+            "An online classifieds platform",
+            "A cinema chain"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which company now owns OLX in India?",
+          "options": [
+            "Info Edge",
+            "Naspers",
+            "Flipkart",
+            "CarTrade Tech"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        },
+        {
+          "prompt": "Who brings most of Quikr's income?",
+          "options": [
+            "Business sellers such as dealers and brokers",
+            "Individual buyers",
+            "The government",
+            "Telecom firms"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        }
+      ],
+      "note_30w": "Quikr is an online classifieds platform for used goods, homes, jobs and services, earning mainly from paid listings by businesses. It competes with OLX and Facebook Marketplace.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "tata-sons",
+      "name": "Tata Sons",
+      "type": "startup",
+      "industry": "conglomerate",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "N Chandrasekaran",
+        "leader_role": "Executive Chairman",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Tata Sons is the unlisted holding company of the Tata group. It owns large stakes in TCS, Tata Motors, Tata Steel, Titan, Tata Power and Tata Consumer, and runs newer businesses such as Air India, Tata Digital and Tata Electronics.",
+        "EARNS": "It earns mainly from dividends paid by group companies, with TCS by far the largest source, plus brand royalties that group companies pay to use the Tata name.",
+        "SIZE": "The parent of India's largest business group by revenue, with dozens of companies across software, steel, cars, consumer goods, power, airlines and retail.",
+        "RIVALS": "India's other big conglomerates compete with Tata businesses across sectors: the Reliance group, Aditya Birla Group, Adani Group and Mahindra Group. None has quite the same mix of businesses.",
+        "WATCH": "N Chandrasekaran said in August 2026 he would not seek another term, but in September the board gave him a fresh term. Watch Tata Trusts' role, Air India's recovery and new chip and battery plants."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Tata Sons' biggest source of dividends?",
+          "options": [
+            "Titan",
+            "Tata Steel",
+            "Air India",
+            "TCS"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Who owns most of Tata Sons?",
+          "options": [
+            "The Tata Trusts",
+            "LIC",
+            "Foreign funds",
+            "The Government of India"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which group is a rival conglomerate to the Tatas?",
+          "options": [
+            "Zerodha",
+            "Aditya Birla Group",
+            "Nykaa",
+            "Ola"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Tata Sons is the Tata group's unlisted holding company, earning mainly from TCS dividends and brand royalties. Chandrasekaran was given a fresh term as chairman.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "serum-institute-of",
+      "name": "Serum Institute of India",
+      "type": "startup",
+      "industry": "pharma",
+      "profile": {
+        "hq": "Pune, Maharashtra",
+        "leader": "Adar Poonawalla",
+        "leader_role": "CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Serum Institute makes vaccines for measles, polio, meningitis, diphtheria and more, and made Covishield during the pandemic. Newer products include Cervavac for cervical cancer and the R21 malaria vaccine developed with Oxford.",
+        "EARNS": "It sells huge volumes of low-cost vaccines to UNICEF, Gavi and governments, plus higher-priced vaccines in India's private market. Supplies to global health agencies make up a large part of its business.",
+        "SIZE": "The world's largest vaccine maker by number of doses, owned by the Poonawalla family, and a key supplier of childhood vaccines to many developing countries.",
+        "RIVALS": "Bharat Biotech and Biological E are its main rivals in India; GSK, Sanofi, Pfizer and Merck compete globally, especially in newer, higher-priced vaccines.",
+        "WATCH": "Watch the rollout of its R21 malaria vaccine in Africa and of Cervavac for cervical cancer in India, and how it adds capacity for new vaccines at its Pune plants."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which malaria vaccine did Serum Institute develop with Oxford?",
+          "options": [
+            "R21",
+            "Covaxin",
+            "Corbevax",
+            "Rotavac"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who are major buyers of Serum Institute's vaccines?",
+          "options": [
+            "Hospitals in Japan only",
+            "UNICEF, Gavi and governments",
+            "Pet clinics",
+            "Cosmetics firms"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company is an Indian rival to Serum Institute?",
+          "options": [
+            "Sun Pharma",
+            "Dabur",
+            "Bharat Biotech",
+            "Lupin"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Serum Institute is the world's largest vaccine maker by doses, supplying low-cost vaccines to UNICEF, Gavi and governments. Watch its malaria and HPV vaccines.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bharat-biotech",
+      "name": "Bharat Biotech",
+      "type": "startup",
+      "industry": "pharma",
+      "profile": {
+        "hq": "Hyderabad, Telangana",
+        "leader": "Krishna Ella",
+        "leader_role": "Executive Chairman",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Bharat Biotech develops and makes vaccines, including Covaxin for COVID-19, Rotavac for rotavirus, Typbar TCV for typhoid, the nasal COVID vaccine iNCOVACC, and Hillchol, an oral cholera vaccine launched in 2024.",
+        "EARNS": "It sells vaccines to India's immunisation programme, global agencies such as UNICEF and Gavi, and the private market. Childhood vaccines such as rotavirus and typhoid form its steady core.",
+        "SIZE": "One of India's leading vaccine developers, known for building vaccines from its own research rather than licensing them, and a major supplier to India's immunisation programme.",
+        "RIVALS": "Serum Institute, Biological E, Panacea Biotec and Indian Immunologicals compete in India, while GSK and Sanofi compete in global vaccine tenders. Zydus also makes vaccines in India.",
+        "WATCH": "Watch its work on a tuberculosis vaccine with Spain's Biofabri, wider supply of the Hillchol cholera vaccine, and new plants for vaccines and biologics in Hyderabad."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which COVID-19 vaccine did Bharat Biotech make?",
+          "options": [
+            "Covishield",
+            "Covaxin",
+            "Corbevax",
+            "Sputnik V"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is Hillchol?",
+          "options": [
+            "A typhoid vaccine",
+            "A cancer drug",
+            "An oral cholera vaccine",
+            "A rabies test"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which company is a rival to Bharat Biotech?",
+          "options": [
+            "Asian Paints",
+            "HUL",
+            "Info Edge",
+            "Biological E"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Bharat Biotech develops its own vaccines like Covaxin, Rotavac, Typbar TCV and Hillchol, selling to India's programme and global agencies. Watch its TB vaccine work.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "intas-pharmaceuticals",
+      "name": "Intas Pharmaceuticals",
+      "type": "startup",
+      "industry": "pharma",
+      "profile": {
+        "hq": "Ahmedabad, Gujarat",
+        "leader": "Nimish Chudgar",
+        "leader_role": "Chairman & MD",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Intas makes generic medicines and biosimilars, selling branded generics in India and, through its subsidiary Accord Healthcare, in Europe, the UK and the US. Its range covers cancer, diabetes, heart and nerve conditions.",
+        "EARNS": "Most revenue comes from overseas, where Accord sells generics and biosimilars to hospitals and pharmacies, especially in Europe. India's branded generics market is its second big engine.",
+        "SIZE": "One of India's largest unlisted pharma companies, among the top drugmakers in India's domestic market and a major generics supplier in Europe through Accord.",
+        "RIVALS": "Sun Pharma, Cipla, Dr Reddy's, Zydus Lifesciences and Lupin compete in generics; Biocon Biologics, Sandoz and Celltrion compete in biosimilars. Price competition in Europe and the US is intense.",
+        "WATCH": "Watch growth of its biosimilars in the US and Europe, and the outcome of US FDA inspections of its Gujarat plants after earlier adverse observations there."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which subsidiary sells Intas medicines in Europe and the US?",
+          "options": [
+            "Viatris",
+            "Sandoz",
+            "Accord Healthcare",
+            "Teva"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where does Intas earn most of its revenue?",
+          "options": [
+            "Hospital services",
+            "Rural India only",
+            "Veterinary products",
+            "Overseas markets"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company is a rival to Intas in biosimilars?",
+          "options": [
+            "Biocon Biologics",
+            "Dabur",
+            "Marico",
+            "Apollo Hospitals"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Intas sells generics and biosimilars in India and abroad through Accord Healthcare, earning most revenue overseas. Watch US FDA inspections and biosimilar growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "micro-labs",
+      "name": "Micro Labs",
+      "type": "startup",
+      "industry": "pharma",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Dilip Surana",
+        "leader_role": "Chairman & MD",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Micro Labs makes medicines for pain, fever, heart, diabetes and eye conditions. Its best-known brand is Dolo 650, a paracetamol tablet that became a household name during the pandemic. It also exports generics.",
+        "EARNS": "It earns mainly from branded medicines sold through pharmacies in India, prescribed by doctors its sales teams visit. Exports to regulated markets such as the US and Europe add a second stream.",
+        "SIZE": "One of India's larger family-owned unlisted drugmakers, with Dolo 650 among the country's top-selling medicine brands and a growing export business. It is privately held by its founders.",
+        "RIVALS": "GSK's Calpol and Crocin compete in fever and pain, while Cipla, Mankind Pharma, Alkem and Sun Pharma compete across branded generics in India. Paracetamol is a crowded, low-price market.",
+        "WATCH": "Watch how stricter rules on drug marketing under the UCPMP 2024 code affect promotion to doctors, and how its exports to the US and Europe grow. Price controls on essential medicines also matter for its brands."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Micro Labs' best-known brand?",
+          "options": [
+            "Crocin",
+            "Calpol",
+            "Saridon",
+            "Dolo 650"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Micro Labs mainly earn?",
+          "options": [
+            "Branded medicines sold in India",
+            "Hospital chains",
+            "Diagnostic labs",
+            "Vaccine exports to UNICEF"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which brand competes with Dolo 650?",
+          "options": [
+            "Volini",
+            "Calpol",
+            "Digene",
+            "Vicks"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Micro Labs is a family-owned drugmaker best known for its Dolo paracetamol brand, earning mostly from branded medicines in India. Watch stricter pharma marketing rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "biological-e",
+      "name": "Biological E",
+      "type": "startup",
+      "industry": "pharma",
+      "profile": {
+        "hq": "Hyderabad, Telangana",
+        "leader": "Mahima Datla",
+        "leader_role": "Managing Director",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Biological E makes vaccines, including Corbevax for COVID-19, a pneumococcal vaccine, typhoid, tetanus and hepatitis vaccines, plus generic injectable medicines. It also makes vaccines for other companies under contract.",
+        "EARNS": "Most money comes from supplying low-cost vaccines to UNICEF, Gavi and governments, plus contract manufacturing for global vaccine makers and sales of generic injectables.",
+        "SIZE": "One of India's three biggest vaccine makers by volume, run by the Datla family since its founding in 1953, and an important supplier to global health agencies.",
+        "RIVALS": "Serum Institute and Bharat Biotech compete in India and in UNICEF tenders; Pfizer, GSK and Sanofi compete globally, especially in pneumococcal vaccines.",
+        "WATCH": "Watch wider supply of its pneumococcal vaccine, new contract manufacturing deals with global vaccine makers, and expansion at its Hyderabad plants. Its vaccines also need continued WHO prequalification."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which COVID-19 vaccine did Biological E make?",
+          "options": [
+            "Corbevax",
+            "Covishield",
+            "Covaxin",
+            "ZyCoV-D"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Besides its own vaccines, how else does Biological E earn?",
+          "options": [
+            "Running hospitals",
+            "Making vaccines for other companies",
+            "Selling insurance",
+            "Retail pharmacies"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company is a rival to Biological E?",
+          "options": [
+            "Zomato",
+            "Titan",
+            "Serum Institute",
+            "Pidilite"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Biological E makes low-cost vaccines like Corbevax for global health agencies and contract-makes vaccines for others. It is one of India's biggest vaccine makers.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "manipal-hospitals",
+      "name": "Manipal Hospitals",
+      "type": "startup",
+      "industry": "healthcare-services",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Dilip Jose",
+        "leader_role": "MD & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Manipal Hospitals runs a large chain of multi-specialty hospitals across India. It grew by buying Columbia Asia's Indian hospitals, AMRI in Kolkata and, in 2025, Sahyadri Hospitals in Pune. Temasek is a major shareholder.",
+        "EARNS": "It earns from treatment, surgeries and outpatient visits paid by patients, insurers and government schemes. Its Bengaluru hospitals are its biggest cluster.",
+        "SIZE": "India's largest hospital chain by bed capacity on most counts, ahead of Apollo, with a strong presence in Bengaluru, Kolkata, Pune and the Delhi region.",
+        "RIVALS": "Apollo Hospitals, Narayana Health, Fortis, Max Healthcare and Aster DM Quality Care compete with it across its main cities. In Kolkata it also faces Medica and Peerless, and in Pune Ruby Hall Clinic.",
+        "WATCH": "Watch how it integrates Sahyadri and other recent acquisitions, and how it adds beds in eastern and western India. Ranjan Pai's family remains the main promoter."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which Pune hospital chain did Manipal buy in 2025?",
+          "options": [
+            "Ruby Hall",
+            "Deenanath Mangeshkar",
+            "Jehangir Hospital",
+            "Sahyadri Hospitals"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which global fund is a major Manipal shareholder?",
+          "options": [
+            "Temasek",
+            "Blackstone",
+            "KKR",
+            "Carlyle"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which chain is a rival to Manipal Hospitals?",
+          "options": [
+            "Nykaa",
+            "Apollo Hospitals",
+            "Cipla",
+            "Metropolis"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Manipal Hospitals is one of India's biggest hospital chains, built through acquisitions like Columbia Asia, AMRI and Sahyadri, with Bengaluru as its core.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "metropolis-healthcare",
+      "name": "Metropolis Healthcare",
+      "type": "listed",
+      "industry": "healthcare-services",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Surendran Chemmenkotil",
+        "leader_role": "Managing Director",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Metropolis runs diagnostic labs and patient service centres offering routine blood tests, specialised and genetic tests, and health packages. It also does tests for hospitals and other labs.",
+        "EARNS": "It earns from test fees paid by walk-in and home-collection patients and from hospitals and labs that send samples. West and south India, led by Mumbai, are its strongest markets; specialised tests earn higher margins.",
+        "SIZE": "One of India's top diagnostics chains, known for a large menu of specialised tests and a strong network of labs in western and southern India. It is a listed company.",
+        "RIVALS": "Dr Lal PathLabs, Agilus Diagnostics, Thyrocare, Apollo Diagnostics and Redcliffe Labs compete with it, along with hospital labs and online test sellers.",
+        "WATCH": "Metropolis has been buying regional labs, including Core Diagnostics, to expand. Watch how it integrates them; Ameera Shah remains promoter and executive chairperson."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which city is at the core of Metropolis's strongest market?",
+          "options": [
+            "Kolkata",
+            "Lucknow",
+            "Mumbai",
+            "Jaipur"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Who is Metropolis's promoter and executive chairperson?",
+          "options": [
+            "Sangita Reddy",
+            "Vandana Lal",
+            "Kiran Mazumdar-Shaw",
+            "Ameera Shah"
+          ],
+          "correct_idx": 3,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which diagnostics chain competes with Metropolis?",
+          "options": [
+            "Thyrocare",
+            "Medanta",
+            "Biocon",
+            "Practo"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Metropolis is a leading diagnostics chain strongest in west and south India, known for specialised tests, and is growing by buying regional labs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "haier",
+      "name": "Haier India",
+      "type": "startup",
+      "industry": "consumer-durables",
+      "profile": {
+        "hq": "Greater Noida, Uttar Pradesh",
+        "leader": "N S Satish",
+        "leader_role": "President",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Haier India sells refrigerators, washing machines, air conditioners, televisions and kitchen appliances. It is the Indian arm of China's Haier Group and makes most products at its plants in Greater Noida and Pune.",
+        "EARNS": "It earns from selling appliances through dealers, large retail chains and online stores. Refrigerators, especially side-by-side and frost-free models, are among its strongest categories.",
+        "SIZE": "One of India's top home appliance brands and a leader in some refrigerator categories, with fast growth in air conditioners and televisions. It is among the few Chinese brands with a large Indian factory base.",
+        "RIVALS": "LG Electronics and Samsung are its biggest rivals, along with Whirlpool, Godrej Appliances and Voltas in fridges, washing machines and air conditioners.",
+        "WATCH": "Bharti Enterprises and Warburg Pincus agreed to buy a large minority stake in Haier India, with Haier Group keeping an equal share and employees the rest. Watch completion and any leadership change."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which country is Haier India's parent from?",
+          "options": [
+            "South Korea",
+            "USA",
+            "Japan",
+            "China"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who agreed to buy a stake in Haier India?",
+          "options": [
+            "Bharti Enterprises and Warburg Pincus",
+            "Reliance and KKR",
+            "Tata and Temasek",
+            "Adani and GIC"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which brand is a rival to Haier in India?",
+          "options": [
+            "Nykaa",
+            "LG Electronics",
+            "Asian Paints",
+            "Bata"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Haier India sells fridges, washing machines and ACs made largely in India. Bharti Enterprises and Warburg Pincus agreed to buy a big stake from China's Haier.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "samsung",
+      "name": "Samsung India",
+      "type": "startup",
+      "industry": "consumer-electronics-d2c",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "JB Park",
+        "leader_role": "President & CEO, Southwest Asia",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Samsung India sells Galaxy smartphones, tablets and wearables, televisions, refrigerators, washing machines and air conditioners. Its Noida factory is one of the world's largest phone plants, and it makes appliances in Chennai.",
+        "EARNS": "Smartphones bring the largest share of its sales, from budget Galaxy models to premium foldables. TVs and appliances add the rest, and it also exports phones made in India.",
+        "SIZE": "One of India's top smartphone brands by sales and a leader in TVs and home appliances, with one of Samsung's largest manufacturing bases outside South Korea.",
+        "RIVALS": "Apple, Vivo, Xiaomi, Oppo and Realme compete in smartphones, while LG, Sony and Haier compete in televisions and home appliances. In premium phones its fiercest contest is with Apple's iPhone.",
+        "WATCH": "Watch its contest of a large customs-duty demand over imported telecom equipment, labour relations at its Chennai plant after a 2024 strike, and the race with Apple in premium phones."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Where is Samsung's giant phone factory in India?",
+          "options": [
+            "Noida",
+            "Pune",
+            "Hosur",
+            "Sriperumbudur"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What brings Samsung India the largest share of sales?",
+          "options": [
+            "Air conditioners",
+            "Smartphones",
+            "Microwaves",
+            "Semiconductors"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company is a rival to Samsung in smartphones?",
+          "options": [
+            "LG",
+            "Sony",
+            "Vivo",
+            "Haier"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Samsung India sells phones, TVs and appliances, many made in Noida and Chennai, with smartphones its biggest business. It faces Apple, Vivo and Xiaomi.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "kia",
+      "name": "Kia India",
+      "type": "startup",
+      "industry": "automobiles",
+      "profile": {
+        "hq": "Anantapur, Andhra Pradesh",
+        "leader": "Gwanggu Lee",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Kia India makes and sells SUVs and MPVs such as the Seltos, Sonet, Syros, Carens and Carnival, plus electric models like the EV6, EV9 and Carens Clavis EV. Its plant is in Anantapur, Andhra Pradesh.",
+        "EARNS": "It earns from selling cars through dealers, plus spare parts and service. Compact and mid-size SUVs, led by the Sonet and Seltos, bring most of its sales; it also exports cars made in India.",
+        "SIZE": "One of India's top car makers by sales, part of South Korea's Hyundai Motor Group, and a major exporter of cars made in India. It entered India in 2019 with the Seltos.",
+        "RIVALS": "Hyundai, Maruti Suzuki, Tata Motors, Mahindra and Toyota Kirloskar Motor compete with it, especially in compact and mid-size SUVs. Its sister company Hyundai sells similar SUVs such as the Creta and Venue.",
+        "WATCH": "Watch new launches in SUVs and electric cars, and a tax dispute with Indian customs over how its imported parts were classified, which Kia has challenged."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Where is Kia India's car plant?",
+          "options": [
+            "Chennai",
+            "Anantapur",
+            "Pune",
+            "Sanand"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which models bring most of Kia India's sales?",
+          "options": [
+            "Picanto and Rio",
+            "EV9 and Carnival",
+            "Sonet and Seltos",
+            "Stinger and K5"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which group does Kia belong to?",
+          "options": [
+            "Toyota Group",
+            "Tata Group",
+            "SAIC",
+            "Hyundai Motor Group"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SIZE"
+        }
+      ],
+      "note_30w": "Kia India makes SUVs like the Sonet and Seltos at Anantapur and is adding EVs. It belongs to Hyundai Motor Group.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "toyota-kirloskar-motor",
+      "name": "Toyota Kirloskar Motor",
+      "type": "startup",
+      "industry": "automobiles",
+      "profile": {
+        "hq": "Bidadi, Karnataka",
+        "leader": "Masakazu Yoshimura",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Toyota Kirloskar Motor makes and sells Toyota cars in India, including the Innova Hycross, Innova Crysta, Fortuner, Urban Cruiser Hyryder, Hilux and Camry. Some models, such as the Glanza and Rumion, are made by Maruti Suzuki.",
+        "EARNS": "It earns from car sales through dealers plus service and parts. MPVs and SUVs such as the Innova and Fortuner bring most of its profit, and strong hybrid sales help.",
+        "SIZE": "One of India's top car makers and a leader in MPVs and strong hybrids, a joint venture of Japan's Toyota and the Kirloskar group with plants near Bengaluru.",
+        "RIVALS": "Maruti Suzuki, Hyundai, Mahindra, Kia and Tata Motors compete with it, especially in SUVs and MPVs, where the Innova and Fortuner face strong rivals. Its partner Maruti is also a rival.",
+        "WATCH": "Toyota announced a new plant in Maharashtra at Chhatrapati Sambhajinagar. Watch progress on it, new SUVs, and Toyota's push for hybrids alongside EVs."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which Toyota model is made for it by Maruti Suzuki?",
+          "options": [
+            "Fortuner",
+            "Camry",
+            "Glanza",
+            "Hilux"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which group is Toyota's partner in this joint venture?",
+          "options": [
+            "Mahindra",
+            "Tata",
+            "Birla",
+            "Kirloskar"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "Where has Toyota announced a new plant?",
+          "options": [
+            "Maharashtra",
+            "Tamil Nadu",
+            "Gujarat",
+            "Haryana"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Toyota Kirloskar Motor sells Innova, Fortuner and hybrid SUVs, sourcing some models from Maruti. It is planning a new plant in Maharashtra.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "jsw-mg-motor",
+      "name": "JSW MG Motor India",
+      "type": "startup",
+      "industry": "automobiles",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Anurag Mehrotra",
+        "leader_role": "Managing Director",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "JSW MG Motor India sells MG cars such as the Hector, Astor and Gloster, and electric cars including the Windsor EV, Comet EV and ZS EV. Premium models like the Cyberster and M9 are sold through MG Select outlets. It is a joint venture of JSW Group and China's SAIC.",
+        "EARNS": "It earns from car sales through dealers plus service. EVs, led by the Windsor EV, now bring a large share of its sales, helped by a battery-rental option that lowers the upfront price.",
+        "SIZE": "One of India's leading electric car sellers and a mid-sized player in the overall car market, with its plant at Halol in Gujarat. MG entered India in 2019 with the Hector.",
+        "RIVALS": "Tata Motors and Mahindra compete hardest in EVs, while Hyundai, Kia and China's BYD compete in both electric and petrol SUVs. VinFast from Vietnam has also entered India.",
+        "WATCH": "Parth Jindal became chairman in August 2026. Watch new EV launches, expansion of the Halol plant in Gujarat, and growth of its MG Select premium network."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which EV is JSW MG's best-seller?",
+          "options": [
+            "Windsor EV",
+            "Nexon EV",
+            "BE 6",
+            "Atto 3"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which two groups own JSW MG Motor India?",
+          "options": [
+            "Tata and Geely",
+            "JSW and SAIC",
+            "Reliance and BYD",
+            "Adani and Great Wall"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which company is a rival to JSW MG in EVs?",
+          "options": [
+            "Royal Enfield",
+            "Ashok Leyland",
+            "Tata Motors",
+            "TVS"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "JSW MG Motor India, a JSW-SAIC venture, sells MG cars and is a top EV maker led by the Windsor EV, with battery rental lowering prices.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "amazon",
+      "name": "Amazon India",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Samir Kumar",
+        "leader_role": "Country Manager, Amazon India",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Amazon India runs the Amazon.in marketplace, Prime memberships with Prime Video, Amazon Pay, Amazon Fresh groceries and Amazon Now quick delivery. Its cloud arm AWS serves Indian businesses separately.",
+        "EARNS": "It earns commissions and fees from third-party sellers, logistics and advertising charges, and Prime subscriptions. Seller fees and ads bring most of the marketplace's income; AWS is a separate profitable business.",
+        "SIZE": "One of India's two largest e-commerce marketplaces, alongside Flipkart, and one of Amazon's most important growth markets outside the US. It also runs a large warehouse and delivery network.",
+        "RIVALS": "Flipkart, Meesho and Reliance's JioMart in e-commerce, and Blinkit, Zepto and Swiggy Instamart in quick commerce. Brand websites and social commerce apps also compete for shoppers.",
+        "WATCH": "Amazon has announced large new spending in India through 2030. Watch Amazon Now's expansion in quick commerce and India's foreign ownership (FDI) rules for e-commerce marketplaces."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which quick-delivery service did Amazon launch in India?",
+          "options": [
+            "Amazon Dash",
+            "Amazon Now",
+            "Amazon Go",
+            "Amazon Flash"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What brings most of Amazon India marketplace's income?",
+          "options": [
+            "Bank loans",
+            "Selling its own phones",
+            "Seller fees and ads",
+            "Cinema tickets"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company is Amazon India's main e-commerce rival?",
+          "options": [
+            "Nykaa",
+            "Myntra",
+            "DMart",
+            "Flipkart"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Amazon India runs a large marketplace, Prime and Amazon Pay, earning from seller fees, ads and subscriptions, and is pushing into quick commerce with Amazon Now.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "justdial",
+      "name": "Justdial",
+      "type": "listed",
+      "industry": "internet-classifieds",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Dinkar Ayilavarapu",
+        "leader_role": "CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Justdial is a local search service that helps people find businesses such as plumbers, doctors, restaurants and shops through its website, app, WhatsApp and phone line. Reliance Retail owns a majority stake, but Justdial stays separately listed.",
+        "EARNS": "Most money comes from small and medium businesses paying yearly or monthly subscriptions for better visibility in search results, plus advertising. Listings are free for users, and paid business campaigns bring most revenue.",
+        "SIZE": "One of India's largest local search platforms, with a huge database of businesses across big cities and smaller towns, and one of the oldest Indian consumer internet brands.",
+        "RIVALS": "Google Search and Google Maps are its biggest rivals for local discovery, along with IndiaMART for business buyers, and Urban Company and Practo in specific services.",
+        "WATCH": "Founder VSS Mani ended his long run as MD and CEO in July 2026, and former Flipkart executive Dinkar Ayilavarapu took over as CEO in August 2026. Watch how it grows under the new team and Reliance."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who owns a majority stake in Justdial?",
+          "options": [
+            "Info Edge",
+            "Tata Digital",
+            "Reliance Retail",
+            "Flipkart"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Who mainly pays Justdial?",
+          "options": [
+            "Telecom companies",
+            "Users searching for services",
+            "State governments",
+            "Small and medium businesses"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which company is Justdial's biggest rival in local search?",
+          "options": [
+            "Google",
+            "Swiggy",
+            "Zomato",
+            "Nykaa"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Justdial is a Reliance-controlled local search service that earns from small businesses paying for visibility. A new CEO from Flipkart took over after founder VSS Mani.",
+      "review": "unreviewed"
+    }
+  ]
+}

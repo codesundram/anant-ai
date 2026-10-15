@@ -1,0 +1,2901 @@
+{
+ "_meta": {
+  "batch": "007",
+  "about": "Nifty 500 companies H to K in the v2 format. Leaders checked against web reports in Oct 2026 where possible; others marked not re-checked. India Cements skipped as an UltraTech subsidiary.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "himadri-speciality-chemical",
+   "name": "Himadri Speciality Chemical",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Anurag Choudhary",
+    "leader_role": "CMD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Himadri turns coal tar into industrial chemicals. Its main products are coal tar pitch, used by aluminium smelters and graphite electrode makers, plus carbon black for tyres, naphthalene and speciality oils. It is also building materials for lithium-ion batteries.",
+    "EARNS": "It earns by converting a low-value by-product of steelmaking into higher-value chemicals sold to aluminium, tyre and electrode makers. Coal tar pitch and carbon black bring in most of its revenue, while speciality grades carry better margins.",
+    "SIZE": "One of India's largest makers of coal tar pitch and a meaningful player in Indian carbon black. It is one of the few Indian chemical companies pushing into battery materials.",
+    "RIVALS": "Rain Industries (Rain Carbon) and Epsilon Carbon in coal tar products. In carbon black it competes with PCBL Chemical and Aditya Birla's Birla Carbon.",
+    "WATCH": "Watch its planned plant for battery anode materials and its stake in Australia's Sicona Battery Technologies, along with demand for pitch from aluminium smelters and for carbon black from tyre makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which industry is a key buyer of Himadri's coal tar pitch?",
+     "options": [
+      "Cement makers",
+      "Aluminium smelters",
+      "Textile mills",
+      "Pharma companies"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Himadri in carbon black?",
+     "options": [
+      "PCBL Chemical",
+      "Pidilite Industries",
+      "Asian Paints",
+      "Deepak Nitrite"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which new area is Himadri building into?",
+     "options": [
+      "Solar panels",
+      "Electric scooters",
+      "Lithium-ion battery materials",
+      "Semiconductor chips"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Himadri turns coal tar into pitch for aluminium smelters, carbon black for tyres and speciality chemicals, and is now building materials for lithium-ion batteries.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hindustan-copper",
+   "name": "Hindustan Copper",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Anupam Misra",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Government-owned Hindustan Copper mines copper ore and sells copper concentrate and refined copper. Its mines are at Malanjkhand in Madhya Pradesh, Khetri in Rajasthan and Ghatsila in Jharkhand. Buyers include smelters, cable makers and traders.",
+    "EARNS": "It earns by mining ore and selling copper in concentrate or refined form, so its income moves closely with global copper prices. Concentrate from its Malanjkhand mine is the backbone of its sales.",
+    "SIZE": "India's only vertically integrated copper producer, from mining to refining, and the holder of most of the country's copper ore leases. It is small next to global miners.",
+    "RIVALS": "Hindalco's Birla Copper, Vedanta's Sterlite Copper and Adani's Kutch Copper in smelting and refining, plus imported copper from global miners.",
+    "WATCH": "Anupam Misra took over as CMD in July 2026. Watch its plans to expand mine output, especially underground mining at Malanjkhand, and its evaluation of copper blocks in Chile as India pushes for critical minerals."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Hindustan Copper's Malanjkhand mine?",
+     "options": [
+      "Odisha",
+      "Gujarat",
+      "Karnataka",
+      "Madhya Pradesh"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What mainly drives Hindustan Copper's earnings?",
+     "options": [
+      "Global copper prices",
+      "Toll road fees",
+      "Software licences",
+      "Retail rents"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became Hindustan Copper's CMD in July 2026?",
+     "options": [
+      "Sanjay Kulshrestha",
+      "Rajesh Rai",
+      "Anupam Misra",
+      "Ajay Kumar Srivastava"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Government-owned Hindustan Copper is India's only integrated copper miner, selling concentrate and refined copper. Earnings track copper prices; it plans bigger mines and Chilean blocks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hitachi-energy",
+   "name": "Hitachi Energy India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "N. Venu",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Hitachi Energy India makes equipment that moves electricity across the grid: power transformers, high-voltage direct current (HVDC) systems, substations and grid automation software. Buyers include Power Grid, state utilities, renewable developers, railways and data centres.",
+    "EARNS": "It earns from selling and installing grid equipment and from service contracts. Transformers and large HVDC and substation projects bring in most of its revenue, and exports to group companies abroad add to it.",
+    "SIZE": "One of India's leading suppliers of power transmission equipment and the Indian arm of Japan's Hitachi Energy. It is among the few firms in India able to deliver HVDC links.",
+    "RIVALS": "Siemens Energy India, GE Vernova T&D India, CG Power and Bharat Heavy Electricals (BHEL), along with Chinese and Korean transformer makers.",
+    "WATCH": "Watch its announced factory expansions for transformers and other grid gear, and how it delivers large HVDC orders tied to carrying renewable power from Rajasthan and Gujarat to cities."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does HVDC, a Hitachi Energy India product, carry?",
+     "options": [
+      "Natural gas",
+      "Electricity over long distances",
+      "Mobile data",
+      "Rail freight"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Hitachi Energy India?",
+     "options": [
+      "Siemens Energy India",
+      "Infosys",
+      "Asian Paints",
+      "Ultratech Cement"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What is Hitachi Energy India expanding?",
+     "options": [
+      "Retail stores",
+      "Hotel rooms",
+      "Cement kilns",
+      "Transformer factory capacity"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Hitachi Energy India makes transformers, HVDC systems and grid software for utilities and renewable developers, and is expanding factories as India builds out its power grid.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "home-first-finance",
+   "name": "Home First Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Manoj Viswanathan",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Home First gives small home loans to first-time buyers, mostly salaried and self-employed families on modest incomes who struggle to get bank loans. It also offers loans against property and lends for home construction and extensions.",
+    "EARNS": "It earns the gap between the interest it charges borrowers and what it pays to borrow from banks and the National Housing Bank. Home loans are almost all of its book, with Gujarat, Maharashtra and Tamil Nadu its biggest markets.",
+    "SIZE": "One of India's leading affordable housing finance companies, though far smaller than mainstream lenders like HDFC Bank or LIC Housing Finance.",
+    "RIVALS": "Aavas Financiers, Aptus Value Housing, Aadhar Housing Finance and India Shelter Finance, plus small-ticket home loans from banks.",
+    "WATCH": "Watch its branch expansion into new states, how its borrowers repay as interest rates move, and the cost of its bank funding."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Home First's main customers?",
+     "options": [
+      "Large corporates",
+      "Foreign tourists",
+      "First-time home buyers on modest incomes",
+      "Car dealers"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a direct rival of Home First?",
+     "options": [
+      "Aavas Financiers",
+      "Muthoot Finance",
+      "Paytm",
+      "Zerodha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "How does Home First mainly make money?",
+     "options": [
+      "Selling homes it builds",
+      "Interest spread on home loans",
+      "Brokerage fees",
+      "Insurance premiums"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Home First lends small home loans to first-time buyers with modest incomes, earning an interest spread. Gujarat, Maharashtra and Tamil Nadu lead its book.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "honeywell-automation",
+   "name": "Honeywell Automation India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Atul Pai",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Honeywell Automation India sells control systems that run refineries, chemical plants and factories, plus building technology such as fire alarms, security and climate controls. It also does engineering and software work for Honeywell units worldwide.",
+    "EARNS": "It earns from automation systems, projects and long service contracts. Process automation for oil, gas and chemical plants is its biggest business, with building solutions and export services adding the rest.",
+    "SIZE": "One of India's leading industrial and building automation companies and the listed Indian arm of US-based Honeywell International.",
+    "RIVALS": "ABB India, Siemens, Emerson, Schneider Electric India and Yokogawa in automation and building controls.",
+    "WATCH": "Its US parent is splitting into separate companies, with automation as a standalone business. Watch how the Indian listed arm fits in that new structure and how demand from refinery and chemical projects holds up."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Honeywell Automation India's biggest business?",
+     "options": [
+      "Process automation for plants",
+      "Home appliances",
+      "Aircraft engines",
+      "Mobile phones"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Honeywell Automation India?",
+     "options": [
+      "Havells",
+      "ABB India",
+      "Voltas",
+      "Titan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What change at its US parent should you watch?",
+     "options": [
+      "A merger with Siemens",
+      "A move to India",
+      "A split into separate companies",
+      "Exit from automation"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Honeywell Automation India sells control systems for refineries and factories plus building safety tech. Watch how it fits as its US parent splits into separate companies.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "housing-and-urban-development",
+   "name": "HUDCO",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Sanjay Kulshrestha",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Housing and Urban Development Corporation (HUDCO) is a government-owned lender that funds housing and city infrastructure. It lends to state governments and their agencies for water supply, roads, metro rail, power and affordable housing, with a small retail home-loan book.",
+    "EARNS": "It earns interest on long-term loans, mostly to state governments and state-backed agencies, which keeps credit risk lower than private lending. Infrastructure loans make up most of its book.",
+    "SIZE": "One of India's largest government lenders for urban infrastructure and housing, and a Navratna public sector company.",
+    "RIVALS": "Power Finance Corporation, REC, IIFCL and NaBFID in infrastructure lending, plus State Bank of India and other banks that fund state projects.",
+    "WATCH": "Watch how fast states draw loans for water, transport and housing projects, the quality of its state-backed book, and its borrowing costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are HUDCO's main borrowers?",
+     "options": [
+      "Individual car buyers",
+      "State governments and their agencies",
+      "Foreign airlines",
+      "Tech startups"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival government lender to HUDCO?",
+     "options": [
+      "Nykaa",
+      "Zomato",
+      "Bajaj Auto",
+      "REC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Why is HUDCO's credit risk relatively low?",
+     "options": [
+      "It lends only gold loans",
+      "It holds no loans",
+      "Most loans are state-backed",
+      "It lends only abroad"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Government-owned HUDCO lends to state governments and agencies for housing, water, roads and metros, earning interest on long-term, mostly state-backed loans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "icici-prudential-asset-management",
+   "name": "ICICI Prudential AMC",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Nimesh Shah",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ICICI Prudential AMC runs ICICI Prudential Mutual Fund, offering equity, debt, hybrid and index funds, plus portfolio management and alternative funds. It is a joint venture of ICICI Bank and the UK's Prudential plc, and listed in December 2025.",
+    "EARNS": "It earns management fees charged as a share of the money it manages. Equity funds earn higher fees than debt funds, so equity schemes and steady SIP inflows from retail savers drive most of its profit.",
+    "SIZE": "One of India's two largest mutual fund houses, alongside SBI Mutual Fund, with one of the biggest bases of retail savers.",
+    "RIVALS": "SBI Funds Management, HDFC AMC, Nippon Life India AMC and Kotak Mahindra AMC, plus low-cost index fund houses.",
+    "WATCH": "Watch SEBI's changes to the expense limits mutual funds can charge, which affect fee income, and whether monthly SIP inflows stay strong."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which two companies jointly own ICICI Prudential AMC?",
+     "options": [
+      "ICICI Bank and Prudential plc",
+      "HDFC Bank and Standard Life",
+      "SBI and Amundi",
+      "Axis Bank and Max"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does ICICI Prudential AMC mainly make money?",
+     "options": [
+      "Interest on loans",
+      "Fees on money managed",
+      "Insurance premiums",
+      "Selling shares it owns"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which fund house is its closest rival in size?",
+     "options": [
+      "Zerodha",
+      "PhonePe",
+      "Groww",
+      "SBI Mutual Fund"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ICICI Prudential AMC runs one of India's two biggest mutual fund houses, earning fees on money managed. Listed in December 2025; watch SEBI's expense rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "idbi-bank",
+   "name": "IDBI Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rakesh Sharma",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IDBI Bank offers savings and current accounts, home and personal loans, business loans and other banking services across India. Once a development finance institution, it is now a universal bank owned mostly by the government and LIC.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors, plus fees. Retail loans such as home loans now make up the bigger part of its book after years of cutting risky corporate lending.",
+    "SIZE": "A mid-sized Indian bank with a nationwide branch network. It cleaned up a large pile of bad loans and returned to steady profits.",
+    "RIVALS": "Public sector banks such as Bank of Baroda, Canara Bank and Union Bank of India, and private lenders such as Federal Bank and IndusInd Bank.",
+    "WATCH": "The government and LIC are selling a controlling stake. Fairfax Financial and Emirates NBD are the bidders, and the sale resumed in 2026 after earlier bids fell short of the government's reserve price."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who mainly owns IDBI Bank today?",
+     "options": [
+      "The government and LIC",
+      "HDFC Bank",
+      "Foreign hedge funds",
+      "Tata Group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which bidders are in the race for IDBI Bank?",
+     "options": [
+      "Kotak and Axis",
+      "Fairfax and Emirates NBD",
+      "DBS and HSBC",
+      "SBI and PNB"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which bank is a rival to IDBI Bank?",
+     "options": [
+      "Zerodha",
+      "Paytm",
+      "Bank of Baroda",
+      "Bajaj Finserv"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IDBI Bank is a mid-sized bank owned mostly by the government and LIC, now retail-focused. Watch the controlling-stake sale to Fairfax or Emirates NBD.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ifci",
+   "name": "IFCI",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Rahul Bhave",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IFCI, set up in 1948 as India's first development finance institution, gives long-term loans to infrastructure and industrial projects. It is government-owned and works as an agency for government schemes. Its group includes StockHolding Corporation of India and IFCI Factors.",
+    "EARNS": "It earns interest on project loans, fees from managing government schemes, and income from subsidiaries. StockHolding, a large custodian and depository participant, is a key part of group income.",
+    "SIZE": "A small lender today next to banks and bigger state lenders, but one of the oldest names in Indian project finance.",
+    "RIVALS": "Power Finance Corporation, REC, IIFCL and SIDBI in long-term and development lending, plus banks that fund industrial projects.",
+    "WATCH": "Watch its recovery of old bad loans and how the government reshapes its subsidiaries. A new deputy MD joined in April 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "When was IFCI set up?",
+     "options": [
+      "1948",
+      "1991",
+      "2005",
+      "1969"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which IFCI group company is a large custodian?",
+     "options": [
+      "NSDL",
+      "StockHolding Corporation of India",
+      "CDSL",
+      "Kfin Technologies"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival to IFCI in development lending?",
+     "options": [
+      "Swiggy",
+      "Titan",
+      "IRCTC",
+      "SIDBI"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IFCI, India's first development finance institution, is a government-owned project lender and scheme agency whose group includes StockHolding. Watch bad-loan recovery and subsidiary restructuring.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "iifl-finance",
+   "name": "IIFL Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Nirmal Jain",
+    "leader_role": "MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "IIFL Finance lends to individuals and small businesses: gold loans, home loans through IIFL Home Finance, loans to small businesses, and microfinance through IIFL Samasta. It reaches customers through a large branch network and digital partners.",
+    "EARNS": "It earns interest on loans. Gold loans and home loans are its largest businesses, with gold loans the most profitable because they are short and backed by jewellery.",
+    "SIZE": "One of India's largest diversified non-bank lenders and among the top gold loan companies.",
+    "RIVALS": "Muthoot Finance and Manappuram Finance in gold loans, Aavas and Aptus in affordable home loans, and Bajaj Finance in small business lending.",
+    "WATCH": "RBI stopped its new gold lending in March 2024 and lifted the ban that September. Watch how its gold book grows under RBI's newer gold loan rules and how microfinance repayments hold up."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which IIFL Finance business is the most profitable?",
+     "options": [
+      "Car leasing",
+      "Gold loans",
+      "Credit cards",
+      "Insurance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival in gold loans?",
+     "options": [
+      "Muthoot Finance",
+      "Nykaa",
+      "Info Edge",
+      "Dabur"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What did RBI do to IIFL Finance in March 2024?",
+     "options": [
+      "Gave it a bank licence",
+      "Merged it with a bank",
+      "Halted its new gold loans",
+      "Cut its branches"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "IIFL Finance lends gold, home, small business and microfinance loans. Gold loans are most profitable; watch growth after RBI's 2024 ban was lifted.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "inox",
+   "name": "INOX India (INOXCVA)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Vadodara, Gujarat",
+    "leader": "Deepak Acharya",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "INOX India, known as INOXCVA, makes cryogenic tanks and systems that store and move super-cold gases such as LNG, liquid oxygen, nitrogen and hydrogen. It also builds LNG fuel tanks for trucks and equipment for space programmes and science projects such as ITER. It listed in December 2023.",
+    "EARNS": "It earns by selling engineered tanks and systems to gas companies, LNG users, space and science agencies. Industrial gas equipment is its largest business, while LNG and custom space projects are growing faster.",
+    "SIZE": "One of the world's larger makers of cryogenic storage equipment and India's leading one, part of the INOX Group.",
+    "RIVALS": "Chart Industries, Linde Engineering, Air Liquide's Cryolor and Wessington Cryogenics in cryogenic equipment.",
+    "WATCH": "Watch its new Kandla facility, orders from space companies and LNG trucking, and its push into overseas markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does INOX India mainly make?",
+     "options": [
+      "Steel pipes",
+      "Cryogenic tanks and systems",
+      "Solar panels",
+      "Wind turbines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with INOX India?",
+     "options": [
+      "Bharat Forge",
+      "Havells",
+      "Chart Industries",
+      "Voltas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which new facility is INOX India building?",
+     "options": [
+      "Kandla",
+      "Sanand",
+      "Hosur",
+      "Chakan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "INOX India makes cryogenic tanks for LNG, industrial gases and space projects. Industrial gas equipment leads; watch its Kandla facility and overseas growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "irb-infrastructure-developers",
+   "name": "IRB Infrastructure Developers",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Virendra Mhaiskar",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IRB builds and runs toll roads across India, including the Mumbai-Pune Expressway. It wins highways under build-operate-transfer and toll-operate-transfer contracts and moves finished roads into its infrastructure trusts (InvITs).",
+    "EARNS": "It earns tolls from vehicles on roads it runs, construction income from building highways for its InvITs and fees for managing those trusts. Toll collection is the steadiest part of its income.",
+    "SIZE": "One of India's largest private toll road developers and operators, with roads spread across many states.",
+    "RIVALS": "Cube Highways, Ashoka Buildcon, PNC Infratech and Dilip Buildcon in highway building and toll operations.",
+    "WATCH": "Watch NHAI's toll-operate-transfer bundles it bids for, how it moves more roads into its InvITs, and the effect of the annual FASTag pass introduced in 2025."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which famous road does IRB run?",
+     "options": [
+      "Mumbai-Pune Expressway",
+      "Yamuna Expressway",
+      "Bandra-Worli Sea Link",
+      "Atal Setu"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is IRB's steadiest source of income?",
+     "options": [
+      "Real estate sales",
+      "Toll collection",
+      "Cement sales",
+      "Airport fees"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to IRB?",
+     "options": [
+      "DLF",
+      "Adani Green",
+      "Ashoka Buildcon",
+      "Siemens"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IRB builds and runs toll roads, including the Mumbai-Pune Expressway, earning tolls and construction income. Watch NHAI toll bundles and moving roads into InvITs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "itc-hotels",
+   "name": "ITC Hotels",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Anil Chadha",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "ITC Hotels runs luxury and upscale hotels under brands such as ITC Hotels, Mementos, Welcomhotel, Storii, Fortune and WelcomHeritage. It was demerged from ITC and listed in January 2025, with ITC keeping a large minority stake.",
+    "EARNS": "It earns from room rents, food and banquets at hotels it owns, and fees from hotels it manages for other owners. Its owned luxury hotels in big cities bring in most of the revenue and profit.",
+    "SIZE": "One of India's largest hotel chains and a leader in luxury hotels, alongside Taj and Oberoi.",
+    "RIVALS": "Indian Hotels (Taj), EIH (Oberoi), The Leela, Chalet Hotels and global chains such as Marriott and Hyatt.",
+    "WATCH": "Watch its plan to grow mainly by managing hotels owned by others rather than building its own, new openings including in Kerala, and demand from weddings and business travel."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which brand belongs to ITC Hotels?",
+     "options": [
+      "Taj",
+      "Welcomhotel",
+      "Ginger",
+      "Lemon Tree"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "When did ITC Hotels list after its demerger?",
+     "options": [
+      "January 2025",
+      "March 2020",
+      "June 2018",
+      "October 2023"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a direct rival of ITC Hotels?",
+     "options": [
+      "IRCTC",
+      "Ixigo",
+      "MakeMyTrip",
+      "Indian Hotels (Taj)"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ITC Hotels runs luxury brands like ITC Hotels, Welcomhotel and Fortune. Demerged from ITC in January 2025, it now grows mainly by managing others' hotels.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "iti",
+   "name": "ITI Ltd",
+   "type": "listed",
+   "industry": "telecom",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Rajesh Rai",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Government-owned ITI, set up in 1948, makes telecom equipment and builds networks. It installs rural broadband under BharatNet, supplies and sets up 4G sites for BSNL, builds secure networks for defence and makes electronics such as smart meters.",
+    "EARNS": "It earns from government network projects and equipment orders, mostly from BSNL, BharatNet and defence. Network installation projects bring in most of its revenue, while its own manufacturing is smaller.",
+    "SIZE": "India's oldest public sector company and a small telecom equipment maker next to global vendors, kept busy mainly by government projects.",
+    "RIVALS": "Tejas Networks, HFCL and Sterlite Technologies (STL) in Indian telecom gear and network projects, plus global vendors such as Nokia.",
+    "WATCH": "Watch execution of its BharatNet Phase III projects and its 2026 BSNL 4G order, and whether it can stay profitable after years of losses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which customer gives ITI many network orders?",
+     "options": [
+      "Reliance Jio",
+      "BSNL",
+      "Vodafone Idea",
+      "Airtel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to ITI?",
+     "options": [
+      "Tejas Networks",
+      "Infosys",
+      "Dixon",
+      "Titan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which rural broadband programme should you watch for ITI?",
+     "options": [
+      "PM-KUSUM",
+      "UDAN",
+      "BharatNet Phase III",
+      "Jal Jeevan Mission"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Government-owned ITI builds telecom networks and equipment, mainly for BSNL, BharatNet and defence. Watch BharatNet Phase III, BSNL 4G work and staying profitable.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indiamart-intermesh",
+   "name": "IndiaMART",
+   "type": "listed",
+   "industry": "internet-classifieds",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Dinesh Agarwal",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "IndiaMART runs an online marketplace where businesses find suppliers of products from machinery to chemicals. Buyers use it free; small and mid-sized sellers pay subscriptions to list products and get buyer leads. It also owns Busy accounting software.",
+    "EARNS": "Most revenue comes from annual subscriptions paid by sellers for better listings and more buyer leads. Paid subscriptions are collected upfront, which gives it strong cash flow.",
+    "SIZE": "India's largest online business-to-business marketplace, with by far the most supplier listings in the country.",
+    "RIVALS": "TradeIndia, Udaan, Justdial and global platforms such as Alibaba.com.",
+    "WATCH": "Watch growth in paying suppliers and how many leave each year, its use of AI to match buyers and sellers, and growth at Busy."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who pays IndiaMART most of its revenue?",
+     "options": [
+      "Buyers",
+      "Sellers paying subscriptions",
+      "Advertisers on TV",
+      "Government"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which accounting software does IndiaMART own?",
+     "options": [
+      "Tally",
+      "Zoho Books",
+      "Busy",
+      "Vyapar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival to IndiaMART?",
+     "options": [
+      "TradeIndia",
+      "Zomato",
+      "Nykaa",
+      "Ixigo"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IndiaMART runs India's largest online business marketplace, earning upfront subscriptions from sellers. It also owns Busy accounting software. Watch paying-supplier growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indian-bank",
+   "name": "Indian Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Binod Kumar",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Government-owned Indian Bank offers deposits, home, gold, farm and business loans through a large network concentrated in south India. It absorbed Allahabad Bank in 2020, which gave it a strong base in north and east India too.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors, plus fees. Retail, agriculture and small business loans make up a large and profitable part of its book.",
+    "SIZE": "One of India's larger public sector banks and among the biggest lenders in Tamil Nadu.",
+    "RIVALS": "Canara Bank, Indian Overseas Bank, Bank of Baroda and Union Bank of India, plus private banks such as HDFC Bank.",
+    "WATCH": "Watch its deposit growth against private banks, its digital banking push and the health of its loan book."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank merged into Indian Bank in 2020?",
+     "options": [
+      "Allahabad Bank",
+      "Dena Bank",
+      "Vijaya Bank",
+      "Syndicate Bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Indian Bank's network concentrated?",
+     "options": [
+      "North-east India",
+      "Gujarat",
+      "South India",
+      "Overseas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which bank is a rival to Indian Bank?",
+     "options": [
+      "Zerodha",
+      "Paytm",
+      "Bajaj Finance",
+      "Canara Bank"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-owned Indian Bank, Chennai-based, absorbed Allahabad Bank in 2020. It earns mainly from retail, farm and small business loans across a strong southern network.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indian-energy-exchange",
+   "name": "Indian Energy Exchange (IEX)",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Satyanarayan Goel",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IEX runs India's main electricity exchange, where power producers, utilities and large companies buy and sell power for the next day, in real time or for longer terms. It also runs green power and renewable energy certificate markets, and its group includes Indian Gas Exchange.",
+    "EARNS": "It earns a small fee on every unit of electricity traded, charged to both buyer and seller. The day-ahead and real-time markets bring in most of its income.",
+    "SIZE": "India's dominant power exchange, handling most of the electricity traded on exchanges in the country.",
+    "RIVALS": "Power Exchange India (PXIL) and Hindustan Power Exchange (HPX), plus long-term power contracts signed directly between producers and utilities.",
+    "WATCH": "Watch the power regulator CERC's move to couple prices across power exchanges, which could weaken IEX's edge, and growth in green power trading."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does IEX charge to make money?",
+     "options": [
+      "A fee per unit traded",
+      "Electricity bills to homes",
+      "Coal sales",
+      "Transmission tolls"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival power exchange?",
+     "options": [
+      "NSE",
+      "MCX",
+      "BSE",
+      "Power Exchange India (PXIL)"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which regulator's market coupling plan should you watch?",
+     "options": [
+      "SEBI",
+      "CERC",
+      "RBI",
+      "TRAI"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "IEX runs India's dominant electricity exchange, earning a fee on every unit traded. Watch CERC's market coupling plan and growth in green power trading.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indian-overseas-bank",
+   "name": "Indian Overseas Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Ajay Kumar Srivastava",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Government-owned Indian Overseas Bank (IOB) offers deposits, retail, farm and business loans, with a large network in Tamil Nadu and a few branches abroad. It was founded in 1937 to serve overseas trade.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors, plus fees. Retail, agriculture and small business loans are now the core of its book after years of cutting corporate exposure.",
+    "SIZE": "A mid-sized public sector bank with a strong base in south India. It exited RBI's prompt corrective action framework in 2021 after a long clean-up.",
+    "RIVALS": "Indian Bank, Central Bank of India, UCO Bank and Bank of Maharashtra, plus private banks such as Karur Vysya Bank in Tamil Nadu.",
+    "WATCH": "The government owns almost all of IOB and must cut its stake to meet public shareholding rules. Shareholders approved an equity raise in 2026, and the MD's term was extended to October 2027."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "When did IOB exit RBI's prompt corrective action framework?",
+     "options": [
+      "2021",
+      "2015",
+      "2009",
+      "2024"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Why must IOB raise equity?",
+     "options": [
+      "To buy a rival",
+      "To cut the government's stake",
+      "To list abroad",
+      "To fund a merger"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which bank is a rival to IOB?",
+     "options": [
+      "HDFC Life",
+      "Bajaj Finance",
+      "Groww",
+      "UCO Bank"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Indian Overseas Bank is a Chennai-based public sector bank, cleaned up after RBI curbs. Watch equity raising to cut the government's very high stake.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indian-renewable-energy-development-agency",
+   "name": "IREDA",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Bijay Kumar Mohanty",
+    "leader_role": "CMD (additional charge)",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Indian Renewable Energy Development Agency (IREDA) is a government-owned lender that funds solar, wind, hydro, green hydrogen, battery storage and electric mobility projects. It listed in November 2023.",
+    "EARNS": "It earns the gap between interest on project loans and its borrowing costs. Loans to solar and wind projects make up most of its book.",
+    "SIZE": "India's largest specialist lender to renewable energy and a Navratna public sector company.",
+    "RIVALS": "Power Finance Corporation, REC, State Bank of India and private lenders such as Tata Capital in green energy loans.",
+    "WATCH": "Its CMD retired in June 2026 and Director (Finance) Bijay Kumar Mohanty holds additional charge until a regular head is appointed. Also watch its new green finance arm at GIFT City and the quality of its loans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does IREDA mainly fund?",
+     "options": [
+      "Coal mines",
+      "Renewable energy projects",
+      "Housing",
+      "Airlines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival lender to IREDA?",
+     "options": [
+      "Power Finance Corporation",
+      "Zerodha",
+      "Paytm",
+      "Nykaa"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What leadership change should you watch at IREDA?",
+     "options": [
+      "A new private owner",
+      "A merger with NTPC",
+      "Appointment of a regular CMD",
+      "A move to Mumbai"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Government-owned IREDA is India's largest specialist renewable energy lender, mostly to solar and wind. Watch the appointment of a regular CMD and loan quality.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indraprastha-gas",
+   "name": "Indraprastha Gas (IGL)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Kumar Shanker",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IGL supplies CNG to vehicles and piped natural gas (PNG) to homes, shops and factories in Delhi NCR and other cities. It is promoted by GAIL and BPCL.",
+    "EARNS": "It earns a margin between the cost of gas it buys and the price it charges. CNG for buses, autos, taxis and cars in Delhi NCR is its biggest and most profitable business.",
+    "SIZE": "One of India's largest city gas distribution companies and the main CNG supplier in the national capital.",
+    "RIVALS": "Mahanagar Gas, Adani Total Gas, Gujarat Gas and Torrent Gas, plus petrol, diesel and electric vehicles competing with CNG.",
+    "WATCH": "Kumar Shanker became MD in June 2026. Watch government cuts to cheap domestic gas supplies, the shift to electric buses and cars in Delhi, and its growth in new cities."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is IGL's biggest business?",
+     "options": [
+      "CNG for vehicles",
+      "Petrol pumps",
+      "LPG cylinders",
+      "Power plants"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to IGL?",
+     "options": [
+      "ONGC Videsh",
+      "Mahanagar Gas",
+      "Coal India",
+      "Oil India"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What long-term threat to CNG demand should you watch?",
+     "options": [
+      "Rising airfares",
+      "Cement prices",
+      "More metro lines",
+      "Electric vehicles"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "IGL supplies CNG and piped gas mainly in Delhi NCR, earning a margin on gas. Watch domestic gas allocation and the shift to electric vehicles.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "intellect-design-arena",
+   "name": "Intellect Design Arena",
+   "type": "listed",
+   "industry": "saas",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Arun Jain",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Intellect sells software to banks and insurers: core banking, transaction banking (iGTB), lending, wealth and insurance platforms, all built on its eMACH.ai platform. It also offers Purple Fabric, an AI platform for enterprises. Customers are banks worldwide.",
+    "EARNS": "It earns licence fees, implementation charges and recurring maintenance and subscription fees. Licence and platform deals with large banks drive its growth, and recurring fees give it a steady base.",
+    "SIZE": "One of India's leading banking software product companies, with clients across many countries.",
+    "RIVALS": "Infosys Finacle, TCS BaNCS, Temenos, Oracle Financial Services and Nucleus Software.",
+    "WATCH": "Watch large bank deals it signs, uptake of Purple Fabric and its eMACH.ai platform, and growth in recurring subscription revenue."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Intellect's AI platform for enterprises called?",
+     "options": [
+      "Purple Fabric",
+      "Finacle",
+      "BaNCS",
+      "Copilot"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Intellect?",
+     "options": [
+      "Zomato",
+      "Temenos",
+      "Paytm",
+      "Dixon"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What gives Intellect a steady base of income?",
+     "options": [
+      "Ad revenue",
+      "Hardware sales",
+      "Recurring maintenance and subscription fees",
+      "Loan interest"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Intellect sells banking and insurance software built on eMACH.ai, plus the Purple Fabric AI platform. It earns licences and recurring fees from banks worldwide.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "international-gemological-institute",
+   "name": "International Gemological Institute (IGI)",
+   "type": "listed",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Tehmasp Printer",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "IGI grades and certifies diamonds, lab-grown diamonds, coloured gemstones and jewellery, and runs gemology courses. Jewellers, diamond makers and retailers send stones for reports that buyers trust. It listed in December 2024 and is controlled by Blackstone.",
+    "EARNS": "It earns a fee for each stone or piece certified. Lab-grown diamond certification has become its fastest-growing and largest business, alongside natural diamonds and studded jewellery.",
+    "SIZE": "One of the world's largest gem certification labs and the leader in grading lab-grown diamonds.",
+    "RIVALS": "Gemological Institute of America (GIA), HRD Antwerp, Solitaire Gemmological Laboratories and Gemological Science International (GSI).",
+    "WATCH": "Watch demand for lab-grown diamonds, US tariffs on Indian diamond and jewellery exports, and new labs it opens abroad."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does IGI mainly sell?",
+     "options": [
+      "Diamond mining",
+      "Gem grading and certification",
+      "Jewellery retail",
+      "Gold loans"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is IGI's biggest global rival?",
+     "options": [
+      "De Beers",
+      "Titan",
+      "Kalyan Jewellers",
+      "GIA"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which business has driven IGI's growth?",
+     "options": [
+      "Lab-grown diamond certification",
+      "Silver trading",
+      "Watch repairs",
+      "Luxury handbags"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "IGI grades diamonds, lab-grown stones and jewellery, earning a fee per piece. Lab-grown certification drives growth; watch US tariffs on Indian diamond exports.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "inventurus-knowledge-solutions",
+   "name": "Inventurus Knowledge Solutions (IKS)",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sachin Gupta",
+    "leader_role": "Founder & Global CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IKS handles back-office and clinical support work for US doctors and hospital groups: medical billing and revenue cycle management, clinical documentation and care management. It acquired AQuity Solutions in 2024 and listed in December 2024.",
+    "EARNS": "It earns fees from healthcare providers for running their billing, documentation and care tasks. Almost all revenue comes from US clients, with revenue cycle work and clinical documentation the largest parts.",
+    "SIZE": "One of India's larger healthcare services outsourcing firms, focused on US physician groups and health systems.",
+    "RIVALS": "R1 RCM, Omega Healthcare, AGS Health and Access Healthcare, plus in-house teams at US hospitals.",
+    "WATCH": "Watch how it integrates AQuity, its use of AI for documentation and billing, and changes in US healthcare spending."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where do almost all of IKS's clients sit?",
+     "options": [
+      "India",
+      "Europe",
+      "United States",
+      "Middle East"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company did IKS acquire in 2024?",
+     "options": [
+      "R1 RCM",
+      "AQuity Solutions",
+      "Omega Healthcare",
+      "Firstsource"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to IKS?",
+     "options": [
+      "AGS Health",
+      "Apollo Hospitals",
+      "Dr Reddy's",
+      "Practo"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IKS runs billing, documentation and care management for US doctors and hospitals. It bought AQuity in 2024; watch integration and AI-driven automation.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ipca-laboratories",
+   "name": "Ipca Laboratories",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Pranay Godha",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Ipca makes branded medicines for India, generics for export and active ingredients (APIs). Its well-known brands include Zerodol for pain and Lariago and HCQS for malaria and arthritis. It holds a controlling stake in Unichem Laboratories.",
+    "EARNS": "It earns mostly from branded medicines sold to Indian doctors and pharmacies, where pain management is its biggest therapy. Exports of generics and APIs add the rest.",
+    "SIZE": "A mid-sized Indian pharma company and one of the leaders in pain management and anti-malarial medicines in India.",
+    "RIVALS": "Sun Pharma, Torrent Pharma, Alkem Laboratories and Cipla in Indian branded medicines.",
+    "WATCH": "Watch US FDA inspections of its plants, integration of Unichem, and growth of its Indian brands in pain and heart care."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which therapy is Ipca's biggest in India?",
+     "options": [
+      "Pain management",
+      "Oncology",
+      "Vaccines",
+      "Dermatology"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company does Ipca hold a controlling stake in?",
+     "options": [
+      "Alembic",
+      "Glenmark",
+      "Unichem Laboratories",
+      "Wockhardt"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Ipca?",
+     "options": [
+      "Nykaa",
+      "Torrent Pharma",
+      "Apollo Tyres",
+      "Dabur"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Ipca sells branded medicines like Zerodol and Lariago in India plus generics and APIs abroad. Pain management leads; watch FDA inspections and Unichem integration.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "j-k-cement",
+   "name": "JK Cement",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Kanpur, Uttar Pradesh",
+    "leader": "Madhavkrishna Singhania",
+    "leader_role": "Joint MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "JK Cement makes grey cement for builders and homeowners and white cement and wall putty under JK White. It has also entered paints with JK Maxx Paints and makes tile adhesives.",
+    "EARNS": "Grey cement brings in most of its revenue, while white cement and wall putty earn higher margins. Its plants in Rajasthan, Madhya Pradesh and the south supply north, central and southern markets.",
+    "SIZE": "One of India's larger cement makers and one of the two leading white cement makers in India, alongside UltraTech's Birla White.",
+    "RIVALS": "UltraTech (including Birla White), Shree Cement, Ambuja Cements and Dalmia Bharat.",
+    "WATCH": "Watch its announced capacity expansions in central and eastern India and whether its young paints business gains ground."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is JK Cement's white cement brand?",
+     "options": [
+      "Birla White",
+      "JK White",
+      "Snowcem",
+      "Asian White"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which JK Cement products earn higher margins?",
+     "options": [
+      "Grey cement",
+      "Steel bars",
+      "White cement and wall putty",
+      "Ready-mix concrete"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to JK Cement?",
+     "options": [
+      "Shree Cement",
+      "Pidilite",
+      "Kajaria",
+      "Astral"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "JK Cement sells grey cement plus higher-margin JK White cement and putty, and has entered paints. Watch its expansion into central and eastern India.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jbm-auto",
+   "name": "JBM Auto",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Nishant Arya",
+    "leader_role": "Vice Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "JBM Auto makes sheet metal parts and assemblies for carmakers, builds tooling and dies, and makes electric buses under JBM Ecolife for city and state transport agencies.",
+    "EARNS": "Components for car and two-wheeler makers bring in a large, steady share of revenue. Electric buses, often run under long-term contracts with state transport agencies, are its fastest-growing business.",
+    "SIZE": "One of India's leading electric bus makers and a sizeable auto components supplier.",
+    "RIVALS": "Olectra Greentech, PMI Electro Mobility, Switch Mobility and Tata Motors in electric buses, plus other sheet metal parts makers.",
+    "WATCH": "Watch electric bus orders under the government's PM e-Bus Sewa and PM E-DRIVE schemes, its expanding bus factories, and payments from state transport agencies."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is JBM Auto's electric bus brand?",
+     "options": [
+      "Olectra",
+      "Switch",
+      "EKA",
+      "JBM Ecolife"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with JBM Auto in electric buses?",
+     "options": [
+      "Olectra Greentech",
+      "Hero MotoCorp",
+      "Ather",
+      "TVS Motor"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which government scheme drives JBM's bus orders?",
+     "options": [
+      "PM-KISAN",
+      "PM e-Bus Sewa",
+      "Ujjwala",
+      "Jan Dhan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "JBM Auto makes sheet metal car parts and JBM Ecolife electric buses. E-buses grow fastest; watch PM e-Bus Sewa orders and state payments.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jk-tyre-and-industries",
+   "name": "JK Tyre & Industries",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Anshuman Singhania",
+    "leader_role": "MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "JK Tyre makes tyres for trucks, buses, cars, two-wheelers and tractors, selling to vehicle makers and through dealers. It owns Cavendish Industries in India and JK Tornel in Mexico.",
+    "EARNS": "Most revenue comes from replacement tyres sold through dealers, which earn better margins than tyres supplied to vehicle makers. Truck and bus radial tyres are its largest segment.",
+    "SIZE": "One of India's top tyre makers and a leader in truck and bus radial tyres.",
+    "RIVALS": "MRF, Apollo Tyres, CEAT and Bridgestone India.",
+    "WATCH": "Watch natural rubber and crude-linked raw material costs, its capacity expansions and its exports to the US and Europe."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is JK Tyre's largest segment?",
+     "options": [
+      "Bicycle tyres",
+      "Truck and bus radials",
+      "Aircraft tyres",
+      "Rubber gloves"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where is JK Tyre's subsidiary JK Tornel based?",
+     "options": [
+      "Mexico",
+      "Brazil",
+      "Thailand",
+      "Kenya"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to JK Tyre?",
+     "options": [
+      "Bosch",
+      "Motherson",
+      "Apollo Tyres",
+      "Exide"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "JK Tyre makes tyres for trucks, cars and two-wheelers, leading in truck and bus radials. Replacement sales earn most; watch rubber costs and exports.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jm-financial",
+   "name": "JM Financial",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vishal Kampani",
+    "leader_role": "Vice Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "JM Financial is a financial services group advising companies on IPOs, mergers and fundraising, wealth management, stock broking, asset management and loans including home loans and loans to developers.",
+    "EARNS": "It earns fees from managing IPOs, mergers and fundraising, plus broking and wealth fees, and interest from its lending arms. Deal advisory and wealth are its most profitable businesses.",
+    "SIZE": "One of India's leading deal advisers and among the most active managers of IPOs.",
+    "RIVALS": "Kotak Mahindra Capital, Axis Capital, ICICI Securities, IIFL Capital and Motilal Oswal.",
+    "WATCH": "Watch the IPO and deal pipeline, its scaling down of wholesale real estate lending, and growth in wealth management."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is JM Financial best known for?",
+     "options": [
+      "Managing IPOs and deals",
+      "Gold loans",
+      "Car manufacturing",
+      "Telecom towers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival to JM Financial?",
+     "options": [
+      "Muthoot Finance",
+      "Kotak Mahindra Capital",
+      "Paytm",
+      "Bajaj Housing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which of its businesses is it scaling down?",
+     "options": [
+      "Wealth management",
+      "IPO advisory",
+      "Broking",
+      "Wholesale real estate lending"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "JM Financial is a leading Indian IPO and deal adviser also offering wealth, broking and loans. Watch the IPO pipeline and its shift away from wholesale real estate lending.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jsw-cement",
+   "name": "JSW Cement",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Nilesh Narwekar",
+    "leader_role": "Whole-Time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "JSW Cement, part of the JSW Group, makes cement and ground granulated blast furnace slag (GGBS), a green cement substitute made from steel plant slag. It sells to builders, infrastructure projects and retail buyers, and listed in August 2025.",
+    "EARNS": "It earns from cement and slag products sold through dealers and to large projects. Using slag from JSW Steel plants lowers its costs and carbon footprint, and blended cement is most of its sales.",
+    "SIZE": "India's largest maker of GGBS and one of the country's mid-sized cement companies, with plants in the south, west and east.",
+    "RIVALS": "UltraTech, Ambuja Cements, Shree Cement and Dalmia Bharat.",
+    "WATCH": "Watch its announced new plant in Rajasthan to enter north India, its expansion plans after listing, and cement prices in its southern markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What green product is JSW Cement India's largest maker of?",
+     "options": [
+      "Fly ash bricks",
+      "GGBS from steel slag",
+      "Solar glass",
+      "Bamboo boards"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "When did JSW Cement list?",
+     "options": [
+      "August 2025",
+      "January 2020",
+      "March 2018",
+      "December 2022"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to JSW Cement?",
+     "options": [
+      "Kajaria",
+      "Pidilite",
+      "Astral",
+      "Ambuja Cements"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "JSW Cement makes cement and green slag cement using JSW Steel slag. Listed in August 2025, it is expanding into north India with a Rajasthan plant.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jsw-infrastructure",
+   "name": "JSW Infrastructure",
+   "type": "listed",
+   "industry": "logistics-delivery",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rinkesh Roy",
+    "leader_role": "Joint MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "JSW Infrastructure runs ports and terminals that handle coal, iron ore, steel, containers and liquids, including Jaigarh and Dharamtar in Maharashtra and terminals at Paradip, Ennore and Mangalore and in the UAE. It also owns Navkar Corporation for rail logistics.",
+    "EARNS": "It earns cargo handling and storage fees. Much of its cargo comes from JSW Group companies such as JSW Steel and JSW Energy, though third-party cargo is growing.",
+    "SIZE": "India's second-largest private commercial port operator after Adani Ports.",
+    "RIVALS": "Adani Ports, government-run major ports and terminal operators such as DP World and JM Baxi.",
+    "WATCH": "Watch its announced new ports on the Maharashtra and Karnataka coasts, growth in rail and logistics, and its effort to win more cargo from outside the JSW Group."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where does much of JSW Infrastructure's cargo come from?",
+     "options": [
+      "JSW Group companies",
+      "Foreign airlines",
+      "Tea exporters",
+      "Car importers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is India's largest private port operator, ahead of JSW?",
+     "options": [
+      "DP World",
+      "JM Baxi",
+      "Adani Ports",
+      "Concor"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which rail logistics firm does JSW Infrastructure own?",
+     "options": [
+      "Gateway Distriparks",
+      "Navkar Corporation",
+      "Allcargo",
+      "TCI"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "JSW Infrastructure runs ports like Jaigarh and terminals across India, mostly handling JSW Group cargo. India's second-largest private port operator, expanding ports and rail logistics.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jain-resource-recycling",
+   "name": "Jain Resource Recycling",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Kamlesh Jain",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Jain Resource Recycling recycles scrap lead, copper and aluminium into metal and alloys. Battery makers buy its lead and cable and wire makers buy its copper, in India and abroad. It listed in October 2025.",
+    "EARNS": "It earns a margin between the cost of scrap and the price of recycled metal, which tracks global metal prices. Recycled lead for batteries is its largest product.",
+    "SIZE": "One of India's largest non-ferrous metal recyclers, with a strong export business.",
+    "RIVALS": "Gravita India, Pondy Oxides and Chemicals and Nile Ltd in lead and metal recycling.",
+    "WATCH": "Watch India's battery waste rules that push makers to use recycled lead, its plant expansions and swings in global metal prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who mainly buys Jain Resource Recycling's lead?",
+     "options": [
+      "Battery makers",
+      "Paint makers",
+      "Jewellers",
+      "Pharma companies"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival recycler?",
+     "options": [
+      "Hindustan Zinc",
+      "Gravita India",
+      "NALCO",
+      "Tata Steel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which rules could lift demand for recycled lead?",
+     "options": [
+      "GST rules",
+      "Battery waste rules",
+      "Telecom rules",
+      "Aviation rules"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Jain Resource Recycling turns scrap lead, copper and aluminium into metal for battery and cable makers. Listed in October 2025; watch battery waste rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jaiprakash-power-ventures",
+   "name": "Jaiprakash Power Ventures (JP Power)",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Savan Jayendra Patel",
+    "leader_role": "Whole-Time Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "JP Power generates electricity from thermal plants at Nigrie and Bina in Madhya Pradesh and the Vishnuprayag hydro plant in Uttarakhand, and mines coal for its own use. It sells power to state utilities and on power exchanges.",
+    "EARNS": "It earns from selling electricity under long-term contracts with state utilities and on exchanges. The Jaypee Nigrie thermal plant, fed by its own coal mine, brings in most of its revenue.",
+    "SIZE": "A mid-sized private power producer, far smaller than NTPC, Adani Power or Tata Power.",
+    "RIVALS": "NTPC, Tata Power, JSW Energy and Adani Power in power generation.",
+    "WATCH": "Adani Power bought a large stake in 2026 from the insolvent Jaiprakash Associates, and the board and top management were replaced. Watch who leads it and how the new owner runs its plants."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is JP Power's Nigrie thermal plant?",
+     "options": [
+      "Gujarat",
+      "Madhya Pradesh",
+      "Odisha",
+      "Punjab"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company bought a large stake in JP Power in 2026?",
+     "options": [
+      "NTPC",
+      "Tata Power",
+      "JSW Energy",
+      "Adani Power"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which plant brings in most of JP Power's revenue?",
+     "options": [
+      "Jaypee Nigrie thermal plant",
+      "Vishnuprayag hydro",
+      "A solar park",
+      "A wind farm"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "JP Power runs thermal and hydro plants in Madhya Pradesh and Uttarakhand. Adani Power bought a large stake in 2026; watch the new management.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jammu-and-kashmir-bank",
+   "name": "J&K Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Srinagar, Jammu & Kashmir",
+    "leader": "Amitava Chatterjee",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Jammu & Kashmir Bank offers deposits, home, personal, business and government banking. It is majority-owned by the Jammu and Kashmir government and acts as the banker to the union territory's government.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors. Low-cost deposits from government and households in Jammu and Kashmir and retail loans there make up most of its business.",
+    "SIZE": "The dominant bank in Jammu and Kashmir and Ladakh, though a mid-sized bank nationally.",
+    "RIVALS": "State Bank of India, HDFC Bank, Punjab National Bank and J&K Grameen Bank in its home region.",
+    "WATCH": "Watch its plans to grow loans outside Jammu and Kashmir, the health of its loan book and the region's economy and tourism."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who majority-owns J&K Bank?",
+     "options": [
+      "LIC",
+      "The Jammu and Kashmir government",
+      "HDFC Bank",
+      "Foreign funds"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which bank competes with J&K Bank in its home region?",
+     "options": [
+      "State Bank of India",
+      "Karur Vysya Bank",
+      "City Union Bank",
+      "Federal Bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What growth plan should you watch at J&K Bank?",
+     "options": [
+      "Opening in Europe",
+      "Buying an insurer",
+      "Lending outside J&K",
+      "Launching a credit card network"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "J&K Bank, majority-owned by the Jammu and Kashmir government, dominates banking in J&K and Ladakh. Watch lending growth outside its home region.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jindal-saw",
+   "name": "Jindal Saw",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Sminu Jindal",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Jindal Saw makes steel pipes: large-diameter pipes for oil and gas pipelines, ductile iron pipes for water supply and sewage, and seamless and stainless pipes. Buyers include oil and gas companies, water boards and city agencies in India and abroad.",
+    "EARNS": "It earns by selling pipes, mostly against project orders. Ductile iron pipes for water projects and large-diameter pipes for pipelines bring in most of its revenue.",
+    "SIZE": "One of India's largest steel pipe makers and among the world's large makers of ductile iron pipes.",
+    "RIVALS": "Welspun Corp, Electrosteel Castings, Maharashtra Seamless and Ratnamani Metals and Tubes.",
+    "WATCH": "Watch orders tied to the Jal Jeevan Mission water programme, pipeline projects in India and the Middle East, and US tariffs on steel imports."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What are Jindal Saw's ductile iron pipes used for?",
+     "options": [
+      "Water supply and sewage",
+      "Aircraft fuel",
+      "Mobile towers",
+      "Car exhausts"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Jindal Saw?",
+     "options": [
+      "Welspun Corp",
+      "Tata Steel",
+      "Hindalco",
+      "Polycab"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which water programme drives Jindal Saw's orders?",
+     "options": [
+      "Swachh Bharat",
+      "Jal Jeevan Mission",
+      "Smart Cities",
+      "Ujjwala"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Jindal Saw makes steel pipes for oil and gas pipelines and ductile iron pipes for water. Watch Jal Jeevan Mission orders and US steel tariffs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jindal-stainless",
+   "name": "Jindal Stainless",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Abhyuday Jindal",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Jindal Stainless makes stainless steel slabs, coils, sheets and strips at plants in Jajpur, Odisha and Hisar, Haryana. Buyers include makers of kitchenware, pipes, railway coaches, cars, appliances and building products.",
+    "EARNS": "It earns by selling stainless steel, with margins shaped by nickel and chrome prices and import competition. Flat products sold in India bring in most of its revenue, with exports adding the rest.",
+    "SIZE": "India's largest stainless steel maker and one of the larger producers outside China.",
+    "RIVALS": "Steel Authority of India's Salem plant, Viraj Profiles and cheap imports from China, Indonesia and Vietnam.",
+    "WATCH": "Watch its capacity expansion at Jajpur, its nickel venture in Indonesia, and anti-dumping duties on imported stainless steel."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Jindal Stainless's large plant in Odisha?",
+     "options": [
+      "Jajpur",
+      "Angul",
+      "Rourkela",
+      "Paradip"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which raw material price strongly affects its margins?",
+     "options": [
+      "Cotton",
+      "Nickel",
+      "Rubber",
+      "Wheat"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which policy should you watch for Jindal Stainless?",
+     "options": [
+      "Telecom licence fees",
+      "Gold import duty",
+      "Anti-dumping duties on imports",
+      "Sugar export quotas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Jindal Stainless is India's largest stainless steel maker, with plants in Odisha and Haryana. Watch Jajpur expansion, Indonesian nickel and duties on cheap imports.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jubilant-ingrevia",
+   "name": "Jubilant Ingrevia",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Deepak Jain",
+    "leader_role": "CEO & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Jubilant Ingrevia makes speciality chemicals such as pyridines used in medicines and crop protection, nutrition products such as vitamin B3 and choline chloride for animal feed, and chemicals like acetic anhydride. It was demerged from Jubilant Life Sciences in 2021.",
+    "EARNS": "It earns by selling chemicals and doing contract manufacturing for pharma and agrochemical companies. Speciality chemicals are its most profitable segment, while chemical intermediates are larger but lower margin.",
+    "SIZE": "One of the world's largest makers of pyridine and its derivatives and a leading Indian speciality chemicals company.",
+    "RIVALS": "Vertellus and Lonza globally, and Laxmi Organic Industries and Aarti Industries in India.",
+    "WATCH": "Watch new contract manufacturing deals with global pharma and crop-science firms, its capacity additions and competition from Chinese chemical makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which chemical family is Jubilant Ingrevia a world leader in?",
+     "options": [
+      "Pyridines",
+      "Fluorochemicals",
+      "Dyes",
+      "Fertilisers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which is Jubilant Ingrevia's most profitable segment?",
+     "options": [
+      "Chemical intermediates",
+      "Nutrition",
+      "Retail",
+      "Speciality chemicals"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Jubilant Ingrevia?",
+     "options": [
+      "Pidilite",
+      "Asian Paints",
+      "Laxmi Organic Industries",
+      "Berger Paints"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Jubilant Ingrevia, demerged in 2021, makes pyridines, vitamins and chemical intermediates. Speciality chemicals earn most; watch contract manufacturing deals and Chinese competition.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jupiter-wagons",
+   "name": "Jupiter Wagons",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Vivek Lohia",
+    "leader_role": "MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Jupiter Wagons makes railway freight wagons, wagon parts and brake systems, plus load bodies for trucks and electric light commercial vehicles. Its main customer is Indian Railways, along with private wagon owners and exporters.",
+    "EARNS": "It earns by building wagons against orders, mostly from Indian Railways. Wagon building is its largest business, while brakes, wheels and parts add higher-margin income.",
+    "SIZE": "One of India's leading freight wagon makers.",
+    "RIVALS": "Titagarh Rail Systems, Texmaco Rail and Engineering and BEML in rail rolling stock.",
+    "WATCH": "Watch Indian Railways wagon orders, its wheel and axle plant in Odisha, and growth of its electric vehicle unit."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who is Jupiter Wagons' main customer?",
+     "options": [
+      "Indian Railways",
+      "Air India",
+      "Shipping Corporation",
+      "Delhi Metro"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to Jupiter Wagons?",
+     "options": [
+      "Bharat Forge",
+      "Titagarh Rail Systems",
+      "Ashok Leyland",
+      "Escorts"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What new plant should you watch at Jupiter Wagons?",
+     "options": [
+      "A cement plant",
+      "A chip fab",
+      "A wheel and axle plant",
+      "A refinery"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Jupiter Wagons builds freight wagons, brakes and truck bodies, mostly for Indian Railways. Watch railway orders and its wheel and axle plant in Odisha.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jyoti-cnc-automation",
+   "name": "Jyoti CNC Automation",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Rajkot, Gujarat",
+    "leader": "Parakramsinh Jadeja",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Jyoti CNC makes computer-controlled (CNC) machine tools such as turning centres and multi-axis machining centres, and owns the French brand Huron. Buyers include aerospace, defence, auto parts, electronics and general engineering firms. It listed in January 2024.",
+    "EARNS": "It earns by selling machines and spare parts. Customers in aerospace and defence buy its higher-end machines, and Huron adds sales in Europe.",
+    "SIZE": "One of India's largest makers of CNC machine tools.",
+    "RIVALS": "Ace Micromatic, Bharat Fritz Werner and global makers such as DMG Mori, Mazak and Haas.",
+    "WATCH": "Watch its factory expansion in Rajkot, orders from aerospace and defence makers, and demand for machine tools from auto and electronics plants."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which French brand does Jyoti CNC own?",
+     "options": [
+      "Huron",
+      "Renault",
+      "Schneider",
+      "Thales"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Jyoti CNC?",
+     "options": [
+      "L&T Technology",
+      "Cummins",
+      "DMG Mori",
+      "Siemens Healthineers"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which customers buy Jyoti CNC's higher-end machines?",
+     "options": [
+      "Textile mills",
+      "Aerospace and defence",
+      "Food processors",
+      "Hotels"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Jyoti CNC makes CNC machine tools and owns France's Huron, selling to aerospace, defence and auto firms. Watch its Rajkot expansion and defence orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "k-p-r-mill",
+   "name": "KPR Mill",
+   "type": "listed",
+   "industry": "textiles-apparel",
+   "profile": {
+    "hq": "Coimbatore, Tamil Nadu",
+    "leader": "P. Nataraj",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "KPR Mill makes yarn, fabric and ready-made garments, mostly knitted wear exported to global fashion retailers. It also sells innerwear under its FASO brand and makes sugar and ethanol.",
+    "EARNS": "Garments for export bring in the largest and most profitable share of revenue, helped by owning every step from cotton to finished clothes. Yarn, fabric and sugar add the rest.",
+    "SIZE": "One of India's largest vertically integrated garment makers and garment exporters.",
+    "RIVALS": "Gokaldas Exports, Arvind, Welspun Living, Vardhman Textiles and Trident.",
+    "WATCH": "Watch the India-UK trade deal, US tariffs on Indian garments, and the growth of its FASO brand in Indian stores."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is KPR Mill's innerwear brand?",
+     "options": [
+      "Jockey",
+      "Lux Cozi",
+      "FASO",
+      "Dollar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business earns KPR Mill the most?",
+     "options": [
+      "Sugar",
+      "Export garments",
+      "Yarn",
+      "Ethanol"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to KPR Mill?",
+     "options": [
+      "Gokaldas Exports",
+      "Trent",
+      "Page Industries",
+      "Bata"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "KPR Mill makes yarn, fabric and export garments, plus FASO innerwear and sugar. Garments earn most; watch the India-UK trade deal and US tariffs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kei-industries",
+   "name": "KEI Industries",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Anil Gupta",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "KEI makes power cables, extra-high-voltage cables, control cables and house wires. It sells to power utilities, infrastructure projects, factories and homebuyers through dealers, and exports to many countries.",
+    "EARNS": "Cables for power, industrial and infrastructure projects bring in most of its revenue. Retail house wires sold through dealers are growing and earn steady margins.",
+    "SIZE": "One of India's top cable and wire makers and a leader in extra-high-voltage cables.",
+    "RIVALS": "Polycab, Havells, RR Kabel, Finolex Cables and UltraTech, which entered cables and wires in 2025.",
+    "WATCH": "Watch the ramp-up of its new Sanand plant in Gujarat, its retail growth, and the new competition from UltraTech."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is KEI's new plant?",
+     "options": [
+      "Sanand, Gujarat",
+      "Hosur, Tamil Nadu",
+      "Pune, Maharashtra",
+      "Noida, Uttar Pradesh"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which cement giant entered cables and wires in 2025?",
+     "options": [
+      "Ambuja",
+      "Shree Cement",
+      "Dalmia Bharat",
+      "UltraTech"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which KEI segment brings in most revenue?",
+     "options": [
+      "Ceiling fans",
+      "Cables for projects",
+      "LED bulbs",
+      "Switches"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "KEI makes power cables, extra-high-voltage cables and house wires. Project cables earn most; watch its Sanand plant and UltraTech's entry into cables.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ksb",
+   "name": "KSB Ltd",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Rajeev Jain",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "KSB makes pumps and valves for power plants, nuclear plants, water supply, oil and gas, buildings and farms, including solar pumps. It is the Indian arm of Germany's KSB SE.",
+    "EARNS": "It earns from selling pumps, valves and spare parts and from servicing them. Pumps bring in most of its revenue, while nuclear and power projects are higher-value orders.",
+    "SIZE": "One of India's leading pump and valve makers and a key supplier of pumps for nuclear power plants.",
+    "RIVALS": "Kirloskar Brothers, Grundfos, Xylem, CRI Pumps and Shakti Pumps.",
+    "WATCH": "Rajeev Jain was re-appointed MD until 2031. Watch nuclear power orders, solar pump demand under PM-KUSUM, and the weak valves business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is KSB's German parent?",
+     "options": [
+      "Siemens",
+      "Bosch",
+      "KSB SE",
+      "BASF"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a rival to KSB?",
+     "options": [
+      "Kirloskar Brothers",
+      "Havells",
+      "Voltas",
+      "Crompton Greaves Consumer"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which farm scheme drives KSB's solar pump demand?",
+     "options": [
+      "PM-KISAN",
+      "PM-KUSUM",
+      "MGNREGA",
+      "Ujjwala"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "KSB, the Indian arm of Germany's KSB SE, makes pumps and valves for power, nuclear, water and farms. Watch nuclear orders and PM-KUSUM solar pumps.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kajaria-ceramics",
+   "name": "Kajaria Ceramics",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Rishi Kajaria",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Kajaria makes ceramic and vitrified tiles for floors and walls, plus bathroom fittings and sanitaryware under Kerovit and tile adhesives. It sells to homeowners, builders and architects through dealers and showrooms.",
+    "EARNS": "Tiles bring in most of its revenue and profit, sold through a wide dealer network. Founder Ashok Kajaria is chairman and his son Rishi Kajaria is MD. Bathware and adhesives are smaller but growing.",
+    "SIZE": "India's largest maker of ceramic and vitrified tiles.",
+    "RIVALS": "Somany Ceramics, Asian Granito, Orient Bell, Prism Johnson's H&R Johnson and many low-cost makers in Morbi, Gujarat.",
+    "WATCH": "Watch price competition from Morbi tile makers, gas costs for its kilns, and growth of its bathware business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Kajaria's bathware brand?",
+     "options": [
+      "Kerovit",
+      "Jaquar",
+      "Hindware",
+      "Cera"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Gujarat town is home to many low-cost tile rivals?",
+     "options": [
+      "Surat",
+      "Rajkot",
+      "Anand",
+      "Morbi"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which product brings Kajaria most of its revenue?",
+     "options": [
+      "Paints",
+      "Tiles",
+      "Plywood",
+      "Pipes"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Kajaria is India's largest tile maker, also selling Kerovit bathware and adhesives. Tiles earn most; watch Morbi price competition and gas costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kalpataru-projects-international",
+   "name": "Kalpataru Projects International",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Manish Mohnot",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Kalpataru Projects builds power transmission lines and substations, buildings and factories, water projects, railways, oil and gas pipelines and urban infrastructure, in India and abroad. It merged with JMC Projects in 2023 and took its current name.",
+    "EARNS": "It earns by executing engineering, procurement and construction contracts. Power transmission and distribution is its largest and most established business, with buildings and water close behind.",
+    "SIZE": "One of India's largest power transmission EPC companies, with projects across many countries and subsidiaries such as Linjemontage in Sweden and Fasttel in Brazil.",
+    "RIVALS": "KEC International, Larsen & Toubro, Tata Projects and Sterling and Wilson.",
+    "WATCH": "Watch transmission orders tied to renewable energy, its exit from road assets, and payments on water projects from state governments."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company merged into Kalpataru Projects in 2023?",
+     "options": [
+      "JMC Projects",
+      "Tata Projects",
+      "KEC International",
+      "Afcons"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Kalpataru's largest business?",
+     "options": [
+      "Real estate",
+      "Power transmission and distribution",
+      "Cement",
+      "Shipping"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to Kalpataru?",
+     "options": [
+      "DLF",
+      "Siemens",
+      "Polycab",
+      "KEC International"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Kalpataru Projects builds power transmission lines, buildings, water and rail projects worldwide. It merged with JMC in 2023; watch transmission orders and road asset exits.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "karur-vysya-bank",
+   "name": "Karur Vysya Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Karur, Tamil Nadu",
+    "leader": "B. Ramesh Babu",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Karur Vysya Bank, founded in 1916, offers deposits, jewel loans, home and vehicle loans, and loans to small businesses and traders, mostly in Tamil Nadu and nearby states.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors, plus fees. Gold-backed jewel loans and small business loans are a large, profitable part of its book.",
+    "SIZE": "A mid-sized old private sector bank and one of the leading banks in Tamil Nadu.",
+    "RIVALS": "City Union Bank, Tamilnad Mercantile Bank, South Indian Bank and Federal Bank.",
+    "WATCH": "B. Ramesh Babu began a third term as MD and CEO in July 2026, and the bank named a new COO and CFO. Watch loan growth and gold loan rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "When was Karur Vysya Bank founded?",
+     "options": [
+      "1916",
+      "1969",
+      "1994",
+      "2004"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which bank is a rival to Karur Vysya Bank?",
+     "options": [
+      "Kotak Bank",
+      "City Union Bank",
+      "Yes Bank",
+      "IDBI Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which loans are a large, profitable part of its book?",
+     "options": [
+      "Aircraft loans",
+      "Jewel loans",
+      "Education loans",
+      "Export credit only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Karur Vysya Bank is an old private bank strong in Tamil Nadu, with jewel and small business loans. Its MD began a third term in July 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kec-international",
+   "name": "KEC International",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vimal Kejriwal",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "KEC International, part of the RPG Group, builds power transmission lines and substations, railways, civil and factory buildings, renewable energy plants, oil and gas pipelines, and makes cables. It works in India, the Middle East, Africa and the Americas.",
+    "EARNS": "It earns by executing engineering, procurement and construction contracts. Power transmission and distribution is its largest business, with civil construction the fastest growing.",
+    "SIZE": "One of the world's larger power transmission EPC companies and among India's top infrastructure contractors.",
+    "RIVALS": "Kalpataru Projects International, Larsen & Toubro, Tata Projects and Sterling and Wilson.",
+    "WATCH": "Watch transmission orders in India and the Middle East, progress on its civil construction business and margins on fixed-price contracts."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group does KEC belong to?",
+     "options": [
+      "Tata Group",
+      "RPG Group",
+      "Murugappa Group",
+      "Adani Group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is KEC's largest business?",
+     "options": [
+      "Power transmission and distribution",
+      "Telecom towers",
+      "Steel making",
+      "Hotels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival to KEC?",
+     "options": [
+      "Polycab",
+      "BHEL",
+      "Kalpataru Projects International",
+      "Siemens"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "KEC International, an RPG Group firm, builds power transmission lines, railways and buildings worldwide. Transmission leads; watch orders and fixed-price contract margins.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kfin-technologies",
+   "name": "KFin Technologies",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Sreekanth Nadella",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "KFin Technologies keeps records and processes transactions for mutual funds, companies and pension systems. It serves fund houses as a registrar, handles shareholder records and IPOs for companies, and is a record-keeper for the National Pension System.",
+    "EARNS": "It earns fees from fund houses based on assets and transactions, and from companies and pension schemes. Mutual fund services bring in most of its revenue.",
+    "SIZE": "One of India's two big mutual fund registrars, serving more fund houses than any rival.",
+    "RIVALS": "Computer Age Management Services (CAMS) in mutual funds, MUFG Intime (formerly Link Intime) in company registry, and Protean eGov in pensions.",
+    "WATCH": "Watch its global fund administration push after buying Singapore's Ascent Fund Services, and SEBI's changes to fund expense limits."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does KFin mainly do for mutual funds?",
+     "options": [
+      "Manages fund portfolios",
+      "Keeps records as registrar",
+      "Sells insurance",
+      "Gives loans"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is KFin's main mutual fund rival?",
+     "options": [
+      "CAMS",
+      "CDSL",
+      "NSDL",
+      "Zerodha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which firm did KFin buy to grow abroad?",
+     "options": [
+      "Link Intime",
+      "Protean",
+      "Bigshare",
+      "Ascent Fund Services"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "KFin Technologies is a registrar for mutual funds, companies and pensions, earning fees on assets and transactions. Watch its global expansion after buying Ascent.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kirloskar-brothers",
+   "name": "Kirloskar Brothers",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Sanjay Kirloskar",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Kirloskar Brothers makes pumps and valves for farms, homes, buildings, industry, power plants and large irrigation and water projects. It also owns SPP Pumps in the UK and has subsidiaries in several countries.",
+    "EARNS": "It earns by selling pumps and valves through dealers and to projects. Industrial and project pumps bring in most of its revenue, while farm and home pumps sell through retail channels.",
+    "SIZE": "India's largest maker of centrifugal pumps and one of the oldest engineering companies in the country.",
+    "RIVALS": "KSB, Grundfos, Crompton Greaves Consumer, CRI Pumps and Shakti Pumps.",
+    "WATCH": "Watch irrigation and water project orders, growth in overseas subsidiaries, and the long-running family legal dispute within the Kirloskar group."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which UK pump maker does Kirloskar Brothers own?",
+     "options": [
+      "SPP Pumps",
+      "Weir",
+      "Sulzer",
+      "Xylem"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Kirloskar Brothers known as in India?",
+     "options": [
+      "The largest tile maker",
+      "The largest centrifugal pump maker",
+      "The largest wagon maker",
+      "The largest cable maker"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which company is a rival to Kirloskar Brothers?",
+     "options": [
+      "Havells",
+      "Thermax",
+      "Cummins India",
+      "KSB"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Kirloskar Brothers is India's largest centrifugal pump maker, serving farms, homes, industry and water projects. Watch project orders and the Kirloskar family legal dispute.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kirloskar-oil-eng",
+   "name": "Kirloskar Oil Engines",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Gauri Kirloskar",
+    "leader_role": "Vice Chairperson & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Kirloskar Oil Engines makes diesel engines and generator sets under the Kirloskar Green brand, engines for farm pumps, tractors and construction machinery, and engines for defence and railways. Its group also includes the lender Arka Fincap.",
+    "EARNS": "Power generation, mainly diesel gensets for buildings, data centres and industry, brings in the largest share of revenue. Industrial engines and farm equipment add the rest, with Arka Fincap earning interest.",
+    "SIZE": "One of India's leading makers of diesel engines and generator sets.",
+    "RIVALS": "Cummins India, Mahindra Powerol, Ashok Leyland's Leypower and Greaves Cotton.",
+    "WATCH": "Watch its push to sell engines in the US and other export markets, demand from data centres, and growth at Arka Fincap."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Kirloskar Oil Engines' genset brand?",
+     "options": [
+      "Kirloskar Green",
+      "Powerol",
+      "Leypower",
+      "Sudhir"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Kirloskar Oil Engines?",
+     "options": [
+      "Thermax",
+      "Cummins India",
+      "Voltas",
+      "Blue Star"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which lender is part of the Kirloskar Oil Engines group?",
+     "options": [
+      "Bajaj Finance",
+      "Tata Capital",
+      "Arka Fincap",
+      "Cholamandalam"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Kirloskar Oil Engines makes Kirloskar Green gensets and engines for farms, industry and defence. Power generation leads; watch exports and data centre demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "krishna-institute-of-medical-sciences",
+   "name": "KIMS Hospitals",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Bhaskara Rao Bollineni",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "KIMS runs multi-specialty hospitals under the KIMS brand in Telangana, Andhra Pradesh, Maharashtra and Karnataka, treating heart, cancer, kidney, brain and transplant cases.",
+    "EARNS": "It earns from treatments, surgeries, room charges, tests and pharmacy sales. Hospitals in Telangana and Andhra Pradesh bring in most of its revenue and profit.",
+    "SIZE": "One of India's larger listed hospital chains and a leading private hospital group in Telangana and Andhra Pradesh.",
+    "RIVALS": "Apollo Hospitals, Yashoda Hospitals, Care Hospitals, Aster DM Healthcare and Manipal Hospitals.",
+    "WATCH": "Watch new hospitals it is opening in Bengaluru, Maharashtra and other cities, its 2026 entry into Kerala through a hospital management deal in Palakkad, and how quickly new beds fill."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where does KIMS earn most of its revenue?",
+     "options": [
+      "Telangana and Andhra Pradesh",
+      "Delhi and Punjab",
+      "West Bengal",
+      "Gujarat"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which hospital chain is a rival to KIMS?",
+     "options": [
+      "Metropolis",
+      "Yashoda Hospitals",
+      "Dr Lal PathLabs",
+      "Practo"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What should you watch at KIMS?",
+     "options": [
+      "Its airline",
+      "Its cement plants",
+      "Its telecom towers",
+      "New hospitals filling beds"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "KIMS runs multi-specialty hospitals across Telangana, Andhra Pradesh, Maharashtra and Karnataka. Its home states earn most; watch new hospitals filling beds.",
+   "review": "unreviewed"
+  }
+ ]
+}

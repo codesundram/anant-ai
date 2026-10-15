@@ -1,0 +1,2724 @@
+{
+ "_meta": {
+  "batch": "012",
+  "about": "Batch 012: Indian fintech, insurtech, capital-markets, SaaS, AI and analytics companies in the v2 format, without figures. Leaders checked on the web in Oct 2026; entries marked 'not re-checked' could not be verified.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "moneyview",
+   "name": "Moneyview",
+   "type": "listed",
+   "industry": "lending-fintech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Puneet Agarwal",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Moneyview is an app that gives instant personal loans to salaried and self-employed Indians, many of whom banks find hard to assess. It also offers credit tracking, savings and other money tools. The Bengaluru company listed on the NSE and BSE in October 2026.",
+    "EARNS": "It earns interest and processing fees on loans, some made from its own NBFC books and many made with partner banks and NBFCs, where it shares the income. Personal loans to mid-income borrowers are the core of the business.",
+    "SIZE": "One of India's larger digital personal-loan apps and one of the few consumer lending fintechs that was profitable before listing. It serves borrowers across big cities and smaller towns.",
+    "RIVALS": "Kissht, Fibe, KreditBee, Navi and MoneyTap in app-based loans, plus the instant-loan offers of banks such as HDFC Bank and NBFCs such as Bajaj Finance.",
+    "WATCH": "Life as a newly listed company, how the RBI's digital lending rules and limits on unsecured credit shape growth, and how well borrowers keep repaying as it lends to more people."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Moneyview mainly offer through its app?",
+     "options": [
+      "Stock broking",
+      "Instant personal loans",
+      "Health insurance",
+      "Food delivery"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "When did Moneyview list on the NSE and BSE?",
+     "options": [
+      "October 2026",
+      "May 2026",
+      "June 2026",
+      "It is not listed"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a rival app-based lender to Moneyview?",
+     "options": [
+      "Zoho",
+      "Postman",
+      "Exotel",
+      "KreditBee"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Moneyview is a Bengaluru app lender giving instant personal loans to salaried Indians, earning interest and fees. It listed in October 2026; watch credit quality and RBI rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "slice",
+   "name": "slice Small Finance Bank",
+   "type": "startup",
+   "industry": "banking",
+   "profile": {
+    "hq": "Guwahati, Assam",
+    "leader": "Rajan Bajaj",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "slice began as a credit-card-style app for young Indians and became a bank after merging with North East Small Finance Bank in 2024. Today slice Small Finance Bank offers savings accounts, UPI payments, loans and a UPI-linked credit product in one app.",
+    "EARNS": "Like any bank it earns the gap between what it pays on deposits and what it charges on loans, plus fees. Its app-first, low-branch model is meant to keep costs low while it gathers deposits nationwide.",
+    "SIZE": "A small bank by Indian standards, but the only Indian fintech that bought a bank and is now run by its founder. That makes it a closely watched test of whether an app-first bank can scale.",
+    "RIVALS": "Small finance banks such as AU and Equitas, digital-savvy large banks like Kotak Mahindra Bank and HDFC Bank, and fintech apps such as Jupiter, CRED and Paytm that chase the same young users.",
+    "WATCH": "Founder Rajan Bajaj took over as MD and CEO in February 2026 with RBI approval. Watch how fast it grows deposits, keeps loan quality in check and meets RBI rules for small finance banks."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How did slice become a bank?",
+     "options": [
+      "It won a new universal bank licence",
+      "It merged with North East Small Finance Bank",
+      "It bought Yes Bank",
+      "It merged with Paytm Payments Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does slice mainly make money now?",
+     "options": [
+      "Selling smartphones",
+      "Advertising on its app only",
+      "The gap between loan interest and deposit costs",
+      "Brokerage fees"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became MD and CEO of slice Small Finance Bank in February 2026?",
+     "options": [
+      "Kunal Shah",
+      "Vijay Shekhar Sharma",
+      "Sachin Bansal",
+      "Rajan Bajaj"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "slice turned from a credit app into a small finance bank after merging with North East Small Finance Bank. Founder Rajan Bajaj now runs it as MD and CEO.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "fibe",
+   "name": "Fibe (formerly EarlySalary)",
+   "type": "startup",
+   "industry": "lending-fintech",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Akshay Mehrotra",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Fibe, earlier called EarlySalary, gives young salaried Indians quick personal loans, salary advances and buy-now-pay-later style credit for things like education and healthcare. Its own NBFC, EarlySalary Services, and partner lenders fund the loans.",
+    "EARNS": "It earns interest and fees on small, short loans. Personal loans to salaried urban professionals bring in most of its income, and it also earns from tie-ups with employers and merchants.",
+    "SIZE": "One of India's better-known app-based lenders to salaried professionals and among the profitable players in the space, with a loan book that has grown quickly in recent years.",
+    "RIVALS": "App lenders Moneyview, Kissht, KreditBee, Navi and MoneyTap, along with the instant-loan products of banks and large NBFCs such as Bajaj Finance and Tata Capital.",
+    "WATCH": "SEBI cleared Fibe's IPO in 2026; watch whether and when it lists. Also watch RBI digital lending rules and how it keeps repayments healthy as it grows."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Fibe called earlier?",
+     "options": [
+      "EarlySalary",
+      "MoneyTap",
+      "LazyPay",
+      "ZestMoney"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who mainly borrows from Fibe?",
+     "options": [
+      "Large corporates",
+      "Young salaried professionals",
+      "Farmers only",
+      "State governments"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What did SEBI clear for Fibe in 2026?",
+     "options": [
+      "A bank licence",
+      "A mutual fund licence",
+      "Its IPO",
+      "A merger with Paytm"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Fibe, formerly EarlySalary, is a Pune app lender giving salaried Indians quick personal loans through its own NBFC. SEBI cleared its IPO in 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "kissht",
+   "name": "Kissht (OnEMI Technology)",
+   "type": "listed",
+   "industry": "lending-fintech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ranvir Singh",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Kissht is a loan app that offers small personal loans and credit lines to Indians with thin credit histories, along with loans against property through its sister brand Ring. Its parent, OnEMI Technology Solutions, listed on the NSE and BSE in May 2026.",
+    "EARNS": "It earns interest and fees on loans made largely through its own NBFC, Si Creva Capital. Small-ticket personal loans to first-time and mass-market borrowers make up most of the business.",
+    "SIZE": "One of India's larger consumer lending apps by number of borrowers, focused on smaller towns and first-time credit users, and among the few listed app-first lenders.",
+    "RIVALS": "App lenders Moneyview, Fibe, KreditBee, Navi and MoneyTap, and large NBFCs like Bajaj Finance and Shriram Finance that also lend to mass-market consumers.",
+    "WATCH": "How it uses IPO money to grow its NBFC, how RBI rules on unsecured lending and digital loans affect it, and whether borrowers keep repaying as loan books grow."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Kissht's parent company called?",
+     "options": [
+      "Si Creva Capital",
+      "Social Worth Technologies",
+      "OnEMI Technology Solutions",
+      "Whizdm Innovations"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which NBFC makes most of Kissht's loans?",
+     "options": [
+      "Si Creva Capital",
+      "Bajaj Finance",
+      "Tata Capital",
+      "Piramal Finance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Kissht's parent list on the NSE and BSE?",
+     "options": [
+      "October 2026",
+      "May 2026",
+      "June 2026",
+      "November 2025"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Kissht gives small personal loans to first-time borrowers through its NBFC Si Creva. Its parent OnEMI listed in May 2026; watch loan quality and RBI rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "open-financial",
+   "name": "Open (Open Financial Technologies)",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Anish Achuthan",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Open offers small businesses a digital current account with partner banks, bundled with invoicing, payment collection, payroll, expense cards and accounting tools. It also sells banking software to banks and an embedded finance platform, Zwitch, to other companies.",
+    "EARNS": "It earns subscription fees from businesses, a share of payment and card fees, and licence fees from banks using its software. Small and medium businesses are its main customers.",
+    "SIZE": "One of India's best-known neobanks for small businesses and among the early fintech unicorns in that niche, serving a large base of small firms and freelancers.",
+    "RIVALS": "RazorpayX and Jupiter in neobanking, banks' own business accounts such as Kotak Mahindra Bank and ICICI Bank, and accounting tools like Zoho Books and Tally that small firms already use.",
+    "WATCH": "Its push to profitability after narrowing losses, growth of its software sold to banks, and RBI rules on how fintechs and partner banks share customers and data."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Open mainly offer small businesses?",
+     "options": [
+      "Delivery fleets",
+      "A digital current account with business tools",
+      "Office space",
+      "Stock broking"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is Open's embedded finance platform?",
+     "options": [
+      "Zwitch",
+      "RazorpayX",
+      "Juspay",
+      "Cashfree"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which accounting tool competes with Open's offering?",
+     "options": [
+      "Postman",
+      "Druva",
+      "Zoho Books",
+      "Whatfix"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Open is a Bengaluru neobank for small businesses, bundling a partner-bank current account with invoicing, payroll and cards, and selling banking software to banks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cashfree-payments",
+   "name": "Cashfree Payments",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Akash Sinha",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Cashfree Payments helps businesses collect money online and pay it out at scale: payment gateway, bulk payouts, vendor payments, cross-border collections and identity checks. Customers range from startups to large lenders and insurers.",
+    "EARNS": "It earns a small fee on each transaction it processes and on payouts. Payment collection for online businesses is its biggest line, while payouts and cross-border payments are growing fast.",
+    "SIZE": "One of India's leading payment gateways and a major player in bulk payouts for lenders, insurers and gig platforms, backed by SBI and Y Combinator among others.",
+    "RIVALS": "Razorpay, PayU, Juspay, Paytm and PhonePe's payment gateway in India, plus global players such as Stripe and Adyen for businesses that sell across borders.",
+    "WATCH": "It has said it aims for full-year operating profit and is raising fresh funds for global expansion and AI tools; it has spoken of a possible IPO in the next few years."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Cashfree Payments best known for?",
+     "options": [
+      "Payment gateway and bulk payouts",
+      "Personal loans",
+      "Health insurance",
+      "Stock broking"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Cashfree mainly earn?",
+     "options": [
+      "Interest on deposits",
+      "Subscriptions to a streaming app",
+      "Selling hardware",
+      "Fees on transactions it processes"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a Cashfree rival?",
+     "options": [
+      "Ditto",
+      "Razorpay",
+      "Darwinbox",
+      "Mu Sigma"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Cashfree Payments runs a payment gateway and bulk payouts for Indian businesses, earning per-transaction fees. Razorpay and PayU are rivals; profitability and an IPO are next.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "payu",
+   "name": "PayU India",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Anirban Mukherjee",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "PayU India is one of the country's biggest online payment gateways, helping merchants accept cards, UPI, net banking and wallets. It also runs checkout tools and merchant credit. It is fully owned by the Dutch-listed tech group Prosus.",
+    "EARNS": "It earns a fee on each payment it processes for merchants. Payment processing is the bulk of revenue, and it has added lending products, with Prosus putting fresh capital into its credit arm.",
+    "SIZE": "One of India's largest payment gateways by volume, serving big online merchants as well as many smaller businesses, and one of Prosus's most important Indian holdings.",
+    "RIVALS": "Razorpay, Cashfree and Juspay in online payments, Paytm and PhonePe in merchant payments, and Pine Labs in in-store and online checkout. Competition is mostly on fees and on how reliably payments go through.",
+    "WATCH": "Prosus has named PayU among its likely Indian listings, and PayU reported positive operating profit for the first time in its latest year. Watch IPO plans and RBI payment aggregator rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group fully owns PayU India?",
+     "options": [
+      "Prosus",
+      "SoftBank",
+      "Tencent",
+      "Reliance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is PayU India's main source of revenue?",
+     "options": [
+      "Insurance premiums",
+      "Fees on payments processed",
+      "Brokerage",
+      "Hardware sales"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these competes with PayU?",
+     "options": [
+      "Mu Sigma",
+      "Druva",
+      "Juspay",
+      "Zluri"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "PayU India, owned by Prosus, is a major online payment gateway earning fees on merchant payments. It recently turned operating profitable and is a likely listing candidate.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "juspay",
+   "name": "Juspay",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vimal Kumar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Juspay builds the payment software behind many big apps and banks: a payment orchestration layer that routes payments across gateways, UPI technology for banks, and checkout tools. Large e-commerce and travel apps are among its merchants.",
+    "EARNS": "It earns fees based on payment volume routed through its platform and licence fees from banks using its UPI and card software. Merchant payment orchestration is its core business.",
+    "SIZE": "One of India's leading payment infrastructure companies, its software sits behind payments in many large Indian apps. It became a unicorn after a January 2026 funding round led by WestBridge Capital.",
+    "RIVALS": "Razorpay, PayU and Cashfree in merchant payments in India, and global payment firms such as Stripe and Adyen as it expands into other countries. Some gateways are also its partners.",
+    "WATCH": "Its expansion outside India, growth of its open-source payment software, and how a now-profitable business uses fresh money from its 2026 funding round."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Juspay mainly provide?",
+     "options": [
+      "Personal loans",
+      "Insurance policies",
+      "Grocery delivery",
+      "Payment orchestration software"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who led Juspay's 2026 funding round?",
+     "options": [
+      "Prosus",
+      "WestBridge Capital",
+      "SoftBank",
+      "Accel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which global firm competes with Juspay abroad?",
+     "options": [
+      "Adyen",
+      "Zoho",
+      "Druva",
+      "Freshworks"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Juspay builds payment orchestration and UPI software for large merchants and banks, earning volume-linked fees. It became a unicorn in 2026 and is expanding abroad.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "m2p-fintech",
+   "name": "M2P Fintech",
+   "type": "startup",
+   "industry": "fintech-payments",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Madhusudanan R",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "M2P Fintech provides the plumbing that lets companies launch financial products: prepaid and credit card issuing, lending software, core banking and payments, offered through APIs. Banks, NBFCs and fintechs are its customers.",
+    "EARNS": "It earns platform and usage fees from banks and fintechs that run cards, loans and accounts on its software. Card issuing and lending technology are its main lines.",
+    "SIZE": "One of India's leading banking-as-a-service and embedded finance infrastructure firms, with bank and fintech customers across Asia, the Middle East and Africa.",
+    "RIVALS": "Zeta and Perfios in India, card and lending platforms abroad, and large core banking vendors such as Infosys Finacle and TCS BaNCS that sell to the same banks.",
+    "WATCH": "Its push into the Middle East and other markets, progress toward profitability after widening losses, and RBI rules on co-branded cards and fintech partnerships."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does M2P Fintech provide?",
+     "options": [
+      "API infrastructure for cards, loans and banking",
+      "A food delivery app",
+      "Health insurance",
+      "Retail stock broking"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are M2P's main customers?",
+     "options": [
+      "Retail shoppers",
+      "Banks, NBFCs and fintechs",
+      "Airlines",
+      "Farmers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these competes with M2P?",
+     "options": [
+      "Upstox",
+      "Moneyview",
+      "Ditto",
+      "Zeta"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "M2P Fintech is a Chennai infrastructure firm letting banks and fintechs launch cards, loans and accounts via APIs, earning platform fees. Watch overseas expansion and losses.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "perfios",
+   "name": "Perfios",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Nitin Chugh",
+    "leader_role": "MD & Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Perfios sells software that banks and lenders use to check borrowers: analysing bank statements, tax and GST data, fraud checks and loan decisioning. Its group includes fraud specialist Clari5, collections platform CreditNirvana and health-claims firm IHX.",
+    "EARNS": "It earns subscription and per-use fees from banks, NBFCs, insurers and fintechs. Lending analytics for financial institutions is its core business, and fraud and collections tools add more.",
+    "SIZE": "One of India's largest software providers to banks for credit decisions and a fintech SaaS unicorn, with customers among most large Indian lenders and a growing list abroad.",
+    "RIVALS": "Credit bureaus such as CRIF, Experian and TransUnion CIBIL, Indian fintechs FinBox and Signzy, and global lending software firms such as Nucleus Software and Temenos.",
+    "WATCH": "Former SBI digital head Nitin Chugh became MD and Group CEO in March 2026, with Sabyasachi Goswami running core Perfios. Watch its long-discussed IPO and global expansion."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Perfios mainly sell?",
+     "options": [
+      "Credit-decision software for lenders",
+      "Stock broking",
+      "Payment gateways",
+      "HR software"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which fraud-detection company is part of the Perfios group?",
+     "options": [
+      "Signzy",
+      "FinBox",
+      "Clari5",
+      "Exotel"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Perfios's MD and Group CEO in March 2026?",
+     "options": [
+      "Sabyasachi Goswami",
+      "Nitin Chugh",
+      "Rajesh Kini",
+      "Vinay Sathyanarayan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Perfios sells credit-decision and fraud software to banks and lenders. Former SBI executive Nitin Chugh became group CEO in 2026; an IPO has long been discussed.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "upstox",
+   "name": "Upstox",
+   "type": "startup",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ravi Kumar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Upstox is a discount broker app for trading stocks, futures and options, and for buying mutual funds, IPOs and digital gold. It is backed by Tiger Global and once counted Ratan Tata among its early backers.",
+    "EARNS": "It earns flat brokerage fees on trades, especially futures and options, plus interest on margin funding and fees on other products. Active traders bring in most of its revenue.",
+    "SIZE": "One of India's top discount brokers by active clients, behind leaders Groww and Zerodha and close to Angel One. Its users are mostly young, mobile-first traders.",
+    "RIVALS": "Discount brokers Groww, Zerodha, Angel One and Dhan, and bank-owned brokers such as ICICI Securities, HDFC Securities and Kotak Securities. Most compete on low fees.",
+    "WATCH": "Reports in 2026 said it began early talks with bankers about an IPO. Watch SEBI rules on futures and options trading, which hit broker volumes, and its push into wealth products."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Upstox mainly offer?",
+     "options": [
+      "Health insurance",
+      "Stock and derivatives trading",
+      "Personal loans",
+      "Food delivery"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customers bring Upstox most of its revenue?",
+     "options": [
+      "Active traders",
+      "Banks",
+      "Exporters",
+      "Government agencies"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is an Upstox rival?",
+     "options": [
+      "Juspay",
+      "Postman",
+      "Angel One",
+      "M2P Fintech"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Upstox is a Mumbai discount broker earning flat fees on stock and derivatives trades. It trails Groww and Zerodha and has reportedly begun IPO talks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indmoney",
+   "name": "INDmoney",
+   "type": "startup",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ashish Kashyap",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "INDmoney is a money app where users track all their finances and trade Indian and US stocks, mutual funds, fixed deposits and bonds. It is especially known for making US stock trading easy for Indians.",
+    "EARNS": "It earns brokerage and fees on Indian and US stock trades, currency conversion on US trades, and distribution income on deposits and bonds. US stocks are a distinctive earner.",
+    "SIZE": "One of the larger wealth and broking apps in India and among the most used platforms for Indians buying US stocks, backed by Tiger Global, Steadview and Dragoneer.",
+    "RIVALS": "Groww, Zerodha and Upstox in Indian stocks, Vested and others in US stocks, and Paytm Money and ET Money among mutual fund and wealth apps. It stands out mainly on US stocks.",
+    "WATCH": "Rules on Indians sending money abroad under the Liberalised Remittance Scheme, SEBI rules on derivatives trading, and its path to profit and a possible listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is INDmoney especially known for?",
+     "options": [
+      "Easy US stock trading for Indians",
+      "Gold loans",
+      "Two-wheeler loans",
+      "Travel booking"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is an INDmoney rival for US stocks?",
+     "options": [
+      "Exotel",
+      "Vested",
+      "Druva",
+      "Gupshup"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who founded INDmoney?",
+     "options": [
+      "Nithin Kamath",
+      "Lalit Keshre",
+      "Ravi Kumar",
+      "Ashish Kashyap"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "INDmoney is a Gurugram money app for tracking finances and trading Indian and US stocks and funds. Founder Ashish Kashyap earlier co-founded PayU India.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "smallcase",
+   "name": "smallcase",
+   "type": "startup",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vasanth Kamath",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "smallcase lets people buy ready-made baskets of stocks and ETFs built around a theme or strategy, through their existing broker such as Zerodha, Groww or Upstox. It also offers mutual funds and loans against mutual funds.",
+    "EARNS": "It earns fees when users subscribe to paid portfolios from SEBI-registered managers, a share of broker fees, and income from its lending and fund products. Its technology is built into many brokers.",
+    "SIZE": "India's best-known platform for model stock portfolios. Its baskets are available inside most large brokers, which gives it reach far beyond its own app.",
+    "RIVALS": "Wright Research and other portfolio managers, PMS providers and mutual fund houses, and wealth apps such as INDmoney and Groww that offer their own curated picks.",
+    "WATCH": "SEBI rules for research analysts and portfolio managers, its growth in loans against mutual funds, and how swings in the stock market change how actively users trade."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does smallcase offer?",
+     "options": [
+      "Ready-made stock baskets",
+      "Insurance policies",
+      "Payroll software",
+      "Credit cards"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How do users access smallcase portfolios?",
+     "options": [
+      "Only through banks",
+      "Only in physical branches",
+      "Through their existing broker",
+      "Through airline apps"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which rule-maker's policies for advisers matter most to smallcase?",
+     "options": [
+      "SEBI",
+      "TRAI",
+      "DGCA",
+      "FSSAI"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "smallcase sells ready-made stock and ETF baskets through brokers like Zerodha and Groww, earning subscription and platform fees. Watch SEBI rules for advisers.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "scripbox",
+   "name": "Scripbox",
+   "type": "startup",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Atul Shinghal",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Scripbox is a wealth management firm that helps salaried and affluent Indians plan and manage savings through mutual funds, fixed income and advisory services, online and through relationship managers.",
+    "EARNS": "It earns trail commissions from fund houses on money it manages for clients and advisory fees from wealthier customers. Mutual fund distribution is its core earner.",
+    "SIZE": "A mid-sized digital wealth manager and one of the earlier online mutual fund platforms in India, now focused more on affluent families than on small savers.",
+    "RIVALS": "Online platforms Groww, Paytm Money and ET Money, and wealth firms such as 360 ONE, Nuvama Wealth and private banking desks at large banks. Most compete for the same savers.",
+    "WATCH": "It bought the mutual fund distribution business of Bluechip Capital in 2026 and promoted a new chief product officer to push an AI-first product strategy."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Scripbox mainly do?",
+     "options": [
+      "Wealth management through mutual funds",
+      "Payment gateway",
+      "Personal loans",
+      "Insurance underwriting"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business did Scripbox acquire in 2026?",
+     "options": [
+      "Kuvera",
+      "Bluechip Capital's fund distribution",
+      "smallcase",
+      "ET Money"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "How does Scripbox mainly earn?",
+     "options": [
+      "Card fees",
+      "Trading commissions on derivatives",
+      "Ad sales",
+      "Trail commissions from fund houses"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Scripbox is a Bengaluru wealth manager earning mutual fund commissions and advisory fees. It acquired Bluechip Capital's fund distribution business in 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "insurancedekho",
+   "name": "InsuranceDekho",
+   "type": "startup",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ankit Agrawal",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "InsuranceDekho sells motor, health and life insurance from many insurers, mostly through a large network of agents and partners using its platform, as well as online. It completed a merger with RenewBuy, combining two big agent-led insurance distributors under the InsuranceDekho brand.",
+    "EARNS": "It earns commissions from insurers on policies sold. Motor insurance is its biggest line, with health and life insurance growing as agents sell more to the same customers.",
+    "SIZE": "After the RenewBuy merger, one of India's largest insurance distribution platforms, with agents and partners reaching almost every pin code in the country.",
+    "RIVALS": "PB Fintech's Policybazaar and PB Partners, Turtlemint, Acko's direct channels, and banks and agents who sell policies for large insurers such as ICICI Lombard and HDFC ERGO.",
+    "WATCH": "Integrating RenewBuy, reports of board disagreements with the founders that the company has denied, IRDAI rules on commissions, and its stated plan to go public."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company merged with InsuranceDekho?",
+     "options": [
+      "Turtlemint",
+      "RenewBuy",
+      "Ditto",
+      "Acko"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is InsuranceDekho's biggest line?",
+     "options": [
+      "Motor insurance",
+      "Crop insurance",
+      "Marine insurance",
+      "Pet insurance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is an InsuranceDekho rival?",
+     "options": [
+      "Juspay",
+      "Druva",
+      "Exotel",
+      "Policybazaar"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "InsuranceDekho sells motor, health and life cover through agents and online, earning insurer commissions. Its merger with RenewBuy made it a major distributor.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "turtlemint",
+   "name": "Turtlemint",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Dhirendra Mahyavanshi",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Turtlemint is an insurance distribution platform that equips agents and advisers to compare and sell motor, health and life policies from many insurers. Turtlemint Fintech Solutions listed on the NSE and BSE in June 2026.",
+    "EARNS": "It earns commissions from insurers on policies sold through its agent network and partners. Motor insurance is its largest line, with health insurance growing.",
+    "SIZE": "One of India's larger agent-led insurance distributors, with a wide network of advisers spread across smaller towns and cities where online buying is less common.",
+    "RIVALS": "InsuranceDekho (now merged with RenewBuy), PB Fintech's PB Partners, and the bank, agency and direct sales channels of insurers such as ICICI Lombard and Bajaj Allianz.",
+    "WATCH": "Its first year as a listed company after a weak market debut, IRDAI rules on insurer commissions, and competition with the merged InsuranceDekho-RenewBuy."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Turtlemint mainly sell insurance?",
+     "options": [
+      "Through agents and advisers on its platform",
+      "Only via bank branches",
+      "Through its own insurer",
+      "Through supermarkets"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "When did Turtlemint list on the stock exchanges?",
+     "options": [
+      "May 2026",
+      "October 2026",
+      "June 2026",
+      "It is not listed"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a Turtlemint rival?",
+     "options": [
+      "Upstox",
+      "InsuranceDekho",
+      "Zoho",
+      "Juspay"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Turtlemint gives insurance agents a platform to sell motor, health and life policies, earning commissions. It listed in June 2026; watch IRDAI commission rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ditto-insurance",
+   "name": "Ditto Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Bhanu Harish Gurram",
+    "leader_role": "Co-founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Ditto helps people choose health and term life insurance through free, no-spam calls with advisers, and helps with claims later. It grew out of the team behind the Finshots newsletter, and Zerodha is its largest shareholder.",
+    "EARNS": "It earns commissions from insurers on health and term policies sold. It deliberately recommends only a short list of plans it rates well, betting on trust over volume.",
+    "SIZE": "A smaller but well-known advice-led insurance broker, popular with young urban buyers and Zerodha customers, to whom it provides insurance services. It is far smaller than Policybazaar.",
+    "RIVALS": "Policybazaar, InsuranceDekho, Turtlemint and Beshak among distributors, plus direct online sales by insurers such as HDFC Life, Niva Bupa and Star Health.",
+    "WATCH": "IRDAI rules on commissions, growth of its claims-help service, and how it scales advice without hard selling as it adds more advisers. Its link with Zerodha's large customer base is a key source of new users."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is Ditto's largest shareholder?",
+     "options": [
+      "Zerodha",
+      "Groww",
+      "PB Fintech",
+      "Reliance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which products does Ditto mainly help people buy?",
+     "options": [
+      "Car loans",
+      "Health and term life insurance",
+      "Mutual funds",
+      "Gold"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these competes with Ditto?",
+     "options": [
+      "Darwinbox",
+      "Postman",
+      "Kissht",
+      "Beshak"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Ditto is a Bengaluru insurance adviser backed by Zerodha, helping people pick health and term cover without spam calls, and earning insurer commissions.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "niva-bupa-health-insurance",
+   "name": "Niva Bupa Health Insurance",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Krishnan Ramachandran",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Niva Bupa is a standalone health insurer selling family health plans, senior-citizen cover and group policies for employers. Formerly Max Bupa, it is controlled by the UK's Bupa and listed on the NSE and BSE in November 2024.",
+    "EARNS": "It earns premiums and keeps what is left after paying claims and costs, plus income earned on the money it holds before claims are paid. Retail health policies are its main and most profitable line.",
+    "SIZE": "One of India's leading standalone health insurers, second only to Star Health among companies that sell only health cover. It sells through agents, banks and online, and Bupa remains its controlling shareholder.",
+    "RIVALS": "Star Health, Care Health, Aditya Birla Health and ManipalCigna among standalone health insurers, plus the health lines of ICICI Lombard, HDFC ERGO and Go Digit.",
+    "WATCH": "IRDAI rules on claims and pricing, rising hospital costs, and the removal of GST on retail health premiums. Krishnan Ramachandran's term as MD and CEO runs to 2030."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Niva Bupa called earlier?",
+     "options": [
+      "Apollo Munich",
+      "Religare Health",
+      "Max Bupa",
+      "Cigna TTK"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Niva Bupa's main line?",
+     "options": [
+      "Motor insurance",
+      "Retail health insurance",
+      "Life insurance",
+      "Crop insurance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which standalone health insurer is Niva Bupa's biggest rival?",
+     "options": [
+      "Star Health",
+      "Ditto",
+      "Acko",
+      "Turtlemint"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Niva Bupa, formerly Max Bupa, is a listed standalone health insurer controlled by Bupa. It earns premiums mainly from retail family health plans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "care-health-insurance",
+   "name": "Care Health Insurance",
+   "type": "startup",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ajay Kumar Shah",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Care Health Insurance, formerly Religare Health Insurance, sells individual and family health plans, senior-citizen cover, group policies and travel insurance. It is a subsidiary of listed Religare Enterprises and is not itself listed.",
+    "EARNS": "It earns premiums and keeps what is left after claims and costs, plus income on its float. Retail health insurance sold through agents and banks is its main line.",
+    "SIZE": "One of India's larger standalone health insurers, alongside Star Health and Niva Bupa, and the most valuable business inside its parent, Religare Enterprises.",
+    "RIVALS": "Star Health, Niva Bupa, Aditya Birla Health and ManipalCigna among standalone health insurers, and large general insurers like ICICI Lombard and HDFC ERGO.",
+    "WATCH": "Long-time insider Ajay Kumar Shah became MD and CEO in April 2026. Watch Religare's ownership under the Burman family, rising claims costs and IRDAI rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Care Health Insurance called earlier?",
+     "options": [
+      "Max Bupa",
+      "Religare Health Insurance",
+      "Apollo Munich",
+      "Cigna TTK"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which listed company is Care Health's parent?",
+     "options": [
+      "Religare Enterprises",
+      "Dabur",
+      "Max Financial",
+      "Bajaj Finserv"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Care Health's MD and CEO in April 2026?",
+     "options": [
+      "Anuj Gulati",
+      "Krishnan Ramachandran",
+      "Ajay Kumar Shah",
+      "Suresh Mahalingam"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Care Health, formerly Religare Health, is a standalone health insurer owned by Religare Enterprises. Insider Ajay Kumar Shah became MD and CEO in 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "freshworks",
+   "name": "Freshworks",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Mateo, California (US)",
+    "leader": "Dennis Woodside",
+    "leader_role": "CEO & President",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Freshworks sells cloud software for customer service (Freshdesk), IT service management (Freshservice) and sales and marketing (Freshsales). Founded in Chennai in 2010, it listed on the US Nasdaq in 2021 and is not listed in India.",
+    "EARNS": "It earns recurring subscription fees from businesses, mostly small and mid-sized ones. Freshservice for IT teams is its fastest-growing product, and North America and Europe bring most revenue.",
+    "SIZE": "One of the best-known software companies founded in India and among the first Indian-founded SaaS firms to list on Nasdaq. It still has a large team in Chennai.",
+    "RIVALS": "Salesforce, Zendesk, ServiceNow, Atlassian and HubSpot globally, and Zoho at home, which sells similar customer service and CRM tools. Most rivals are much larger US firms.",
+    "WATCH": "Its focus on IT service management and AI agents under CEO Dennis Woodside, cost cuts to protect margins, and competition from larger US software platforms."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Freshworks product is for customer service?",
+     "options": [
+      "Freshdesk",
+      "Freshservice",
+      "Zoho Desk",
+      "Jira"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where are Freshworks shares listed?",
+     "options": [
+      "NSE",
+      "BSE",
+      "Nasdaq",
+      "London Stock Exchange"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a major Freshworks rival in IT service management?",
+     "options": [
+      "Postman",
+      "ServiceNow",
+      "Druva",
+      "Exotel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Freshworks, founded in Chennai and listed on Nasdaq, sells Freshdesk, Freshservice and Freshsales subscriptions. CEO Dennis Woodside is pushing IT service software and AI.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zoho",
+   "name": "Zoho",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Shailesh Kumar Davey",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Zoho makes a large suite of business software: CRM, accounting (Zoho Books), email, office apps, HR and more, plus the Arattai messaging app. It is privately owned by its founders, has never raised outside funding and runs offices in rural Tamil Nadu.",
+    "EARNS": "It earns subscription fees from businesses worldwide, from tiny firms to large companies. Zoho CRM and its bundled Zoho One suite are its biggest products, and it is consistently profitable.",
+    "SIZE": "India's largest bootstrapped software company and one of the most profitable software firms founded in India, with customers in most countries. It employs a very large team in India.",
+    "RIVALS": "Salesforce, Microsoft, Google Workspace and HubSpot globally, and Freshworks and Tally in India for CRM and accounting software. It competes mainly on price and on offering a wide bundle of apps.",
+    "WATCH": "Co-founder Shailesh Kumar Davey took over as CEO, with Sridhar Vembu moving to chief scientist. Watch its chip and hardware plans and the growth of Arattai and Zoho Mail."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these is a Zoho product?",
+     "options": [
+      "Freshdesk",
+      "Zoho Books",
+      "Tally Prime",
+      "Darwinbox"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How has Zoho funded its growth?",
+     "options": [
+      "Venture capital",
+      "A Nasdaq IPO",
+      "Government grants",
+      "Its own profits, without outside funding"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What role does Sridhar Vembu now hold at Zoho?",
+     "options": [
+      "Chief Scientist",
+      "CEO",
+      "CFO",
+      "Chairman of TCS"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Zoho is a bootstrapped Chennai software maker selling CRM, accounting and office apps by subscription. Shailesh Davey is CEO; Sridhar Vembu is chief scientist.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "chargebee",
+   "name": "Chargebee",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Francisco, California (US)",
+    "leader": "Krish Subramanian",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Chargebee sells subscription billing and revenue management software that helps online businesses handle recurring payments, invoices, pricing plans and revenue reporting. It was founded in Chennai and serves mainly software companies abroad.",
+    "EARNS": "It earns subscription fees that rise with the billing volume its customers run through it. Mid-sized software companies in the US and Europe are its core market.",
+    "SIZE": "One of the leading subscription billing platforms globally and one of the India-founded SaaS unicorns, with a large engineering team in its home city of Chennai.",
+    "RIVALS": "Stripe Billing, Zuora, Recurly, Paddle and Maxio, with Stripe the toughest because it bundles billing with payments. Most rivals are US-based, and some are larger.",
+    "WATCH": "Competition from Stripe's bundled billing, its use of AI in pricing and customer retention tools, and its stated aim of an eventual listing. It also faces pressure to keep costs in check."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Chargebee sell?",
+     "options": [
+      "Subscription billing software",
+      "Payroll software",
+      "Food delivery",
+      "Insurance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Chargebee's core customers?",
+     "options": [
+      "Farmers",
+      "Indian state governments",
+      "Mid-sized software companies abroad",
+      "Retail traders"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a Chargebee rival?",
+     "options": [
+      "Zoho Books",
+      "Zuora",
+      "Darwinbox",
+      "Haptik"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Chargebee, founded in Chennai, sells subscription billing software to software companies abroad, earning usage-linked subscriptions. Stripe Billing and Zuora are key rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "postman",
+   "name": "Postman",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Francisco, California (US)",
+    "leader": "Abhinav Asthana",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Postman is a platform developers use to design, test, document and share APIs, the connectors that let software talk to each other. It started as a side project in Bengaluru and has a huge free user base.",
+    "EARNS": "It earns from paid team and enterprise plans that add collaboration, security and governance on top of the free tool. Engineering teams at large companies are its biggest payers.",
+    "SIZE": "The world's most widely used API platform and one of the most valuable India-founded software startups, with a large engineering team in Bengaluru.",
+    "RIVALS": "SmartBear's SwaggerHub, Kong and its Insomnia tool, Google's Apigee and Salesforce's MuleSoft in API design and management. Many large tech firms also build API tools of their own.",
+    "WATCH": "Its push into tools for AI agents and APIs used by AI models, converting free users to paid plans, and its path to a listing. Big companies' spending on developer tools matters too."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What do developers use Postman for?",
+     "options": [
+      "Building and testing APIs",
+      "Video editing",
+      "Accounting",
+      "Recruiting"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Postman mainly earn?",
+     "options": [
+      "Ads in its app",
+      "Hardware sales",
+      "Selling user data",
+      "Paid team and enterprise plans"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a Postman rival?",
+     "options": [
+      "Freshdesk",
+      "Kong",
+      "Exotel",
+      "Scripbox"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Postman is the most widely used platform for building and testing APIs, earning from paid team and enterprise plans on top of a free tool.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "browserstack",
+   "name": "BrowserStack",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Dublin, Ireland",
+    "leader": "Ritesh Arora",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "BrowserStack lets software teams test websites and mobile apps on real browsers and devices in the cloud, plus automated testing, accessibility checks and visual testing tools. It was founded in Mumbai in 2011.",
+    "EARNS": "It earns subscription fees from developers and testing teams, priced by product and usage. Large companies and fast-growing tech firms worldwide are its main customers, with most revenue from abroad.",
+    "SIZE": "One of the world's leading cloud testing platforms and among India's most valuable SaaS companies, profitable enough to fund an employee share buyback in 2026.",
+    "RIVALS": "Sauce Labs, LambdaTest (now TestMu AI), Perforce's Perfecto and AWS Device Farm in cloud testing. Sauce Labs is its oldest direct rival, while LambdaTest competes hard on price for smaller teams.",
+    "WATCH": "Its rollout of AI agents that write and run tests, global expansion, and competition from cheaper rivals that offer similar device clouds. Its large Mumbai team is central to that work."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does BrowserStack let teams do?",
+     "options": [
+      "Run payroll",
+      "Test apps on real browsers and devices",
+      "Book travel",
+      "Trade stocks"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of BrowserStack's revenue come from?",
+     "options": [
+      "Customers abroad",
+      "Indian government",
+      "Retail shoppers",
+      "Ad sales"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a BrowserStack rival?",
+     "options": [
+      "Druva",
+      "Gupshup",
+      "Sauce Labs",
+      "Icertis"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "BrowserStack, founded in Mumbai, sells cloud testing on real browsers and devices, earning subscriptions mostly from customers abroad. It is adding AI testing agents.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "druva",
+   "name": "Druva",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Santa Clara, California (US)",
+    "leader": "Jaspreet Singh",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Druva sells cloud data backup and protection: it backs up laptops, servers, cloud apps like Microsoft 365 and Salesforce, and data in AWS, and helps companies recover from ransomware. It was founded in Pune in 2008.",
+    "EARNS": "It earns subscription fees based on how much data customers protect. Mid-sized and large companies in North America bring in most revenue. Customers pay as they go, with no hardware to buy.",
+    "SIZE": "One of the leading software-only cloud backup providers and an India-founded SaaS unicorn, with its main engineering centre in Pune. Its customers range from mid-sized firms to large enterprises.",
+    "RIVALS": "Veeam, Rubrik, Cohesity (which merged with Veritas), Commvault and Acronis in backup and data protection. Veeam and Rubrik are the largest of these.",
+    "WATCH": "Competition from Rubrik and the merged Cohesity-Veritas, its AI tools for recovering from cyberattacks, and the growth of its Microsoft and AWS partnerships."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Druva sell?",
+     "options": [
+      "CRM software",
+      "Cloud data backup and protection",
+      "Payment gateways",
+      "Insurance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Druva price its service?",
+     "options": [
+      "Per transaction",
+      "Per store",
+      "Ad-supported free model",
+      "By the amount of data protected"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a Druva rival?",
+     "options": [
+      "Rubrik",
+      "Freshworks",
+      "Postman",
+      "WebEngage"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Druva, founded in Pune, sells cloud backup and ransomware recovery by subscription, mostly to companies in North America. Rubrik and Veeam are key rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "icertis",
+   "name": "Icertis",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bellevue, Washington (US)",
+    "leader": "Jim Moffatt",
+    "leader_role": "Co-CEO & Chairman",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Icertis sells contract intelligence software that large companies use to create, store and analyse contracts and track obligations, with AI to flag risks. It was founded by Indian entrepreneurs and runs a large team in Pune.",
+    "EARNS": "It earns multi-year subscription fees from big enterprises. Large global companies in manufacturing, healthcare, life sciences and technology are its main customers.",
+    "SIZE": "One of the leading enterprise contract management platforms globally and an India-linked SaaS unicorn, used by many very large multinational companies.",
+    "RIVALS": "DocuSign's contract management tools, Ironclad, Agiloft, Conga and the contract modules inside SAP Ariba and other procurement suites. DocuSign and Ironclad are the most direct.",
+    "WATCH": "It is run by co-CEOs Jim Moffatt and Rajat Bahri. Watch its AI agent products for contracts and competition from DocuSign and Ironclad in the same space."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Icertis sell?",
+     "options": [
+      "Contract management software",
+      "HR software",
+      "Payment gateways",
+      "Backup software"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Icertis's main customers?",
+     "options": [
+      "Small shops",
+      "Large global enterprises",
+      "Retail traders",
+      "Students"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is an Icertis rival?",
+     "options": [
+      "Druva",
+      "Gupshup",
+      "MoEngage",
+      "Ironclad"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Icertis sells AI-powered contract management software to large global companies by subscription. It has a big Pune team and is led by co-CEOs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "whatfix",
+   "name": "Whatfix",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Jose, California (US)",
+    "leader": "Vara Kumar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Whatfix sells digital adoption software: on-screen guides and walkthroughs that help employees and customers learn apps like Salesforce, SAP and Workday, plus analytics and a tool to build training simulations. It was founded in Bengaluru.",
+    "EARNS": "It earns annual subscriptions from enterprises that use it inside their software. Large companies in the US and Europe are its main market, and most of its engineers work in India.",
+    "SIZE": "One of the top digital adoption platforms globally, alongside WalkMe and Pendo, and among the better-known India-founded enterprise software companies.",
+    "RIVALS": "WalkMe (owned by SAP), Pendo, Userpilot and Appcues in digital adoption and in-app guidance. WalkMe and Pendo are the two largest of these, and SAP's ownership gives WalkMe a strong route into SAP customers.",
+    "WATCH": "Co-founder and CEO Khadim Batti died suddenly in September 2026, and co-founder Vara Kumar was named CEO. Watch leadership continuity, its AI features and competition with SAP-owned WalkMe."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Whatfix help companies do?",
+     "options": [
+      "Help users learn software with on-screen guides",
+      "Process payments",
+      "Back up data",
+      "Manage contracts"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which rival is owned by SAP?",
+     "options": [
+      "Pendo",
+      "Appcues",
+      "WalkMe",
+      "Userpilot"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who became Whatfix's CEO in September 2026?",
+     "options": [
+      "Khadim Batti",
+      "Vara Kumar",
+      "Krishna Depura",
+      "Ritesh Arora"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Whatfix, founded in Bengaluru, sells on-screen guidance software for enterprise apps. Co-founder Vara Kumar became CEO in 2026 after Khadim Batti's sudden death.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "darwinbox",
+   "name": "Darwinbox",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Jayant Paleti and Chaitanya Peddi",
+    "leader_role": "Co-founders & Co-CEOs",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Darwinbox sells cloud HR software covering hiring, payroll, attendance, performance reviews and employee apps for large companies. It started in Hyderabad and serves firms across India, Southeast Asia and the Middle East.",
+    "EARNS": "It earns subscription fees per employee from large and mid-sized companies. India is its biggest market, with Southeast Asia and the Middle East growing.",
+    "SIZE": "One of Asia's leading HR software platforms and an Indian SaaS unicorn, used by many large Indian conglomerates and banks. It also has a growing base of customers outside India.",
+    "RIVALS": "SAP SuccessFactors, Workday and Oracle HCM globally, and Keka, greytHR and Zoho People in India. It wins mainly on price and on features suited to Asian employers.",
+    "WATCH": "Darwinbox moved to a co-CEO structure in 2026 with co-founders Jayant Paleti and Chaitanya Peddi. Watch its push into the Middle East and US and its AI tools for HR teams."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Darwinbox sell?",
+     "options": [
+      "HR software",
+      "Contract software",
+      "Payment software",
+      "Backup software"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Darwinbox charge customers?",
+     "options": [
+      "Per transaction",
+      "Per employee subscription",
+      "Per ad view",
+      "Per loan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Darwinbox?",
+     "options": [
+      "Juspay",
+      "Exotel",
+      "smallcase",
+      "Workday"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Darwinbox is a Hyderabad HR software company selling per-employee subscriptions to large firms across Asia. Co-founders Jayant Paleti and Chaitanya Peddi are co-CEOs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "leadsquared",
+   "name": "LeadSquared",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Nilesh Patel",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "LeadSquared sells sales and marketing automation software (CRM) built for businesses with large field or phone sales teams, such as lenders, insurers, colleges, ed-tech firms and hospitals.",
+    "EARNS": "It earns subscription fees per user from businesses. Financial services, education and healthcare in India are its strongest segments, and it is expanding abroad.",
+    "SIZE": "One of India's leading CRM providers for high-volume sales teams, and an Indian SaaS unicorn after a large funding round led by WestBridge Capital.",
+    "RIVALS": "Salesforce, Zoho CRM, HubSpot, Freshworks' Freshsales and Microsoft Dynamics in CRM and sales software. Salesforce and Zoho are its biggest rivals in India.",
+    "WATCH": "Growth outside India, AI features for sales teams, and how slowdowns in ed-tech or lending, two big customer groups, affect demand. AI tools that automate sales calls may also change how customers use CRM."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which customers is LeadSquared especially built for?",
+     "options": [
+      "Firms with large sales teams",
+      "Airlines only",
+      "Steel plants",
+      "Farmers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which sectors are LeadSquared's strongest?",
+     "options": [
+      "Mining and oil",
+      "Financial services, education and healthcare",
+      "Defence",
+      "Shipping"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which product competes with LeadSquared?",
+     "options": [
+      "Freshservice",
+      "Zoho Books",
+      "Freshsales",
+      "Postman"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "LeadSquared sells CRM and sales automation for businesses with big sales teams, like lenders, colleges and hospitals, earning per-user subscriptions.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mindtickle",
+   "name": "Mindtickle",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Francisco, California (US)",
+    "leader": "Krishna Depura",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Mindtickle sells sales readiness software: training, coaching, content and call analysis tools that help companies prepare their sales teams. It was founded in Pune and serves mainly large global firms.",
+    "EARNS": "It earns annual subscriptions from enterprises, priced by the number of sales reps using it. US and European companies bring most revenue. Contracts usually run for a year or more.",
+    "SIZE": "One of the leading sales enablement platforms globally and an India-founded SaaS unicorn, with its main engineering base in Pune. Its customers include many large global firms.",
+    "RIVALS": "Highspot, Seismic, Gong and Showpad in sales enablement and revenue intelligence software. Highspot and Seismic are the closest rivals, and Gong competes on call analysis.",
+    "WATCH": "Its AI coaching and role-play tools, competition with Highspot and Seismic, and how slower sales hiring at customers affects demand. AI tools from bigger CRM players add pressure."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Mindtickle sell?",
+     "options": [
+      "Sales training and coaching software",
+      "Payroll",
+      "Insurance",
+      "Backup"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a Mindtickle rival?",
+     "options": [
+      "Druva",
+      "Highspot",
+      "Juspay",
+      "Ditto"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "How is Mindtickle mainly priced?",
+     "options": [
+      "Per transaction",
+      "Per kilometre",
+      "By data stored",
+      "By number of sales reps"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Mindtickle, founded in Pune, sells sales training and coaching software to global companies, priced per sales rep. Highspot and Seismic are its main rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "innovaccer",
+   "name": "Innovaccer",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Francisco, California (US)",
+    "leader": "Abhinav Shashank",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Innovaccer sells a healthcare data platform that pulls patient data from many systems into one view, with tools for care management, analytics and AI for US hospitals, insurers and doctor groups. It has a large team in Noida.",
+    "EARNS": "It earns subscription and usage fees from US healthcare providers and payers. The US is almost its entire market. Large health systems and insurers sign multi-year contracts, which makes its revenue fairly steady.",
+    "SIZE": "One of the leading healthcare data platforms in the US and an India-founded health tech unicorn, now deployed across a large number of hospitals and clinics.",
+    "RIVALS": "Epic, Oracle Health, Arcadia, Health Catalyst and Salesforce Health Cloud in healthcare data and analytics. Epic is the most powerful player in US hospital software.",
+    "WATCH": "Its AI agents for doctors and healthcare staff, acquisitions to broaden its platform, and US healthcare rules on data sharing. It also needs to keep growing while moving towards profit."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Innovaccer's platform do?",
+     "options": [
+      "Sells medicines online",
+      "Brings patient data into one view",
+      "Runs ambulances",
+      "Builds hospitals"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Innovaccer's main customers?",
+     "options": [
+      "US hospitals and health insurers",
+      "Indian kirana stores",
+      "Airlines",
+      "Steel makers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is an Innovaccer rival?",
+     "options": [
+      "Druva",
+      "Zluri",
+      "Health Catalyst",
+      "Scripbox"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Innovaccer sells a healthcare data and AI platform to US hospitals and insurers, earning subscriptions. It has a big team in Noida and rivals Epic and Health Catalyst.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "highradius",
+   "name": "HighRadius",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Houston, Texas (US)",
+    "leader": "Sashi Narahari",
+    "leader_role": "Co-founder, President & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HighRadius sells finance automation software that helps large companies collect customer payments faster, apply cash, manage credit and close their books, using AI. Most of its engineers work in Hyderabad.",
+    "EARNS": "It earns subscription fees from finance teams at mid-sized and large companies, mainly in the US and Europe. Accounts receivable automation is its core product.",
+    "SIZE": "One of the leading accounts receivable and treasury software providers globally and an Indian-founded SaaS unicorn. Its customers include many large global companies, and it has a big engineering team in Hyderabad.",
+    "RIVALS": "BlackLine, Billtrust, Esker, and the finance modules of SAP and Oracle. BlackLine is the closest direct rival, while SAP and Oracle sell finance tools to the same large companies.",
+    "WATCH": "Its AI agents for finance teams, growth in treasury and record-to-report products, and a possible future listing. It also faces competition from AI features built into big ERP systems."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is HighRadius's core product?",
+     "options": [
+      "HR software",
+      "Accounts receivable automation",
+      "API testing",
+      "Data backup"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where do most HighRadius engineers work?",
+     "options": [
+      "Pune",
+      "Chennai",
+      "Hyderabad",
+      "Kolkata"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a HighRadius rival?",
+     "options": [
+      "BlackLine",
+      "Mindtickle",
+      "Exotel",
+      "Kissht"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "HighRadius sells AI software that automates collections, cash and close for large companies' finance teams, with most engineers in Hyderabad.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "uniphore",
+   "name": "Uniphore",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Palo Alto, California (US)",
+    "leader": "Umesh Sachdev",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Uniphore sells AI software for enterprises: conversation analytics and agent tools for call centres, and a business AI platform that lets companies build AI agents on their own data. It was founded in Chennai in 2008.",
+    "EARNS": "It earns subscription and usage fees from large enterprises, especially in banking, telecom and customer service, mostly outside India. Large contact centres are its biggest users.",
+    "SIZE": "One of India's best-known enterprise AI companies and a unicorn, serving many very large global companies. It has acquired several AI startups to broaden its products.",
+    "RIVALS": "NICE, Verint and Genesys in contact-centre software, and AI platforms from Salesforce, Microsoft and Google. Big tech firms are its toughest rivals.",
+    "WATCH": "Its shift from call-centre AI to a broader business AI platform, recent acquisitions of AI firms, and competition from big tech. Its leadership has stayed stable under Umesh Sachdev."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where was Uniphore founded?",
+     "options": [
+      "Pune",
+      "Chennai",
+      "Bengaluru",
+      "Hyderabad"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Uniphore shifting towards?",
+     "options": [
+      "Food delivery",
+      "Consumer lending",
+      "A broader business AI platform",
+      "Hardware"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a Uniphore rival?",
+     "options": [
+      "NICE",
+      "Zoho Books",
+      "Darwinbox",
+      "smallcase"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Uniphore, founded in Chennai, sells enterprise AI for call centres and a platform to build AI agents. It competes with NICE, Verint and big tech.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gupshup",
+   "name": "Gupshup",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Francisco, California (US)",
+    "leader": "Beerud Sheth",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Gupshup lets businesses message and talk to customers on WhatsApp, SMS, RCS and other channels, with chatbots and AI agents for marketing, sales and support. It has big operations in Mumbai.",
+    "EARNS": "It earns fees per message and per conversation, plus platform subscriptions. WhatsApp business messaging for Indian and emerging-market brands is its biggest line.",
+    "SIZE": "One of India's largest conversational messaging platforms and a unicorn, with business customers across India, Latin America and the Middle East.",
+    "RIVALS": "Route Mobile, Tanla, Twilio, Infobip, Yellow.ai and Haptik. Route Mobile and Tanla are big in Indian business messaging, while Twilio and Infobip are global rivals.",
+    "WATCH": "Changes to WhatsApp's business pricing, its AI agent products, and growth in Latin America and the Middle East. Meta's rules on WhatsApp business messaging directly affect its costs and pricing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which channel is Gupshup's biggest line?",
+     "options": [
+      "WhatsApp business messaging",
+      "Television ads",
+      "Print media",
+      "Radio"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "How does Gupshup mainly charge?",
+     "options": [
+      "Per kilometre",
+      "Per message and conversation",
+      "Per hotel night",
+      "Per loan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a Gupshup rival?",
+     "options": [
+      "Druva",
+      "Icertis",
+      "Kuvera",
+      "Twilio"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Gupshup helps businesses message customers on WhatsApp, SMS and RCS with chatbots and AI agents, earning per-message fees. Twilio and Route Mobile are rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "yellow-ai",
+   "name": "Yellow.ai",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Mateo, California (US)",
+    "leader": "Raghu Ravinutala",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Yellow.ai sells AI agents for customer service and employee support that chat and talk with users on websites, apps, WhatsApp and phone. It was founded in Bengaluru and serves large companies worldwide.",
+    "EARNS": "It earns platform subscriptions and usage fees from enterprises. Customer support automation for large brands is its core use. Large banks, retailers and telecom firms are typical customers.",
+    "SIZE": "One of India's leading conversational AI companies, serving large enterprises across many countries and languages. It sells mostly to large enterprises.",
+    "RIVALS": "Haptik, Gupshup, Kore.ai and Sprinklr, and AI tools from Salesforce and Google. Big AI model makers are an increasing threat as companies build their own bots.",
+    "WATCH": "Competition from big AI models and big tech, its shift to more autonomous AI agents, and its path to profit. Keeping large customers as AI tools get cheaper is a key test."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Yellow.ai sell?",
+     "options": [
+      "AI agents for customer and employee support",
+      "Payment gateways",
+      "HR payroll",
+      "Backup"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where was Yellow.ai founded?",
+     "options": [
+      "Chennai",
+      "Mumbai",
+      "Bengaluru",
+      "Pune"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a Yellow.ai rival?",
+     "options": [
+      "Druva",
+      "Kore.ai",
+      "Scripbox",
+      "Turtlemint"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Yellow.ai, founded in Bengaluru, sells AI agents that handle customer and employee support on chat and voice, earning platform and usage fees from enterprises.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "exotel",
+   "name": "Exotel",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Shivakumar Ganesan",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Exotel sells cloud calling and messaging for businesses: virtual numbers, call masking for delivery apps, contact-centre software and voice AI bots. Ride-hailing, delivery, lending and e-commerce firms are big users.",
+    "EARNS": "It earns usage fees per call minute and message plus subscriptions for its contact-centre software. India is its main market, with Southeast Asia and the Middle East growing.",
+    "SIZE": "One of India's leading cloud communication platforms for businesses, handling calls and messages for many of the country's big consumer apps.",
+    "RIVALS": "Twilio, Ozonetel, Knowlarity, Route Mobile and Tanla in business calling and messaging. Twilio is the global leader, while Ozonetel and Knowlarity compete closely in India.",
+    "WATCH": "Its voice AI agents, telecom rules on business calls and spam, a refreshed leadership team named in 2026, and its expansion into Southeast Asia and the Middle East."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does call masking from Exotel help with?",
+     "options": [
+      "Hiding phone numbers between customers and delivery staff",
+      "Printing bills",
+      "Shipping goods",
+      "Booking flights"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Exotel mainly earn?",
+     "options": [
+      "Ad revenue",
+      "Usage fees per call minute and message",
+      "Insurance premiums",
+      "Hardware sales"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is an Exotel rival?",
+     "options": [
+      "Darwinbox",
+      "Icertis",
+      "Ozonetel",
+      "Druva"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Exotel is a Bengaluru cloud calling platform offering virtual numbers, call masking, contact centres and voice AI, earning usage fees from Indian businesses.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "moengage",
+   "name": "MoEngage",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "San Francisco, California (US)",
+    "leader": "Raviteja Dodda",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "MoEngage sells customer engagement software that brands use to send personalised push notifications, emails, WhatsApp and in-app messages based on user behaviour. It was founded in Bengaluru and serves apps worldwide.",
+    "EARNS": "It earns subscriptions priced by users reached and channels used. Consumer apps in banking, retail, media and travel are its main customers, with the US and Europe growing.",
+    "SIZE": "One of the leading customer engagement platforms from India and a SaaS unicorn, after large funding rounds led by Goldman Sachs in late 2025.",
+    "RIVALS": "CleverTap, WebEngage, Braze, Insider and Salesforce Marketing Cloud. Braze is the main global rival, while CleverTap and WebEngage compete hard in India.",
+    "WATCH": "Its AI agents for marketers, growth in the US and Europe after its big 2025 fundraise, and data privacy laws including India's DPDP rules. Competition with Braze in the US is a key test."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does MoEngage help brands send?",
+     "options": [
+      "Physical parcels",
+      "Personalised push, email and in-app messages",
+      "Loans",
+      "Insurance policies"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a MoEngage rival?",
+     "options": [
+      "Druva",
+      "Icertis",
+      "Braze",
+      "Kissht"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which law is a key issue to watch for MoEngage?",
+     "options": [
+      "Mining rules",
+      "Aviation rules",
+      "Steel duties",
+      "India's DPDP data privacy rules"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "MoEngage, founded in Bengaluru, sells customer engagement software for personalised app messages, earning subscriptions. CleverTap and Braze are rivals; watch privacy rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "clevertap",
+   "name": "CleverTap",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sunil Thomas",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "CleverTap sells customer engagement and retention software that lets apps analyse user behaviour and send targeted push, in-app, WhatsApp and email messages. Gaming, fintech, media and retail apps are big customers.",
+    "EARNS": "It earns subscriptions based on how many monthly active users a customer's app has and which features it uses. India, Southeast Asia, the Middle East and Latin America are key markets.",
+    "SIZE": "One of India's leading app engagement platforms, serving many large consumer apps at home and abroad. It competes closely with MoEngage.",
+    "RIVALS": "MoEngage, WebEngage, Braze, Insider and Netcore. Braze is the main global rival, while MoEngage and WebEngage compete with it head on in India.",
+    "WATCH": "AI tools for marketers, data privacy rules such as India's DPDP Act, and growth in the US and Latin America under CEO Sunil Thomas, who took charge in late 2024."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which kind of customers use CleverTap most?",
+     "options": [
+      "Consumer apps",
+      "Steel plants",
+      "Ports",
+      "Farmers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How is CleverTap mainly priced?",
+     "options": [
+      "Per kilometre",
+      "Per loan",
+      "By monthly active users",
+      "Per store"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a CleverTap rival?",
+     "options": [
+      "Druva",
+      "Netcore",
+      "Darwinbox",
+      "Icertis"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "CleverTap is a Mumbai engagement platform helping apps analyse users and send targeted messages, priced by active users. MoEngage and Braze are rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "webengage",
+   "name": "WebEngage",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Avlesh Singh",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "WebEngage sells marketing automation software that helps consumer brands engage users across push, email, SMS, WhatsApp and on-site messages, with tools to segment users and run automated journeys.",
+    "EARNS": "It earns subscription fees from brands, mostly in India, the Middle East and Southeast Asia. E-commerce, fintech and ed-tech apps are its key customers.",
+    "SIZE": "A mid-sized marketing automation player, smaller than MoEngage and CleverTap but with a loyal base of Indian and Middle Eastern consumer brands.",
+    "RIVALS": "MoEngage, CleverTap, Netcore, Braze and Insider. MoEngage and CleverTap are larger Indian rivals, while Braze and Insider compete globally.",
+    "WATCH": "Its AI features for marketers, new senior hires for global partnerships and growth, competition from larger rivals, and India's DPDP data privacy rules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does WebEngage sell?",
+     "options": [
+      "Payroll",
+      "Backup",
+      "Marketing automation software",
+      "Payments"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is larger than WebEngage in the same market?",
+     "options": [
+      "Druva",
+      "MoEngage",
+      "Icertis",
+      "Zluri"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which regions are WebEngage's main markets?",
+     "options": [
+      "India, the Middle East and Southeast Asia",
+      "Only Japan",
+      "Only Canada",
+      "Only Brazil"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "WebEngage is a Mumbai marketing automation company helping brands reach users on push, email and WhatsApp, earning subscriptions mainly in India and the Middle East.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zluri",
+   "name": "Zluri",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Ritish Reddy",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Zluri sells software that helps IT and security teams discover every SaaS app employees use, manage licences and spending, and control who has access to what. Customers are mostly mid-sized companies in the US.",
+    "EARNS": "It earns annual subscriptions from IT teams, priced by number of employees. The US is its main market. Contracts are usually annual, and its customers are often fast-growing tech firms.",
+    "SIZE": "A younger, smaller player in SaaS management and identity governance, backed by Lightspeed and MassMutual Ventures. It competes against better-funded US firms.",
+    "RIVALS": "Zylo, Productiv, BetterCloud and Torii in SaaS management, and identity firms such as Okta and SailPoint. Okta's moves into this area add pressure.",
+    "WATCH": "Its shift towards identity governance and access reviews, competition with larger identity players, and US expansion. Raising fresh funds may also matter."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Zluri help IT teams manage?",
+     "options": [
+      "Factories",
+      "SaaS apps, licences and access",
+      "Fleets of trucks",
+      "Retail stores"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Zluri's main market?",
+     "options": [
+      "Japan",
+      "Brazil",
+      "Africa",
+      "The US"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a Zluri rival?",
+     "options": [
+      "Zylo",
+      "Gupshup",
+      "Kissht",
+      "Scripbox"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zluri is a Bengaluru software firm helping IT teams track SaaS apps, licences and access, earning subscriptions mainly from mid-sized US companies.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rocketlane",
+   "name": "Rocketlane",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Srikrishnan Ganesan",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Rocketlane sells software that helps companies onboard new customers and run client projects: project plans, shared customer portals, time tracking and billing for services teams. Its customers are mostly software and services firms abroad.",
+    "EARNS": "It earns subscriptions per user from professional services and onboarding teams. US and European software companies are its main market. Contracts are usually annual.",
+    "SIZE": "A younger, fast-growing player in customer onboarding and professional services automation, founded in 2020. It has raised funds from leading venture firms to grow.",
+    "RIVALS": "Asana, Monday.com, Kantata, Gainsight and GUIDEcx. Big work-management tools like Asana and Monday.com are much larger, while GUIDEcx and Kantata are more direct rivals.",
+    "WATCH": "Its AI agents for project teams, competition with larger work-management tools, and growth in the US. Keeping growth strong while managing costs also matters."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Rocketlane help companies do?",
+     "options": [
+      "Process payments",
+      "Back up data",
+      "Trade stocks",
+      "Onboard customers and run client projects"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a Rocketlane rival?",
+     "options": [
+      "Druva",
+      "GUIDEcx",
+      "Kissht",
+      "Exotel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who are Rocketlane's main customers?",
+     "options": [
+      "Software companies in the US and Europe",
+      "Indian farmers",
+      "Steel plants",
+      "State transport"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Rocketlane is a Chennai software firm helping services and onboarding teams run client projects, earning per-user subscriptions mostly from US software companies.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "sarvam-ai",
+   "name": "Sarvam AI",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vivek Raghavan",
+    "leader_role": "Co-founder",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Sarvam AI builds AI models and products for India: speech, translation and text models in Indian languages, voice agents, document tools and an assistant called Indus. In 2026 it released Sarvam 30B and Sarvam 105B, models trained from scratch in India under the IndiaAI Mission.",
+    "EARNS": "It earns from enterprises and government bodies using its APIs and products, such as voice agents for customer service and document digitisation. Revenue is still early.",
+    "SIZE": "One of India's most prominent AI model startups, it became a unicorn after a large funding round in June 2026. Co-founders Vivek Raghavan and Pratyush Kumar lead it.",
+    "RIVALS": "Krutrim and Gnani.ai in India, and global labs such as OpenAI, Google and Meta that offer Indian-language models. Big global labs have far more money and computing power.",
+    "WATCH": "It has announced a much larger foundation model built from scratch, plus new product launches. Watch enterprise adoption of its voice agents and access to computing power."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Sarvam AI specialise in?",
+     "options": [
+      "AI models for Indian languages",
+      "Food delivery",
+      "Insurance",
+      "Steel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Under which government programme has Sarvam built its models?",
+     "options": [
+      "Make in India",
+      "IndiaAI Mission",
+      "Startup India Seed Fund",
+      "PM Gati Shakti"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Indian company is a Sarvam rival?",
+     "options": [
+      "Druva",
+      "Scripbox",
+      "Krutrim",
+      "Turtlemint"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Sarvam AI builds Indian-language AI models and voice agents under the IndiaAI Mission. It became a unicorn in 2026 and is building a larger model.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "krutrim",
+   "name": "Krutrim",
+   "type": "startup",
+   "industry": "saas",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Bhavish Aggarwal",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Krutrim is an AI company founded by Ola's Bhavish Aggarwal. It offers AI cloud computing, Indian-language AI models and an AI assistant app, and also runs Ola Maps. It is separate from listed Ola Electric.",
+    "EARNS": "It earns from businesses renting its AI cloud and using its models and maps APIs, though revenue is early and it relies heavily on funding from its founder's group.",
+    "SIZE": "One of India's first AI unicorns, though it has shrunk its team sharply and narrowed its focus since 2025. Its future depends on its AI cloud.",
+    "RIVALS": "Sarvam AI, and cloud and AI providers such as AWS, Microsoft Azure, Google Cloud and Yotta. It competes with global clouds that have far more capacity and customers.",
+    "WATCH": "Its pivot towards AI cloud infrastructure, its announced plans for AI chips and data centres, senior staff exits, and how it pays for heavy computing costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who founded Krutrim?",
+     "options": [
+      "Kunal Shah",
+      "Bhavish Aggarwal",
+      "Nandan Nilekani",
+      "Vivek Raghavan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which mapping service is run by Krutrim?",
+     "options": [
+      "MapmyIndia",
+      "Google Maps",
+      "Ola Maps",
+      "Here Maps"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Krutrim pivoting towards?",
+     "options": [
+      "Food delivery",
+      "Electric scooters",
+      "Insurance",
+      "AI cloud infrastructure"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Krutrim is Bhavish Aggarwal's AI company offering AI cloud, Indian-language models and Ola Maps. It is separate from Ola Electric and pivoting to AI cloud.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mu-sigma",
+   "name": "Mu Sigma",
+   "type": "startup",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Dhiraj Rajaram",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Mu Sigma provides data analytics and decision-science services to large companies, mostly in the US. Teams in Bengaluru analyse data for clients in retail, healthcare, technology and finance.",
+    "EARNS": "It earns long-term service contracts from big corporate clients. A handful of large US companies make up much of its revenue. Losing or winning one large client can change its revenue noticeably.",
+    "SIZE": "One of India's earliest and best-known pure-play analytics firms, though smaller today than at its peak a decade ago. It still employs thousands.",
+    "RIVALS": "Fractal, Tiger Analytics, LatentView and Tredence, and the analytics arms of Accenture, TCS and Infosys. Fractal is now the largest independent rival.",
+    "WATCH": "Its shift towards AI-led products and services, its dependence on a few large clients, and competition from AI tools and from bigger IT services firms."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where are most of Mu Sigma's clients?",
+     "options": [
+      "The US",
+      "Japan",
+      "Africa",
+      "Russia"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Mu Sigma mainly earn?",
+     "options": [
+      "App subscriptions",
+      "Long-term analytics service contracts",
+      "Loans",
+      "Insurance premiums"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a Mu Sigma rival?",
+     "options": [
+      "Kissht",
+      "Ditto",
+      "Fractal",
+      "smallcase"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Mu Sigma is a Bengaluru analytics services firm serving large US companies through long-term contracts. It faces Fractal, Tiger Analytics and big IT firms.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "latentview-analytics",
+   "name": "LatentView Analytics",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Sonal Ramrakhiani",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "LatentView Analytics provides data engineering, analytics and AI services to large companies, especially in technology, consumer goods, retail and finance. It listed on the NSE and BSE in 2021 and bought US consultancy Decision Point in 2024.",
+    "EARNS": "It earns from analytics projects and long-term engagements, billed by team size or outcome. The US brings most revenue, with a few big tech clients the largest accounts.",
+    "SIZE": "One of India's few listed pure-play data analytics firms, mid-sized compared with large IT services companies. Its client list is concentrated among a few big tech firms.",
+    "RIVALS": "Fractal, Mu Sigma, Tiger Analytics and Tredence, and the analytics units of Accenture and TCS. Fractal and Tredence are close, fast-growing rivals.",
+    "WATCH": "Former Wipro executive Sonal Ramrakhiani became CEO in July 2026, succeeding Rajan Sethuraman. Watch AI-led growth, dependence on a few clients and expansion in Europe."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "When did LatentView list on Indian exchanges?",
+     "options": [
+      "2015",
+      "2021",
+      "2026",
+      "2018"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does LatentView earn most of its revenue?",
+     "options": [
+      "India",
+      "Japan",
+      "The US",
+      "Africa"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became LatentView's CEO in July 2026?",
+     "options": [
+      "Rajan Sethuraman",
+      "Mahesh Kumar",
+      "Dhiraj Rajaram",
+      "Sonal Ramrakhiani"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "LatentView Analytics is a listed Chennai data analytics firm earning mostly from US clients. Former Wipro executive Sonal Ramrakhiani became CEO in July 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tiger-analytics",
+   "name": "Tiger Analytics",
+   "type": "startup",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Santa Clara, California (US)",
+    "leader": "Mahesh Kumar",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Tiger Analytics provides data science, data engineering and AI services to large companies in retail, consumer goods, healthcare, banking and manufacturing. Most of its staff work in Chennai and other Indian cities.",
+    "EARNS": "It earns from service contracts with large enterprises, billed by project or team. The US brings most revenue. Large retailers and consumer goods firms are among its biggest clients.",
+    "SIZE": "One of the largest independent analytics and AI services firms with roots in India, bigger than most pure-play rivals. It has grown quickly over the past decade.",
+    "RIVALS": "Fractal, Mu Sigma, LatentView and Tredence, and the analytics practices of Accenture, TCS and Infosys. Fractal is its closest independent rival.",
+    "WATCH": "Growth from generative AI projects, a new global head of operations named in 2026 to sharpen profitability, and competition from bigger IT services firms."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Tiger Analytics provide?",
+     "options": [
+      "Consumer loans",
+      "Data science and AI services",
+      "Insurance",
+      "Food delivery"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region brings Tiger Analytics most revenue?",
+     "options": [
+      "Africa",
+      "Japan",
+      "The US",
+      "Russia"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a Tiger Analytics rival?",
+     "options": [
+      "Tredence",
+      "Ditto",
+      "Kissht",
+      "Upstox"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tiger Analytics provides data science and AI services to large companies, mainly in the US, with most staff in India. Fractal and Tredence are rivals.",
+   "review": "unreviewed"
+  }
+ ]
+}

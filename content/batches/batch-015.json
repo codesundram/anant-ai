@@ -1,0 +1,2075 @@
+{
+  "_meta": {
+    "batch": "015",
+    "about": "Retail chains, jewellers, payments, small finance banks, NBFCs, insurers and market infrastructure. Leaders checked against web reports in Oct 2026 where search allowed; others marked not re-checked.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-14"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "lulu-group",
+      "name": "Lulu Group India",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Kochi, Kerala",
+        "leader": "M.A. Yusuff Ali",
+        "leader_role": "Chairman, Lulu Group",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Lulu Group India runs LuLu shopping malls and LuLu Hypermarkets in cities such as Kochi, Thiruvananthapuram, Bengaluru, Lucknow and Hyderabad. The hypermarkets sell groceries, fresh food, electronics and fashion to families who come for a big weekly shop.",
+        "EARNS": "It earns in two ways: a retail margin on everything sold in its hypermarkets and LuLu Fashion stores, and rent from the brands, cinemas and food courts that lease space in its malls. The malls give it steady rental income alongside the thinner grocery margins.",
+        "SIZE": "One of the largest mall developers and hypermarket operators in India, especially strong in Kerala. Its parent, the Abu Dhabi based Lulu Group, is one of the biggest retailers in the Gulf.",
+        "RIVALS": "In malls it competes with Phoenix Mills, Nexus Malls and DLF's retail properties. Its hypermarkets compete with Reliance Smart, DMart, Spar and Star Bazaar.",
+        "WATCH": "Lulu has announced new malls and hypermarkets across several Indian states, including food-processing and logistics hubs to supply them. Watch how quickly these open outside its Kerala base."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does Lulu Group India run besides hypermarkets?",
+          "options": [
+            "Cinemas only",
+            "Shopping malls",
+            "Petrol pumps",
+            "Budget hotels"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where does Lulu earn steady rental income?",
+          "options": [
+            "Leasing space in its malls",
+            "Renting cars",
+            "Licensing its app",
+            "Selling insurance"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which mall developer is a rival to Lulu in India?",
+          "options": [
+            "Zepto",
+            "Nykaa",
+            "Lenskart",
+            "Phoenix Mills"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Lulu Group India runs large LuLu malls and hypermarkets, earning retail margins plus mall rents. Strong in Kerala, it is expanding to more Indian cities.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "spencer-s-retail",
+      "name": "Spencer's Retail",
+      "type": "listed",
+      "industry": "retail",
+      "profile": {
+        "hq": "Kolkata, West Bengal",
+        "leader": "Anuj Singh",
+        "leader_role": "MD & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Spencer's Retail runs supermarkets and hypermarkets under the Spencer's and Nature's Basket names, selling groceries, fresh food, gourmet products and home goods. It is part of the RP-Sanjiv Goenka Group and has its strongest presence in eastern India.",
+        "EARNS": "It earns a margin on what it sells. Food and groceries bring most of the sales, while gourmet foods, private labels and non-food items earn better margins. Online orders add to store sales.",
+        "SIZE": "A mid-sized supermarket chain and one of the older names in organised Indian grocery retail, much smaller than the national leaders. Its network has shrunk in recent years as it exited weaker markets.",
+        "RIVALS": "DMart, Reliance Smart, More, Star Bazaar and Spar in stores; Blinkit, Zepto, Swiggy Instamart and BigBasket online. Local kirana stores remain a big rival for everyday grocery shopping.",
+        "WATCH": "The company has been closing weaker stores and focusing on its core regions to cut losses. Anuj Singh was re-appointed MD & CEO in 2026. Watch whether the smaller network turns profitable."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which gourmet grocery brand belongs to Spencer's Retail?",
+          "options": [
+            "Foodhall",
+            "Le Marche",
+            "Nature's Basket",
+            "Godrej Nature's"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which business group owns Spencer's Retail?",
+          "options": [
+            "RP-Sanjiv Goenka Group",
+            "Tata Group",
+            "Aditya Birla Group",
+            "Future Group"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which listed chain is a store rival to Spencer's?",
+          "options": [
+            "Nykaa",
+            "DMart",
+            "Titan",
+            "Trent's Zudio"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Spencer's Retail, an RP-Sanjiv Goenka company, runs supermarkets and Nature's Basket gourmet stores, mainly in eastern India, and is shrinking to its core to cut losses.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "more-retail",
+      "name": "More Retail",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Vinod Nambiar",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "More Retail runs More supermarkets and larger More hypermarkets selling groceries, fresh produce, staples and household goods. It was founded by the Aditya Birla Group and has been owned since 2019 by a consortium of Samara Capital and Amazon.",
+        "EARNS": "It earns a margin on everything it sells, with private-label staples and fresh food helping margins. It also supplies groceries for Amazon Fresh in many cities, which adds online volume to its stores.",
+        "SIZE": "One of India's larger supermarket chains, with hundreds of stores across the country, though well behind the biggest players. Its stores are spread across several states, with a strong base in south India.",
+        "RIVALS": "DMart, Reliance Smart, Spencer's, Star Bazaar and Spar in stores; Blinkit, Zepto, Swiggy Instamart and BigBasket online. Neighbourhood kirana stores also compete for daily grocery spending.",
+        "WATCH": "More Retail has said it is preparing for a public listing. Watch its store profitability, its tie-up with Amazon Fresh, and how it copes with quick-commerce apps."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who owns More Retail today?",
+          "options": [
+            "Reliance Retail",
+            "Tata Group",
+            "Samara Capital and Amazon",
+            "Walmart"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which online grocery service does More supply in many cities?",
+          "options": [
+            "Amazon Fresh",
+            "Blinkit",
+            "JioMart",
+            "Zepto"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which group originally founded More?",
+          "options": [
+            "Future Group",
+            "Aditya Birla Group",
+            "RPG Group",
+            "Mahindra Group"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "More Retail runs More supermarkets and hypermarkets, owned by Samara Capital and Amazon. It supplies Amazon Fresh and is preparing for a public listing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "v-mart",
+      "name": "V-Mart Retail",
+      "type": "listed",
+      "industry": "retail",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Lalit Agarwal",
+        "leader_role": "Managing Director",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "V-Mart runs value fashion stores selling affordable clothing, footwear and household goods to families in smaller towns, mainly in north and east India. It also owns Unlimited, a value fashion chain in south India, and runs the LimeRoad online marketplace.",
+        "EARNS": "It earns a margin on clothes and goods, most of it from apparel, with much of the range made under its own labels. Festival and wedding seasons bring the busiest sales.",
+        "SIZE": "One of India's leading value fashion retailers focused on tier-two and tier-three towns, with hundreds of stores. Most of its stores are in Uttar Pradesh, Bihar and nearby states, where organised fashion retail is still young.",
+        "RIVALS": "Trent's Zudio, Reliance's Yousta and Trends, Vishal Mega Mart, Style Union and Max Fashion, along with Meesho online. Unorganised local clothing shops remain its biggest competition in small towns.",
+        "WATCH": "V-Mart keeps opening stores in small towns. Watch how it competes with fast-growing Zudio and whether LimeRoad helps or drags results. It has also been cutting losses at LimeRoad and trying to improve sales per store."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which value fashion chain in south India does V-Mart own?",
+          "options": [
+            "Max",
+            "Zudio",
+            "Unlimited",
+            "Style Union"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where is V-Mart's core customer base?",
+          "options": [
+            "Metro luxury shoppers",
+            "Smaller towns",
+            "Overseas tourists",
+            "Corporate buyers"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "Which Tata-owned chain is a fast-growing rival to V-Mart?",
+          "options": [
+            "Zudio",
+            "Westside",
+            "Croma",
+            "Tanishq"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "V-Mart runs value fashion stores in smaller north and east Indian towns, owns south India's Unlimited, and battles Zudio and Vishal Mega Mart.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "shoppers-stop",
+      "name": "Shoppers Stop",
+      "type": "listed",
+      "industry": "retail",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Kavindra Mishra",
+        "leader_role": "Executive Director & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Shoppers Stop runs department stores selling fashion, beauty and accessories, along with the beauty chain SS Beauty and the value fashion format Intune. It is part of the K Raheja Corp group and sells brands such as Levi's and Clinique alongside its own labels.",
+        "EARNS": "It earns a margin on what it sells, and private labels and beauty carry richer margins than bought-in brands. Its First Citizen loyalty programme drives repeat shopping from its best customers.",
+        "SIZE": "One of India's oldest and largest department store chains, present in most big cities. It was one of the first modern department store chains in India, opening its first store in Mumbai in 1991.",
+        "RIVALS": "Trent's Westside and Zudio, Lifestyle, Reliance Trends, Pantaloons and Central, with Nykaa competing in beauty. Online, Myntra, Ajio and Amazon compete for the same fashion and beauty shoppers.",
+        "WATCH": "The company is expanding Intune quickly in smaller cities and growing SS Beauty. Watch whether value fashion and beauty lift profits. Kavindra Mishra took over as CEO in 2023; watch for any leadership changes as his term comes up for renewal."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which value fashion format does Shoppers Stop run?",
+          "options": [
+            "Zudio",
+            "Intune",
+            "Yousta",
+            "Max"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is Shoppers Stop's loyalty programme called?",
+          "options": [
+            "First Citizen",
+            "Club Lifestyle",
+            "Westside Club",
+            "Tata Neu"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which group is Shoppers Stop part of?",
+          "options": [
+            "Tata Group",
+            "Landmark Group",
+            "Reliance",
+            "K Raheja Corp"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Shoppers Stop, a K Raheja Corp company, runs department stores, SS Beauty and the Intune value format, competing with Westside, Lifestyle and Reliance Trends.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "lifestyle-international",
+      "name": "Lifestyle International",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Shital Mehta",
+        "leader_role": "Managing Director",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Lifestyle International is the Indian arm of Dubai's Landmark Group. It runs Lifestyle department stores, Max Fashion value stores, Home Centre furniture stores and Easybuy, selling clothing, footwear, beauty and home goods.",
+        "EARNS": "It earns a margin on what it sells. Max Fashion is its biggest business by stores and sales, with mostly own-label clothing, while Lifestyle stores sell both outside brands and private labels.",
+        "SIZE": "One of India's largest fashion retailers, with Max among the biggest value fashion chains in the country. Lifestyle and Home Centre stores are found in malls across most large cities.",
+        "RIVALS": "Shoppers Stop, Trent's Westside and Zudio, Reliance Trends, Pantaloons and V-Mart. Home Centre competes with IKEA and Pepperfry. Myntra, Ajio and Amazon compete for its fashion shoppers online.",
+        "WATCH": "In 2025 Shital Mehta took a wider role as managing director and Sumit Chandna became CEO of Max Fashion. Watch Max's push into smaller cities. Also watch how its department stores hold up against value fashion chains."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which value fashion chain is part of Lifestyle International?",
+          "options": [
+            "Zudio",
+            "Max Fashion",
+            "Intune",
+            "Yousta"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which group owns Lifestyle International?",
+          "options": [
+            "Majid Al Futtaim",
+            "Lulu Group",
+            "Landmark Group",
+            "Tata Group"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which furniture retailer competes with Home Centre?",
+          "options": [
+            "IKEA",
+            "Croma",
+            "Nykaa",
+            "Titan"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Lifestyle International, Landmark Group's Indian arm, runs Lifestyle, Max Fashion, Home Centre and Easybuy. Max is its largest business, pushing into smaller cities.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "vijay-sales",
+      "name": "Vijay Sales",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Nilesh Gupta",
+        "leader_role": "Managing Director",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Vijay Sales is a family-run electronics retail chain selling phones, televisions, laptops, air conditioners and kitchen appliances from brands such as Apple, Samsung and LG. It sells through its stores, mostly in western and northern India, and its own website.",
+        "EARNS": "It earns a margin on each product plus brand-funded promotions, extended warranties and financing tie-ups. Phones and large appliances bring most of its sales, with festive seasons the busiest.",
+        "SIZE": "One of India's largest multi-brand electronics retail chains, strongest in Maharashtra and Gujarat. It started in Mumbai in the late 1960s and has grown into a chain spread across several states.",
+        "RIVALS": "Reliance Digital, Croma, Amazon and Flipkart, plus regional chains such as Pai International and Poorvika. Brand-owned stores from Apple and Samsung also compete for buyers of premium products.",
+        "WATCH": "Vijay Sales has been opening stores in new states and growing online. Watch how it competes with Reliance Digital and Croma. Also watch how quick-commerce apps that now deliver phones and gadgets affect store visits."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does Vijay Sales mainly sell?",
+          "options": [
+            "Groceries",
+            "Jewellery",
+            "Consumer electronics",
+            "Furniture"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which Tata-owned chain is a rival to Vijay Sales?",
+          "options": [
+            "Croma",
+            "Westside",
+            "Zudio",
+            "Tanishq"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        },
+        {
+          "prompt": "Which region is Vijay Sales strongest in?",
+          "options": [
+            "Kerala",
+            "North-east",
+            "Maharashtra and Gujarat",
+            "Tamil Nadu"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SIZE"
+        }
+      ],
+      "note_30w": "Vijay Sales is a family-run electronics chain strong in Maharashtra and Gujarat, earning margins on phones and appliances while fighting Croma, Reliance Digital and online players.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "malabar-gold-and-diamonds",
+      "name": "Malabar Gold & Diamonds",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Kozhikode, Kerala",
+        "leader": "M.P. Ahammed",
+        "leader_role": "Chairman",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Malabar Gold & Diamonds sells gold, diamond and precious-stone jewellery through its showrooms in India, the Gulf and other countries, plus online. It is the flagship of the Malabar Group and is known for bridal jewellery and regional designs.",
+        "EARNS": "It earns a margin and making charges on jewellery. Gold jewellery is most of its sales, while diamond and studded pieces earn richer margins. The Gulf and other overseas markets add a large share.",
+        "SIZE": "One of the world's largest jewellery retail chains and among India's biggest, with a wide international network. It started in Kozhikode in 1993.",
+        "RIVALS": "Tanishq, Kalyan Jewellers, Joyalukkas, Senco Gold and Reliance Jewels. In the Gulf it competes with local jewellers and other Indian chains, and in India also with thousands of family-run jewellery shops.",
+        "WATCH": "Malabar keeps opening showrooms in India and abroad. Watch how high gold prices affect demand and its plans for new markets. It has also been building jewellery manufacturing units in India."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Where is Malabar Gold & Diamonds headquartered?",
+          "options": [
+            "Thrissur",
+            "Kozhikode",
+            "Mumbai",
+            "Dubai"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What makes up most of Malabar's sales?",
+          "options": [
+            "Gold jewellery",
+            "Watches",
+            "Silverware",
+            "Gemstone mining"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which Titan jewellery brand competes with Malabar?",
+          "options": [
+            "Mia",
+            "CaratLane",
+            "Fastrack",
+            "Tanishq"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Malabar Gold & Diamonds, from Kozhikode, sells gold and diamond jewellery across India and abroad, earning margins and making charges, competing with Tanishq and Kalyan.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "joyalukkas",
+      "name": "Joyalukkas",
+      "type": "startup",
+      "industry": "retail",
+      "profile": {
+        "hq": "Thrissur, Kerala",
+        "leader": "Joy Alukkas",
+        "leader_role": "Chairman & MD",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Joyalukkas sells gold, diamond and platinum jewellery through showrooms in India and in the Gulf, the UK, Singapore and other markets. Founded by Joy Alukkas, it is known for bridal collections and large flagship stores.",
+        "EARNS": "It earns a margin and making charges on jewellery, with gold being most of its sales. The Gulf is a major market alongside south India. Diamond and studded jewellery carry higher margins than plain gold.",
+        "SIZE": "One of the largest jewellery retailers from India, with a big presence among Indian communities overseas. Its showrooms span south India, the Gulf and several other countries.",
+        "RIVALS": "Malabar Gold & Diamonds, Kalyan Jewellers, Tanishq and Senco Gold. In the Gulf it also competes with local jewellers, and in India with countless family-run jewellery shops.",
+        "WATCH": "Joyalukkas had filed for a public listing in India and later withdrew the plan. Watch its India expansion and the effect of gold prices on demand. The group also runs money exchange and fashion businesses."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who founded Joyalukkas?",
+          "options": [
+            "M.P. Ahammed",
+            "Joy Alukkas",
+            "T.S. Kalyanaraman",
+            "Suvankar Sen"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which overseas region is a major market for Joyalukkas?",
+          "options": [
+            "Latin America",
+            "East Africa",
+            "Central Asia",
+            "The Gulf"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which Kerala-based jeweller is a rival to Joyalukkas?",
+          "options": [
+            "Malabar Gold & Diamonds",
+            "PC Jeweller",
+            "Senco Gold",
+            "CaratLane"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Joyalukkas, a Thrissur jeweller founded by Joy Alukkas, sells gold and diamond jewellery in India and the Gulf, competing with Malabar, Kalyan and Tanishq.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "senco-gold",
+      "name": "Senco Gold & Diamonds",
+      "type": "listed",
+      "industry": "retail",
+      "profile": {
+        "hq": "Kolkata, West Bengal",
+        "leader": "Suvankar Sen",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Senco Gold sells gold, diamond and silver jewellery under the Senco Gold & Diamonds brand, plus the lighter, everyday brand Everlite and the D'Signia diamond line. It is strongest in eastern India and listed on the stock exchanges in 2023.",
+        "EARNS": "It earns a margin and making charges on jewellery. Gold jewellery brings most of its sales, while diamond pieces earn higher margins. It runs both company-owned and franchise showrooms.",
+        "SIZE": "One of the largest jewellery retailers in eastern India and among the top organised jewellers nationally. Its roots go back to a single family jewellery shop in Kolkata.",
+        "RIVALS": "Tanishq, Kalyan Jewellers, Malabar Gold & Diamonds, PC Jeweller and regional family jewellers. Online jewellers such as CaratLane and BlueStone compete for lightweight jewellery buyers.",
+        "WATCH": "Senco is expanding beyond eastern India, including through franchise stores. Watch demand at high gold prices and growth in its lightweight jewellery."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which region is Senco Gold strongest in?",
+          "options": [
+            "South India",
+            "Western India",
+            "Eastern India",
+            "The Gulf"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "What is Senco's lighter, everyday jewellery brand?",
+          "options": [
+            "Mia",
+            "Everlite",
+            "Zoya",
+            "Candere"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Senco run some of its showrooms?",
+          "options": [
+            "As franchises",
+            "Inside petrol pumps",
+            "Only as kiosks",
+            "Through banks"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        }
+      ],
+      "note_30w": "Senco Gold, a Kolkata jeweller listed in 2023, sells gold and diamond jewellery mainly in eastern India and is expanding nationally through owned and franchise showrooms.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "pc-jeweller",
+      "name": "PC Jeweller",
+      "type": "listed",
+      "industry": "retail",
+      "profile": {
+        "hq": "New Delhi, Delhi",
+        "leader": "Balram Garg",
+        "leader_role": "Managing Director",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "PC Jeweller sells gold and diamond jewellery through showrooms mainly in north India, along with some export business. It is known for wedding jewellery and diamond pieces.",
+        "EARNS": "It earns a margin and making charges on jewellery, with most sales coming from its domestic showrooms. Diamond jewellery has traditionally carried better margins than plain gold.",
+        "SIZE": "A mid-sized national jeweller that was once among India's largest, and has shrunk after years of debt trouble. It was founded in 2005 by Balram Garg and grew quickly before running into trouble with lenders.",
+        "RIVALS": "Tanishq, Kalyan Jewellers, Malabar Gold & Diamonds, Senco Gold and Reliance Jewels. Local family-run jewellers in Delhi and north India also compete hard for wedding buyers.",
+        "WATCH": "The company reached a settlement with its lender banks and has been working to cut debt and restart growth. Watch its debt repayment and showroom revival."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which part of India is PC Jeweller mainly based in?",
+          "options": [
+            "North India",
+            "Kerala",
+            "Eastern India",
+            "North-east"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "What has been PC Jeweller's main recent issue?",
+          "options": [
+            "A demerger",
+            "Clearing its bank debt",
+            "A foreign takeover",
+            "Entering telecom"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which jeweller is a rival to PC Jeweller?",
+          "options": [
+            "Nykaa",
+            "Bata",
+            "Kalyan Jewellers",
+            "Lenskart"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "PC Jeweller is a Delhi jeweller selling gold and diamond jewellery mainly in north India, working through a settlement with banks to cut debt and revive growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "mswipe",
+      "name": "Mswipe",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Ketan Patel",
+        "leader_role": "CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Mswipe provides card machines, Android point-of-sale devices, UPI QR codes and payment links that let small shops and merchants accept digital payments. It also offers business loans and tools to small merchants.",
+        "EARNS": "It earns a share of the fee on each card or digital transaction, rent on devices, and interest or fees from lending products offered to merchants with partners.",
+        "SIZE": "One of India's larger independent merchant-payments companies, focused on small and mid-sized shops. Its merchants are spread across hundreds of cities and towns.",
+        "RIVALS": "Pine Labs, Paytm, PhonePe, BharatPe, Razorpay and bank-run card machines. Banks such as HDFC Bank and ICICI Bank also supply card machines to their own merchant customers.",
+        "WATCH": "Mswipe holds RBI approval to operate as a payment aggregator. Watch how it competes with free UPI soundboxes and grows merchant lending. Also watch RBI rules on payment aggregators and merchant fees."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who are Mswipe's main customers?",
+          "options": [
+            "Large airlines",
+            "Small shops and merchants",
+            "Foreign banks",
+            "Government departments"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which company is a rival to Mswipe in card machines?",
+          "options": [
+            "Pine Labs",
+            "Zerodha",
+            "Nykaa",
+            "Swiggy"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        },
+        {
+          "prompt": "What does Mswipe earn from besides transaction fees?",
+          "options": [
+            "Advertising on TV",
+            "Selling groceries",
+            "Device rent and merchant lending",
+            "Mining"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        }
+      ],
+      "note_30w": "Mswipe gives small merchants card machines, QR codes and loans, earning transaction fees and device rent while competing with Pine Labs, Paytm and PhonePe.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "fino-payments-bank",
+      "name": "Fino Payments Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": {
+        "hq": "Navi Mumbai, Maharashtra",
+        "leader": "Rishi Gupta",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Fino Payments Bank offers savings accounts, cash withdrawals, money transfers and bill payments, largely through small shops that act as banking points in villages and small towns. It also distributes loans and insurance for partners.",
+        "EARNS": "Most of its income comes from fees on transactions such as cash withdrawals, remittances and Aadhaar-based payments done through its merchant network, plus fees for distributing other firms' products.",
+        "SIZE": "One of India's largest payments banks by merchant network, serving many customers in rural and semi-urban areas. Its reach comes mainly from its network of partner shops rather than branches.",
+        "RIVALS": "Airtel Payments Bank, India Post Payments Bank, Paytm and PhonePe, and banks' own business correspondents. Small finance banks also compete for the same customers.",
+        "WATCH": "In December 2025 the RBI gave in-principle approval for Fino to become a small finance bank, letting it lend. Its MD & CEO was arrested in a GST probe in 2026; the board later found him fit to continue."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "How does Fino mainly reach customers?",
+          "options": [
+            "Its own large branches",
+            "Small shops acting as banking points",
+            "Only overseas offices",
+            "Door-to-door sales of cars"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What approval did Fino receive from the RBI in December 2025?",
+          "options": [
+            "To become a small finance bank",
+            "To launch a stock exchange",
+            "To issue currency",
+            "To merge with SBI"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which is a payments bank rival to Fino?",
+          "options": [
+            "HDFC Ergo",
+            "Airtel Payments Bank",
+            "CAMS",
+            "MCX"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Fino Payments Bank offers basic banking through shop-based banking points in small towns, earning transaction fees, and has RBI in-principle approval to become a small finance bank.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "equitas-small-finance-bank",
+      "name": "Equitas Small Finance Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": {
+        "hq": "Chennai, Tamil Nadu",
+        "leader": "P.N. Vasudevan",
+        "leader_role": "MD & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Equitas Small Finance Bank offers savings and fixed-deposit accounts and lends to small businesses, home buyers, vehicle buyers and microfinance borrowers. It grew out of a microfinance company and is strongest in Tamil Nadu.",
+        "EARNS": "It earns the gap between interest on loans and what it pays depositors. Small-business loans against property and vehicle loans make up the biggest part of its book, ahead of microfinance.",
+        "SIZE": "One of India's larger small finance banks, with a strong branch network in south India. It started as a microfinance company in 2007 and became a bank in 2016.",
+        "RIVALS": "AU Small Finance Bank, Ujjivan, Jana and Suryoday small finance banks, plus NBFCs such as Shriram Finance. Large private banks such as HDFC Bank also compete for its deposits.",
+        "WATCH": "The RBI approved P.N. Vasudevan's re-appointment as MD & CEO from July 2026, and the bank has announced plans to raise fresh capital. Watch stress in its microfinance loans."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which state is Equitas strongest in?",
+          "options": [
+            "Gujarat",
+            "Punjab",
+            "West Bengal",
+            "Tamil Nadu"
+          ],
+          "correct_idx": 3,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "What is the biggest part of Equitas's loan book?",
+          "options": [
+            "Gold loans",
+            "Small-business and vehicle loans",
+            "Credit cards",
+            "Corporate loans"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Who leads Equitas as MD & CEO?",
+          "options": [
+            "P.N. Vasudevan",
+            "Ajay Kanwal",
+            "Sanjay Agarwal",
+            "Sanjeev Nautiyal"
+          ],
+          "correct_idx": 0,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Equitas Small Finance Bank, based in Chennai, lends to small businesses, vehicle buyers and microfinance borrowers, funded by deposits, under re-appointed MD P.N. Vasudevan.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "ujjivan-small-finance-bank",
+      "name": "Ujjivan Small Finance Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Sanjeev Nautiyal",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Ujjivan Small Finance Bank takes deposits and lends to low-income borrowers through group microfinance loans, plus affordable housing, small-business, vehicle and gold loans. It started as a microfinance lender.",
+        "EARNS": "It earns the gap between interest on loans and deposit costs. Microfinance is still its largest and highest-yielding segment, though the bank has been growing secured loans to reduce risk.",
+        "SIZE": "One of India's larger small finance banks, with branches across many states. It was founded as a microfinance lender in 2005 and became a bank in 2017.",
+        "RIVALS": "Equitas, Jana, AU and Suryoday small finance banks, and microfinance lenders such as CreditAccess Grameen and Bandhan Bank. Large banks also compete for its depositors.",
+        "WATCH": "In April 2026 the RBI returned Ujjivan's application for a universal bank licence, asking it to diversify its loans more before reapplying. Watch the shift to secured lending."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What did the RBI do with Ujjivan's universal bank application in April 2026?",
+          "options": [
+            "Approved it",
+            "Returned it",
+            "Merged it with Jana",
+            "Forwarded it to SEBI"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which is Ujjivan's largest segment?",
+          "options": [
+            "Corporate loans",
+            "Microfinance",
+            "Credit cards",
+            "Car leasing"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which lender is a rival to Ujjivan?",
+          "options": [
+            "Zerodha",
+            "CAMS",
+            "CreditAccess Grameen",
+            "MCX"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Ujjivan Small Finance Bank lends mostly to low-income borrowers, led by microfinance, and must diversify further after the RBI returned its universal bank application.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "jana-small-finance-bank",
+      "name": "Jana Small Finance Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Ajay Kanwal",
+        "leader_role": "MD & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Jana Small Finance Bank offers deposits and loans to low-income and small-business customers, including microfinance, housing, gold and loans against property. It grew out of Janalakshmi Financial Services and listed in 2024.",
+        "EARNS": "It earns the gap between interest on loans and deposit costs. Secured loans such as loans against property and housing are now a larger part of its book than unsecured microfinance.",
+        "SIZE": "One of India's larger small finance banks by loans and deposits. Its branches are spread across many states, with a strong presence in south and west India.",
+        "RIVALS": "Ujjivan, Equitas, AU and Suryoday small finance banks, and lenders such as Bandhan Bank. NBFCs that lend against property also compete for its borrowers.",
+        "WATCH": "In October 2025 the RBI returned Jana's application to become a universal bank, and the bank has said it will evaluate applying again. Ajay Kanwal's current term runs to March 2027."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which company did Jana Small Finance Bank grow out of?",
+          "options": [
+            "Janalakshmi Financial Services",
+            "Equitas Holdings",
+            "Bharat Financial",
+            "Ujjivan Financial"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What did the RBI do with Jana's universal bank application?",
+          "options": [
+            "Approved it",
+            "Ignored it",
+            "Returned it",
+            "Doubled it"
+          ],
+          "correct_idx": 2,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "Which bank is a rival to Jana?",
+          "options": [
+            "CDSL",
+            "Equitas Small Finance Bank",
+            "NSDL",
+            "Mswipe"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Jana Small Finance Bank, listed in 2024, has shifted towards secured loans and plans to reapply for a universal bank licence after an earlier return.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "suryoday-small-finance-bank",
+      "name": "Suryoday Small Finance Bank",
+      "type": "listed",
+      "industry": "banking",
+      "profile": {
+        "hq": "Navi Mumbai, Maharashtra",
+        "leader": "R. Baskar Babu",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Suryoday Small Finance Bank takes deposits and lends to low-income borrowers through microfinance, plus vehicle, housing and small-business loans. It is strongest in Maharashtra, Tamil Nadu and Odisha.",
+        "EARNS": "It earns the gap between interest on loans and deposit costs. Microfinance is its largest segment and earns high interest, but it also carries more credit risk.",
+        "SIZE": "A smaller small finance bank compared with leaders like AU and Equitas. It started as a microfinance lender in 2008 and became a bank in 2017.",
+        "RIVALS": "Ujjivan, Equitas, Jana and ESAF small finance banks, and microfinance lenders such as Spandana Sphoorty. Large banks also compete for its depositors.",
+        "WATCH": "Suryoday is growing secured loans to cut its reliance on microfinance. Its management has said it is in no hurry to become a universal bank. Also watch stress in microfinance loans."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Suryoday's largest segment?",
+          "options": [
+            "Credit cards",
+            "Corporate loans",
+            "Home loans",
+            "Microfinance"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which state is a key market for Suryoday?",
+          "options": [
+            "Maharashtra",
+            "Punjab",
+            "Assam",
+            "Goa"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which lender competes with Suryoday?",
+          "options": [
+            "Nykaa",
+            "MCX",
+            "Croma",
+            "Spandana Sphoorty"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Suryoday Small Finance Bank lends mainly through microfinance, strongest in Maharashtra and Tamil Nadu, and is adding secured loans to reduce risk.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "unity-small-finance-bank",
+      "name": "Unity Small Finance Bank",
+      "type": "startup",
+      "industry": "banking",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Inderjit Camotra",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Unity Small Finance Bank offers savings accounts, fixed deposits and loans to small businesses and individuals. It was set up in 2021 by Centrum and BharatPe to take over the failed Punjab and Maharashtra Co-operative (PMC) Bank.",
+        "EARNS": "It earns the gap between interest on loans and deposit costs. It lends through branches and through fintech partners, and is known for offering high fixed-deposit rates to attract savers.",
+        "SIZE": "A young, smaller small finance bank, built on PMC Bank's former branches. Its branches are mostly in Maharashtra, with a growing digital presence.",
+        "RIVALS": "Shivalik, Suryoday and Ujjivan small finance banks, plus co-operative banks and fintech lenders. Large banks also compete for its depositors.",
+        "WATCH": "Unity is still recovering money from PMC Bank's old bad loans. Watch its fintech partnerships and steps toward profitability and a possible listing. Also watch loan quality on fintech-sourced loans."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which failed bank did Unity take over?",
+          "options": [
+            "Yes Bank",
+            "PMC Bank",
+            "Lakshmi Vilas Bank",
+            "DHFL"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which fintech co-promoted Unity?",
+          "options": [
+            "PhonePe",
+            "Paytm",
+            "BharatPe",
+            "Razorpay"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Unity attract savers?",
+          "options": [
+            "High fixed-deposit rates",
+            "Free phones",
+            "Airline miles",
+            "Lottery prizes"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        }
+      ],
+      "note_30w": "Unity Small Finance Bank, set up by Centrum and BharatPe to absorb failed PMC Bank, lends to small businesses and attracts savers with high deposit rates.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "shivalik-small-finance-bank",
+      "name": "Shivalik Small Finance Bank",
+      "type": "startup",
+      "industry": "banking",
+      "profile": {
+        "hq": "Noida, Uttar Pradesh",
+        "leader": "Suveer Kumar Gupta",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Shivalik Small Finance Bank offers savings accounts, deposits and loans to small businesses and individuals, mainly in north India. It became the first urban co-operative bank to convert into a small finance bank, in 2021.",
+        "EARNS": "It earns the gap between interest on loans and deposit costs. Small-business and secured retail loans form its core, and it also partners with fintechs to offer accounts and credit.",
+        "SIZE": "A small small finance bank with branches mostly in Uttar Pradesh and nearby states. It is much smaller than leaders such as AU and Equitas.",
+        "RIVALS": "Unity, Suryoday and Ujjivan small finance banks, plus co-operative banks and regional lenders. Larger private and public sector banks also compete for its depositors.",
+        "WATCH": "Shivalik is growing its fintech partnerships and branch network. Watch how it scales while keeping loan quality steady. Also watch any plans to raise fresh capital or list."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What was Shivalik before it became a small finance bank?",
+          "options": [
+            "A payments bank",
+            "An urban co-operative bank",
+            "An insurance firm",
+            "A stock broker"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where are most of Shivalik's branches?",
+          "options": [
+            "Kerala",
+            "Gujarat",
+            "Uttar Pradesh and nearby states",
+            "North-east"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "Which small finance bank is a rival to Shivalik?",
+          "options": [
+            "Unity Small Finance Bank",
+            "NSDL",
+            "CAMS",
+            "Lulu"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Shivalik, the first urban co-operative bank to become a small finance bank, lends to small businesses in north India and works with fintech partners.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "avanse-financial",
+      "name": "Avanse Financial Services",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Amit Gainda",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Avanse lends to students for higher studies in India and abroad, and to schools and colleges for expansion. It also offers loans to small businesses. It is backed by Warburg Pincus.",
+        "EARNS": "It earns interest on loans. Education loans for students going abroad are its biggest business, while loans to education institutions add a second, smaller stream.",
+        "SIZE": "One of India's leading education-focused lenders. It is among the biggest non-bank lenders for study abroad, alongside Credila, with a presence in many Indian cities.",
+        "RIVALS": "Credila, Auxilo, InCred and banks such as SBI and Bank of Baroda in education loans. Global lenders such as Prodigy Finance and MPower Financing also lend to Indian students.",
+        "WATCH": "Avanse filed papers for a public listing. Watch how changing visa rules in countries such as the US, Canada and the UK affect student loan demand. Also watch its growth in loans to schools and colleges."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What is Avanse's main business?",
+          "options": [
+            "Gold loans",
+            "Education loans",
+            "Car loans",
+            "Credit cards"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which firm backs Avanse?",
+          "options": [
+            "Warburg Pincus",
+            "SoftBank",
+            "Tiger Global",
+            "Sequoia"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which lender is a rival to Avanse?",
+          "options": [
+            "Muthoot Finance",
+            "Mswipe",
+            "Credila",
+            "MCX"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Avanse, backed by Warburg Pincus, is an education-focused lender funding students abroad and institutions, with study-visa rules a key factor for demand.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "credila",
+      "name": "Credila Financial Services",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Arijit Sanyal",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Credila lends to Indian students for higher education, mostly for study abroad, covering tuition and living costs. Formerly HDFC Credila, it was sold by HDFC to a group led by EQT and ChrysCapital in 2024.",
+        "EARNS": "It earns interest on education loans. Loans for students going to the US, UK, Canada and other countries make up most of its book. Postgraduate students heading to top universities are its core borrowers.",
+        "SIZE": "India's largest education-loan-focused lender by loan book, per industry reports. It was India's first dedicated education loan company, started in 2006.",
+        "RIVALS": "Avanse, Auxilo, InCred, Prodigy Finance and banks such as SBI and Axis Bank. Global lenders such as MPower Financing also compete for Indian students.",
+        "WATCH": "Credila filed papers for a public listing. Watch visa and immigration rules abroad, which directly affect how many students borrow. Also watch competition from banks for top borrowers."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What was Credila's former name?",
+          "options": [
+            "ICICI Credila",
+            "HDFC Credila",
+            "Axis Credila",
+            "Kotak Credila"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What makes up most of Credila's loans?",
+          "options": [
+            "Study-abroad education loans",
+            "Home loans",
+            "Tractor loans",
+            "Gold loans"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which firms led the purchase of Credila?",
+          "options": [
+            "Blackstone and KKR",
+            "Temasek and GIC",
+            "EQT and ChrysCapital",
+            "Bain and TPG"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        }
+      ],
+      "note_30w": "Credila, formerly HDFC Credila and now owned by EQT and ChrysCapital, lends mostly to students studying abroad and depends heavily on foreign visa rules.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "veritas-finance",
+      "name": "Veritas Finance",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Chennai, Tamil Nadu",
+        "leader": "D. Arulmany",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Veritas Finance lends to small and micro businesses such as shops and workshops, mostly secured against property, plus used-vehicle and home loans. Its borrowers are often first-time customers in smaller towns.",
+        "EARNS": "It earns interest on loans. Small-business loans against property are its largest product and carry higher rates than bank loans. It also earns interest on used-vehicle and home loans.",
+        "SIZE": "A mid-sized NBFC focused on small businesses, strongest in south India. Its branches are mostly in Tamil Nadu, Karnataka and other southern states.",
+        "RIVALS": "Five-Star Business Finance, Aye Finance, SK Finance, Ugro Capital and small finance banks. Banks and local moneylenders also compete for small-business borrowers.",
+        "WATCH": "Veritas has been expanding its branches beyond south India. Watch loan quality among small businesses and any listing plans. Also watch funding costs, since it borrows from banks."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who are Veritas Finance's main borrowers?",
+          "options": [
+            "Large corporations",
+            "Small and micro businesses",
+            "Foreign governments",
+            "Airlines"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is Veritas's largest loan product?",
+          "options": [
+            "Credit cards",
+            "Loans against property for small businesses",
+            "Gold loans",
+            "Education loans"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which lender competes with Veritas?",
+          "options": [
+            "MCX",
+            "NSDL",
+            "Croma",
+            "Five-Star Business Finance"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Veritas Finance, a Chennai NBFC, lends to small and micro businesses mostly against property, expanding from south India into new regions.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "sk-finance",
+      "name": "SK Finance",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Jaipur, Rajasthan",
+        "leader": "Rajendra Kumar Setia",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "SK Finance lends for commercial vehicles, tractors, cars and two-wheelers, and gives small-business loans, mostly in Rajasthan and nearby states. It is backed by private equity firms including TPG and Norwest.",
+        "EARNS": "It earns interest on loans. Vehicle loans, especially for used commercial vehicles and tractors, are its largest segment. Small-business loans add a second, smaller stream.",
+        "SIZE": "One of the larger vehicle-finance NBFCs in Rajasthan and north-west India. Most of its branches are in Rajasthan, Madhya Pradesh and Gujarat.",
+        "RIVALS": "Shriram Finance, Mahindra Finance, Cholamandalam, AU Small Finance Bank and Veritas Finance. Banks also compete for vehicle buyers with better credit records.",
+        "WATCH": "SK Finance received approval for a public listing but has not listed. Watch its expansion into new states and loan quality. Also watch rural demand for tractors and commercial vehicles."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which state is SK Finance's home market?",
+          "options": [
+            "Kerala",
+            "Rajasthan",
+            "Bihar",
+            "Odisha"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is SK Finance's largest segment?",
+          "options": [
+            "Vehicle loans",
+            "Credit cards",
+            "Education loans",
+            "Home loans"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which vehicle financier competes with SK Finance?",
+          "options": [
+            "Nykaa",
+            "CDSL",
+            "Lulu",
+            "Shriram Finance"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "SK Finance, a Jaipur NBFC, lends mainly for vehicles and tractors in Rajasthan and nearby states, competing with Shriram and Mahindra Finance.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "satin-creditcare",
+      "name": "Satin Creditcare Network",
+      "type": "listed",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "H.P. Singh",
+        "leader_role": "Chairman & MD",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Satin Creditcare gives small group loans to rural women for income-generating activities, mostly in north and east India. Through subsidiaries it also offers housing loans and small-business loans.",
+        "EARNS": "It earns interest on loans. Microfinance is by far its largest business, while the housing and small-business subsidiaries are smaller. Borrowers usually repay in small, regular instalments collected at group meetings.",
+        "SIZE": "One of India's larger microfinance lenders, strongest in Uttar Pradesh and Bihar. It has branches across many states.",
+        "RIVALS": "CreditAccess Grameen, Spandana Sphoorty, Fusion Finance, Bandhan Bank and small finance banks. Small finance banks such as Ujjivan also lend to the same borrowers.",
+        "WATCH": "Microfinance lenders faced higher defaults and tighter industry rules on borrower debt in 2024 and 2025. Watch Satin's loan quality and growth in non-microfinance loans."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who are Satin's main borrowers?",
+          "options": [
+            "Rural women",
+            "Large companies",
+            "Students abroad",
+            "Car dealers"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which states are Satin's strongest markets?",
+          "options": [
+            "Kerala and Tamil Nadu",
+            "Uttar Pradesh and Bihar",
+            "Goa and Gujarat",
+            "Punjab and Delhi"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "Which microfinance lender competes with Satin?",
+          "options": [
+            "CDSL",
+            "Vijay Sales",
+            "Spandana Sphoorty",
+            "MCX"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Satin Creditcare gives microfinance loans to rural women in north and east India, and is watching loan quality after an industry-wide stress cycle.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "spandana-sphoorty",
+      "name": "Spandana Sphoorty Financial",
+      "type": "listed",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Hyderabad, Telangana",
+        "leader": "Venkatesh Krishnan",
+        "leader_role": "MD & CEO",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Spandana Sphoorty gives small group loans to women in rural areas for livelihood needs such as livestock, small trade and farming. It operates across many states.",
+        "EARNS": "It earns interest on microfinance loans, which make up nearly all of its income. Collections from rural borrowers are central to its results. Loan losses during downturns can wipe out profits quickly.",
+        "SIZE": "One of India's larger microfinance lenders. It started in Andhra Pradesh in 1998 and now has branches across many states.",
+        "RIVALS": "CreditAccess Grameen, Satin Creditcare, Fusion Finance, Bandhan Bank and small finance banks. Small finance banks such as Ujjivan also lend to the same borrowers.",
+        "WATCH": "Spandana suffered heavy loan losses during the microfinance downturn of 2024 and 2025. Venkatesh Krishnan, formerly of HDFC Bank, became MD & CEO in November 2025. Watch the recovery."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who became Spandana's MD & CEO in November 2025?",
+          "options": [
+            "Shalabh Saxena",
+            "Venkatesh Krishnan",
+            "H.P. Singh",
+            "Ajay Kanwal"
+          ],
+          "correct_idx": 1,
+          "part_kind": "WATCH"
+        },
+        {
+          "prompt": "What makes up nearly all of Spandana's income?",
+          "options": [
+            "Microfinance loans",
+            "Insurance premiums",
+            "Mall rents",
+            "Card fees"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which lender competes with Spandana?",
+          "options": [
+            "Credila",
+            "Mswipe",
+            "CreditAccess Grameen",
+            "NSDL"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Spandana Sphoorty is a Hyderabad microfinance lender recovering from heavy loan losses under new MD & CEO Venkatesh Krishnan, appointed in November 2025.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "arohan-financial",
+      "name": "Arohan Financial Services",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Kolkata, West Bengal",
+        "leader": "Manoj Kumar Nambiar",
+        "leader_role": "Managing Director",
+        "as_of": "Oct 2026"
+      },
+      "parts": {
+        "SELLS": "Arohan gives small group loans to women in rural and semi-urban areas, mainly in eastern and north-eastern India, plus some small-business and individual loans.",
+        "EARNS": "It earns interest on loans, almost all from microfinance. Eastern states such as West Bengal, Bihar and Assam make up much of its book. Repayments are collected in small instalments.",
+        "SIZE": "One of the largest microfinance lenders in eastern India. It has branches across many states, including much of the north-east.",
+        "RIVALS": "Bandhan Bank, Satin Creditcare, Spandana Sphoorty, CreditAccess Grameen and small finance banks. Small finance banks such as Ujjivan also lend to the same borrowers.",
+        "WATCH": "Arohan has filed papers for a public listing. Watch loan quality in eastern states and its spread to new regions. Also watch industry rules that cap how much a borrower can owe across lenders."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which region is Arohan's main market?",
+          "options": [
+            "Western India",
+            "Eastern and north-eastern India",
+            "South India",
+            "The Gulf"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "Which bank is a major rival to Arohan in the east?",
+          "options": [
+            "Bandhan Bank",
+            "HDFC Bank",
+            "Kotak Bank",
+            "Yes Bank"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        },
+        {
+          "prompt": "What has Arohan filed papers for?",
+          "options": [
+            "A merger with Satin",
+            "A bank licence",
+            "A public listing",
+            "A demerger"
+          ],
+          "correct_idx": 2,
+          "part_kind": "WATCH"
+        }
+      ],
+      "note_30w": "Arohan, a Kolkata microfinance lender, serves women borrowers in eastern and north-eastern India and has filed papers for a public listing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "kinara-capital",
+      "name": "Kinara Capital",
+      "type": "startup",
+      "industry": "lending-fintech",
+      "profile": {
+        "hq": "Bengaluru, Karnataka",
+        "leader": "Hardika Shah",
+        "leader_role": "Founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Kinara Capital gives collateral-free loans to small manufacturers, traders and service businesses to buy machines, equipment or working capital. It runs a women-entrepreneur programme with discounted rates and uses an app called myKinara.",
+        "EARNS": "It earns interest on business loans. Its own data-driven credit model is meant to approve borrowers that banks often turn away. Loans are usually repaid in monthly instalments over a few years.",
+        "SIZE": "A mid-sized fintech NBFC focused on small businesses in south and west India. It lends through branches in states such as Karnataka, Tamil Nadu and Maharashtra.",
+        "RIVALS": "Lendingkart, Indifi, FlexiLoans, NeoGrowth, Aye Finance and small finance banks. Banks also compete for small-business borrowers.",
+        "WATCH": "Kinara keeps adding branches in new states. Watch credit quality on unsecured small-business loans and its funding from lenders. Also watch any listing plans."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What type of loans does Kinara give?",
+          "options": [
+            "Home loans",
+            "Collateral-free small-business loans",
+            "Gold loans",
+            "Credit cards"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is Kinara's app called?",
+          "options": [
+            "myKinara",
+            "KinaraPay",
+            "Kinara One",
+            "BizPlus"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Which lender competes with Kinara?",
+          "options": [
+            "NSDL",
+            "Senco",
+            "Lendingkart",
+            "CAMS"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Kinara Capital, a Bengaluru fintech NBFC, gives collateral-free loans to small businesses using its own credit model, with a special programme for women entrepreneurs.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "neogrowth",
+      "name": "NeoGrowth Credit",
+      "type": "startup",
+      "industry": "lending-fintech",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Arun Nayyar",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "NeoGrowth lends to small retailers, restaurants and shops, using their card and digital payment data to judge creditworthiness. Loans are often repaid daily from the merchant's digital sales.",
+        "EARNS": "It earns interest on short-term business loans. Its edge is linking repayment to merchants' digital sales collections. It borrows from banks and other lenders to fund its loans.",
+        "SIZE": "A mid-sized digital lender to small merchants. It lends to merchants in many large Indian cities and is backed by private equity and development finance firms.",
+        "RIVALS": "Lendingkart, Indifi, FlexiLoans, Kinara Capital and payment firms such as Paytm and BharatPe that also lend to merchants.",
+        "WATCH": "NeoGrowth has been rebuilding after loan losses in the Covid period. Watch its loan growth and competition from payment apps offering merchant loans. Also watch funding availability."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What data does NeoGrowth use to judge borrowers?",
+          "options": [
+            "Social media likes",
+            "Card and digital payment data",
+            "Property records only",
+            "Exam scores"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How are many NeoGrowth loans repaid?",
+          "options": [
+            "Once at the end",
+            "Daily from digital sales",
+            "In gold",
+            "Through salary deductions"
+          ],
+          "correct_idx": 1,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which fintech also lends to merchants, competing with NeoGrowth?",
+          "options": [
+            "BharatPe",
+            "Credila",
+            "NSDL",
+            "Vijay Sales"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "NeoGrowth lends to small merchants using their digital payment data, often collecting repayments daily, and competes with payment apps that also lend.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "indifi",
+      "name": "Indifi Technologies",
+      "type": "startup",
+      "industry": "lending-fintech",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Alok Mittal",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Indifi offers working-capital and business loans to small businesses such as online sellers, restaurants, travel agents and retailers. It lends through its own NBFC and through partner banks.",
+        "EARNS": "It earns interest on loans from its own NBFC and fees for sourcing loans for partner lenders. Data from platforms its borrowers sell on helps it assess credit.",
+        "SIZE": "A leading digital lender to small businesses in India. It lends to businesses across hundreds of cities and towns and is backed by venture capital firms.",
+        "RIVALS": "Lendingkart, FlexiLoans, NeoGrowth, Kinara Capital and bank digital-lending products. Payment apps such as Paytm and BharatPe also lend to merchants.",
+        "WATCH": "Indifi is expanding co-lending with banks under RBI digital-lending rules. Watch how it grows while keeping defaults in check. Also watch its funding from lenders."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who does Indifi lend to?",
+          "options": [
+            "Large corporates",
+            "Small businesses",
+            "Students abroad",
+            "Home buyers only"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Indifi earn besides interest?",
+          "options": [
+            "Fees for sourcing loans for partners",
+            "Selling phones",
+            "Mall rents",
+            "Stock broking"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which digital lender competes with Indifi?",
+          "options": [
+            "Zomato",
+            "FlexiLoans",
+            "Croma",
+            "NSDL"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Indifi is a Gurugram digital lender giving working-capital loans to small businesses, earning interest and fees from co-lending with partner banks.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "flexiloans",
+      "name": "FlexiLoans",
+      "type": "startup",
+      "industry": "lending-fintech",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Deepak Jain",
+        "leader_role": "Co-founder & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "FlexiLoans offers unsecured business loans and credit lines to small businesses, applied for online. It also lends through partnerships with marketplaces and payment platforms such as Amazon and Flipkart.",
+        "EARNS": "It earns interest on loans from its own NBFC and from co-lending with banks. Platform partnerships bring in a large share of new borrowers. It uses digital data such as bank statements and GST records to judge borrowers.",
+        "SIZE": "A mid-sized digital lender to small businesses. It lends to businesses across many cities and is backed by venture capital firms.",
+        "RIVALS": "Lendingkart, Indifi, NeoGrowth, Kinara Capital and bank digital-lending products. Payment apps such as Paytm and BharatPe also lend to merchants.",
+        "WATCH": "FlexiLoans is growing its platform partnerships and co-lending. Watch credit quality on unsecured loans. Also watch RBI digital-lending rules and the cost of its funding from banks."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What does FlexiLoans offer?",
+          "options": [
+            "Gold loans",
+            "Online business loans",
+            "Home insurance",
+            "Mutual funds"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where do many FlexiLoans borrowers come from?",
+          "options": [
+            "Platform partnerships",
+            "TV ads only",
+            "Bank branches abroad",
+            "Schools"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which lender competes with FlexiLoans?",
+          "options": [
+            "Lulu",
+            "MCX",
+            "Joyalukkas",
+            "Indifi"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "FlexiLoans gives online unsecured loans to small businesses, finding many borrowers through marketplace and payment partners, and co-lends with banks.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "aye-finance",
+      "name": "Aye Finance",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Sanjay Sharma",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Aye Finance lends to micro businesses such as small manufacturers, traders and service providers that banks often skip. Loans are small and partly secured against property or assets.",
+        "EARNS": "It earns interest on business loans. It uses cluster-based assessment of local industries to judge borrowers who lack formal records. It borrows from banks and other lenders to fund its loans.",
+        "SIZE": "One of the larger lenders to micro enterprises in India. It has branches across many states, mostly in north and central India.",
+        "RIVALS": "Veritas Finance, Kinara Capital, Five-Star Business Finance, Ugro Capital and small finance banks. Banks and local moneylenders also compete for micro-business borrowers.",
+        "WATCH": "Aye Finance has been preparing for a public listing. Watch loan quality in its micro-business book. Also watch funding costs and its expansion into new states."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who does Aye Finance lend to?",
+          "options": [
+            "Micro businesses",
+            "Large corporates",
+            "Airlines",
+            "Foreign banks"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "How does Aye judge borrowers without formal records?",
+          "options": [
+            "Lottery",
+            "Only salary slips",
+            "Credit card bills",
+            "Cluster-based assessment"
+          ],
+          "correct_idx": 3,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which lender competes with Aye Finance?",
+          "options": [
+            "MCX",
+            "Five-Star Business Finance",
+            "Croma",
+            "Lulu"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Aye Finance lends to micro businesses banks often skip, judging them through cluster-based assessment, and has been preparing for a public listing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "vastu-housing-finance",
+      "name": "Vastu Housing Finance",
+      "type": "startup",
+      "industry": "nbfc-lending",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Sandeep Menon",
+        "leader_role": "Managing Director",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Vastu Housing Finance gives home loans and loans against property to self-employed and lower-income families in smaller towns, often borrowers without formal income papers. It is backed by Multiples and other private equity firms.",
+        "EARNS": "It earns interest on home loans and property-backed loans. Home loans are its largest product. Loans against property add a higher-yielding second stream.",
+        "SIZE": "One of the faster-growing affordable housing finance companies in India. Its branches are spread across states such as Maharashtra, Gujarat, Rajasthan and Madhya Pradesh.",
+        "RIVALS": "Aavas Financiers, Aptus Value Housing, Home First Finance, India Shelter and Aadhar Housing Finance. Large housing lenders and banks also compete for better-documented borrowers.",
+        "WATCH": "Vastu has been expanding branches across states. Watch loan quality and any public listing plans. Also watch government housing schemes that support demand."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Who are Vastu's main borrowers?",
+          "options": [
+            "Large builders",
+            "Self-employed and lower-income families",
+            "Foreign buyers",
+            "Government"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is Vastu's largest product?",
+          "options": [
+            "Home loans",
+            "Car loans",
+            "Credit cards",
+            "Gold loans"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which affordable housing lender competes with Vastu?",
+          "options": [
+            "Mswipe",
+            "NSDL",
+            "Aavas Financiers",
+            "Shoppers Stop"
+          ],
+          "correct_idx": 2,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Vastu Housing Finance lends to self-employed and lower-income families in smaller towns for homes, competing with Aavas, Aptus and Home First.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bharti-axa-life",
+      "name": "Bharti AXA Life Insurance",
+      "type": "startup",
+      "industry": "insurtech",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Parag Raja",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Bharti AXA Life sells term life, savings, child and retirement plans through bank partners, agents and online. It is a joint venture between Bharti Enterprises and France's AXA.",
+        "EARNS": "It earns premiums from policyholders and income on the funds it manages. Savings plans sold through bank partners bring a large share of its new business.",
+        "SIZE": "A smaller private life insurer compared with leaders such as LIC, SBI Life and HDFC Life. It operates across India through bank, agent and online channels.",
+        "RIVALS": "LIC, SBI Life, HDFC Life, ICICI Prudential Life, Axis Max Life and Tata AIA. Online insurance marketplaces such as Policybazaar also shape how its term plans are sold.",
+        "WATCH": "Bharti AXA Life has been adding bank partners and agents. Watch changes in its ownership and new insurance rules on commissions and surrender values."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "Which groups own Bharti AXA Life?",
+          "options": [
+            "Bharti Enterprises and AXA",
+            "Tata and AIG",
+            "HDFC and Ergo",
+            "Max and Axis"
+          ],
+          "correct_idx": 0,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "Where does much of its new business come from?",
+          "options": [
+            "Supermarkets",
+            "Airlines",
+            "Bank partners",
+            "Petrol pumps"
+          ],
+          "correct_idx": 2,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which insurer competes with Bharti AXA Life?",
+          "options": [
+            "MCX",
+            "Credila",
+            "Lulu",
+            "SBI Life"
+          ],
+          "correct_idx": 3,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Bharti AXA Life, a Bharti Enterprises and AXA venture, sells life, savings and retirement plans via banks and agents, competing with SBI Life and HDFC Life.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "axis-max-life-insurance",
+      "name": "Axis Max Life Insurance",
+      "type": "startup",
+      "industry": "insurtech",
+      "profile": {
+        "hq": "Gurugram, Haryana",
+        "leader": "Prashant Tripathy",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "Axis Max Life sells term life, savings, retirement and health-linked plans. Formerly Max Life Insurance, it was renamed in 2024 to reflect Axis Bank's stake; Max Financial Services is the parent.",
+        "EARNS": "It earns premiums and income on funds it manages. Axis Bank's branches are its largest sales channel, alongside agents and online sales, and protection plans earn the best margins.",
+        "SIZE": "One of India's largest private life insurers. It sits behind SBI Life, HDFC Life and ICICI Prudential Life among private players, and it is a major seller of term plans.",
+        "RIVALS": "SBI Life, HDFC Life, ICICI Prudential Life, LIC, Bajaj Allianz Life and Tata AIA. LIC remains the overall market leader.",
+        "WATCH": "Watch growth in term protection plans, new rules on commissions and surrender values, and how Max Financial and Axis Bank shape its strategy."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "What was Axis Max Life called before 2024?",
+          "options": [
+            "Max Bupa",
+            "Max Life Insurance",
+            "Axis Life",
+            "Max New York Health"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is Axis Max Life's largest sales channel?",
+          "options": [
+            "Axis Bank branches",
+            "Supermarkets",
+            "Car dealers",
+            "Post offices"
+          ],
+          "correct_idx": 0,
+          "part_kind": "EARNS"
+        },
+        {
+          "prompt": "Which insurer competes with Axis Max Life?",
+          "options": [
+            "Star Health",
+            "HDFC Life",
+            "Acko",
+            "Go Digit"
+          ],
+          "correct_idx": 1,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "Axis Max Life, formerly Max Life and owned by Max Financial with Axis Bank, sells life and savings plans mostly through Axis Bank branches.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "nsdl",
+      "name": "National Securities Depository (NSDL)",
+      "type": "listed",
+      "industry": "capital-markets",
+      "profile": {
+        "hq": "Mumbai, Maharashtra",
+        "leader": "Vijay Chandok",
+        "leader_role": "MD & CEO",
+        "as_of": "mid-2026, not re-checked"
+      },
+      "parts": {
+        "SELLS": "NSDL is India's first depository, holding shares, bonds and other securities in electronic form. Its subsidiaries include NSDL Payments Bank and a database management arm. It listed on the stock exchanges in 2025.",
+        "EARNS": "It earns fees from companies and depository participants for holding and moving securities. It holds the largest value of assets, especially from institutions and large account holders.",
+        "SIZE": "India's largest depository by value of securities held. Large institutions such as fund houses and foreign funds mostly hold their securities with NSDL.",
+        "RIVALS": "CDSL is its only direct rival. CDSL is its only direct rival. Together the two hold all of India's demat accounts, and brokers choose which depository to work with.",
+        "WATCH": "NSDL is growing its payments bank and services for new demat accounts. Watch market activity and SEBI rules on fees. Also watch growth in new demat accounts."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        {
+          "prompt": "When did NSDL list on the stock exchanges?",
+          "options": [
+            "2017",
+            "2020",
+            "2025",
+            "2023"
+          ],
+          "correct_idx": 2,
+          "part_kind": "SELLS"
+        },
+        {
+          "prompt": "What is NSDL largest by?",
+          "options": [
+            "Number of branches",
+            "Value of securities held",
+            "Insurance premiums",
+            "Store count"
+          ],
+          "correct_idx": 1,
+          "part_kind": "SIZE"
+        },
+        {
+          "prompt": "Who is NSDL's only direct rival?",
+          "options": [
+            "CDSL",
+            "MCX",
+            "CAMS",
+            "Zerodha"
+          ],
+          "correct_idx": 0,
+          "part_kind": "RIVALS"
+        }
+      ],
+      "note_30w": "NSDL, India's first depository and largest by value held, listed in 2025, earns fees for holding securities and runs a payments bank; CDSL is its rival.",
+      "review": "unreviewed"
+    }
+  ]
+}

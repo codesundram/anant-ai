@@ -1,0 +1,2960 @@
+{
+ "_meta": {
+  "batch": "002",
+  "about": "Nifty 500 large caps: explainers in v2 format without figures. Leaders and HQs checked against web reports in Oct 2026 where search allowed; entries marked 'not re-checked' could not be verified.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "tata-motors-passenger-vehicles",
+   "name": "Tata Motors Passenger Vehicles",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Shailesh Chandra",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Tata's car business: the Nexon, Punch, Tiago, Harrier, Safari, Curvv and the revived Sierra, plus electric versions sold through Tata Passenger Electric Mobility. It also owns Jaguar Land Rover, maker of Range Rover and Defender. It became a separate listed company after the Tata Motors demerger in October 2025.",
+    "EARNS": "Jaguar Land Rover brings in most of the revenue and profit, selling luxury SUVs in the UK, the US, China and Europe. The Indian car business earns margins on cars sold through dealers, and Tata is the leader in Indian electric cars.",
+    "SIZE": "One of India's top three passenger-car makers and the country's largest seller of electric cars. Through JLR it is one of the few Indian companies with a global luxury car brand.",
+    "RIVALS": "In India: Maruti Suzuki, Mahindra, Hyundai, Kia and Toyota. JLR competes with BMW, Mercedes-Benz, Porsche and Audi in luxury SUVs. Chinese-backed JSW MG Motor and BYD are its closest rivals in electric cars.",
+    "WATCH": "JLR's recovery after the 2025 cyberattack that halted its factories, US import tariffs on cars, Jaguar's relaunch as an all-electric brand, and how Tata defends its Indian EV lead as rivals launch more electric cars."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which luxury car maker does Tata Motors Passenger Vehicles own?",
+     "options": [
+      "Jaguar Land Rover",
+      "Volvo Cars",
+      "Aston Martin",
+      "Bentley"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which part of the company brings in most of its revenue and profit?",
+     "options": [
+      "Indian electric cars",
+      "Jaguar Land Rover",
+      "Truck sales",
+      "Spare parts in India"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which event halted JLR's factories in 2025?",
+     "options": [
+      "A flood",
+      "A strike at Tata Steel",
+      "A cyberattack",
+      "A chip ban"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Tata's car company, split out in 2025, sells Nexon, Punch and Harrier in India and owns Jaguar Land Rover, which earns most profit. Watch JLR's recovery and EVs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bajaj-holdings-and-investment",
+   "name": "Bajaj Holdings & Investment",
+   "type": "listed",
+   "industry": "conglomerate",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Sanjiv Bajaj",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Bajaj Holdings is the Bajaj group's main holding company. It does not make products itself; it owns large stakes in Bajaj Auto and Bajaj Finserv, the parent of Bajaj Finance and the group's insurers, plus Maharashtra Scooters and a portfolio of other shares and bonds.",
+    "EARNS": "It earns dividends from the group companies it part-owns and income from its portfolio of listed shares and bonds. Its reported profit is driven mostly by its share of the profits of Bajaj Auto and Bajaj Finserv.",
+    "SIZE": "One of India's largest holding companies and the core promoter vehicle that ties together the Bajaj family's stakes in two-wheelers, lending and insurance.",
+    "RIVALS": "It does not compete for customers directly. Its value depends on Bajaj Auto, which fights Hero MotoCorp and TVS, and Bajaj Finserv, which fights lenders such as Shriram Finance and insurers such as HDFC Life.",
+    "WATCH": "The Bajaj group's buyout of Allianz's stake in its insurance joint ventures, announced in 2025, how the group companies perform, and the renewal of Sanjiv Bajaj's term as MD, which runs to March 2027."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Bajaj Holdings mainly own?",
+     "options": [
+      "Cement plants",
+      "A chain of hospitals",
+      "Power stations",
+      "Stakes in Bajaj Auto and Bajaj Finserv"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Bajaj Holdings' income come from?",
+     "options": [
+      "Dividends and profits from group companies",
+      "Selling motorcycles directly",
+      "Toll roads",
+      "Software exports"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which foreign partner's insurance stake did the Bajaj group agree to buy in 2025?",
+     "options": [
+      "Prudential",
+      "Allianz",
+      "AXA",
+      "Generali"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Bajaj Holdings is the Bajaj group's holding company, owning big stakes in Bajaj Auto and Bajaj Finserv. Its income comes from their dividends and profits, not its own products.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "adani-energy-solutions",
+   "name": "Adani Energy Solutions",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Kandarp Patel",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Adani Energy Solutions, renamed from Adani Transmission in 2023, builds and runs high-voltage power transmission lines, supplies electricity to homes and businesses in Mumbai through Adani Electricity, installs smart electricity meters for state utilities and offers district cooling.",
+    "EARNS": "Transmission lines earn regulated tariffs under long-term contracts, which makes income steady. Mumbai distribution earns a regulated margin on power supplied. Transmission is its biggest and most stable earner, while smart meters are the fast-growing new business.",
+    "SIZE": "India's largest private-sector power transmission company and one of the biggest installers of smart meters for state electricity boards. Its Mumbai distribution business serves millions of homes and offices in the city's suburbs.",
+    "RIVALS": "Power Grid Corporation in transmission, Tata Power in Mumbai distribution and transmission, Resonia (formerly Sterlite Power) and Torrent Power. Genus Power competes in smart meters.",
+    "WATCH": "Delivery of its large order book of transmission and HVDC projects, the national smart-meter rollout under the government's RDSS scheme, renewable power for Mumbai, and how the Adani group's US legal issues affect its funding."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Adani Energy Solutions called before 2023?",
+     "options": [
+      "Adani Power",
+      "Adani Green",
+      "Adani Transmission",
+      "Adani Total Gas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why is transmission income considered steady?",
+     "options": [
+      "It depends on daily power prices",
+      "It comes from selling coal",
+      "It relies on export subsidies",
+      "It earns regulated tariffs on long-term contracts"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which state-run company is its biggest transmission rival?",
+     "options": [
+      "Power Grid Corporation",
+      "NTPC",
+      "Coal India",
+      "GAIL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Adani Energy Solutions runs power lines, Mumbai electricity supply and smart meters. Regulated transmission tariffs give steady income. Watch project delivery and the smart-meter rollout.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hindustan-aeronautics",
+   "name": "Hindustan Aeronautics (HAL)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Kota Ravi",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HAL designs, builds and maintains military aircraft and helicopters for India's armed forces: the Tejas fighter, the Dhruv and Prachand helicopters, licence-built Su-30MKI jets, plus aero engines and avionics. It is a government-owned defence company.",
+    "EARNS": "It earns from manufacturing contracts for new aircraft and from repair and overhaul of the large fleet already flying. The Indian Air Force, Army and Navy bring in nearly all its revenue; overhaul work is steady and profitable.",
+    "SIZE": "India's largest aerospace and defence company and the only Indian maker of fighter jets and military helicopters at scale. It has a long order book from the armed forces that keeps its factories busy for years ahead.",
+    "RIVALS": "Few domestic rivals at its scale; Tata Advanced Systems and L&T are building aerospace capability. Globally it competes with or partners Boeing, Airbus, Lockheed Martin, Dassault and Russia's aircraft makers.",
+    "WATCH": "Deliveries of the Tejas Mk1A, which were held up by GE engine supplies, the deal to make GE F414 engines in India, the Tejas Mk2 and helicopter exports. Kota Ravi took over as chairman and MD in May 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which fighter jet does HAL build for the Indian Air Force?",
+     "options": [
+      "Rafale",
+      "Tejas",
+      "Gripen",
+      "F-16"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who is HAL's main customer?",
+     "options": [
+      "Private airlines",
+      "Foreign tourists",
+      "India's armed forces",
+      "State transport bodies"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company's engine supplies delayed Tejas Mk1A deliveries?",
+     "options": [
+      "Rolls-Royce",
+      "Safran",
+      "Pratt & Whitney",
+      "General Electric"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Government-owned HAL builds and services Tejas jets, helicopters and engines for India's forces. Watch Tejas Mk1A deliveries, the GE engine deal and new chairman Kota Ravi.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bharat-electronics",
+   "name": "Bharat Electronics (BEL)",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Manoj Jain",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "BEL is a government-owned defence electronics company. It makes radars, electronic warfare systems, military communication gear, naval sonars and fire-control systems, and the electronics for missile systems such as Akash. It also makes electronic voting machines and civilian electronics.",
+    "EARNS": "It earns mostly from long defence contracts with the Indian Army, Navy and Air Force, paid in stages as systems are delivered. Defence brings in most of its revenue; civilian work such as EVMs, homeland security and exports adds the rest.",
+    "SIZE": "India's largest defence electronics company and one of the most valuable defence firms in the country, with a large order book stretching several years ahead.",
+    "RIVALS": "Tata Advanced Systems, L&T, Bharat Dynamics, Data Patterns and Astra Microwave at home. Globally, Thales, Israel Aerospace Industries, Elbit and Raytheon.",
+    "WATCH": "Large air-defence programmes such as the QRSAM missile system, orders that follow the government's push for locally made defence equipment, export wins, and growth in civilian markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these is a BEL product?",
+     "options": [
+      "Military radars",
+      "Fighter jets",
+      "Tanks",
+      "Submarines"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who brings in most of BEL's revenue?",
+     "options": [
+      "Mobile phone buyers",
+      "India's armed forces",
+      "Private hospitals",
+      "Railways"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which listed Indian company is a defence electronics rival of BEL?",
+     "options": [
+      "Dixon Technologies",
+      "Polycab",
+      "Data Patterns",
+      "Havells"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "BEL makes radars, communication and missile electronics for India's forces, plus voting machines. Defence contracts dominate. Watch air-defence orders like QRSAM and export wins.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "life-insurance-of",
+   "name": "Life Insurance Corporation of India (LIC)",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "R. Doraiswamy",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "LIC sells life insurance to Indian families: savings and endowment plans such as Jeevan Anand and Jeevan Umang, term cover, pensions and annuities, and group schemes for employers. It sells mainly through a huge network of agents. It is government-controlled and listed in 2022.",
+    "EARNS": "It collects premiums and earns income on one of India's largest pools of bonds and shares. Traditional participating savings plans still bring most of its premiums, though it is pushing higher-margin non-participating products.",
+    "SIZE": "India's largest life insurer by far and one of the largest institutional holders of Indian shares and government bonds. It still holds the majority of India's life insurance premiums, although private insurers keep gaining ground.",
+    "RIVALS": "SBI Life, HDFC Life, ICICI Prudential Life, Axis Max Life and Bajaj Life, which are growing faster through bank partnerships. Private insurers also lean on online sales and on aggregators such as Policybazaar.",
+    "WATCH": "The government's plan to sell more of its stake to meet public shareholding rules, LIC's shift towards higher-margin products, the 2025 law that eases insurer rules and raises foreign ownership limits, and its interest in health insurance."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does LIC mainly sell its policies?",
+     "options": [
+      "Only through mobile apps",
+      "Through petrol pumps",
+      "Through post offices only",
+      "Through a large agent network"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which products still bring most of LIC's premiums?",
+     "options": [
+      "Traditional participating savings plans",
+      "Motor insurance",
+      "Crop insurance",
+      "Travel insurance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a private rival of LIC?",
+     "options": [
+      "New India Assurance",
+      "SBI Life",
+      "Star Health",
+      "ICICI Lombard"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-controlled LIC is India's largest life insurer, selling savings, term and pension plans through agents. Watch further government stake sales and its shift to higher-margin products.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hindustan-zinc",
+   "name": "Hindustan Zinc",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Udaipur, Rajasthan",
+    "leader": "Amarendu Prakash",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Hindustan Zinc mines and smelts zinc, lead and silver in Rajasthan, from mines such as Rampura Agucha. It sells zinc to steel makers for galvanising, and silver to jewellers and industry. It is a listed subsidiary of Vedanta, and the government holds a minority stake.",
+    "EARNS": "Zinc brings in most of its revenue; silver, a by-product of its lead mining, is very profitable. Its earnings swing with global zinc and silver prices, but owning its own mines keeps its costs among the lowest in the world.",
+    "SIZE": "India's only large integrated zinc producer, one of the world's biggest zinc miners and one of the largest silver producers globally. Its Rampura Agucha mine is among the world's largest zinc mines.",
+    "RIVALS": "In India it faces imports rather than local producers. Globally: Glencore, Teck Resources, Korea Zinc, Nyrstar and Boliden. Zinc prices are set globally, so its real competition is the world's other low-cost miners.",
+    "WATCH": "Its announced plan to greatly expand metal capacity, further government stake sales, Vedanta's group restructuring, and moves into critical minerals and fertilisers. Former SAIL chief Amarendu Prakash took over as CEO in August 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group is the parent of Hindustan Zinc?",
+     "options": [
+      "Tata",
+      "Adani",
+      "Vedanta",
+      "Aditya Birla"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which by-product of Hindustan Zinc's mining is very profitable?",
+     "options": [
+      "Coal",
+      "Copper",
+      "Iron ore",
+      "Silver"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became Hindustan Zinc's CEO in August 2026?",
+     "options": [
+      "Amarendu Prakash",
+      "Arun Misra",
+      "Anil Agarwal",
+      "Sajjan Jindal"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Vedanta-owned Hindustan Zinc mines zinc, lead and silver in Rajasthan at low cost. Earnings follow metal prices. Watch its expansion plan and new CEO Amarendu Prakash.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indian-oil",
+   "name": "Indian Oil Corporation (IOC)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Arvinder Singh Sahney",
+    "leader_role": "Chairman",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Indian Oil refines crude oil and sells petrol, diesel, jet fuel and cooking gas across India through the largest network of fuel stations. Its brands include Indane LPG, Servo lubricants and XtraPremium petrol. It also runs pipelines and makes petrochemicals. It is government-owned.",
+    "EARNS": "It earns from refining margins, the gap between crude cost and fuel prices, and from marketing fuel. Earnings swing with oil prices because retail fuel and cooking gas prices are often held steady, and LPG can be sold below cost.",
+    "SIZE": "India's largest oil company by revenue, its biggest refiner and its largest fuel retailer. It runs the largest share of India's refining capacity and a pipeline network that crosses much of the country.",
+    "RIVALS": "Bharat Petroleum and Hindustan Petroleum, plus Reliance with its Jio-bp fuel stations, Nayara Energy and Shell. In petrochemicals it competes with Reliance, and in city gas with Adani Total Gas and other operators.",
+    "WATCH": "Refinery expansions at Panipat, Gujarat and Barauni, government compensation for LPG losses, crude sourcing as sanctions on Russian oil shift, and its push into green hydrogen, EV charging and city gas."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which cooking gas brand belongs to Indian Oil?",
+     "options": [
+      "Bharat Gas",
+      "Indane",
+      "HP Gas",
+      "Go Gas"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why do Indian Oil's earnings swing so much?",
+     "options": [
+      "Its share of the market changes daily",
+      "It only sells abroad",
+      "Crude costs move while fuel and LPG prices are often held steady",
+      "It depends on mobile data prices"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which private company competes with Indian Oil through Jio-bp stations?",
+     "options": [
+      "Adani Group",
+      "Tata Group",
+      "Vedanta",
+      "Reliance"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-owned Indian Oil is India's largest refiner and fuel retailer, with Indane and Servo. Earnings swing with crude prices. Watch refinery expansions and LPG compensation.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bharat-petroleum",
+   "name": "Bharat Petroleum (BPCL)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sanjay Khanna",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "BPCL refines crude at Mumbai, Kochi and Bina and sells petrol, diesel, jet fuel and Bharat Gas cooking gas through a large network of fuel stations. Its brands include Speed petrol and MAK lubricants. It is government-owned; a plan to privatise it was dropped in 2022.",
+    "EARNS": "It earns refining margins plus marketing margins on fuel. Fuel retail is its largest business. Earnings swing with crude prices because petrol, diesel and LPG prices are often held steady, and cooking gas can be sold below cost.",
+    "SIZE": "India's third-largest oil refiner and fuel retailer and one of the country's largest companies by revenue. Its Bharat Gas brand supplies cooking gas to a very large number of Indian households.",
+    "RIVALS": "Indian Oil and Hindustan Petroleum, plus Reliance's Jio-bp stations, Nayara Energy and Shell. In LPG, the three state firms dominate, while private players mainly compete in fuel retail.",
+    "WATCH": "The petrochemical project at its Bina refinery, its announced new refinery in Andhra Pradesh, LPG loss compensation, and its renewables, city gas and EV charging plans. Sanjay Khanna became chairman and MD in April 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which cooking gas brand belongs to BPCL?",
+     "options": [
+      "Bharat Gas",
+      "Indane",
+      "HP Gas",
+      "Super Gas"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which state is BPCL's announced new refinery in?",
+     "options": [
+      "Punjab",
+      "Andhra Pradesh",
+      "Assam",
+      "Bihar"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which of these is a state-owned rival of BPCL?",
+     "options": [
+      "Nayara Energy",
+      "Shell",
+      "Hindustan Petroleum",
+      "Jio-bp"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-owned BPCL refines oil and sells fuel and Bharat Gas across India. Earnings follow crude prices. Watch the Bina petrochemical project and its new Andhra Pradesh refinery.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hindustan-petroleum",
+   "name": "Hindustan Petroleum (HPCL)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vikas Kaushal",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "HPCL refines crude at Mumbai and Visakhapatnam and sells petrol, diesel, lubricants and HP Gas cooking gas through fuel stations across India. ONGC is its majority owner, which makes it a government company.",
+    "EARNS": "It earns mostly from marketing fuel, since it sells far more fuel than it refines and buys the rest. That makes its earnings especially sensitive to crude prices when retail fuel and LPG prices are held steady.",
+    "SIZE": "One of India's three big state-owned fuel retailers, with a marketing reach much larger than its own refining capacity. Its HP Gas brand supplies cooking gas to a very large number of Indian households.",
+    "RIVALS": "Indian Oil and Bharat Petroleum, plus Reliance's Jio-bp stations, Nayara Energy and Shell. In LPG the three state firms dominate, while private players mainly compete in fuel retail.",
+    "WATCH": "Start-up of the Rajasthan refinery at Barmer, built with the state government, the residue upgrade at Visakhapatnam, LPG loss compensation and its green energy plans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is HPCL's majority owner?",
+     "options": [
+      "Indian Oil",
+      "GAIL",
+      "Reliance",
+      "ONGC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Why are HPCL's earnings especially sensitive to crude prices?",
+     "options": [
+      "It sells far more fuel than it refines",
+      "It only makes jet fuel",
+      "It exports all its output",
+      "It owns no fuel stations"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where is HPCL's new refinery being built with the state government?",
+     "options": [
+      "Jamnagar, Gujarat",
+      "Barmer, Rajasthan",
+      "Paradip, Odisha",
+      "Kochi, Kerala"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "ONGC-owned HPCL refines oil and sells fuel and HP Gas across India, selling more than it refines. Watch the Barmer refinery start-up and LPG compensation.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "gail",
+   "name": "GAIL (India)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Deepak Gupta",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "GAIL transports and sells natural gas through India's largest gas pipeline network, supplying fertiliser plants, power stations, city gas companies and factories. It also makes petrochemicals and LPG, and holds stakes in city gas firms such as Indraprastha Gas and Mahanagar Gas. It is government-owned.",
+    "EARNS": "Gas marketing, buying LNG and domestic gas and reselling it, is its largest business, while pipeline transmission earns steady regulated tariffs. Petrochemicals swing with global prices.",
+    "SIZE": "India's largest natural gas transmission and marketing company, with most of the country's gas pipelines. It is also one of India's largest buyers of imported LNG under long-term contracts.",
+    "RIVALS": "Indian Oil, Reliance, Adani Total Gas, Gujarat State Petronet and Petronet LNG in parts of the gas chain. In petrochemicals it competes with Reliance and Haldia Petrochemicals.",
+    "WATCH": "Completion of new trunk pipelines, regulated tariff decisions, long-term LNG deals including US supply, and its petrochemical expansion. Deepak Gupta became chairman and MD in March 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does GAIL mainly transport?",
+     "options": [
+      "Crude oil",
+      "Coal",
+      "Natural gas",
+      "Electricity"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which GAIL business earns steady regulated tariffs?",
+     "options": [
+      "Petrochemicals",
+      "Fuel stations",
+      "Fertiliser sales",
+      "Pipeline transmission"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became GAIL's chairman and MD in March 2026?",
+     "options": [
+      "Deepak Gupta",
+      "Arvinder Singh Sahney",
+      "Vikas Kaushal",
+      "Sanjay Khanna"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Government-owned GAIL runs India's largest gas pipeline network and sells natural gas, plus petrochemicals. Watch new pipelines, tariff rulings and long-term LNG deals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tech-mahindra",
+   "name": "Tech Mahindra",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Mohit Joshi",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Tech Mahindra, part of the Mahindra group, sells IT services to global companies: software development, cloud, network services, consulting and business process outsourcing. Telecom operators are its best-known clients, and it also owns Comviva, which makes telecom software.",
+    "EARNS": "It bills clients for projects and long-term managed services. Communications and media clients are its largest vertical, and the Americas bring in its largest share of revenue, followed by Europe.",
+    "SIZE": "One of India's top five IT services companies by revenue, alongside TCS, Infosys, HCLTech and Wipro. It is among the largest IT service providers to telecom operators worldwide.",
+    "RIVALS": "TCS, Infosys, HCLTech, Wipro, LTIMindtree, Accenture and Capgemini. In telecom networks and software it also meets specialists such as Amdocs, Ericsson and Nokia.",
+    "WATCH": "The turnaround plan CEO Mohit Joshi announced in 2024 to lift margins and growth, demand for AI services, whether telecom clients spend more, and large deal wins."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which industry is Tech Mahindra's best-known client base?",
+     "options": [
+      "Mining",
+      "Telecom",
+      "Agriculture",
+      "Shipping"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region brings in Tech Mahindra's largest share of revenue?",
+     "options": [
+      "Africa",
+      "India",
+      "The Americas",
+      "Japan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which group does Tech Mahindra belong to?",
+     "options": [
+      "Tata",
+      "Birla",
+      "Bajaj",
+      "Mahindra"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Mahindra group's Tech Mahindra sells IT and network services, especially to telecom companies. The Americas lead revenue. Watch Mohit Joshi's turnaround plan and AI deal wins.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "eicher-motors",
+   "name": "Eicher Motors (Royal Enfield)",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "B. Govindarajan",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Eicher Motors owns Royal Enfield, maker of the Classic 350, Bullet, Hunter 350, Himalayan and other mid-size motorcycles sold in India and abroad. It also runs VE Commercial Vehicles, a joint venture with Volvo that makes Eicher trucks and buses.",
+    "EARNS": "Royal Enfield brings in most of the revenue and nearly all the profit, earning strong margins on motorcycles, accessories and apparel. Exports are growing. VECV earns smaller margins on trucks and buses.",
+    "SIZE": "The clear leader in India's mid-size motorcycle segment and one of the world's largest makers of mid-size motorcycles. Royal Enfield sells far more motorcycles in its segment than any rival in India and exports to many countries.",
+    "RIVALS": "Bajaj with Triumph, Hero with Harley-Davidson, Honda's CB350 range, TVS with BMW, and Classic Legends with Jawa and Yezdi. VECV faces Tata Motors and Ashok Leyland.",
+    "WATCH": "The launch of Flying Flea, Royal Enfield's electric motorcycle brand, export expansion with assembly abroad, demand after the 2025 GST change that raised tax on motorcycles above 350cc, and VECV under new CEO B. Srinivas."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which motorcycle brand does Eicher Motors own?",
+     "options": [
+      "Royal Enfield",
+      "Jawa",
+      "Triumph",
+      "Yezdi"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business brings in nearly all of Eicher's profit?",
+     "options": [
+      "VE Commercial Vehicles",
+      "Royal Enfield",
+      "Spare parts trading",
+      "Bus leasing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is the name of Royal Enfield's electric motorcycle brand?",
+     "options": [
+      "Chetak",
+      "iQube",
+      "Flying Flea",
+      "Vida"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Eicher Motors owns Royal Enfield, the mid-size motorcycle leader, plus a truck venture with Volvo. Royal Enfield earns nearly all profit. Watch Flying Flea electric bikes and exports.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tvs-motor",
+   "name": "TVS Motor Company",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "K. N. Radhakrishnan",
+    "leader_role": "President & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "TVS makes scooters and motorcycles such as the Jupiter, Ntorq, Apache, Raider and XL100 moped, the iQube electric scooter and three-wheelers. It owns Britain's Norton Motorcycles and builds smaller BMW motorcycles under a partnership.",
+    "EARNS": "It earns margins on two-wheelers sold through dealers in India and on exports to Africa, Latin America and Asia. Scooters and motorcycles in India bring most revenue; TVS Credit, its finance arm, adds lending income.",
+    "SIZE": "One of India's top three two-wheeler makers and one of its largest two-wheeler exporters, with a leading position in electric scooters. Its iQube is among India's best-selling electric scooters.",
+    "RIVALS": "Hero MotoCorp, Honda, Bajaj Auto and Royal Enfield, plus Ather Energy and Ola Electric in electric scooters. Abroad it competes with Bajaj and Japanese brands such as Honda and Yamaha.",
+    "WATCH": "Peyman Kargar takes over as CEO in January 2027, Norton's relaunch with new models, growth of iQube, rare-earth magnet supplies for EVs, and export demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which electric scooter does TVS sell?",
+     "options": [
+      "Chetak",
+      "Rizta",
+      "S1 Pro",
+      "iQube"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which British motorcycle brand does TVS own?",
+     "options": [
+      "Norton",
+      "Triumph",
+      "BSA",
+      "Royal Enfield"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who will become TVS Motor's CEO in January 2027?",
+     "options": [
+      "Rajiv Bajaj",
+      "Peyman Kargar",
+      "Pawan Munjal",
+      "Siddhartha Lal"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "TVS makes Jupiter, Apache and iQube two-wheelers and owns Norton. It is a top-three maker and big exporter. Watch the CEO handover to Peyman Kargar in 2027.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "shriram-finance",
+   "name": "Shriram Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Parag Sharma",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Shriram Finance lends to truck owners, small businesses and individuals: used and new commercial-vehicle loans, MSME loans, two-wheeler, car, gold and personal loans. It also takes fixed deposits. It was formed in 2022 by merging Shriram Transport Finance and Shriram City Union Finance.",
+    "EARNS": "It earns the interest gap between what it pays on borrowings and deposits and what it charges borrowers. Commercial-vehicle loans, especially for used trucks, are its largest and most established business.",
+    "SIZE": "One of India's largest retail non-bank lenders and the leader in used commercial-vehicle finance. It serves millions of customers through a large branch network, much of it in small towns and rural India.",
+    "RIVALS": "Cholamandalam Finance, Mahindra Finance, Bajaj Finance, Sundaram Finance and banks such as HDFC Bank and IndusInd Bank. Gold loan players such as Muthoot Finance compete in its newer gold loan business.",
+    "WATCH": "Japan's MUFG Bank taking a large minority stake and partnership, announced in 2025, which may lower its borrowing costs, its push into MSME and gold loans, and credit quality among small truck owners."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Shriram Finance's largest business?",
+     "options": [
+      "Credit cards",
+      "Home loans",
+      "Commercial-vehicle loans",
+      "Mutual funds"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Shriram Finance mainly make money?",
+     "options": [
+      "Commissions on insurance",
+      "Selling trucks",
+      "Toll collection",
+      "Interest gap between borrowing and lending"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Japanese bank agreed in 2025 to take a big stake in Shriram Finance?",
+     "options": [
+      "MUFG Bank",
+      "Mizuho",
+      "SMBC",
+      "Nomura"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Shriram Finance lends to truck owners, small businesses and individuals, leading in used-truck loans. It earns interest margins. Watch the MUFG partnership and growth in MSME loans.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cholamandalam-investment-and-finance",
+   "name": "Cholamandalam Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Ravindra Kumar Kundu",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Chola, part of the Murugappa group, lends for vehicles, homes and small businesses: commercial-vehicle, car, tractor and two-wheeler loans, loans against property, home loans and newer consumer and small-business loans.",
+    "EARNS": "It earns the interest gap between its borrowing costs and what it charges. Vehicle finance is its largest business, while loans against property and home loans are growing fast.",
+    "SIZE": "One of India's largest vehicle financiers and among the biggest non-bank lenders in the country. It has a wide branch network reaching deep into small towns and rural India.",
+    "RIVALS": "Shriram Finance, Mahindra Finance, Bajaj Finance, Tata Capital, HDB Financial Services and banks such as HDFC Bank. In home and property loans it also faces housing finance firms such as Aavas and Aptus.",
+    "WATCH": "Credit quality in its newer unsecured consumer and small-business loans, borrowing costs as interest rates fall, and growth in rural and semi-urban markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group does Chola belong to?",
+     "options": [
+      "TVS",
+      "Murugappa",
+      "Tata",
+      "Bajaj"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Chola's largest lending business?",
+     "options": [
+      "Gold loans",
+      "Credit cards",
+      "Vehicle finance",
+      "Education loans"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a rival of Chola in vehicle finance?",
+     "options": [
+      "HDFC AMC",
+      "BSE",
+      "LIC",
+      "Shriram Finance"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Murugappa group's Chola lends for vehicles, property and small businesses, with vehicle finance its largest. Watch credit quality in newer unsecured loans and borrowing costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "apollo-hospitals-enterprise",
+   "name": "Apollo Hospitals",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Suneeta Reddy",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Apollo runs a large chain of private hospitals, Apollo Pharmacy stores, the Apollo 24|7 health app, diagnostics labs, clinics and Cradle maternity centres. In 2025 it announced a plan to demerge its pharmacy and digital business and list it as a separate company.",
+    "EARNS": "Hospitals earn from surgeries, treatments and room charges and bring in most of the profit. Pharmacy distribution brings large revenue on thin margins, while the digital business is still building.",
+    "SIZE": "India's largest private hospital chain and one of its largest pharmacy networks. It runs hospitals across India and one of the country's widest pharmacy store chains, and was founded by Dr Prathap C. Reddy in 1983.",
+    "RIVALS": "Max Healthcare, Fortis, Manipal Hospitals, Narayana Health and Medanta in hospitals. MedPlus, Tata 1mg and PharmEasy in pharmacy. Its diagnostics business faces Dr Lal PathLabs, Metropolis and Agilus.",
+    "WATCH": "The demerger and listing of the pharmacy and digital business, new hospitals being added, insurance pricing, and the leadership role of the Reddy family's next generation."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Apollo business did the company plan in 2025 to demerge and list?",
+     "options": [
+      "Pharmacy and digital",
+      "Hospitals",
+      "Medical colleges",
+      "Clinics abroad"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Apollo business brings in most of the profit?",
+     "options": [
+      "Pharmacy",
+      "Hospitals",
+      "Digital app",
+      "Insurance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a hospital rival of Apollo?",
+     "options": [
+      "MedPlus",
+      "PharmEasy",
+      "Fortis Healthcare",
+      "Tata 1mg"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Apollo runs India's largest private hospital chain plus Apollo Pharmacy and the 24|7 app. Hospitals earn most profit. Watch the pharmacy-digital demerger and new hospitals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "max-healthcare-institute",
+   "name": "Max Healthcare",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Abhay Soi",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Max Healthcare runs private hospitals mostly in Delhi NCR and north India, such as Max Saket and Max Patparganj, plus hospitals in Mumbai, Mohali, Dehradun and Lucknow. It also offers Max Lab diagnostics and Max@Home care.",
+    "EARNS": "It earns from treatments, surgeries and room charges, with a large share from insured and international patients. Delhi NCR hospitals bring most of its revenue and profit.",
+    "SIZE": "One of India's largest hospital chains and among the most profitable per bed. It is one of the largest private hospital networks in Delhi NCR, where most of its hospitals are located.",
+    "RIVALS": "Medanta (Global Health), Fortis Healthcare, Apollo Hospitals, Manipal Hospitals and Narayana Health. In diagnostics, Max Lab faces Dr Lal PathLabs and Agilus.",
+    "WATCH": "New hospitals and bed additions in Delhi NCR, Lucknow, Nagpur and Mumbai, how quickly new beds fill up, and pricing under government and insurance schemes."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which region brings Max Healthcare most of its revenue?",
+     "options": [
+      "Kerala",
+      "Gujarat",
+      "Assam",
+      "Delhi NCR"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which diagnostics service does Max run?",
+     "options": [
+      "Max Lab",
+      "Agilus",
+      "Thyrocare",
+      "Dr Lal PathLabs"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a hospital rival of Max in Delhi NCR?",
+     "options": [
+      "Apollo Pharmacy",
+      "Medanta",
+      "Metropolis",
+      "Practo"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Max Healthcare runs hospitals mainly in Delhi NCR and north India, earning from treatments and insured patients. Watch new hospitals and how fast new beds fill.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "fortis-healthcare",
+   "name": "Fortis Healthcare",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ashutosh Raghuvanshi",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Fortis runs private hospitals across India, including Fortis Memorial Research Institute in Gurugram and Fortis Escorts in Delhi, and owns Agilus Diagnostics, formerly SRL. Malaysia's IHH Healthcare has controlled it since 2018.",
+    "EARNS": "Hospitals bring in most of its revenue and profit, from surgeries, treatments and room charges. Agilus earns from lab tests for patients, doctors and hospitals.",
+    "SIZE": "One of India's largest private hospital chains and one of its bigger diagnostics networks through Agilus. Its hospitals are spread across north, west and south India, with Delhi NCR as its biggest cluster.",
+    "RIVALS": "Apollo Hospitals, Max Healthcare, Manipal Hospitals, Medanta and Narayana Health. Agilus faces Dr Lal PathLabs, Metropolis and Thyrocare. Regional chains such as Aster DM and KIMS compete in some cities.",
+    "WATCH": "Hospital acquisitions and bed additions, the long-running legal cases tied to its former promoters and Daiichi Sankyo, IHH's open offer, and the proposed extension of Ashutosh Raghuvanshi's term."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company controls Fortis Healthcare?",
+     "options": [
+      "Apollo Hospitals",
+      "Temasek",
+      "IHH Healthcare",
+      "Manipal"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What was Agilus Diagnostics formerly called?",
+     "options": [
+      "Metropolis",
+      "Thyrocare",
+      "Lal PathLabs",
+      "SRL"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which diagnostics company competes with Agilus?",
+     "options": [
+      "Dr Lal PathLabs",
+      "Narayana Health",
+      "Medanta",
+      "Max Healthcare"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IHH-controlled Fortis runs hospitals across India and Agilus Diagnostics. Hospitals earn most profit. Watch acquisitions, legacy legal cases and the CEO's term extension.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lupin",
+   "name": "Lupin",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Nilesh Gupta",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Lupin makes generic and branded medicines: generics and inhalers for the US, branded drugs in India for heart, diabetes and respiratory illness, and medicines in Europe and emerging markets. It bought eye-care company VISUfarma in 2025.",
+    "EARNS": "The US and India are its two largest markets. US income depends on complex generics such as inhalers and injectables, which earn better prices, while Indian branded medicines earn steady margins.",
+    "SIZE": "One of India's top pharma companies by revenue and among the largest Indian suppliers of generics to the US. It has a leading position in Indian respiratory medicines and US inhaler generics.",
+    "RIVALS": "Sun Pharma, Cipla, Dr Reddy's, Aurobindo and Zydus, and global generic makers such as Teva and Viatris. In India it also faces Mankind Pharma, Torrent and Alkem for doctors' prescriptions.",
+    "WATCH": "US FDA inspections of its plants, new inhaler and injectable launches, possible US tariffs on medicines, growth of its eye-care business, and CEO Vinita Gupta's US-focused strategy."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which eye-care company did Lupin buy in 2025?",
+     "options": [
+      "Bausch",
+      "VISUfarma",
+      "Alcon",
+      "Santen"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which are Lupin's two largest markets?",
+     "options": [
+      "China and Japan",
+      "Brazil and Russia",
+      "US and India",
+      "UK and Germany"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which regulator's plant inspections matter most for Lupin's US business?",
+     "options": [
+      "SEBI",
+      "RBI",
+      "TRAI",
+      "US FDA"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Lupin sells generics and inhalers in the US and branded medicines in India, its two biggest markets. Watch US FDA inspections, new inhalers and possible US tariffs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "torrent-pharmaceuticals",
+   "name": "Torrent Pharmaceuticals",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Aman Mehta",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Torrent sells branded medicines for chronic illnesses such as heart disease, diabetes and nerve disorders, with brands like Shelcal and Chymoral. In 2026 it completed its takeover and merger of JB Chemicals, adding brands such as Cilacar and Rantac. It also sells in Brazil, Germany and the US.",
+    "EARNS": "India brings in most of its revenue and profit, from doctors prescribing its brands. Brazil and Germany add branded-generic income; the US is smaller.",
+    "SIZE": "One of India's top pharma companies by domestic sales, with a strong position in chronic therapies. The JB Chemicals merger made it bigger in heart and blood pressure medicines in India.",
+    "RIVALS": "Sun Pharma, Mankind Pharma, Alkem, Cipla, Abbott India and Lupin. In Brazil and Germany it faces local generic makers and global firms such as Sandoz.",
+    "WATCH": "Integration of JB Chemicals and cost savings from the merger, launches in diabetes and weight-loss drugs as patents expire, and growth in Brazil. Also watch possible US tariffs on medicines."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company did Torrent take over and merge in 2026?",
+     "options": [
+      "JB Chemicals",
+      "Unichem",
+      "Glenmark",
+      "Ipca"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does Torrent earn most of its revenue?",
+     "options": [
+      "US",
+      "India",
+      "China",
+      "Japan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a rival of Torrent in India?",
+     "options": [
+      "Syngene",
+      "Divi's",
+      "Mankind Pharma",
+      "Biocon Biologics"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Torrent sells chronic-therapy medicine brands in India and abroad and merged JB Chemicals in 2026. India earns most. Watch the JB integration and new diabetes launches.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zydus-lifesciences",
+   "name": "Zydus Lifesciences",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Sharvil Patel",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Zydus, renamed from Cadila Healthcare in 2022, sells generic medicines in the US, branded drugs in India, vaccines and biosimilars. Its Zydus Wellness arm owns Complan, Glucon-D, Sugar Free and Nycil. It bought French orthopaedic firm Amplitude Surgical in 2025.",
+    "EARNS": "The US and India are its two largest markets. US generics bring a large share of profit, while Indian branded medicines and consumer products add steady income.",
+    "SIZE": "One of India's top five pharma companies by revenue and a major supplier of generics to the US. Its consumer arm owns some of India's best-known health food and skin care brands.",
+    "RIVALS": "Sun Pharma, Lupin, Torrent, Cipla and Dr Reddy's in medicines. Zydus Wellness faces Nestle, Dabur and HUL brands. In vaccines it competes with Serum Institute and Bharat Biotech.",
+    "WATCH": "Its push into medical devices after the Amplitude deal, new specialty and biosimilar launches, US FDA inspections and possible US tariffs on medicines."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Zydus Lifesciences called before 2022?",
+     "options": [
+      "Cadila Pharmaceuticals",
+      "Torrent Pharma",
+      "Intas",
+      "Cadila Healthcare"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which consumer brand belongs to Zydus Wellness?",
+     "options": [
+      "Complan",
+      "Horlicks",
+      "Bournvita",
+      "Boost"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business did Zydus push into with the Amplitude Surgical deal?",
+     "options": [
+      "Hospitals",
+      "Medical devices",
+      "Insurance",
+      "Diagnostics"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Zydus sells US generics, Indian medicines, vaccines and consumer brands like Complan. Watch its medical-device push after buying Amplitude Surgical and new specialty launches.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "aurobindo-pharma",
+   "name": "Aurobindo Pharma",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "K. Nithyananda Reddy",
+    "leader_role": "Vice Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Aurobindo makes generic medicines and their ingredients for the US, Europe and other markets: tablets, capsules, injectables through its Eugia unit, and biosimilars through CuraTeQ. It also runs a large plant in Andhra Pradesh making penicillin-G, a key antibiotic ingredient.",
+    "EARNS": "The US brings in the largest share of revenue, through a very wide range of generic products. Europe is its second-largest market, and injectables are among its more profitable lines.",
+    "SIZE": "One of India's largest pharma companies by revenue and one of the biggest generic suppliers to the US by number of products. It is also one of India's biggest makers of the active ingredients that go into medicines.",
+    "RIVALS": "Sun Pharma, Lupin, Dr Reddy's and Zydus, plus global generic makers Teva, Viatris and Sandoz. In ingredients it faces Chinese suppliers, which its penicillin-G plant aims to replace.",
+    "WATCH": "The ramp-up of its penicillin-G plant, biosimilar approvals in Europe, US FDA inspections at its injectable plants, and possible US tariffs on medicines."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Aurobindo unit makes injectables?",
+     "options": [
+      "CuraTeQ",
+      "Lyfius",
+      "Eugia",
+      "Apitoria"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Aurobindo's largest market?",
+     "options": [
+      "India",
+      "Japan",
+      "Africa",
+      "US"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which key antibiotic ingredient does Aurobindo's new plant make?",
+     "options": [
+      "Penicillin-G",
+      "Insulin",
+      "Paracetamol",
+      "Metformin"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Aurobindo makes generics, injectables and biosimilars, with the US its largest market. Watch its penicillin-G plant, European biosimilar approvals and US FDA inspections.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "biocon",
+   "name": "Biocon",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Shreehas Tambe",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Biocon makes biosimilars, cheaper versions of biologic drugs for diabetes, cancer and immune diseases, sold in the US and Europe, plus generic medicines and their ingredients. In 2026 it fully absorbed Biocon Biologics. It also owns a stake in Syngene, a contract research firm.",
+    "EARNS": "Biosimilars bring in most of its revenue, mainly from the US and Europe, with insulins and cancer drugs as key products. Generics and Syngene's research services add the rest.",
+    "SIZE": "India's largest biotech company and one of the world's bigger biosimilar makers. Its insulins and cancer biosimilars are sold in many countries, and it was founded by Kiran Mazumdar-Shaw in 1978.",
+    "RIVALS": "Sandoz, Celltrion, Samsung Bioepis, Amgen and Viatris in biosimilars. Dr Reddy's, Lupin and Sun Pharma in generics. Its Syngene arm competes with contract research firms such as WuXi AppTec and Charles River.",
+    "WATCH": "Integration after taking full control of Biocon Biologics, new biosimilar launches in the US, its GLP-1 diabetes and weight-loss generics as patents expire, and leadership under Shreehas Tambe."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What are biosimilars?",
+     "options": [
+      "Herbal remedies",
+      "Cheaper versions of biologic drugs",
+      "Medical devices",
+      "Vaccines only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Biocon business brings in most of its revenue?",
+     "options": [
+      "Syngene research",
+      "Hospitals",
+      "Biosimilars",
+      "Diagnostics"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a global biosimilar rival of Biocon?",
+     "options": [
+      "Mankind Pharma",
+      "Apollo",
+      "Zydus Wellness",
+      "Celltrion"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Biocon makes biosimilars and generics for the US and Europe and fully absorbed Biocon Biologics in 2026. Watch US biosimilar launches and its GLP-1 generics.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "alkem-laboratories",
+   "name": "Alkem Laboratories",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sandeep Singh",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Alkem sells branded medicines in India, led by antibiotics and painkillers such as Clavam, Taxim-O and Pan, and the A to Z vitamin range. It also sells generics in the US and makes biosimilars and contract biologics through Enzene.",
+    "EARNS": "India brings in most of its revenue and profit, from doctors prescribing its brands. Anti-infectives are its biggest therapy, and it is pushing into chronic areas like heart and diabetes care.",
+    "SIZE": "One of India's top five pharma companies by domestic sales and a leader in anti-infective medicines. Its antibiotic brands are among the most prescribed in Indian pharmacies.",
+    "RIVALS": "Mankind Pharma, Cipla, Abbott India, Sun Pharma, Torrent and Lupin. In the US it competes with other generic makers such as Aurobindo and Lupin. Smaller branded-generic makers also compete on price.",
+    "WATCH": "Who leads after CEO Vikas Gupta's resignation in 2026, growth of chronic therapies, Enzene's new US plant, and US pricing pressure on generics. Also watch possible US tariffs on medicines."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which therapy area is Alkem's biggest?",
+     "options": [
+      "Anti-infectives",
+      "Cancer",
+      "Eye care",
+      "Dermatology"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Alkem unit makes biosimilars?",
+     "options": [
+      "Eugia",
+      "Enzene",
+      "CuraTeQ",
+      "Syngene"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which senior Alkem executive resigned in 2026?",
+     "options": [
+      "MD Sandeep Singh",
+      "Chairman Samprada Singh",
+      "CEO Vikas Gupta",
+      "CFO Rajesh Dubey"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Alkem sells antibiotics and painkillers like Clavam and Pan in India, plus US generics and biosimilars. Watch leadership after the CEO's exit and its chronic-therapy push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "grasim-industries",
+   "name": "Grasim Industries",
+   "type": "listed",
+   "industry": "conglomerate",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Himanshu Kapania",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Grasim is the Aditya Birla group's flagship. It makes viscose staple fibre under the Liva brand, caustic soda and other chemicals, and Birla Opus paints launched in 2024. It runs Birla Pivot, an online building-materials marketplace, and is the parent of UltraTech Cement and Aditya Birla Capital.",
+    "EARNS": "Consolidated revenue is dominated by UltraTech's cement. Its own businesses earn from fibre and chemicals, which swing with global prices, while paints are still in a heavy build-out phase.",
+    "SIZE": "One of India's largest conglomerates and the world's largest maker of viscose staple fibre. Through UltraTech it also controls India's largest cement company.",
+    "RIVALS": "Asian Paints, Berger Paints, Kansai Nerolac and JSW Paints in paints. Lenzing and Chinese makers in fibre. In chemicals it competes with makers such as DCM Shriram and Gujarat Alkalies.",
+    "WATCH": "How fast Birla Opus wins share in paints, with MD Himanshu Kapania directly overseeing the business after its head left, fibre and chemical prices, and Birla Pivot's growth."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Grasim's paints brand?",
+     "options": [
+      "Royale",
+      "Nerolac",
+      "JSW Halo",
+      "Birla Opus"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Grasim subsidiary dominates its consolidated revenue?",
+     "options": [
+      "UltraTech Cement",
+      "Aditya Birla Capital",
+      "Birla Pivot",
+      "Liva"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is Grasim's biggest rival in paints?",
+     "options": [
+      "Pidilite",
+      "Asian Paints",
+      "Havells",
+      "Dabur"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Aditya Birla flagship Grasim makes fibre, chemicals and Birla Opus paints and owns UltraTech Cement. Watch whether Birla Opus wins share from Asian Paints and other leaders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ambuja-cements",
+   "name": "Ambuja Cements",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Ahmedabad, Gujarat",
+    "leader": "Vinod Bahety",
+    "leader_role": "Whole-time Director & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Ambuja makes cement sold under the Ambuja and ACC brands to home builders, dealers and infrastructure projects. The Adani group bought it from Holcim in 2022, and it has since acquired Sanghi Industries, Penna Cement and Orient Cement.",
+    "EARNS": "It earns the margin between cement prices and the cost of fuel, power, raw materials and freight. Retail sales to home builders through dealers earn its best prices; the Adani group's ports and power help cut costs.",
+    "SIZE": "India's second-largest cement maker after UltraTech, with plants across the country. Its acquisitions since 2022 have given it plants in the south, west, north and east of India.",
+    "RIVALS": "UltraTech Cement, Shree Cement, Dalmia Bharat, JK Cement and Nuvoco. UltraTech is its main rival nationally, while regional players compete hard in each market.",
+    "WATCH": "Its announced capacity expansion plan, merging acquired companies into one structure, cost-cutting through group logistics, and cement prices. Also watch the Adani group's wider debt and legal issues."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group owns Ambuja Cements?",
+     "options": [
+      "Aditya Birla",
+      "Tata",
+      "Adani",
+      "JSW"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which cement brand also belongs to Ambuja?",
+     "options": [
+      "Birla Super",
+      "Ramco",
+      "Dalmia",
+      "ACC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who is India's largest cement maker, ahead of Ambuja?",
+     "options": [
+      "UltraTech Cement",
+      "Shree Cement",
+      "Dalmia Bharat",
+      "JK Cement"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Adani-owned Ambuja sells Ambuja and ACC cement and is India's second-largest maker after many acquisitions. Watch its capacity expansion and merging of acquired firms.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "shree-cement",
+   "name": "Shree Cement",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Neeraj Akhoury",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Shree Cement makes cement under brands such as Shree Jung Rodhak, Bangur Cement and Rockstrong, sold mainly in north and east India. It also generates power and runs a cement plant in the UAE.",
+    "EARNS": "It earns the margin between cement prices and costs. It is known for very efficient plants and low fuel and power costs, and focuses on premium brands to lift prices.",
+    "SIZE": "One of India's top four cement makers and among the most cost-efficient in the industry. It is the leading cement maker in parts of north India, especially Rajasthan.",
+    "RIVALS": "UltraTech Cement, Ambuja Cements, Dalmia Bharat, JK Cement and Nuvoco. Regional makers such as Mangalam Cement and Wonder Cement compete in Rajasthan.",
+    "WATCH": "New plants and capacity it has announced, its push into premium cement and ready-mix concrete, and cement prices in north India. Also watch fuel costs, since coal and petcoke prices move its margins."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which cement brand belongs to Shree Cement?",
+     "options": [
+      "ACC",
+      "Bangur Cement",
+      "Ramco",
+      "Birla A1"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Shree Cement known for?",
+     "options": [
+      "Selling paints",
+      "Running hospitals",
+      "Low fuel and power costs",
+      "Making steel"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of Shree Cement?",
+     "options": [
+      "Asian Paints",
+      "Tata Steel",
+      "Hindalco",
+      "UltraTech Cement"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Shree Cement sells Bangur and Shree Jung Rodhak cement in north and east India and is known for low costs. Watch new capacity and its premium push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "jsw-energy",
+   "name": "JSW Energy",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sharad Mahendra",
+    "leader_role": "Joint MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "JSW Energy, part of the JSW group, generates electricity from coal, hydro, wind and solar plants and sells it to state utilities and businesses. It recently bought O2 Power and KSK Mahanadi, and is building battery and pumped-hydro storage.",
+    "EARNS": "It earns mostly under long-term power purchase agreements with state utilities that pay for capacity and energy. Thermal plants bring a large share of revenue, while renewables are growing fastest.",
+    "SIZE": "One of India's largest private power producers and a fast-growing renewable energy company. Its acquisitions have made it one of the larger renewable energy owners in India.",
+    "RIVALS": "Tata Power, Adani Power, Adani Green, NTPC and ReNew. In renewables it also faces Juniper Green, Avaada and Greenko, and state firms such as SJVN. Coal plant rivals include NTPC.",
+    "WATCH": "Its announced plan to greatly expand generation capacity, storage projects, wind turbine making, and how acquired assets perform. Also watch state utilities' ability to pay for power on time."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group does JSW Energy belong to?",
+     "options": [
+      "JSW",
+      "Tata",
+      "Adani",
+      "Reliance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does JSW Energy mostly earn?",
+     "options": [
+      "Selling cars",
+      "Long-term power purchase agreements",
+      "Mobile tariffs",
+      "Toll roads"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of JSW Energy?",
+     "options": [
+      "JSW Steel",
+      "Dixon",
+      "Tata Power",
+      "Voltas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "JSW Energy generates coal, hydro, wind and solar power under long-term contracts and is growing renewables fast. Watch its capacity expansion plan and storage projects.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tata-power",
+   "name": "Tata Power",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Praveer Sinha",
+    "leader_role": "CEO & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Tata Power generates electricity from coal, hydro, solar and wind, distributes power in Mumbai, Delhi and Odisha, and runs transmission lines. It also installs rooftop solar, makes solar cells and modules, and runs EV charging points.",
+    "EARNS": "Regulated distribution and generation bring steady income. Renewables, rooftop solar and solar manufacturing are its fastest-growing businesses. Coal plants such as Mundra earn under long-term supply contracts.",
+    "SIZE": "One of India's largest integrated power companies, covering generation, transmission and distribution. It is also one of India's largest rooftop solar installers.",
+    "RIVALS": "Adani Power, Adani Energy Solutions, JSW Energy, NTPC, Torrent Power and ReNew. In rooftop solar and EV charging it faces many smaller firms and startups.",
+    "WATCH": "Rooftop solar under the PM Surya Ghar scheme, pumped-hydro and Bhutan hydro projects, its solar factory in Tamil Nadu, and power distribution privatisation by states."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these does Tata Power do?",
+     "options": [
+      "Makes cars",
+      "Runs airlines",
+      "Builds ships",
+      "Distributes electricity in Mumbai and Delhi"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Tata Power businesses grow fastest?",
+     "options": [
+      "Renewables and rooftop solar",
+      "Coal mining",
+      "Steel",
+      "Telecom"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which government scheme drives rooftop solar demand?",
+     "options": [
+      "PM Kisan",
+      "PM Surya Ghar",
+      "Ujjwala",
+      "Swachh Bharat"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Tata Power generates, transmits and distributes electricity and grows rooftop solar and solar manufacturing. Watch PM Surya Ghar rooftop demand and hydro projects.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "siemens",
+   "name": "Siemens India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sunil Mathur",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Siemens Ltd, the Indian arm of Germany's Siemens, sells factory automation and drives, electrical products for buildings and grids, and rail systems such as electric locomotives and signalling. Its energy business was demerged in 2025 into the separately listed Siemens Energy India.",
+    "EARNS": "It earns from selling products and long project contracts to factories, utilities, data centres and Indian Railways. Smart infrastructure and mobility are among its largest businesses.",
+    "SIZE": "One of India's largest industrial technology and electrical equipment companies. It has factories and engineering centres across India and supplies some of the country's biggest rail projects.",
+    "RIVALS": "ABB India, Schneider Electric, Hitachi Energy, L&T and Alstom. In rail it faces Alstom and Wabtec, and in automation Rockwell and Mitsubishi Electric.",
+    "WATCH": "Delivery of its large electric locomotive order for Indian Railways, demand from data centres and factories, and how it grows after the energy demerger."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business did Siemens India demerge in 2025?",
+     "options": [
+      "Healthcare",
+      "Rail",
+      "Energy",
+      "Automation"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customer ordered electric locomotives from Siemens?",
+     "options": [
+      "Air India",
+      "Coal India",
+      "NTPC",
+      "Indian Railways"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which is a rival of Siemens India?",
+     "options": [
+      "ABB India",
+      "Havells",
+      "Voltas",
+      "Blue Star"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Siemens India sells automation, electrical products and rail systems after demerging its energy business in 2025. Watch its Indian Railways locomotive order and data-centre demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "abb",
+   "name": "ABB India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Sanjeev Sharma",
+    "leader_role": "MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ABB India, the Indian arm of Switzerland's ABB, sells electrification products such as switchgear and circuit breakers, motors and drives, process automation systems and robots to factories, buildings, data centres and railways.",
+    "EARNS": "It earns from products and project contracts. Electrification and motion, motors and drives, are its largest and most profitable businesses. Process automation and service contracts add steadier income.",
+    "SIZE": "One of India's largest electrical and automation equipment companies. It has factories and engineering centres across India, many in Bengaluru and Vadodara.",
+    "RIVALS": "Siemens India, Schneider Electric, Hitachi Energy, CG Power and Havells. In motors and drives it also faces Crompton, Danfoss and WEG. Chinese equipment makers compete on price in some products.",
+    "WATCH": "Demand from data centres, railways and factories, new local factories, and ABB's global sale of its robotics business to SoftBank, announced in 2025. Also watch rail electrification orders."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is ABB India's parent company's home country?",
+     "options": [
+      "Germany",
+      "Switzerland",
+      "Japan",
+      "US"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which ABB India businesses are largest?",
+     "options": [
+      "Paints",
+      "Pharmaceuticals",
+      "Electrification and motion",
+      "Cement"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "To whom did ABB agree to sell its robotics business in 2025?",
+     "options": [
+      "Toyota",
+      "Siemens",
+      "Hitachi",
+      "SoftBank"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "ABB India sells switchgear, motors, drives and automation systems to factories and data centres. Watch data-centre demand and ABB's robotics sale to SoftBank.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "havells",
+   "name": "Havells India",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Anil Rai Gupta",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Havells sells wires and cables, switches, switchgear, fans, lights, water heaters and kitchen appliances under the Havells, Crabtree, Standard and REO brands, plus Lloyd air conditioners, washing machines and TVs.",
+    "EARNS": "Cables and wires bring in the largest share of revenue, and switchgear earns the best margins. Lloyd adds revenue but has thinner margins. Most products are sold through a large dealer network across India.",
+    "SIZE": "One of India's largest electrical goods companies and a leading brand in switchgear and fans. It makes most of its products in its own Indian factories.",
+    "RIVALS": "Polycab, KEI Industries, Crompton, Bajaj Electricals, V-Guard, Voltas and Blue Star. In ACs, Lloyd faces Voltas, LG and Daikin. In fans it also faces Orient Electric and Atomberg.",
+    "WATCH": "Profitability at Lloyd, new cable capacity, copper and aluminium prices, and summer demand for cooling products. Also watch rivals such as UltraTech and Adani entering cables."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which air conditioner brand belongs to Havells?",
+     "options": [
+      "Lloyd",
+      "Voltas",
+      "Blue Star",
+      "Daikin"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Havells product brings the largest share of revenue?",
+     "options": [
+      "Fans",
+      "Cables and wires",
+      "TVs",
+      "Water heaters"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of Havells in wires and cables?",
+     "options": [
+      "Dixon",
+      "Voltas",
+      "Polycab",
+      "Blue Star"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Havells sells wires, switchgear, fans and lights, plus Lloyd ACs. Cables lead revenue, switchgear earns most margin. Watch Lloyd's profitability and copper prices.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "polycab",
+   "name": "Polycab India",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Inder Jaisinghani",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Polycab makes wires and cables for homes, buildings, power utilities and industry, plus fans, lights, switches and solar products. It also builds network and power projects such as the BharatNet rural broadband network.",
+    "EARNS": "Wires and cables bring in most of its revenue and profit, sold through distributors and to large projects. Fans, lights and switches are a smaller, growing business.",
+    "SIZE": "India's largest maker of wires and cables. It has a leading share of India's organised wires and cables market and exports to many countries. It sells through thousands of dealers.",
+    "RIVALS": "KEI Industries, Havells, Finolex Cables and RR Kabel, plus new entrants UltraTech and the Adani group. In fans and lights it faces Havells, Crompton and Orient Electric.",
+    "WATCH": "Competition from UltraTech and Adani entering cables, exports, copper price swings and growth of its fans and lighting business. Also watch electricity grid and data centre projects that use its cables."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Polycab's main product?",
+     "options": [
+      "Paints",
+      "Cement",
+      "Cars",
+      "Wires and cables"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which large company announced entry into cables in 2025?",
+     "options": [
+      "UltraTech",
+      "Infosys",
+      "Nestle",
+      "Titan"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which rural broadband project does Polycab work on?",
+     "options": [
+      "Jio Fiber",
+      "BharatNet",
+      "Starlink",
+      "Airtel Xstream"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Polycab is India's largest wire and cable maker, also selling fans and lights. Watch new rivals UltraTech and Adani, copper prices and exports.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "dixon-technologies",
+   "name": "Dixon Technologies",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Atul B. Lall",
+    "leader_role": "Vice Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Dixon is a contract manufacturer: it makes smartphones, TVs, washing machines, lighting and security cameras for brands such as Motorola and Xiaomi, which sell them under their own names. It is moving into components such as display modules.",
+    "EARNS": "Mobile phones bring in most of its revenue, earning thin margins per unit on very large volumes. Government production-linked incentives help its earnings.",
+    "SIZE": "India's largest homegrown electronics contract manufacturer. It assembles a large share of the smartphones and TVs made in India by contract. Its plants are mostly in Noida.",
+    "RIVALS": "Foxconn, Tata Electronics, Amber Enterprises, Kaynes Technology and PG Electroplast. Brands such as Samsung and Xiaomi can also make devices in their own factories.",
+    "WATCH": "Component manufacturing under the government's ECMS scheme, including display modules approved in 2026, new smartphone clients, and joint ventures with Chinese partners that need government approval."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Dixon mainly do?",
+     "options": [
+      "Runs a phone brand",
+      "Sells electricity",
+      "Makes electronics for other brands",
+      "Runs retail stores"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which product brings Dixon most of its revenue?",
+     "options": [
+      "TVs",
+      "Fans",
+      "Cars",
+      "Mobile phones"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a contract manufacturing rival of Dixon?",
+     "options": [
+      "Foxconn",
+      "Samsung",
+      "Xiaomi",
+      "Motorola"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Dixon makes phones, TVs and appliances for brands like Motorola and Xiaomi. Phones bring most revenue on thin margins. Watch component manufacturing and new clients.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "voltas",
+   "name": "Voltas",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Mukundan C. P. Menon",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Voltas, a Tata group company, sells room air conditioners, air coolers and commercial refrigeration. Through Voltas Beko, its joint venture with Turkey's Arcelik, it sells refrigerators, washing machines and dishwashers. It also builds electrical and cooling systems for projects in India and the Middle East.",
+    "EARNS": "Room air conditioners bring in most of its revenue and profit, and sales depend heavily on how hot the summer is. Projects earn from contracts; Voltas Beko is still growing.",
+    "SIZE": "India's largest room air conditioner brand. It has led India's room AC market for years, with a wide network of dealers and service centres. It is a Tata brand.",
+    "RIVALS": "LG, Daikin, Blue Star, Lloyd (Havells) and Samsung. In refrigerators and washing machines, Voltas Beko faces LG, Samsung, Whirlpool and Godrej. Godrej also competes.",
+    "WATCH": "Summer demand, which swings with weather, Voltas Beko's growth, new energy-efficiency rules for ACs, and MD Mukundan Menon's plans. Also watch competition from Chinese-backed brands."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group does Voltas belong to?",
+     "options": [
+      "Godrej",
+      "Tata",
+      "Mahindra",
+      "Birla"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What drives most of Voltas's revenue?",
+     "options": [
+      "Televisions",
+      "Mobile phones",
+      "Room air conditioners",
+      "Cars"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of Voltas in ACs?",
+     "options": [
+      "Polycab",
+      "Havells Crabtree",
+      "Dixon",
+      "Daikin"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tata group's Voltas is India's largest room AC brand, also selling appliances through Voltas Beko. Watch summer weather, Voltas Beko growth and AC efficiency rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "blue-star",
+   "name": "Blue Star",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "B. Thiagarajan",
+    "leader_role": "MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Blue Star sells room air conditioners, commercial air conditioning for offices and malls, commercial refrigeration such as deep freezers and cold rooms, and water purifiers. It also designs and installs electrical and cooling systems for large buildings.",
+    "EARNS": "Room and commercial air conditioners bring most of its revenue. Projects earn from contracts, and commercial cooling and refrigeration earn steady margins.",
+    "SIZE": "One of India's top room air conditioner brands and a leader in commercial air conditioning and refrigeration. It was founded in 1943 and is especially strong in air conditioning for offices, malls and factories.",
+    "RIVALS": "Voltas, Daikin, LG, Carrier and Lloyd (Havells). In commercial refrigeration it competes with Carrier and Western, and in water purifiers with Kent and Eureka Forbes.",
+    "WATCH": "Summer demand, its factories in Sri City and Wada, exports, and leadership succession, with B. Thiagarajan's term as MD running to May 2027. Also watch commercial building and data centre demand for cooling systems."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these does Blue Star sell?",
+     "options": [
+      "Commercial refrigeration",
+      "Cement",
+      "Insurance",
+      "Cars"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a rival of Blue Star?",
+     "options": [
+      "Polycab",
+      "Voltas",
+      "Dixon",
+      "BEL"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "When does B. Thiagarajan's current term as MD run to?",
+     "options": [
+      "December 2026",
+      "March 2030",
+      "May 2027",
+      "June 2028"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Blue Star sells room and commercial air conditioning, refrigeration and water purifiers. Watch summer demand, exports and MD succession before May 2027.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "indusind-bank",
+   "name": "IndusInd Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rajiv Anand",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "IndusInd Bank, promoted by the Hinduja group, offers savings accounts, credit cards, vehicle loans, microfinance through Bharat Financial Inclusion, and corporate banking. In 2025 it disclosed accounting lapses in its derivatives book, its CEO resigned and Rajiv Anand took over.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Vehicle finance and microfinance have been its highest-yielding loans, though microfinance stress has hurt profits.",
+    "SIZE": "One of India's mid-sized private banks, among the larger lenders in vehicle finance. It has branches across India and a large base of vehicle finance customers.",
+    "RIVALS": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, Yes Bank and IDFC First Bank. In vehicle loans it faces Shriram Finance and Cholamandalam, and in microfinance Bandhan Bank.",
+    "WATCH": "Rajiv Anand's clean-up after the 2025 derivatives lapses, stress in microfinance loans, rebuilding deposit trust, and RBI oversight. Also watch whether deposits and loans grow again."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group promotes IndusInd Bank?",
+     "options": [
+      "Tata",
+      "Mahindra",
+      "Bajaj",
+      "Hinduja"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became IndusInd Bank's MD and CEO in 2025?",
+     "options": [
+      "Rajiv Anand",
+      "Sumant Kathpalia",
+      "Shashidhar Jagdishan",
+      "Amitabh Chaudhry"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which of these is a private-bank rival of IndusInd?",
+     "options": [
+      "LIC",
+      "Axis Bank",
+      "SBI Life",
+      "BSE"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Hinduja-promoted IndusInd Bank lends for vehicles, microfinance and cards. After 2025 derivatives lapses, Rajiv Anand took charge. Watch the clean-up and microfinance stress.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bank-of-baroda",
+   "name": "Bank of Baroda",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Vadodara, Gujarat",
+    "leader": "Debadatta Chand",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Bank of Baroda is a government-owned bank offering savings accounts, home, car, business and corporate loans, and the bob World app. Vijaya Bank and Dena Bank merged into it in 2019, and it has one of the larger overseas networks among Indian banks.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Corporate and retail loans in India bring most income, and its overseas branches add foreign business.",
+    "SIZE": "One of India's largest public sector banks, behind SBI. It has thousands of branches across India and many offices abroad. It is especially strong in Gujarat and western India.",
+    "RIVALS": "SBI, Punjab National Bank, Canara Bank, Union Bank of India, HDFC Bank and ICICI Bank. Fintech lenders and payments apps compete for its retail customers.",
+    "WATCH": "Loan margins as interest rates fall, the RBI's move to expected-credit-loss provisioning, growth of retail loans, and MD Debadatta Chand's extended term from July 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which banks merged into Bank of Baroda in 2019?",
+     "options": [
+      "Syndicate Bank",
+      "Andhra Bank",
+      "Vijaya Bank and Dena Bank",
+      "Oriental Bank of Commerce"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Bank of Baroda's mobile app called?",
+     "options": [
+      "YONO",
+      "PNB One",
+      "iMobile",
+      "bob World"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which state-owned bank is larger than Bank of Baroda?",
+     "options": [
+      "SBI",
+      "Canara Bank",
+      "Union Bank",
+      "Indian Bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-owned Bank of Baroda is a large public bank with a big overseas network and the bob World app. Watch loan margins as rates fall and new provisioning rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "punjab-national-bank",
+   "name": "Punjab National Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Ashok Chandra",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "PNB is a government-owned bank offering savings accounts, farm, home and business loans and corporate banking, strongest in north India. Oriental Bank of Commerce and United Bank of India merged into it in 2020.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Low-cost savings deposits and corporate, farm and small-business loans drive income; recoveries from old bad loans add to profit.",
+    "SIZE": "One of India's largest public sector banks, with one of the biggest branch networks in the north. It has thousands of branches across India. It is especially strong in Punjab and Delhi.",
+    "RIVALS": "SBI, Bank of Baroda, Canara Bank, Union Bank of India, HDFC Bank and ICICI Bank. Private banks are taking share in retail loans in its home markets. Fintech lenders also compete.",
+    "WATCH": "Loan margins as interest rates fall, the RBI's move to expected-credit-loss provisioning, retail loan growth, and recoveries from bad loans. Also watch growth in its farm and small-business loans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which banks merged into PNB in 2020?",
+     "options": [
+      "Vijaya and Dena",
+      "Oriental Bank of Commerce and United Bank of India",
+      "Syndicate Bank",
+      "Andhra and Corporation Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which region is PNB strongest in?",
+     "options": [
+      "South India",
+      "Northeast only",
+      "North India",
+      "Overseas"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is a public sector rival of PNB?",
+     "options": [
+      "Yes Bank",
+      "IDFC First Bank",
+      "AU Small Finance Bank",
+      "Canara Bank"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-owned PNB is a large public bank strongest in north India, enlarged by 2020 mergers. Watch loan margins, new provisioning rules and bad-loan recoveries.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "canara-bank",
+   "name": "Canara Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Brajesh Kumar Singh",
+    "leader_role": "CEO & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Canara Bank is a government-owned bank offering savings accounts, farm, home, gold and business loans and corporate banking, strongest in south India. Syndicate Bank merged into it in 2020. In 2025 it listed its life insurance venture Canara HSBC Life and its fund house Canara Robeco.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Retail, farm and small-business loans, including gold loans, bring a large share of income alongside corporate lending.",
+    "SIZE": "One of India's largest public sector banks. It has thousands of branches across India and is especially strong in Karnataka. It was founded in Mangaluru in 1906.",
+    "RIVALS": "SBI, Bank of Baroda, Punjab National Bank, Union Bank of India, HDFC Bank and ICICI Bank. In gold loans it also faces Muthoot Finance and Manappuram. Fintechs compete too.",
+    "WATCH": "New MD and CEO Brajesh Kumar Singh, who took charge in June 2026, loan margins as rates fall, the RBI's expected-credit-loss rules, and gold-loan growth."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank merged into Canara Bank in 2020?",
+     "options": [
+      "Syndicate Bank",
+      "Dena Bank",
+      "Andhra Bank",
+      "Allahabad Bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Canara ventures listed in 2025?",
+     "options": [
+      "Canara Steel",
+      "Canara HSBC Life and Canara Robeco",
+      "Canara Power",
+      "Canara Airlines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who became Canara Bank's CEO and MD in June 2026?",
+     "options": [
+      "Debadatta Chand",
+      "Ashok Chandra",
+      "Brajesh Kumar Singh",
+      "Asheesh Pandey"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Government-owned Canara Bank is a large public bank strongest in south India, which listed its insurance and fund arms in 2025. Watch new CEO Brajesh Kumar Singh.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "union-bank-of",
+   "name": "Union Bank of India",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Asheesh Pandey",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Union Bank of India is a government-owned bank offering savings accounts, home, vehicle, farm and business loans and corporate banking. Andhra Bank and Corporation Bank merged into it in 2020.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Corporate and retail, farm and small-business loans drive income, and recoveries from older bad loans have helped profit.",
+    "SIZE": "One of India's five largest public sector banks. It has thousands of branches across India, especially strong in Maharashtra and the south. It was founded in 1919.",
+    "RIVALS": "SBI, Bank of Baroda, Punjab National Bank, Canara Bank, HDFC Bank and ICICI Bank. Private banks are taking share in retail loans in its home markets. Fintechs compete too.",
+    "WATCH": "Its plan to raise fresh capital, loan margins as interest rates fall, the RBI's expected-credit-loss rules, and retail growth under MD Asheesh Pandey."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which banks merged into Union Bank in 2020?",
+     "options": [
+      "Vijaya and Dena Bank",
+      "Syndicate Bank",
+      "Oriental Bank of Commerce",
+      "Andhra Bank and Corporation Bank"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who is Union Bank of India's MD and CEO?",
+     "options": [
+      "Asheesh Pandey",
+      "A. Manimekhalai",
+      "Rajiv Anand",
+      "Ashok Chandra"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which is a public sector rival of Union Bank?",
+     "options": [
+      "Kotak Mahindra Bank",
+      "Bank of Baroda",
+      "Federal Bank",
+      "IndusInd Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Government-owned Union Bank of India grew through 2020 mergers with Andhra and Corporation Bank. Watch fresh capital raising, loan margins and retail growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "idfc-first-bank",
+   "name": "IDFC First Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "V. Vaidyanathan",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "IDFC First Bank offers savings accounts, credit cards, home, vehicle, personal and small-business loans, plus microfinance. It was formed in 2018 by merging IDFC Bank with Capital First, and merged its parent IDFC Ltd into itself in 2024.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Retail and small-business loans bring most of its income at high yields, but it spends heavily to build branches and deposits.",
+    "SIZE": "One of India's fast-growing mid-sized private banks. It has grown its deposits and branch network quickly since the 2018 merger. It is known for paying higher savings rates to win deposits.",
+    "RIVALS": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, IndusInd Bank and Bajaj Finance. In credit cards and personal loans it also faces fintech lenders.",
+    "WATCH": "Microfinance stress, bringing down its high operating costs, deposit growth, and how it uses fresh capital raised from global firms in 2025. Also watch credit card losses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which lender merged with IDFC Bank in 2018?",
+     "options": [
+      "Bandhan",
+      "Equitas",
+      "Capital First",
+      "Shriram City"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What brings most of IDFC First Bank's income?",
+     "options": [
+      "Fund management",
+      "Insurance",
+      "Stock broking",
+      "Retail and small-business loans"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a rival of IDFC First Bank?",
+     "options": [
+      "Axis Bank",
+      "BSE",
+      "GAIL",
+      "LIC"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "IDFC First Bank lends to retail and small-business customers at high yields and is building deposits. Watch microfinance stress, operating costs and use of fresh capital.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "federal-bank",
+   "name": "Federal Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Aluva, Kerala",
+    "leader": "KVS Manian",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Federal Bank offers savings accounts, gold, home, vehicle and business loans and corporate banking, with deep roots in Kerala. It handles a large share of money sent home by Indians working abroad, especially in the Gulf.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Low-cost NRI deposits help keep its funding cheap, while retail and corporate loans drive income.",
+    "SIZE": "One of India's larger old private banks and a leading bank for NRI remittances. It has a large branch network in Kerala and growing presence across India.",
+    "RIVALS": "South Indian Bank, CSB Bank, HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank. For NRI deposits it also competes with banks like SBI. Fintech remittance apps also compete.",
+    "WATCH": "Its shift to higher-yielding loans under MD KVS Manian, Blackstone's minority stake announced in 2025, and growth outside south India. Also watch deposit costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which state is Federal Bank based in?",
+     "options": [
+      "Punjab",
+      "Kerala",
+      "Gujarat",
+      "Bihar"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What helps keep Federal Bank's funding cheap?",
+     "options": [
+      "Government grants",
+      "Toll income",
+      "Low-cost NRI deposits",
+      "Gold mining"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global firm announced a minority stake in Federal Bank in 2025?",
+     "options": [
+      "KKR",
+      "Carlyle",
+      "Temasek",
+      "Blackstone"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Kerala-based Federal Bank is strong in NRI remittances and deposits. Watch its shift to higher-yielding loans under KVS Manian and Blackstone's minority stake.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "au-small-finance-bank",
+   "name": "AU Small Finance Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Jaipur, Rajasthan",
+    "leader": "Sanjay Agrawal",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "AU Small Finance Bank offers savings accounts, vehicle loans, secured small-business loans, home loans and credit cards, strongest in Rajasthan and western India. It merged with Fincare Small Finance Bank in 2024 and received in-principle RBI approval in 2025 to become a universal bank.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees. Wheels and secured small-business loans are its largest businesses, while cards and microfinance add higher-yield income.",
+    "SIZE": "India's largest small finance bank. It became a small finance bank in 2017 after starting as a vehicle finance company in Jaipur, and now has branches across many states.",
+    "RIVALS": "Equitas, Ujjivan and Jana Small Finance Banks, plus IDFC First Bank, IndusInd Bank and Shriram Finance. Larger banks such as HDFC Bank compete for its vehicle loan customers.",
+    "WATCH": "Its transition to a universal bank licence, credit quality in microfinance and cards, and deposit growth outside Rajasthan. Also watch costs of the Fincare merger."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank merged with AU in 2024?",
+     "options": [
+      "Fincare Small Finance Bank",
+      "Equitas",
+      "Ujjivan",
+      "Jana"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What licence did AU get in-principle RBI approval for in 2025?",
+     "options": [
+      "Payments bank",
+      "Universal bank",
+      "Insurance",
+      "Stock exchange"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which is a small finance bank rival of AU?",
+     "options": [
+      "SBI",
+      "HDFC Bank",
+      "Equitas",
+      "Bank of Baroda"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "AU is India's largest small finance bank, lending for vehicles and small businesses, and is moving to a universal bank licence. Watch that transition and credit quality.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "yes-bank",
+   "name": "Yes Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Prashant Kumar",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Yes Bank offers savings accounts, retail, small-business and corporate loans, credit cards and UPI payments. It was rescued in 2020 by an SBI-led group of lenders, and Japan's SMBC became its largest shareholder in 2025.",
+    "EARNS": "It earns the interest gap between deposits and loans plus fees, including a large payments business. Profit has recovered as bad-loan costs fell, but its margins are still lower than larger private banks.",
+    "SIZE": "A mid-sized private bank and one of India's largest processors of UPI payments. It has branches across India and a large corporate client base. It was founded in 2004.",
+    "RIVALS": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, IndusInd Bank and IDFC First Bank. In payments it competes with banks and apps that process UPI.",
+    "WATCH": "SMBC's plans as the largest shareholder, improving margins and profitability, and leadership and board changes after the stake sale. Also watch legal cases tied to its 2020 rescue."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Japanese bank became Yes Bank's largest shareholder in 2025?",
+     "options": [
+      "MUFG",
+      "Mizuho",
+      "Nomura",
+      "SMBC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which bank led Yes Bank's rescue in 2020?",
+     "options": [
+      "SBI",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Bank of Baroda"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which payments system is Yes Bank a big processor of?",
+     "options": [
+      "SWIFT only",
+      "UPI",
+      "Cheques only",
+      "Visa only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Yes Bank, rescued by an SBI-led group in 2020, is now largely owned by Japan's SMBC. Watch SMBC's plans and whether margins improve.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "icici-lombard-general-insurance",
+   "name": "ICICI Lombard",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sanjeev Mantri",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ICICI Lombard sells general insurance: motor, health, home, travel, fire, marine and business cover, to individuals and companies. It sells through agents, brokers, banks such as ICICI Bank, car dealers and its IL TakeCare app.",
+    "EARNS": "It earns from underwriting, collecting more in premiums than it pays in claims and costs, plus income on the premiums it holds before paying claims. Motor and health are its largest lines.",
+    "SIZE": "India's largest private general insurer. It insures millions of vehicles and families and is a leading insurer for companies' property and employee health cover.",
+    "RIVALS": "New India Assurance, Bajaj General, HDFC ERGO, Tata AIG, Go Digit and Star Health in health. Online insurers such as Acko also compete for motor and health customers.",
+    "WATCH": "Health insurance demand after GST was removed from individual health policies in 2025, motor third-party price revisions, and the new law allowing composite insurers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of insurance does ICICI Lombard sell?",
+     "options": [
+      "Life insurance",
+      "Crop loans",
+      "General insurance",
+      "Reinsurance only"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which are ICICI Lombard's largest lines?",
+     "options": [
+      "Marine and aviation",
+      "Pet and travel",
+      "Life and pension",
+      "Motor and health"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a state-owned rival of ICICI Lombard?",
+     "options": [
+      "New India Assurance",
+      "HDFC Life",
+      "SBI Life",
+      "LIC"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ICICI Lombard is India's largest private general insurer, led by motor and health cover. Watch health demand after the 2025 GST removal and motor price revisions.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "icici-prudential-life-insurance",
+   "name": "ICICI Prudential Life",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Anup Bagchi",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ICICI Prudential Life, a venture of ICICI Bank and Britain's Prudential, sells life insurance: unit-linked plans, savings plans, term cover such as iProtect Smart, annuities and group schemes. Much of its business comes through ICICI Bank branches.",
+    "EARNS": "It earns the margin built into policies over their life, plus fees on unit-linked funds. Protection and annuity products earn higher margins than unit-linked plans, which bring a large share of premiums.",
+    "SIZE": "One of India's top private life insurers. It has one of the largest pools of policyholder funds among private insurers and a long record in unit-linked plans.",
+    "RIVALS": "HDFC Life, SBI Life, Axis Max Life, Bajaj Life and LIC. Bank-owned insurers like SBI Life and HDFC Life are its closest peers. LIC remains the largest overall.",
+    "WATCH": "Demand after GST was removed from individual life policies in 2025, IRDAI rules on surrender values, growth beyond ICICI Bank's branches, and its product mix."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank is ICICI Prudential Life's main sales partner?",
+     "options": [
+      "SBI",
+      "ICICI Bank",
+      "HDFC Bank",
+      "Axis Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which products earn ICICI Prudential Life higher margins?",
+     "options": [
+      "Unit-linked plans",
+      "Motor insurance",
+      "Protection and annuities",
+      "Credit cards"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which is a private life insurance rival?",
+     "options": [
+      "ICICI Lombard",
+      "Star Health",
+      "New India Assurance",
+      "HDFC Life"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ICICI Prudential Life sells unit-linked, savings, term and annuity plans, mostly through ICICI Bank. Watch demand after the 2025 GST removal and its product mix.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hdfc-asset-management",
+   "name": "HDFC Asset Management (HDFC Mutual Fund)",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Navneet Munot",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "HDFC AMC runs HDFC Mutual Fund, offering equity, debt, hybrid and index funds to individuals through SIPs, distributors, banks and apps, plus portfolio management and alternative funds. HDFC Bank is its promoter.",
+    "EARNS": "It earns a management fee charged as a share of the money it manages. Equity funds earn the highest fees and bring in most of its revenue. Costs are low compared with fees, so profit margins are high.",
+    "SIZE": "One of India's two largest mutual fund houses and among its most profitable asset managers. Its funds are among the most popular with people saving through SIPs.",
+    "RIVALS": "SBI Mutual Fund, ICICI Prudential AMC, Nippon India, Kotak Mahindra AMC and Axis Mutual Fund, plus low-cost index fund players. Online platforms such as Zerodha Coin also offer funds.",
+    "WATCH": "SEBI's overhaul of mutual fund expense ratios, monthly SIP inflows, competition from passive funds and new entrants such as Jio BlackRock. Also watch whether market falls cut fee income."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does HDFC AMC mainly earn?",
+     "options": [
+      "Fees as a share of money managed",
+      "Interest on loans",
+      "Insurance premiums",
+      "Trading commissions"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which type of fund earns HDFC AMC the highest fees?",
+     "options": [
+      "Liquid funds",
+      "Equity funds",
+      "Gold ETFs",
+      "Overnight funds"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which new fund house entered as a rival?",
+     "options": [
+      "Bharat Electronics",
+      "Polycab",
+      "Jio BlackRock",
+      "GAIL"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "HDFC AMC runs HDFC Mutual Fund, one of India's two largest, earning fees mainly on equity funds. Watch SEBI's expense-ratio changes, SIP flows and new rivals.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bse",
+   "name": "BSE",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sundararaman Ramamurthy",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "BSE, Asia's oldest stock exchange, founded in 1875, runs trading in shares, derivatives on the Sensex index, and a platform for small companies. It runs BSE StAR MF, a mutual fund transaction platform, and India INX in GIFT City.",
+    "EARNS": "It earns transaction fees on trades, listing fees from companies and fees from its data and mutual fund platforms. Fees on Sensex options have become its biggest and fastest-growing earner since 2023.",
+    "SIZE": "India's second-largest stock exchange after NSE and one of the oldest exchanges in the world. It has the largest number of listed companies of any Indian exchange.",
+    "RIVALS": "NSE in shares and derivatives, MCX in commodities and Metropolitan Stock Exchange. MCX competes in commodities, and NSE IX in GIFT City competes with India INX.",
+    "WATCH": "SEBI's curbs on retail derivatives trading, changes to weekly expiry days, competition with NSE including NSE's own listing plan, and growth of StAR MF."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which index's options drive BSE's fastest-growing fees?",
+     "options": [
+      "Nifty",
+      "Bank Nifty",
+      "Dow Jones",
+      "Sensex"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is BSE's mutual fund platform called?",
+     "options": [
+      "BSE StAR MF",
+      "MF Central",
+      "Groww",
+      "Coin"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who is BSE's main rival?",
+     "options": [
+      "MCX",
+      "NSE",
+      "CDSL",
+      "SEBI"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "BSE, Asia's oldest exchange, earns trading, listing and platform fees, with Sensex options now its biggest earner. Watch SEBI's derivatives curbs and NSE competition.",
+   "review": "unreviewed"
+  }
+ ]
+}

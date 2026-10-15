@@ -1,0 +1,2901 @@
+{
+ "_meta": {
+  "batch": "008",
+  "about": "Nifty 500 companies L to R (batch-008 targets). Leaders checked on the web in Oct 2026 where marked 'Oct 2026'; others marked not re-checked.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "lg-electronics",
+   "name": "LG Electronics India",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Hong Ju Jeon",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "LG Electronics India makes and sells LG televisions, refrigerators, washing machines, air conditioners and microwaves to Indian households, plus commercial displays for businesses. It is the Indian arm of South Korea's LG Electronics and listed on the Indian stock exchanges in October 2025.",
+    "EARNS": "It earns by selling appliances and electronics through dealers, large retail chains, LG brand shops and e-commerce, with after-sales service income on top. Home appliances such as refrigerators, washing machines and air conditioners bring in most of its revenue, ahead of televisions.",
+    "SIZE": "One of India's largest home-appliance and consumer-electronics companies and a long-time leader in washing machines and refrigerators. Its factories in Greater Noida and Pune make most of what it sells in India.",
+    "RIVALS": "Samsung across most categories, Whirlpool and Godrej in refrigerators and washing machines, Voltas, Daikin and Blue Star in air conditioners, and Sony, TCL and Xiaomi in televisions.",
+    "WATCH": "Its new factory at Sri City in Andhra Pradesh, announced to add capacity for appliances and components, its plans to use India as an export base for the LG group, and the royalty it pays its Korean parent."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product group brings in most of LG Electronics India's revenue?",
+     "options": [
+      "Smartphones",
+      "Laptops",
+      "Home appliances like fridges and washing machines",
+      "Car infotainment systems"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which Korean company is LG India's closest rival across most categories?",
+     "options": [
+      "Samsung",
+      "Hyundai",
+      "Kia",
+      "SK Hynix"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Where is LG Electronics India building a new factory?",
+     "options": [
+      "Sanand, Gujarat",
+      "Hosur, Tamil Nadu",
+      "Chakan, Maharashtra",
+      "Sri City, Andhra Pradesh"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "LG Electronics India sells LG televisions, fridges, washing machines and air conditioners. Home appliances lead its sales. It listed in 2025; watch its new Sri City factory.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lic-housing-finance",
+   "name": "LIC Housing Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sandeep Kumar",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "LIC Housing Finance lends money to people to buy or build homes, and also offers loans against property and loans to builders for housing projects. It was promoted by Life Insurance Corporation of India, still its largest shareholder, and finds many customers through LIC agents and its own offices.",
+    "EARNS": "It earns the gap between the interest it charges on long-term home loans and what it pays to borrow through bonds, bank loans and public deposits. Home loans to individual, mostly salaried, borrowers make up the large majority of its loan book.",
+    "SIZE": "One of India's largest housing finance companies by loan book, with offices across the country and a long record of home loans to middle-class families.",
+    "RIVALS": "Bajaj Housing Finance, PNB Housing Finance and Aadhar Housing Finance, plus banks such as SBI, HDFC Bank and ICICI Bank, which dominate home lending and compete hard on rates.",
+    "WATCH": "How Sandeep Kumar, who took over as MD and CEO in August 2026, protects margins as banks compete hard on home-loan rates, its push into affordable housing loans, and the quality of its loans to builders."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which institution promoted LIC Housing Finance and is its largest shareholder?",
+     "options": [
+      "State Bank of India",
+      "Life Insurance Corporation of India",
+      "General Insurance Corporation",
+      "National Housing Bank"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What makes up most of LIC Housing Finance's loan book?",
+     "options": [
+      "Gold loans",
+      "Credit cards",
+      "Tractor loans",
+      "Home loans to individuals"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became LIC Housing Finance's MD and CEO in August 2026?",
+     "options": [
+      "Sandeep Kumar",
+      "Siddhartha Mohanty",
+      "Tribhuwan Adhikari",
+      "Atul Jain"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "LIC Housing Finance, promoted by LIC, mainly lends home loans to salaried individuals. It earns the interest spread. Sandeep Kumar became MD and CEO in August 2026.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lt-foods",
+   "name": "LT Foods (Daawat)",
+   "type": "listed",
+   "industry": "fmcg",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ashwani Arora",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "LT Foods sells basmati and other specialty rice under brands such as Daawat in India and Royal in the US, plus ready-to-cook and ready-to-heat meals and organic food ingredients. It buys paddy, ages and mills it, and sells to households, retailers and food businesses in India, North America, Europe and the Middle East.",
+    "EARNS": "It earns a margin on branded and bulk rice, helped by aged basmati, which fetches higher prices. Overseas markets, led by North America and Europe, bring in the majority of its revenue, and branded basmati is its largest business.",
+    "SIZE": "One of India's largest basmati rice companies. Daawat is among the top basmati brands in India and Royal is one of the leading basmati brands in the US.",
+    "RIVALS": "KRBL (India Gate) is its closest rival, along with Tilda, Amira, Sri Lal Mahal and Chaman Lal Setia, and supermarket private labels abroad. In ready-to-eat foods it faces MTR and Haldiram's.",
+    "WATCH": "Trade rules such as US tariffs and curbs on Indian rice exports, paddy prices after each harvest, its push into ready-to-eat foods, and its new Daawat campaign with actor Shah Rukh Khan."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is LT Foods' best-known basmati brand in India?",
+     "options": [
+      "India Gate",
+      "Tilda",
+      "Daawat",
+      "Kohinoor"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of LT Foods' revenue come from?",
+     "options": [
+      "Overseas markets like North America and Europe",
+      "Government rice procurement",
+      "Restaurants it owns",
+      "Selling paddy seeds"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company owns India Gate, LT Foods' main basmati rival?",
+     "options": [
+      "Adani Wilmar",
+      "Tata Consumer",
+      "ITC",
+      "KRBL"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "LT Foods sells Daawat and Royal basmati rice worldwide, earning most revenue overseas. It rivals KRBL's India Gate. Watch rice trade rules and its ready-to-eat push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "laurus-labs",
+   "name": "Laurus Labs",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Satyanarayana Chava",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Laurus Labs makes active pharmaceutical ingredients and finished generic medicines, especially for HIV, and does contract development and manufacturing for global drug companies. Its biotech arm, Laurus Bio, makes enzymes and other fermentation-based products.",
+    "EARNS": "It earns from supply contracts and product sales to drugmakers and global health programmes. Its contract development and manufacturing (CDMO) business for innovator drug companies has become its fastest-growing and most profitable segment, while generics still bring in a large share.",
+    "SIZE": "One of the world's largest makers of HIV antiretroviral ingredients and one of India's leading CDMO players, with large manufacturing sites in Andhra Pradesh and Telangana.",
+    "RIVALS": "Divi's Laboratories, Syngene, Piramal Pharma and Cohance Lifesciences in CDMO, and Aurobindo Pharma, Hetero and Cipla in HIV medicines, plus Chinese ingredient makers.",
+    "WATCH": "New CDMO projects for global innovator companies, new manufacturing capacity in Andhra Pradesh, cell and gene therapy work through its stake in ImmunoACT, and how much it still relies on HIV medicines."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which therapy area is Laurus Labs best known for in generics?",
+     "options": [
+      "Diabetes",
+      "HIV",
+      "Dermatology",
+      "Vaccines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Laurus Labs business has become its fastest-growing and most profitable?",
+     "options": [
+      "Consumer health brands",
+      "Hospital chain",
+      "Contract development and manufacturing (CDMO)",
+      "Crop protection"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a CDMO rival of Laurus Labs?",
+     "options": [
+      "Divi's Laboratories",
+      "Mankind Pharma",
+      "Apollo Hospitals",
+      "Dabur"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Laurus Labs makes HIV medicines and ingredients and runs a fast-growing contract manufacturing business for global drugmakers. Rivals include Divi's and Syngene. Watch new CDMO projects.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lemon-tree-hotels",
+   "name": "Lemon Tree Hotels",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Neelendra Singh",
+    "leader_role": "MD & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Lemon Tree Hotels runs mid-priced and upscale hotels under brands such as Aurika, Lemon Tree Premier, Lemon Tree Hotels, Red Fox and Keys, for business and leisure travellers. It owns some hotels and manages or franchises many more for property owners.",
+    "EARNS": "Owned hotels earn room rent plus food and banquet income, while managed and franchised hotels earn fees linked to their revenue. Owned hotels bring in most of its revenue; the fee business is growing fast and needs little capital.",
+    "SIZE": "One of India's largest mid-priced hotel chains by number of hotels, present in many cities and smaller towns. Its Aurika near Mumbai airport is one of its biggest hotels.",
+    "RIVALS": "IHCL's Ginger and Vivanta, Marriott's Fairfield and Four Points, Accor's Ibis and Novotel, ITC's Fortune and Welcomhotel, Chalet Hotels and Samhi Hotels.",
+    "WATCH": "Its announced restructuring that puts owned hotels under its subsidiary Fleur Hotels, founder Patu Keswani's move to non-executive chairman from April 2027, and how fast it signs new managed and franchised hotels."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is Lemon Tree's upscale hotel brand?",
+     "options": [
+      "Ginger",
+      "Vivanta",
+      "Fairfield",
+      "Aurika"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How do Lemon Tree's managed and franchised hotels make money for it?",
+     "options": [
+      "Room rent it keeps in full",
+      "Fees linked to the hotels' revenue",
+      "Government grants",
+      "Selling hotel land"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became MD and CEO of Lemon Tree Hotels in October 2025?",
+     "options": [
+      "Puneet Chhatwal",
+      "Kapil Chopra",
+      "Neelendra Singh",
+      "Sanjiv Puri"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Lemon Tree runs mid-priced hotels like Lemon Tree, Red Fox and Aurika, owning some and managing many. Neelendra Singh is CEO; watch its Fleur Hotels restructuring.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "linde",
+   "name": "Linde India",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Milan Sadhukhan",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Linde India supplies industrial gases such as oxygen, nitrogen and argon, medical oxygen for hospitals, specialty gases, and gas plants it builds for customers. Buyers include steel mills, hospitals, chemical makers and electronics companies. It is controlled by the global Linde group.",
+    "EARNS": "It earns by selling gas through long-term supply contracts from plants at customer sites, by trucking liquid gas and cylinders to smaller users, and from engineering projects. The gases business is its largest and steadiest earner, while project income goes up and down.",
+    "SIZE": "One of India's largest industrial gas companies, with air separation plants near major steel and industrial hubs, especially in eastern India, and a long history in the country going back to British Oxygen.",
+    "RIVALS": "INOX Air Products, Air Liquide India and Ellenbarrie Industrial Gases, plus steelmakers such as JSW Steel and Tata Steel that run their own gas plants, and smaller regional gas suppliers.",
+    "WATCH": "New air separation plants for steel customers, demand for electronics and semiconductor gases, the leadership of Milan Sadhukhan, who became MD in January 2026, and the overlap with Linde's other Indian company, Praxair India."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Linde India mainly sell?",
+     "options": [
+      "Industrial gases like oxygen and nitrogen",
+      "Paints",
+      "Fertilisers",
+      "Lubricants"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a direct rival of Linde India?",
+     "options": [
+      "Pidilite",
+      "INOX Air Products",
+      "Asian Paints",
+      "Tata Chemicals"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who became Linde India's Managing Director in January 2026?",
+     "options": [
+      "Abhijit Banerjee",
+      "Siddharth Jain",
+      "Sanjiv Lamba",
+      "Milan Sadhukhan"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Linde India supplies oxygen, nitrogen and other industrial gases to steel mills and hospitals, mostly under long contracts. It rivals INOX Air Products. Milan Sadhukhan leads it.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lloyds-metals-and-energy",
+   "name": "Lloyds Metals and Energy",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "B. Prabhakaran",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Lloyds Metals and Energy mines iron ore at Surjagarh in Gadchiroli, Maharashtra, and makes sponge iron and power at Ghugus in Chandrapur. It sells iron ore to steelmakers and is building pellet plants, a slurry pipeline and steelmaking capacity to process more of its own ore.",
+    "EARNS": "Iron ore mining is by far its largest and most profitable business, helped by low-cost ore from its own mine. Sponge iron and power add smaller revenue, and it plans to earn more by turning ore into pellets and steel.",
+    "SIZE": "One of India's largest private merchant iron ore miners and the biggest industrial company in Gadchiroli district, a region it helped open up for mining.",
+    "RIVALS": "NMDC and Odisha miners such as Odisha Mining Corporation and Rungta Mines in iron ore, and Jindal Steel, JSW Steel and Godawari Power and Ispat in sponge iron and pellets.",
+    "WATCH": "The announced expansion of its Surjagarh mine, the slurry pipeline and pellet plant, its planned integrated steel plant in Gadchiroli, and environmental and security issues in a forested, Maoist-affected region."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Lloyds Metals' main iron ore mine?",
+     "options": [
+      "Bailadila, Chhattisgarh",
+      "Joda, Odisha",
+      "Surjagarh, Gadchiroli",
+      "Bellary, Karnataka"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business brings in most of Lloyds Metals' profit?",
+     "options": [
+      "Iron ore mining",
+      "Cement",
+      "Coal trading",
+      "Real estate"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What is Lloyds Metals planning to build in Gadchiroli?",
+     "options": [
+      "A car factory",
+      "An integrated steel plant",
+      "A cement plant",
+      "An oil refinery"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Lloyds Metals mines low-cost iron ore at Surjagarh in Gadchiroli and makes sponge iron. Mining drives profits. Watch its pellet plant, pipeline and planned steel plant.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mmtc",
+   "name": "MMTC",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Nitin Kumar Yadav",
+    "leader_role": "Chairman & MD",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "MMTC is a government-owned trading company under the Ministry of Commerce that once handled India's exports of minerals like iron ore and imports of gold, silver, fertilisers and other commodities. Its trading shrank sharply after the government ended many of its exclusive roles, and it sold its stake in Neelachal Ispat Nigam to Tata Steel in 2022.",
+    "EARNS": "Today it earns little from trading; much of its income comes from interest, rent and recovery of old dues. Precious metals and minerals were historically its largest trading lines.",
+    "SIZE": "Once one of India's largest public-sector trading houses, it is now a much smaller company with a lean operation and few active trading lines, kept alive mainly by legacy assets and dues.",
+    "RIVALS": "State Trading Corporation (STC) and PEC among government traders, and private trading houses, and banks and nominated agencies that import gold and silver bullion.",
+    "WATCH": "What the government decides about the future of its state trading companies, settlement of legacy disputes and dues, and its leadership: CMD Nitin Kumar Yadav also holds charge of STC and PEC."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company did MMTC sell its Neelachal Ispat Nigam stake to in 2022?",
+     "options": [
+      "JSW Steel",
+      "Jindal Steel",
+      "Tata Steel",
+      "SAIL"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which government trading company is closest to MMTC?",
+     "options": [
+      "State Trading Corporation (STC)",
+      "Coal India",
+      "NMDC",
+      "RITES"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Where does much of MMTC's income come from today?",
+     "options": [
+      "Gold exports",
+      "Iron ore exports",
+      "Retail jewellery stores",
+      "Interest, rent and old dues"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "MMTC is a government trading company that once dominated mineral exports and gold imports. Its trading has shrunk sharply. Watch the government's decision on its future.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mtar-technologies",
+   "name": "MTAR Technologies",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Parvat Srinivas Reddy",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "MTAR Technologies makes precision-engineered parts and assemblies for clean energy, nuclear power, space and defence, including fuel cell units for Bloom Energy, rocket engine parts for ISRO and reactor components for nuclear plants. It also supplies oilfield tools to companies like Weatherford.",
+    "EARNS": "It earns from order-based manufacturing for a few large customers. Clean energy, led by fuel cell assemblies for Bloom Energy, is its largest segment, while nuclear, space and defence work brings steadier but lumpier revenue.",
+    "SIZE": "A specialised mid-sized engineering company and one of India's leading private suppliers of critical parts to India's nuclear and space programmes, with long relationships with ISRO and nuclear agencies.",
+    "RIVALS": "Azad Engineering, Larsen & Toubro's heavy engineering and defence units, Godrej Enterprises' aerospace business, Walchandnagar Industries and Paras Defence.",
+    "WATCH": "The large orders it won in FY26, demand for fuel cells to power AI data centres, India's push for new nuclear reactors including small modular reactors, and its dependence on one big customer."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which US company buys fuel cell assemblies from MTAR?",
+     "options": [
+      "Plug Power",
+      "Ballard Power",
+      "FuelCell Energy",
+      "Bloom Energy"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is MTAR's largest segment?",
+     "options": [
+      "Nuclear",
+      "Clean energy",
+      "Space",
+      "Oil and gas"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of MTAR in precision aerospace and energy parts?",
+     "options": [
+      "Azad Engineering",
+      "Asian Paints",
+      "Havells",
+      "Dixon Technologies"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "MTAR makes precision parts for clean energy, nuclear, space and defence, led by fuel cell units for Bloom Energy. Watch data-centre demand and India's nuclear push.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mahanagar-gas",
+   "name": "Mahanagar Gas (MGL)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Praveer Kumar Srivastava",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Mahanagar Gas supplies piped natural gas to homes, shops and factories and compressed natural gas (CNG) for cars, autos, taxis and buses across Mumbai, Thane and Raigad. It is promoted by GAIL and the Maharashtra government and owns Unison Enviro, which runs city gas in Ratnagiri, Kolhapur and Latur.",
+    "EARNS": "It buys natural gas, part of it cheaper domestic gas allotted by the government for CNG and household supply, and earns a margin distributing it. CNG for vehicles is by far its largest segment.",
+    "SIZE": "One of India's largest city gas distributors and the main gas supplier to the Mumbai region, serving a large share of the city's homes and much of its CNG vehicle fleet.",
+    "RIVALS": "Indraprastha Gas and Gujarat Gas among city gas companies, and indirectly petrol, diesel, LPG and electric vehicles, which compete with CNG for customers.",
+    "WATCH": "Cuts in its allotment of cheaper domestic gas, which force it to use costlier gas, the shift of taxis and buses to electric, growth in its new licence areas, and the new MD Praveer Kumar Srivastava, who joined from GAIL in April 2026."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which is Mahanagar Gas's largest segment?",
+     "options": [
+      "Industrial piped gas",
+      "CNG for vehicles",
+      "LPG cylinders",
+      "Electricity"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a promoter of Mahanagar Gas?",
+     "options": [
+      "ONGC",
+      "Reliance",
+      "Indian Oil",
+      "GAIL"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is Mahanagar Gas's closest peer, serving Delhi?",
+     "options": [
+      "Indraprastha Gas",
+      "Petronet LNG",
+      "Adani Total Gas",
+      "Gujarat Gas"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Mahanagar Gas supplies CNG and piped gas across Mumbai, Thane and Raigad. CNG is its biggest earner. Watch domestic gas allotment cuts and electric bus adoption.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "manappuram-finance",
+   "name": "Manappuram Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Thrissur, Kerala",
+    "leader": "V.P. Nandakumar",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Manappuram Finance gives short-term loans against household gold jewellery through a large branch network concentrated in South India, plus online gold loans. Through subsidiaries it also offers microfinance (Asirvad), vehicle loans and home loans. Bain Capital took joint control of the company alongside its founder in 2026.",
+    "EARNS": "It earns interest on gold loans, which are quick to give and backed by gold that can be auctioned if a borrower defaults. Gold loans are its largest and most profitable business, while microfinance has been the main source of its credit losses.",
+    "SIZE": "India's second-largest gold loan company after Muthoot Finance, with thousands of branches and a long-established brand among small borrowers in the south.",
+    "RIVALS": "Muthoot Finance and IIFL Finance among gold loan companies, plus banks such as Federal Bank, SBI and HDFC Bank that are pushing hard into gold loans with lower rates.",
+    "WATCH": "Changes under Bain Capital's joint control, including new board members and management, RBI's new rules on gold loans, swings in gold prices, and the recovery of its Asirvad microfinance unit after past RBI curbs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which private equity firm took joint control of Manappuram Finance in 2026?",
+     "options": [
+      "KKR",
+      "Blackstone",
+      "Bain Capital",
+      "Warburg Pincus"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "What is Manappuram Finance's largest and most profitable business?",
+     "options": [
+      "Gold loans",
+      "Credit cards",
+      "Home loans",
+      "Insurance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is India's largest gold loan company and Manappuram's main rival?",
+     "options": [
+      "Bajaj Finance",
+      "Shriram Finance",
+      "Cholamandalam Finance",
+      "Muthoot Finance"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Manappuram Finance lends against gold jewellery through branches mainly in South India, with a microfinance arm. Bain Capital now shares control. Rival Muthoot Finance is bigger.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "max-financial-services",
+   "name": "Max Financial Services",
+   "type": "listed",
+   "industry": "insurtech",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Analjit Singh",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Max Financial Services is the listed holding company of Axis Max Life Insurance, which sells term insurance, savings plans, unit-linked plans and pensions. It owns most of the insurer, with Axis Bank holding the rest; the insurer was renamed from Max Life in late 2024 to reflect that partnership.",
+    "EARNS": "Its value comes almost entirely from Axis Max Life, which earns from premiums, the margin on protection and savings products, and income on the funds it manages for policyholders. Axis Bank's branches are its largest sales channel, alongside agents and online sales.",
+    "SIZE": "Axis Max Life is one of India's largest private life insurers and is known for a strong position in online term insurance and a long-standing reputation for settling claims.",
+    "RIVALS": "SBI Life, HDFC Life, ICICI Prudential Life and Bajaj Life among private insurers, and the state-owned LIC, which is still the market leader by a wide margin.",
+    "WATCH": "The removal of GST on individual life insurance policies in 2025, insurance law changes allowing full foreign ownership of insurers, and how much business continues to flow through its tie-up with Axis Bank."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which life insurer does Max Financial Services own?",
+     "options": [
+      "Tata AIA Life",
+      "Axis Max Life Insurance",
+      "Bajaj Life",
+      "Aditya Birla Sun Life"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Axis Max Life's largest sales channel?",
+     "options": [
+      "Axis Bank branches",
+      "Post offices",
+      "Car dealers",
+      "Telecom stores"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a private-sector rival of Axis Max Life?",
+     "options": [
+      "Star Health",
+      "Bajaj Finance",
+      "LIC Housing Finance",
+      "SBI Life"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Max Financial Services is the holding company of Axis Max Life Insurance, sold largely through Axis Bank branches. It competes with SBI Life, HDFC Life and LIC.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "minda",
+   "name": "Minda Corporation (Spark Minda)",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Ashok Minda",
+    "leader_role": "Chairman & Group CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Minda Corporation, the flagship of the Spark Minda group, makes auto parts such as vehicle locks and security systems, die-cast parts, wiring harnesses, instrument clusters, sensors and EV parts like chargers and motor controllers. Its customers are two-wheeler, car and commercial vehicle makers in India and abroad.",
+    "EARNS": "It earns from supply contracts with vehicle makers, with two-wheeler makers its largest customers. Its two main segments are mechatronics, led by locks and die-cast parts, and information and connected systems, led by wiring harnesses and instrument clusters.",
+    "SIZE": "One of India's leading auto component makers and a top supplier of vehicle security systems to two-wheeler makers, with plants across India and some overseas.",
+    "RIVALS": "Uno Minda, a separate Minda family company, along with Motherson Sumi Wiring, Varroc Engineering, Pricol and Sona Comstar in various parts, plus global suppliers like Bosch.",
+    "WATCH": "Its stake in Flash Electronics, bought to grow its EV electronics business, technology tie-ups with global partners, and how fast EV parts grow as two-wheeler makers go electric."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group is Minda Corporation the flagship of?",
+     "options": [
+      "Uno Minda",
+      "Spark Minda",
+      "Motherson",
+      "Murugappa"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Minda Corporation's largest customers?",
+     "options": [
+      "Airlines",
+      "Two-wheeler makers",
+      "Railways",
+      "Shipbuilders"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company did Minda Corporation buy a stake in to grow its EV electronics?",
+     "options": [
+      "Flash Electronics",
+      "Dixon Technologies",
+      "Kaynes Technology",
+      "Syrma SGS"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Minda Corporation, the Spark Minda flagship, makes locks, die-castings, wiring harnesses and EV parts, mostly for two-wheeler makers. Watch its Flash Electronics stake and EV growth.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "motherson-sumi-wiring",
+   "name": "Motherson Sumi Wiring India",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Vivek Chaand Sehgal",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Motherson Sumi Wiring India makes wiring harnesses, the bundles of wires and connectors that carry power and signals through a vehicle, for carmakers, two-wheeler makers and truck makers in India. It is a joint venture of the Motherson group and Japan's Sumitomo Wiring Systems, and was demerged from Samvardhana Motherson in 2022.",
+    "EARNS": "It earns by supplying harnesses designed for each vehicle model under long-term relationships with automakers. Passenger vehicles are its largest segment, with Maruti Suzuki its biggest customer, and electric vehicles need more complex, higher-value harnesses.",
+    "SIZE": "India's largest maker of vehicle wiring harnesses, supplying most major vehicle makers in the country from plants spread across the country's main auto hubs.",
+    "RIVALS": "Yazaki, Aptiv, Minda Corporation and Uno Minda, plus smaller local harness makers that supply two-wheeler, tractor and commercial vehicle makers across India.",
+    "WATCH": "The new plants it has opened to follow automakers' expansions, growth in wiring for electric and hybrid vehicles, and copper price swings, which it passes on to customers with a delay."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Motherson Sumi Wiring India mainly make?",
+     "options": [
+      "Tyres",
+      "Car seats",
+      "Brake systems",
+      "Vehicle wiring harnesses"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Japanese company is Motherson's partner in this joint venture?",
+     "options": [
+      "Denso",
+      "Sumitomo Wiring Systems",
+      "Yazaki",
+      "Furukawa Electric"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which global company is a wiring harness rival?",
+     "options": [
+      "Bharat Forge",
+      "Exide Industries",
+      "Aptiv",
+      "Apollo Tyres"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Motherson Sumi Wiring India, a Motherson and Sumitomo joint venture, is India's largest maker of vehicle wiring harnesses. Maruti Suzuki is its biggest customer. Watch EV wiring demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "motilal-oswal-financial-services",
+   "name": "Motilal Oswal Financial Services",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Motilal Oswal",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Motilal Oswal Financial Services offers stockbroking and research to retail and institutional clients, wealth management, mutual funds and portfolio management through Motilal Oswal AMC, private equity funds, capital-raising advice for companies, and home loans through Motilal Oswal Home Finance.",
+    "EARNS": "It earns broking commissions, fees on the money it manages for clients, wealth advisory fees and interest on loans, plus gains on its own treasury holdings. Asset and wealth management have become its fastest-growing and steadiest earners, while broking income moves with market activity.",
+    "SIZE": "One of India's largest full-service brokerages and one of the faster-growing fund managers, known for its research team and a large network of franchise partners.",
+    "RIVALS": "Zerodha, Groww and Angel One in broking, Nuvama and 360 ONE WAM in wealth management, and HDFC and ICICI Prudential mutual funds in asset management, plus bank-owned brokers.",
+    "WATCH": "SEBI's tighter rules on futures and options trading, which cut retail trading volumes, growth of its mutual fund and wealth businesses, and expansion of its private wealth team for rich families."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which of these businesses does Motilal Oswal run?",
+     "options": [
+      "A mutual fund house",
+      "A general insurer",
+      "A cement plant",
+      "A payments bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a broking rival of Motilal Oswal?",
+     "options": [
+      "Paytm",
+      "Angel One",
+      "Bajaj Finance",
+      "Nippon Life"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which regulator's rules on futures and options trading affect Motilal Oswal's broking income?",
+     "options": [
+      "RBI",
+      "IRDAI",
+      "PFRDA",
+      "SEBI"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Motilal Oswal runs broking, wealth management, mutual funds and home loans. Asset and wealth management are its steadiest earners. Watch SEBI's derivatives rules and fund flows.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "natco-pharma",
+   "name": "NATCO Pharma",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Rajeev Nannapaneni",
+    "leader_role": "Vice Chairman & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NATCO Pharma develops and makes generic medicines, especially complex and first-to-file cancer drugs, for the US and India, and also sells crop protection products. In the US it often partners with larger companies such as Teva and Viatris to launch its generics.",
+    "EARNS": "Most of its profit comes from US launches of hard-to-make generics, shared with partners, where limited competition keeps prices high for a while. Its biggest product has been generic Revlimid (lenalidomide), whose volume-limited sales period ended in early 2026.",
+    "SIZE": "A mid-sized Indian drugmaker known as one of the country's leading developers of niche cancer generics and for winning many patent challenges in the US.",
+    "RIVALS": "Dr Reddy's, Cipla, Sun Pharma and Zydus Lifesciences in US generics, and Hetero and Glenmark in Indian cancer medicines, and other generic makers once US exclusivity periods end.",
+    "WATCH": "Its purchase of a large stake in South African drugmaker Adcock Ingram, the end of limited competition on generic Revlimid, new US patent challenges and its crop health business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which drug has been NATCO's biggest product?",
+     "options": [
+      "Generic Humira",
+      "Generic Januvia",
+      "Generic Eliquis",
+      "Generic Revlimid"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which South African drugmaker is NATCO buying a large stake in?",
+     "options": [
+      "Adcock Ingram",
+      "Aspen Pharmacare",
+      "Dis-Chem",
+      "Clicks Group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which company is a US generics rival of NATCO?",
+     "options": [
+      "Dr Reddy's",
+      "Apollo Hospitals",
+      "Metropolis",
+      "Thyrocare"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "NATCO Pharma makes niche cancer generics, earning most profit from US launches like generic Revlimid. Watch life after Revlimid and its Adcock Ingram stake in South Africa.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nbcc",
+   "name": "NBCC (India)",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "K.P. Mahadevaswamy",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NBCC (India) is a government-owned project management and construction company. It redevelops government colonies and offices in Delhi, builds hospitals, universities and offices for ministries, and sells homes and commercial space it develops. It also completed stalled Amrapali housing projects under Supreme Court orders.",
+    "EARNS": "Its largest business is project management consultancy, where it earns a fee on government projects it manages while subcontractors do the building. Sales of homes and offices from redevelopment projects add lumpier income.",
+    "SIZE": "One of India's largest public-sector project management and construction firms, a Navratna company under the Ministry of Housing and Urban Affairs, with projects across India.",
+    "RIVALS": "Engineers India, RITES and Ircon among government firms, and private contractors such as Larsen & Toubro, Shapoorji Pallonji, Tata Projects and Ahluwalia Contracts.",
+    "WATCH": "Redevelopment of government colonies in Delhi such as Sarojini Nagar, new mandates to finish stalled private housing projects, and how fast it sells the commercial space it builds."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is NBCC's largest business?",
+     "options": [
+      "Cement making",
+      "Project management consultancy",
+      "Toll roads",
+      "Power generation"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which builder's stalled housing projects did NBCC complete under Supreme Court orders?",
+     "options": [
+      "DLF",
+      "Godrej Properties",
+      "Amrapali",
+      "Sobha"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which government company is a rival of NBCC?",
+     "options": [
+      "Engineers India",
+      "Coal India",
+      "Indian Oil",
+      "BHEL"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "NBCC is a government project management firm that redevelops Delhi colonies and builds public buildings, earning fees on projects. Watch redevelopment sales and stalled-housing mandates.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ncc",
+   "name": "NCC",
+   "type": "listed",
+   "industry": "construction-infrastructure",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "A.A.V. Ranga Raju",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NCC is a construction company that builds buildings, roads, water supply and irrigation systems, power transmission and distribution networks, metro and railway works, and also does mining services for government and private clients across India.",
+    "EARNS": "It earns contract revenue from projects it bids for and wins. Buildings and water projects are its largest segments, and much of its work comes from state governments and central schemes such as the Jal Jeevan Mission.",
+    "SIZE": "One of India's larger listed construction companies, with a large order book spread across many states and decades of experience in public works for state and central agencies.",
+    "RIVALS": "Larsen & Toubro, KEC International, Afcons Infrastructure, PNC Infratech, J Kumar Infraprojects and Dilip Buildcon, all of which bid for the same government contracts.",
+    "WATCH": "Slow payments from state governments for water projects, how fast new orders come in as central funding changes, and the smart electricity meter installation work it has taken on."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which are NCC's largest segments?",
+     "options": [
+      "Buildings and water projects",
+      "Shipbuilding",
+      "Telecom towers",
+      "Airlines"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a construction rival of NCC?",
+     "options": [
+      "Pidilite",
+      "Asian Paints",
+      "KEC International",
+      "Havells"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What issue should you watch for NCC's water projects?",
+     "options": [
+      "Monsoon tourism",
+      "Slow payments from state governments",
+      "Import duties on rice",
+      "Spectrum auctions"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "NCC builds buildings, water systems, roads and power networks, mostly for state governments. Buildings and water lead revenue. Watch state payment delays and new orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nlc",
+   "name": "NLC India",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Neyveli, Tamil Nadu",
+    "leader": "Prasanna Kumar Motupalli",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NLC India mines lignite at Neyveli in Tamil Nadu and in Rajasthan, and coal in Odisha, and uses it to generate electricity it sells to state power utilities, mainly in southern India. It also runs solar and wind plants, which it has moved into a subsidiary, NLC India Renewables.",
+    "EARNS": "Most of its revenue comes from selling electricity at tariffs set by regulators on a cost-plus basis, which lets it recover costs and earn a regulated profit. Thermal power from lignite is its largest business, and its mines mainly feed its own plants.",
+    "SIZE": "India's largest lignite miner and one of the biggest state-owned power generators in southern India, a Navratna company under the Ministry of Coal with a history going back to the 1950s.",
+    "RIVALS": "NTPC, Coal India and Tamil Nadu's state power generator in power and mining, along with private generators such as Adani Power, JSW Energy and Tata Power.",
+    "WATCH": "Its plan to list NLC India Renewables, the Ghatampur thermal plant in Uttar Pradesh built with the state's power utility, its Talabira coal mine in Odisha, and land and pollution issues around Neyveli."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which fuel does NLC India mainly mine at Neyveli?",
+     "options": [
+      "Lignite",
+      "Natural gas",
+      "Uranium",
+      "Iron ore"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How are NLC India's power tariffs mostly set?",
+     "options": [
+      "By auction every day",
+      "By regulators on a cost-plus basis",
+      "By customers freely",
+      "By coal importers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which NLC India subsidiary holds its solar and wind plants?",
+     "options": [
+      "NTPC Green Energy",
+      "Adani Green",
+      "NLC India Renewables",
+      "Tata Power Renewable"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "NLC India mines lignite at Neyveli and sells power from it to southern states at regulated tariffs. Watch the listing of its renewables arm and new thermal plants.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nmdc-steel",
+   "name": "NMDC Steel",
+   "type": "listed",
+   "industry": "metals-materials",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Amitava Mukherjee",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NMDC Steel runs a large integrated steel plant at Nagarnar in Bastar, Chhattisgarh, making hot-rolled coils, plates and sheets for construction, pipes, engineering and automotive users. It was demerged from iron ore miner NMDC and listed separately in 2023, and the government plans to sell its stake.",
+    "EARNS": "It earns by selling hot-rolled steel, using iron ore from NMDC's nearby Bailadila mines. Its profits depend on steel prices and the cost of imported coking coal, and the young plant has been working to raise output and cut costs.",
+    "SIZE": "A single-plant steelmaker and one of India's newer large steel plants, still ramping up its output next to much older, established steel giants in the public and private sectors.",
+    "RIVALS": "Tata Steel, JSW Steel, SAIL, ArcelorMittal Nippon Steel India and Jindal Steel, all of which sell hot-rolled coils and plates in the same markets, plus imports.",
+    "WATCH": "The government's planned strategic sale of the company, how fast the Nagarnar plant reaches full output and steady profits, and the effect of cheap steel imports and safeguard duties."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is NMDC Steel's plant?",
+     "options": [
+      "Bhilai, Chhattisgarh",
+      "Rourkela, Odisha",
+      "Vizag, Andhra Pradesh",
+      "Nagarnar, Chhattisgarh"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What major cost affects NMDC Steel's profits besides iron ore?",
+     "options": [
+      "Imported coking coal",
+      "Natural rubber",
+      "Cotton",
+      "Crude palm oil"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "What has the government planned for NMDC Steel?",
+     "options": [
+      "A merger with Coal India",
+      "A strategic sale of its stake",
+      "Conversion into a bank",
+      "Closing the plant"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "NMDC Steel runs the new Nagarnar steel plant in Chhattisgarh, demerged from NMDC in 2023. Watch its output ramp-up and the government's planned sale of its stake.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "narayana-hrudayalaya",
+   "name": "Narayana Health (Narayana Hrudayalaya)",
+   "type": "listed",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Emmanuel Rupert",
+    "leader_role": "MD & Group CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Narayana Hrudayalaya runs the Narayana Health chain of multi-specialty hospitals in India, known for heart surgery, and Health City Cayman Islands in the Caribbean. It has also started its own health insurance business, Narayana Health Insurance.",
+    "EARNS": "It earns from surgeries, treatments, diagnostics and pharmacy sales at its hospitals. Indian hospitals bring in most of the revenue, but the Cayman Islands hospital is highly profitable and contributes a large share of earnings.",
+    "SIZE": "One of India's major hospital chains, founded by cardiac surgeon Dr Devi Shetty and known for high-volume, low-cost surgery, especially heart operations.",
+    "RIVALS": "Apollo Hospitals, Manipal Hospitals, Fortis Healthcare, Max Healthcare and Aster DM Healthcare in India, and private hospitals in the Cayman Islands and the US for foreign patients.",
+    "WATCH": "Its purchase of Practice Plus Group's hospitals in the UK, new hospitals in Bengaluru and Kolkata, and the growth of its own health insurance business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which overseas hospital is part of Narayana Health?",
+     "options": [
+      "Health City Cayman Islands",
+      "Mayo Clinic Dubai",
+      "Bumrungrad Bangkok",
+      "Mount Elizabeth Singapore"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "In which country is Narayana Health buying hospitals from Practice Plus Group?",
+     "options": [
+      "United States",
+      "Singapore",
+      "United Kingdom",
+      "Australia"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which hospital chain is a rival of Narayana Health?",
+     "options": [
+      "Dr Lal PathLabs",
+      "Apollo Hospitals",
+      "Metropolis",
+      "Thyrocare"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Narayana Health runs heart-focused hospitals in India and a profitable hospital in the Cayman Islands. Founded by Dr Devi Shetty. Watch its UK hospital purchase and insurance arm.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nava",
+   "name": "Nava (Nava Bharat Ventures)",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Ashwin Devineni",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Nava, formerly Nava Bharat Ventures, generates power, mines coal and makes ferro alloys. Its biggest asset is the Maamba coal mine and power plant in Zambia, which sells electricity to Zambia's state utility; in India it runs power plants and ferro alloy plants in Telangana and Odisha.",
+    "EARNS": "The Zambian coal-and-power business brings in most of its profit through a long-term power purchase agreement with the state utility, Zesco. Indian power and ferro alloys add the rest, with ferro alloy prices swinging with the steel cycle.",
+    "SIZE": "A mid-sized diversified company and one of the largest private power producers in Zambia, with a smaller but long-running power and ferro alloy business in India.",
+    "RIVALS": "Indian Metals & Ferro Alloys (IMFA) and Maithan Alloys in ferro alloys, and Indian power producers such as JSW Energy, CESC and state generators that sell to the same utilities.",
+    "WATCH": "Collection of dues from Zambia's state utility Zesco, the second phase of the Maamba power plant, ferro alloy prices, and how it uses cash from Zambia in its Indian businesses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Nava's biggest asset, the Maamba coal and power plant?",
+     "options": [
+      "Zambia",
+      "Indonesia",
+      "Mozambique",
+      "Australia"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who buys the electricity from Nava's Maamba plant?",
+     "options": [
+      "Coal India",
+      "Zambia's state utility Zesco",
+      "NTPC",
+      "Telangana's government"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a ferro alloy rival of Nava?",
+     "options": [
+      "Hindalco",
+      "Vedanta Aluminium",
+      "Asian Paints",
+      "Indian Metals & Ferro Alloys (IMFA)"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Nava runs a coal mine and power plant in Zambia that earns most of its profit, plus power and ferro alloy plants in India. Watch Zesco dues and Maamba's expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "navin-fluorine-international",
+   "name": "Navin Fluorine International",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vishad Mafatlal",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Navin Fluorine makes fluorine-based chemicals: refrigerant gases, inorganic fluorides, specialty chemicals for agrochemical and pharma makers, and contract development and manufacturing for global innovator companies. It is part of the Arvind Mafatlal group.",
+    "EARNS": "It earns from long-term supply and development contracts with global chemical and pharma companies, plus sales of refrigerant gases. High-performance products such as refrigerants and specialty chemicals for crop protection are its largest earners, and CDMO adds high-value work.",
+    "SIZE": "One of India's largest fluorochemical companies, alongside SRF and Gujarat Fluorochemicals, with large plants in Surat and Dahej in Gujarat and a history going back several decades.",
+    "RIVALS": "SRF, Gujarat Fluorochemicals and Tanfac Industries in India, and large Chinese fluorochemical makers that compete hard on price for the same global customers.",
+    "WATCH": "New capacity for low-impact refrigerant gases made under an agreement with Honeywell, new specialty chemical plants at Dahej, and the global phase-down of older refrigerant gases."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of chemicals is Navin Fluorine known for?",
+     "options": [
+      "Fluorine-based chemicals",
+      "Paints and coatings",
+      "Fertilisers",
+      "Petrochemicals from naphtha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a major Indian rival of Navin Fluorine?",
+     "options": [
+      "Asian Paints",
+      "Pidilite",
+      "SRF",
+      "Tata Chemicals' soda ash unit"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Which US company has a refrigerant gas manufacturing agreement with Navin Fluorine?",
+     "options": [
+      "Chemours",
+      "Honeywell",
+      "DuPont",
+      "3M"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Navin Fluorine makes refrigerant gases, specialty fluorochemicals and contract-made molecules for global companies. It rivals SRF and Gujarat Fluorochemicals. Watch its Honeywell refrigerant deal.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "netweb-technologies",
+   "name": "Netweb Technologies",
+   "type": "listed",
+   "industry": "it-services",
+   "profile": {
+    "hq": "Faridabad, Haryana",
+    "leader": "Sanjay Lodha",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Netweb Technologies designs and makes high-performance computing systems, AI servers, private cloud and storage systems in India under its Tyrone brand. Customers include government research labs, universities, defence bodies, data centres and large companies, and it has built supercomputers under India's National Supercomputing Mission.",
+    "EARNS": "It earns by selling and installing complete computing systems, often built with chips from Nvidia, Intel and AMD, plus support services. AI systems and high-performance computing are its largest and fastest-growing lines.",
+    "SIZE": "One of India's leading homegrown makers of supercomputers and AI servers, and a beneficiary of the government's production-linked incentive scheme for IT hardware.",
+    "RIVALS": "Global server makers such as Dell, Hewlett Packard Enterprise, Lenovo and Supermicro, plus local system integrators that bid for government computing contracts.",
+    "WATCH": "Orders under the IndiaAI Mission for GPU computing, its manufacturing of Nvidia-based AI servers in India, and its dependence on a few large government and enterprise contracts."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Netweb Technologies' brand of computing systems?",
+     "options": [
+      "Tyrone",
+      "PowerEdge",
+      "ThinkSystem",
+      "ProLiant"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which line is Netweb's largest and fastest-growing?",
+     "options": [
+      "Mobile phones",
+      "AI systems and high-performance computing",
+      "Printers",
+      "Smart TVs"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global company is a rival of Netweb in servers?",
+     "options": [
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Supermicro"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Netweb makes supercomputers, AI servers and storage in India under the Tyrone brand for labs, government and data centres. It rivals Dell and HPE. Watch IndiaAI Mission orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "neuland-laboratories",
+   "name": "Neuland Laboratories",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Sucheth Davuluri",
+    "leader_role": "Vice Chairman & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Neuland Laboratories makes active pharmaceutical ingredients for generic drugmakers and custom-manufactures complex molecules, including peptides, for innovator drug companies at its plants in Telangana. Most of its customers are in the US, Europe and Japan.",
+    "EARNS": "It earns from selling generic ingredients and from custom manufacturing contracts with innovator companies. Custom manufacturing has become its most profitable segment, while generic ingredients bring steadier revenue.",
+    "SIZE": "A mid-sized specialist ingredient and contract manufacturer, known among global customers for complex chemistry and peptides, with long relationships with several large drug companies.",
+    "RIVALS": "Divi's Laboratories, Laurus Labs, Dishman Carbogen Amcis and Aarti Pharmalabs in India, and Chinese ingredient and contract manufacturers that compete on cost.",
+    "WATCH": "Its new peptide manufacturing capacity, the lumpy timing of innovator orders from quarter to quarter, and US moves to cut reliance on Chinese biotech suppliers, which could shift work to India."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which complex molecules is Neuland building new capacity for?",
+     "options": [
+      "Vaccines",
+      "Peptides",
+      "Insulin pens",
+      "Blood plasma"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which Neuland segment is its most profitable?",
+     "options": [
+      "Retail pharmacies",
+      "Generic tablets",
+      "Custom manufacturing for innovators",
+      "Diagnostics"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Neuland?",
+     "options": [
+      "Divi's Laboratories",
+      "Apollo Hospitals",
+      "Dr Lal PathLabs",
+      "Mankind Pharma's consumer unit"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Neuland Laboratories makes drug ingredients and custom molecules, including peptides, for global drugmakers. Custom manufacturing is most profitable. Watch peptide capacity and China-related shifts.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nippon-life-asset-management",
+   "name": "Nippon Life India Asset Management",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Sundeep Sikka",
+    "leader_role": "ED & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Nippon Life India Asset Management runs Nippon India Mutual Fund, offering equity, debt, hybrid and index funds and ETFs, and also manages portfolio and alternative funds. It is controlled by Japan's Nippon Life Insurance, which took over from Reliance Capital in 2019.",
+    "EARNS": "It earns a small fee on the assets it manages, so its income rises as fund assets grow. Equity funds carry the highest fees and are its main earner, and it is one of the largest ETF providers in India.",
+    "SIZE": "One of India's largest mutual fund houses by assets and a leader in exchange-traded funds by number of customer accounts, with a long track record that dates back to its years as Reliance Mutual Fund.",
+    "RIVALS": "SBI Mutual Fund, ICICI Prudential AMC, HDFC AMC, Kotak Mahindra AMC and Aditya Birla Sun Life AMC, plus low-cost newcomers such as Zerodha Fund House.",
+    "WATCH": "SEBI's revised rules on the fees fund houses can charge, monthly SIP inflows from small savers, and its growth in alternative funds and its GIFT City business."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which Japanese company controls Nippon Life India AMC?",
+     "options": [
+      "SoftBank",
+      "Nippon Life Insurance",
+      "Mitsubishi UFJ",
+      "Dai-ichi Life"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Nippon Life India AMC mainly earn?",
+     "options": [
+      "Interest on home loans",
+      "A fee on the assets it manages",
+      "Insurance premiums",
+      "Trading commissions on derivatives"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which fund house is a rival of Nippon India Mutual Fund?",
+     "options": [
+      "HDFC AMC",
+      "Star Health",
+      "Bajaj Housing Finance",
+      "Paytm Money's bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Nippon Life India AMC runs Nippon India Mutual Fund and earns fees on assets it manages, led by equity funds and ETFs. Watch SEBI's fee rules and SIP flows.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nuvama-wealth-management",
+   "name": "Nuvama Wealth Management",
+   "type": "listed",
+   "industry": "capital-markets",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Ashish Kehair",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Nuvama Wealth Management, formerly Edelweiss Wealth Management, offers wealth management to rich families, broking and research, custody and clearing services for institutions, and capital-markets advice. It was demerged from Edelweiss and listed in 2023, and is controlled by private equity firm PAG.",
+    "EARNS": "It earns fees and commissions on client assets, interest on loans against securities, and fees from custody and clearing. Wealth management, especially for very rich clients, is its largest segment, while capital markets income swings with trading activity.",
+    "SIZE": "One of India's largest independent wealth managers and a fast-growing provider of custody and clearing services to foreign institutions and domestic funds.",
+    "RIVALS": "360 ONE WAM, ASK Wealth, Kotak Private Banking, Motilal Oswal and IIFL Capital in wealth and broking, and banks such as HDFC Bank and ICICI Bank in private banking.",
+    "WATCH": "Its push into alternative funds and managed products, SEBI's futures and options rules that affect its trading income, and growth of its custody and clearing business for foreign funds."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was Nuvama formerly called?",
+     "options": [
+      "Edelweiss Wealth Management",
+      "IIFL Wealth",
+      "Kotak Securities",
+      "Religare Broking"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which private equity firm controls Nuvama?",
+     "options": [
+      "Bain Capital",
+      "KKR",
+      "Blackstone",
+      "PAG"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a wealth management rival of Nuvama?",
+     "options": [
+      "Zomato",
+      "360 ONE WAM",
+      "Nykaa",
+      "Policybazaar"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Nuvama, formerly Edelweiss Wealth, serves rich families, brokers trades and offers custody services. Wealth management leads. PAG controls it. Watch alternative funds and derivatives rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nuvoco-vistas",
+   "name": "Nuvoco Vistas",
+   "type": "listed",
+   "industry": "cement-building-materials",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Jayakumar Krishnaswamy",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Nuvoco Vistas makes cement under brands such as Concreto, Duraguard, Double Bull and Infracem, plus ready-mix concrete and other building materials. It is part of the Nirma group and grew by buying Lafarge's Indian cement business and Emami Cement, and more recently took over Vadraj Cement through insolvency.",
+    "EARNS": "It earns by selling cement through dealers to homebuilders and in bulk to builders and infrastructure projects. Eastern India is its largest market, and its premium brands earn better margins.",
+    "SIZE": "One of India's top cement makers by capacity and among the largest in eastern India, with plants and grinding units spread across the east, north and centre of the country.",
+    "RIVALS": "UltraTech, Ambuja Cements and ACC (Adani group), Shree Cement, Dalmia Bharat, JK Lakshmi Cement and Star Cement, all competing for dealers and builders in the same regions.",
+    "WATCH": "Integration of Vadraj Cement in Gujarat, which takes it into western India, new capacity additions, cement price swings, and the cost of fuel and freight."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group owns Nuvoco Vistas?",
+     "options": [
+      "Birla group",
+      "Nirma group",
+      "Adani group",
+      "Murugappa group"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Nuvoco's largest market?",
+     "options": [
+      "South India",
+      "Western India",
+      "Eastern India",
+      "Exports"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which cement company did Nuvoco take over through insolvency?",
+     "options": [
+      "Vadraj Cement",
+      "Binani Cement",
+      "Jaypee Cement",
+      "Sanghi Industries"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Nuvoco Vistas, a Nirma group company, sells cement like Concreto and Duraguard, mainly in eastern India. Watch the integration of Vadraj Cement and cement price swings.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "oil",
+   "name": "Oil India",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Duliajan, Assam",
+    "leader": "Ranjit Rath",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Oil India explores for and produces crude oil and natural gas, mainly in Assam and Arunachal Pradesh, and sells them to refiners and gas users. It owns a majority of Numaligarh Refinery in Assam and holds stakes in oil and gas fields abroad.",
+    "EARNS": "It earns from selling crude oil at prices linked to global benchmarks and gas at government-set prices. Crude oil is its largest revenue source, and Numaligarh Refinery adds refining profits to its group results.",
+    "SIZE": "India's second-largest state-owned oil and gas producer after ONGC, and a Maharatna company under the Ministry of Petroleum and Natural Gas, with a history in Assam going back decades.",
+    "RIVALS": "ONGC is the much larger state-owned producer, alongside Vedanta's Cairn Oil & Gas and Reliance in gas, while imported crude competes for the same refiners.",
+    "WATCH": "The expansion of Numaligarh Refinery, new exploration in the Andaman offshore and other frontier areas, tie-ups with global oil companies, and government-set gas prices."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which refinery does Oil India own a majority of?",
+     "options": [
+      "Numaligarh Refinery",
+      "Mangalore Refinery",
+      "Bina Refinery",
+      "Panipat Refinery"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Oil India's largest source of revenue?",
+     "options": [
+      "Natural gas",
+      "Petrol pumps",
+      "Crude oil",
+      "Solar power"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which state-owned company is larger than Oil India in oil and gas production?",
+     "options": [
+      "GAIL",
+      "BPCL",
+      "Petronet LNG",
+      "ONGC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Oil India produces crude oil and gas mainly in Assam and owns most of Numaligarh Refinery. Crude oil leads revenue. Watch refinery expansion and offshore exploration.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "olectra-greentech",
+   "name": "Olectra Greentech",
+   "type": "listed",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "K.V. Pradeep",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Olectra Greentech makes electric buses using technology from China's BYD, plus electric trucks and tippers, and polymer insulators for power lines. It is part of the Megha Engineering & Infrastructures (MEIL) group.",
+    "EARNS": "Most of its money comes from electric buses, which it sells or supplies to state transport bodies on long-term leases through group company Evey Trans, which is paid per kilometre. Insulators are a small but steady business.",
+    "SIZE": "One of India's leading electric bus makers, with large fleets running in cities such as Mumbai, Hyderabad and Pune, and one of the earliest companies to put electric buses on Indian roads.",
+    "RIVALS": "Tata Motors, JBM Auto, PMI Electro Mobility, Switch Mobility (Ashok Leyland) and EKA Mobility, all of which bid for the same state electric bus tenders.",
+    "WATCH": "Its new large factory at Seetharampur near Hyderabad, delivery of big orders from Maharashtra's state transport corporation that have faced delays, and the central PM e-Drive scheme for electric buses."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which business group does Olectra belong to?",
+     "options": [
+      "Megha Engineering (MEIL)",
+      "Hinduja group",
+      "Mahindra group",
+      "GMR group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does group company Evey Trans earn from Olectra buses on lease?",
+     "options": [
+      "Ticket sales only",
+      "Advertising on buses",
+      "Per-kilometre fees from transport bodies",
+      "Selling used buses"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a rival of Olectra in electric buses?",
+     "options": [
+      "Hero MotoCorp",
+      "JBM Auto",
+      "Ather Energy",
+      "Bajaj Auto"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Olectra Greentech makes electric buses and trucks, often leased to state transport bodies on per-kilometre contracts. Part of MEIL. Watch its new factory and delayed Maharashtra orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "onesource-specialty-pharma",
+   "name": "OneSource Specialty Pharma",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Neeraj Sharma",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "OneSource Specialty Pharma is a contract developer and manufacturer for complex medicines: biologics, drug-device combinations such as GLP-1 pens and cartridges, soft gelatin capsules and sterile injectables. It was formed from Stelis Biopharma and listed in 2025 after being spun out of Strides Pharma.",
+    "EARNS": "It earns development fees and long-term manufacturing contracts from global and Indian drugmakers. Drug-device combinations, especially for GLP-1 drugs such as semaglutide as patents expire in many countries, are its fastest-growing line.",
+    "SIZE": "A young, mid-sized contract manufacturer and one of India's few specialised makers of GLP-1 cartridges and pens, serving drugmakers preparing generic launches.",
+    "RIVALS": "Syngene, Biocon Biologics, Piramal Pharma and Gland Pharma in India, and global contract manufacturers such as Lonza and Samsung Biologics that also make biologics and injectables.",
+    "WATCH": "Semaglutide patent expiry in markets such as Canada, Brazil and India in 2026, which drives demand for generic GLP-1 pens, new client contracts, and its capacity expansion in Bengaluru."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company was OneSource spun out of?",
+     "options": [
+      "Strides Pharma",
+      "Biocon",
+      "Cipla",
+      "Lupin"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is OneSource's fastest-growing line?",
+     "options": [
+      "Generic tablets",
+      "Drug-device combinations like GLP-1 pens",
+      "Animal health",
+      "Hospital services"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Whose patent expiry in 2026 drives demand for OneSource's GLP-1 pens?",
+     "options": [
+      "Insulin glargine",
+      "Adalimumab",
+      "Paracetamol",
+      "Semaglutide"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "OneSource Specialty Pharma makes complex medicines and GLP-1 pens for drugmakers under contract. It was spun out of Strides. Watch semaglutide patent expiries and new contracts.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pcbl-chemical",
+   "name": "PCBL Chemical",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Kolkata, West Bengal",
+    "leader": "Kaushik Roy",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "PCBL Chemical, formerly Phillips Carbon Black, makes carbon black, the material that strengthens tyres and gives them their colour, plus specialty carbon blacks for plastics, inks and coatings. Through Aquapharm, bought in 2023, it also makes water-treatment chemicals. It is part of the RP-Sanjiv Goenka group.",
+    "EARNS": "It earns by selling carbon black to tyre makers such as MRF, Apollo Tyres and CEAT and to global customers through exports. Tyre-grade carbon black is its largest segment, while specialty blacks and Aquapharm's chemicals earn higher margins.",
+    "SIZE": "India's largest carbon black maker and one of the bigger carbon black producers in the world, with plants in several Indian states and exports to many countries.",
+    "RIVALS": "Birla Carbon, Cabot, Orion Engineered Carbons and Himadri Speciality Chemical, plus cheaper imports from China and Russia that compete on price with Indian makers.",
+    "WATCH": "Capacity expansions in India, new battery materials such as conductive carbon and nano silicon for electric vehicles, Aquapharm's growth in the US, and tyre demand."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is PCBL Chemical's main product?",
+     "options": [
+      "Carbon black",
+      "Rubber latex",
+      "Steel cord",
+      "Nylon tyre cord"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are PCBL's biggest customers?",
+     "options": [
+      "Paint companies",
+      "Tyre makers",
+      "Pharma companies",
+      "Airlines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a carbon black rival of PCBL?",
+     "options": [
+      "Birla Carbon",
+      "Pidilite",
+      "Balkrishna Industries",
+      "Supreme Industries"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "PCBL Chemical is India's largest carbon black maker, selling mainly to tyre companies, and also makes water-treatment chemicals. Watch new capacity and battery materials for EVs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pg-electroplast",
+   "name": "PG Electroplast",
+   "type": "listed",
+   "industry": "consumer-durables",
+   "profile": {
+    "hq": "Greater Noida, Uttar Pradesh",
+    "leader": "Vikas Gupta",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "PG Electroplast is a contract manufacturer that makes room air conditioners, washing machines, air coolers, plastic parts and, through a joint venture, televisions for well-known appliance brands, which sell them under their own names.",
+    "EARNS": "It earns by manufacturing finished products and components on contract. Room air conditioners and their parts are its largest segment, which makes its business seasonal and tied to summer demand.",
+    "SIZE": "One of India's leading contract manufacturers of room air conditioners and washing machines, with factories in several states serving many of the country's best-known appliance brands.",
+    "RIVALS": "Amber Enterprises, Dixon Technologies and EPACK Durable, plus appliance brands such as LG and Daikin that choose to make products in their own factories instead.",
+    "WATCH": "New plants in Rajasthan and Andhra Pradesh, the government's incentive scheme for AC components, and weather risk: a cool, wet summer in 2025 hurt AC demand and left brands with unsold stock."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product is PG Electroplast's largest segment?",
+     "options": [
+      "Smartphones",
+      "Room air conditioners",
+      "Laptops",
+      "Electric scooters"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a contract manufacturing rival of PG Electroplast?",
+     "options": [
+      "Voltas",
+      "Havells",
+      "Amber Enterprises",
+      "Blue Star"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What hurt AC demand for PG Electroplast's customers in 2025?",
+     "options": [
+      "A cool, wet summer",
+      "A ban on imports",
+      "A new GST on fans",
+      "A copper shortage"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "PG Electroplast makes air conditioners, washing machines and parts for appliance brands under contract. ACs dominate, so summer weather matters. Watch new plants and AC demand.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pnb-housing-finance",
+   "name": "PNB Housing Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Ajai Kumar Shukla",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "PNB Housing Finance gives home loans, loans against property and some construction finance, with a growing focus on affordable and first-time borrowers through its Roshni product line and its emerging-markets business. Punjab National Bank is its promoter.",
+    "EARNS": "It earns the gap between the interest it charges on home loans and its cost of borrowing from banks, bond markets and public deposits. Individual home loans are the bulk of its book, while affordable and emerging-market loans earn higher interest rates.",
+    "SIZE": "One of India's largest housing finance companies by loan book, with branches across the country and a turnaround story after cleaning up bad loans to builders.",
+    "RIVALS": "LIC Housing Finance, Bajaj Housing Finance, Aadhar Housing Finance, Aavas Financiers and Home First Finance, plus banks such as SBI and HDFC Bank that dominate home loans.",
+    "WATCH": "Leadership after former MD and CEO Girish Kousgi's exit in 2025, expansion of branches for affordable housing loans, competition on home-loan rates from banks, and asset quality in its new segments."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bank is the promoter of PNB Housing Finance?",
+     "options": [
+      "State Bank of India",
+      "Bank of Baroda",
+      "Punjab National Bank",
+      "Canara Bank"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is PNB Housing's affordable home loan product line called?",
+     "options": [
+      "Roshni",
+      "Udaan",
+      "Pragati",
+      "Ujjwal"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a housing finance rival of PNB Housing?",
+     "options": [
+      "Aavas Financiers",
+      "Muthoot Finance",
+      "Shriram Finance",
+      "Cholamandalam's tractor unit"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "PNB Housing Finance, promoted by Punjab National Bank, lends home loans and is growing in affordable housing through Roshni. Watch leadership changes and competition from banks.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ptc-industries",
+   "name": "PTC Industries",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Lucknow, Uttar Pradesh",
+    "leader": "Sachin Agarwal",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "PTC Industries makes precision metal castings and, through its subsidiary Aerolloy Technologies, titanium and superalloy materials and parts for aerospace and defence. It serves global aero-engine makers and industrial companies, and is building a strategic materials complex in Lucknow in the Uttar Pradesh Defence Industrial Corridor.",
+    "EARNS": "It has traditionally earned from precision castings for oil and gas, marine and industrial customers in Europe and the US. Aerospace and defence materials, especially titanium, is its growth business and a growing share of revenue.",
+    "SIZE": "A small but strategic company and one of India's few private makers of aerospace-grade titanium and superalloy materials, with decades of experience in precision castings.",
+    "RIVALS": "Mishra Dhatu Nigam (MIDHANI), Azad Engineering and Bharat Forge in India, and global makers of aerospace castings and titanium such as Precision Castparts.",
+    "WATCH": "The ramp-up of its titanium and superalloy plants in Lucknow, supply agreements with global aero-engine companies, and India's push to make more defence materials at home."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which PTC Industries subsidiary makes titanium and superalloy materials?",
+     "options": [
+      "Bharat Forge Aerospace",
+      "Aerolloy Technologies",
+      "MIDHANI",
+      "HAL Aero"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business is PTC's main growth engine?",
+     "options": [
+      "Textiles",
+      "Aerospace and defence materials",
+      "Cement",
+      "Retail"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which government company is a rival of PTC in special alloys?",
+     "options": [
+      "BHEL",
+      "Coal India",
+      "Mishra Dhatu Nigam (MIDHANI)",
+      "NTPC"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "PTC Industries makes precision castings and, through Aerolloy, aerospace-grade titanium and superalloys in Lucknow. Watch its new plants' ramp-up and deals with aero-engine makers.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pvr-inox",
+   "name": "PVR INOX",
+   "type": "listed",
+   "industry": "media-entertainment",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ajay Bijli",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "PVR INOX runs multiplex cinemas under the PVR and INOX brands, with premium formats such as Luxe, Director's Cut, IMAX and 4DX. It was formed when PVR and INOX Leisure merged in 2023, and also sells food, drinks and on-screen advertising.",
+    "EARNS": "Ticket sales bring in most of its revenue, while food and beverages are its most profitable line because of high margins on popcorn and drinks. Advertising and convenience fees add the rest.",
+    "SIZE": "India's largest multiplex cinema chain by screens, present in most large cities and many smaller ones, and one of the bigger cinema operators in the world.",
+    "RIVALS": "Cinepolis, Miraj Cinemas, Movietime and single-screen theatres, plus streaming services such as Netflix, JioHotstar and Prime Video that compete for viewers' time.",
+    "WATCH": "Its asset-light expansion, where partners pay to build screens it runs, closure of weak screens, the strength of the film slate, and state moves to cap ticket prices, as in Karnataka."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which two cinema chains merged to form PVR INOX in 2023?",
+     "options": [
+      "PVR and Cinepolis",
+      "PVR and INOX Leisure",
+      "INOX and Carnival",
+      "PVR and Miraj"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is PVR INOX's most profitable line?",
+     "options": [
+      "Ticket sales",
+      "Film production",
+      "Food and beverages",
+      "Parking fees"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which cinema chain is a direct rival of PVR INOX?",
+     "options": [
+      "Cinepolis",
+      "Zee",
+      "Saregama",
+      "Tips Music"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "PVR INOX is India's largest multiplex chain, formed from a 2023 merger. Tickets bring most revenue, while food and drinks earn the best margins. Watch the film slate.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "paradeep-phosphates",
+   "name": "Paradeep Phosphates",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Bhubaneswar, Odisha",
+    "leader": "N. Suresh Krishnan",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Paradeep Phosphates makes phosphate fertilisers such as DAP and NPK complexes, sold under the Jai Kisaan Navratna brand, at its plant at Paradeep in Odisha and its plant in Goa. It merged Mangalore Chemicals & Fertilizers into itself, adding urea. It is part of the Adventz (Zuari) group.",
+    "EARNS": "It sells fertilisers at government-controlled prices and receives a nutrient-based subsidy from the government for each tonne sold. DAP and NPK fertilisers are its largest products, and margins depend on raw material costs and subsidy rates.",
+    "SIZE": "One of India's largest private makers of phosphate fertilisers, with a strong position among farmers in eastern and southern India and a large port-based plant at Paradeep.",
+    "RIVALS": "Coromandel International, Chambal Fertilisers, IFFCO, RCF and Deepak Fertilisers, plus imported DAP brought in by state traders and fertiliser companies.",
+    "WATCH": "Government subsidy rates for each fertiliser season, global prices of phosphoric acid, ammonia and rock phosphate, and its announced capacity expansion at Paradeep."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which fertilisers are Paradeep Phosphates' largest products?",
+     "options": [
+      "Potash only",
+      "DAP and NPK",
+      "Organic compost",
+      "Urea only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company did Paradeep Phosphates merge into itself?",
+     "options": [
+      "Mangalore Chemicals & Fertilizers",
+      "Zuari Agro",
+      "Chambal Fertilisers",
+      "GSFC"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a fertiliser rival of Paradeep?",
+     "options": [
+      "Asian Paints",
+      "Pidilite",
+      "UPL's seeds arm",
+      "Coromandel International"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Paradeep Phosphates makes DAP and NPK fertilisers in Odisha and Goa, selling at controlled prices with government subsidies. Watch subsidy rates and raw material costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "petronet-lng",
+   "name": "Petronet LNG",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Akshay Kumar Singh",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Petronet LNG imports liquefied natural gas and runs terminals at Dahej in Gujarat and Kochi in Kerala that turn LNG back into gas for fertiliser plants, power plants, city gas companies and refineries. It is promoted by GAIL, Indian Oil, BPCL and ONGC.",
+    "EARNS": "It earns mainly fees for receiving and regasifying LNG under long-term contracts, plus margins on some gas it trades. Much of its LNG comes from Qatar under long-term deals, and the Dahej terminal earns most of its profit.",
+    "SIZE": "India's largest LNG importer and terminal operator; its Dahej terminal is one of the busiest LNG terminals in the world, handling a large part of the country's LNG imports.",
+    "RIVALS": "Other LNG terminals such as Shell's Hazira, Indian Oil's Ennore, GAIL's Dabhol and Adani-Total's Dhamra, all of which compete to handle the country's imported gas.",
+    "WATCH": "The expansion of Dahej, its planned LNG terminal at Gopalpur in Odisha, its planned petrochemical complex at Dahej, and better pipeline links for the under-used Kochi terminal."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where is Petronet LNG's main terminal?",
+     "options": [
+      "Kochi, Kerala",
+      "Ennore, Tamil Nadu",
+      "Dahej, Gujarat",
+      "Dhamra, Odisha"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which country supplies much of Petronet's LNG under long-term deals?",
+     "options": [
+      "Qatar",
+      "Russia",
+      "Norway",
+      "Brazil"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Where is Petronet planning a new LNG terminal?",
+     "options": [
+      "Mundra, Gujarat",
+      "Kakinada, Andhra Pradesh",
+      "Haldia, West Bengal",
+      "Gopalpur, Odisha"
+     ],
+     "correct_idx": 3,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Petronet LNG imports LNG, mostly from Qatar, and regasifies it at Dahej and Kochi for fees. Promoted by GAIL, IOC, BPCL and ONGC. Watch Dahej expansion and Gopalpur.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "piramal-finance",
+   "name": "Piramal Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Jairam Sridharan",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Piramal Finance lends to individuals and small businesses: home loans, loans against property, used-car loans, business loans and personal loans, along with an older book of wholesale loans to real estate developers. In 2025 its parent, Piramal Enterprises, merged into it, making Piramal Finance the listed company.",
+    "EARNS": "It earns the gap between interest on its loans and its borrowing costs, plus fees. Retail lending is now the majority of its book and growing, while the older wholesale real estate book is being run down.",
+    "SIZE": "One of India's larger diversified non-bank lenders and the main financial business of the Piramal group, with branches in many smaller towns across India.",
+    "RIVALS": "Bajaj Finance, Shriram Finance, Aditya Birla Capital, Tata Capital, Poonawalla Fincorp and LIC Housing Finance, along with banks in home and business loans.",
+    "WATCH": "The run-down of its legacy wholesale loans, branch expansion into smaller towns, credit costs on unsecured loans, and how the merged company performs after the 2025 reorganisation."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company merged into Piramal Finance in 2025?",
+     "options": [
+      "Piramal Pharma",
+      "Piramal Enterprises",
+      "Piramal Realty",
+      "Shriram Finance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which part of Piramal Finance's book is being run down?",
+     "options": [
+      "Home loans",
+      "Used-car loans",
+      "Older wholesale real estate loans",
+      "Business loans"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which non-bank lender is a rival of Piramal Finance?",
+     "options": [
+      "Bajaj Finance",
+      "Petronet LNG",
+      "Info Edge",
+      "Zomato"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Piramal Finance lends home, business and personal loans to retail customers and is running down old developer loans. Piramal Enterprises merged into it in 2025.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "piramal-pharma",
+   "name": "Piramal Pharma",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Nandini Piramal",
+    "leader_role": "Chairperson",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Piramal Pharma runs a contract development and manufacturing business (Piramal Pharma Solutions), complex hospital generics such as inhaled anaesthetics and pain therapies, and Indian consumer brands like Littles, Lacto Calamine and i-pill. It was demerged from Piramal Enterprises and listed in 2022.",
+    "EARNS": "Contract development and manufacturing for drug companies in the US and Europe is its largest segment. Complex hospital generics, led by the anaesthetic sevoflurane, earn high margins, while consumer brands are smaller but growing.",
+    "SIZE": "One of India's larger contract manufacturers with plants in India, the US, the UK and Canada, and one of the world's top makers of inhaled anaesthetics.",
+    "RIVALS": "Syngene, Divi's Laboratories, Lonza and WuXi AppTec in contract manufacturing, and Baxter and AbbVie in inhaled anaesthetics, plus Indian consumer health companies in its brands.",
+    "WATCH": "Biotech customers cutting or delaying orders, US moves that could shift contract work from China to India, its US plant expansions, and growth of its consumer brands."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which consumer brand belongs to Piramal Pharma?",
+     "options": [
+      "Dettol",
+      "Lacto Calamine",
+      "Himalaya",
+      "Boroline"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Piramal Pharma's largest segment?",
+     "options": [
+      "Contract development and manufacturing",
+      "Consumer brands",
+      "Hospitals",
+      "Diagnostics"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a contract manufacturing rival of Piramal Pharma?",
+     "options": [
+      "Apollo Hospitals",
+      "Dabur",
+      "Marico",
+      "Syngene"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Piramal Pharma does contract drug manufacturing, sells hospital generics like inhaled anaesthetics and owns consumer brands such as Littles. Watch biotech demand and US expansions.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "poly-medicure",
+   "name": "Poly Medicure",
+   "type": "listed",
+   "industry": "pharma",
+   "profile": {
+    "hq": "Faridabad, Haryana",
+    "leader": "Himanshu Baid",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Poly Medicure makes disposable medical devices such as IV cannulas, infusion sets, blood bags, catheters, dialysis products and surgical consumables. It sells them to hospitals and distributors in India and exports to a large number of countries.",
+    "EARNS": "It earns by selling high-volume disposable devices that hospitals use every day. Exports make up a large share of sales, with Europe its biggest overseas market, and infusion and vascular products are its largest category.",
+    "SIZE": "One of India's largest makers and exporters of disposable medical devices, with plants in India and abroad and a long record of exporting to regulated markets.",
+    "RIVALS": "Becton Dickinson, B. Braun and Terumo globally, and Hindustan Syringes & Medical Devices and Romsons in India, along with cheaper Chinese imports in India.",
+    "WATCH": "Its acquisitions abroad, such as Plan1 Health in Italy, new products such as dialysis machines, and government moves to support Indian-made medical devices over imports."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which product is Poly Medicure known for?",
+     "options": [
+      "IV cannulas and infusion sets",
+      "MRI machines",
+      "Hearing aids",
+      "Contact lenses"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is Poly Medicure's biggest overseas market?",
+     "options": [
+      "Japan",
+      "Europe",
+      "China",
+      "Australia"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global company is a rival of Poly Medicure?",
+     "options": [
+      "Sun Pharma",
+      "Siemens Healthineers",
+      "Becton Dickinson",
+      "Philips Lighting"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Poly Medicure makes disposable medical devices like IV cannulas and blood bags, exporting widely with Europe its largest market. Watch acquisitions abroad and new dialysis products.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "poonawalla-fincorp",
+   "name": "Poonawalla Fincorp",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Pune, Maharashtra",
+    "leader": "Arvind Kapil",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Poonawalla Fincorp lends to consumers and small businesses: loans against property, business loans, personal loans, pre-owned car loans, and newer lines such as gold, education and consumer durable loans. It is controlled by Adar Poonawalla's Rising Sun Holdings, part of the Serum Institute promoter group.",
+    "EARNS": "It earns the gap between interest on loans and its borrowing costs, helped by the strong credit rating of its promoter group. Loans against property and business loans to small firms make up a large part of its book.",
+    "SIZE": "A mid-sized but fast-growing non-bank lender, built from the former Magma Fincorp, which the Poonawalla group bought in 2021 and rebuilt with a sharper focus on retail and small-business loans.",
+    "RIVALS": "Bajaj Finance, Aditya Birla Capital, Tata Capital, Piramal Finance and IIFL Finance, plus banks and fintech lenders in personal and business loans online.",
+    "WATCH": "New product launches under MD and CEO Arvind Kapil, its use of technology and AI in loan decisions, branch expansion, and credit costs in unsecured loans."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group controls Poonawalla Fincorp?",
+     "options": [
+      "Serum Institute promoters (Adar Poonawalla)",
+      "Bajaj group",
+      "Tata group",
+      "Piramal group"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which lender is a rival of Poonawalla Fincorp?",
+     "options": [
+      "Petronet LNG",
+      "Info Edge",
+      "Tata Capital",
+      "PVR INOX"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who is Poonawalla Fincorp's MD and CEO?",
+     "options": [
+      "Rajeev Jain",
+      "Arvind Kapil",
+      "Jairam Sridharan",
+      "Umesh Revankar"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Poonawalla Fincorp, controlled by Adar Poonawalla, lends loans against property, business and personal loans. Built from Magma Fincorp. Watch new products and credit costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "prime-focus",
+   "name": "Prime Focus",
+   "type": "listed",
+   "industry": "media-entertainment",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Namit Malhotra",
+    "leader_role": "Founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Prime Focus owns DNEG, a visual effects and animation studio that has worked on Hollywood films such as Dune and Oppenheimer and won several Academy Awards. It also offers post-production services and AI-based content tools through its Brahma unit.",
+    "EARNS": "It earns by providing visual effects, animation and post-production work to film studios and streaming services. Most of its revenue comes from Hollywood studios, with work done across studios in India, the UK, Canada and elsewhere.",
+    "SIZE": "Through DNEG, one of the world's largest visual effects studios, with a large share of its artists based in India working on films and series for global studios.",
+    "RIVALS": "Industrial Light & Magic, Wētā FX, Framestore and Rodeo FX in visual effects, plus in-house teams at major studios and smaller Indian visual effects firms that bid for outsourced work.",
+    "WATCH": "Hollywood production slowdowns after strikes and cost cuts, its push into AI tools through Brahma, its debt and fundraising, and new feature animation and Indian film projects."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which visual effects studio does Prime Focus own?",
+     "options": [
+      "Industrial Light & Magic",
+      "Framestore",
+      "Wētā FX",
+      "DNEG"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does most of Prime Focus's revenue come from?",
+     "options": [
+      "Indian TV channels",
+      "Hollywood studios",
+      "Video game sales",
+      "Cinema tickets"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which studio is a rival of DNEG?",
+     "options": [
+      "Wētā FX",
+      "PVR INOX",
+      "Saregama",
+      "Balaji Telefilms"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Prime Focus owns DNEG, an Oscar-winning visual effects studio serving Hollywood, with many artists in India. Watch Hollywood demand, its Brahma AI tools and its debt.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "privi-speciality-chemicals",
+   "name": "Privi Speciality Chemicals",
+   "type": "listed",
+   "industry": "chemicals",
+   "profile": {
+    "hq": "Navi Mumbai, Maharashtra",
+    "leader": "Mahesh Babani",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Privi Speciality Chemicals makes aroma chemicals, the ingredients fragrance houses use to scent soaps, detergents, perfumes and personal care products. Many are made from crude sulphate turpentine, a by-product of paper making. It also runs Prigiv, a joint venture with Givaudan.",
+    "EARNS": "It earns by selling aroma chemicals to global fragrance companies and consumer goods makers. Exports bring in most of its revenue, and long relationships with large fragrance houses keep its demand steady.",
+    "SIZE": "India's largest maker of aroma chemicals and one of the bigger suppliers in the world for several of its products, with large plants in Maharashtra and Gujarat.",
+    "RIVALS": "Oriental Aromatics and other Indian makers, global players such as BASF and Symrise, and Chinese aroma chemical makers that compete hard on price for the same customers.",
+    "WATCH": "The ramp-up of the Prigiv joint venture with Givaudan, new capacities for higher-value products, and prices of its main raw material, crude sulphate turpentine."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Privi Speciality Chemicals mainly make?",
+     "options": [
+      "Paints",
+      "Aroma chemicals for fragrances",
+      "Fertilisers",
+      "Plastics"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which global fragrance company is Privi's joint venture partner?",
+     "options": [
+      "Firmenich",
+      "IFF",
+      "Givaudan",
+      "Symrise"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Where does most of Privi's revenue come from?",
+     "options": [
+      "Exports",
+      "Government contracts",
+      "Retail stores in India",
+      "Royalties"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Privi makes aroma chemicals for fragrances, mostly from a paper-making by-product, and exports most of its output. Watch its Prigiv joint venture with Givaudan.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "r-r-kabel",
+   "name": "R R Kabel",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Shreegopal Kabra",
+    "leader_role": "Managing Director",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "R R Kabel makes wires and cables for homes, buildings and industry, and fast-moving electrical goods such as fans, lights, switches and appliances. It bought the fans and lighting business of Luminous Power Technologies in 2022 and listed on the stock exchanges in 2023.",
+    "EARNS": "Wires and cables bring in most of its revenue and profit, sold through dealers and electricians and to builders and industry. Its consumer electricals business is smaller and has been working towards profit.",
+    "SIZE": "One of India's leading wire and cable makers, known for house wires, and one of the larger exporters of cables from India, with plants in Gujarat and Maharashtra.",
+    "RIVALS": "Polycab, KEI Industries, Havells and Finolex Cables, plus new entrants such as UltraTech, which has announced plans to enter wires and cables in a big way.",
+    "WATCH": "Capacity expansion for cables, copper price swings that it passes on with a lag, the turnaround of its fans and lighting business, and competition from new entrants like UltraTech."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which brand's fans and lighting business did R R Kabel buy in 2022?",
+     "options": [
+      "Crompton",
+      "Orient Electric",
+      "Bajaj Electricals",
+      "Luminous"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which business brings in most of R R Kabel's revenue?",
+     "options": [
+      "Wires and cables",
+      "Fans",
+      "Lighting",
+      "Solar panels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company has announced plans to enter wires and cables, adding competition?",
+     "options": [
+      "Asian Paints",
+      "UltraTech",
+      "Pidilite",
+      "Dabur"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "R R Kabel makes wires, cables, fans and lights, with wires and cables earning most. It listed in 2023. Watch copper prices and competition from UltraTech's entry.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "rbl-bank",
+   "name": "RBL Bank",
+   "type": "listed",
+   "industry": "banking",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "R. Subramaniakumar",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "RBL Bank is a private-sector bank offering savings and current accounts, credit cards, microfinance loans, home and business loans, and corporate banking. Dubai's Emirates NBD announced in October 2025 that it would buy a controlling stake in the bank.",
+    "EARNS": "It earns the gap between interest on loans and what it pays depositors, plus fees. High-interest credit cards and microfinance loans have been its most profitable lending, but also the main source of bad loans.",
+    "SIZE": "A mid-sized private bank and one of India's larger credit card issuers, with branches across the country and its roots in Kolhapur as the old Ratnakar Bank.",
+    "RIVALS": "IndusInd Bank, Yes Bank, Federal Bank, IDFC First Bank and Bandhan Bank, plus larger banks such as HDFC Bank and SBI Card in credit cards and microfinance lenders.",
+    "WATCH": "Completion of Emirates NBD's purchase of a controlling stake and what changes follow, stress in microfinance loans, and growth in secured retail loans to balance its card book."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which foreign bank announced it would buy a controlling stake in RBL Bank?",
+     "options": [
+      "Emirates NBD",
+      "DBS Bank",
+      "SMBC",
+      "HSBC"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which lending lines have been RBL Bank's most profitable but riskiest?",
+     "options": [
+      "Home loans",
+      "Credit cards and microfinance",
+      "Gold loans",
+      "Government bonds"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which bank is a rival of RBL Bank?",
+     "options": [
+      "IDFC First Bank",
+      "NABARD",
+      "SIDBI",
+      "Exim Bank"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "RBL Bank is a mid-sized private bank known for credit cards and microfinance. Emirates NBD announced in 2025 it would buy control. Watch the deal and microfinance stress.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mahindra-and-mahindra-financial-services",
+   "name": "Mahindra Finance",
+   "type": "listed",
+   "industry": "nbfc-lending",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Raul Rebello",
+    "leader_role": "MD & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Mahindra & Mahindra Financial Services, known as Mahindra Finance, lends to buy tractors, cars, utility vehicles, two-wheelers and commercial vehicles, mostly in rural and semi-urban India. It also offers SME loans, deposits and, through subsidiaries, housing finance. It is a listed subsidiary of Mahindra & Mahindra.",
+    "EARNS": "It earns the gap between interest on its loans and its cost of borrowing. Vehicle loans, led by Mahindra utility vehicles and tractors, make up most of its book, and its earnings swing with the rural economy and the monsoon.",
+    "SIZE": "One of India's largest rural vehicle financiers, with a branch network that reaches deep into villages and small towns across the country, and a long record of lending to first-time borrowers.",
+    "RIVALS": "Shriram Finance, Cholamandalam Finance, Bajaj Finance and Sundaram Finance, plus banks such as HDFC Bank and SBI that also finance vehicles and tractors.",
+    "WATCH": "Its push to diversify beyond vehicle loans into SME and other lending, credit costs in rural loans after weak or strong monsoons, and use of technology to cut collection costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is Mahindra Finance's parent?",
+     "options": [
+      "Tata Motors",
+      "Mahindra & Mahindra",
+      "Bajaj Auto",
+      "Ashok Leyland"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What makes up most of Mahindra Finance's loan book?",
+     "options": [
+      "Credit cards",
+      "Gold loans",
+      "Vehicle and tractor loans",
+      "Corporate bonds"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a vehicle finance rival of Mahindra Finance?",
+     "options": [
+      "Shriram Finance",
+      "Nippon Life AMC",
+      "Petronet LNG",
+      "Info Edge"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Mahindra Finance, a Mahindra & Mahindra subsidiary, lends for tractors and vehicles mainly in rural India. Its earnings follow the rural economy. Watch diversification and rural credit costs.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ntpc-green-energy",
+   "name": "NTPC Green Energy",
+   "type": "listed",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Gurdeep Singh",
+    "leader_role": "Chairman",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NTPC Green Energy builds and runs solar and wind power plants and sells the electricity to state utilities and companies under long-term power purchase agreements. It is the renewable energy subsidiary of state-owned NTPC and listed on the stock exchanges in November 2024.",
+    "EARNS": "It earns by selling power at fixed tariffs for long periods, which gives steady, predictable income once plants are running. Solar power is by far its largest source of revenue, with wind a smaller share.",
+    "SIZE": "One of India's largest renewable energy companies by capacity and pipeline, and the main vehicle for NTPC's clean energy expansion, with projects spread across many states.",
+    "RIVALS": "Adani Green Energy, Tata Power Renewable Energy, ReNew, JSW Energy and Greenko, which compete for the same government auctions and corporate power deals.",
+    "WATCH": "How fast it commissions its large pipeline of solar and wind projects, green hydrogen and storage plans through its joint ventures, grid connection delays, and the cost of solar modules."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is NTPC Green Energy's parent?",
+     "options": [
+      "Power Grid",
+      "Coal India",
+      "NHPC",
+      "NTPC"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is NTPC Green Energy's largest source of revenue?",
+     "options": [
+      "Solar power",
+      "Coal power",
+      "Hydropower",
+      "Nuclear power"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company is a renewable energy rival of NTPC Green Energy?",
+     "options": [
+      "Petronet LNG",
+      "Adani Green Energy",
+      "Coal India",
+      "Indian Oil's refinery arm"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "NTPC Green Energy, NTPC's renewable arm, runs solar and wind plants selling power under long contracts. It listed in 2024. Watch how fast it commissions new projects.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "mangalore-refinery-and-petrochemicals",
+   "name": "Mangalore Refinery & Petrochemicals (MRPL)",
+   "type": "listed",
+   "industry": "oil-gas-fuels",
+   "profile": {
+    "hq": "Mangaluru, Karnataka",
+    "leader": "Mundkur Shyamprasad Kamath",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Mangalore Refinery & Petrochemicals runs a large refinery at Mangaluru in Karnataka that turns crude oil into diesel, petrol, jet fuel, LPG and petrochemicals like polypropylene. It is a subsidiary of ONGC, and it merged its subsidiary ONGC Mangalore Petrochemicals into itself in 2023.",
+    "EARNS": "It earns the refining margin: the gap between the price of crude oil and the products it makes. Diesel and other fuels bring in most of its revenue, much of it sold to oil marketing companies and exported, and profits swing with global margins.",
+    "SIZE": "One of India's larger standalone refineries and the biggest refinery in Karnataka, with its own fuel retail outlets in southern India and a deep-water port nearby for crude imports.",
+    "RIVALS": "Reliance Industries, Nayara Energy and state refiners Indian Oil, BPCL and HPCL, all of which sell the same fuels in India and in export markets abroad.",
+    "WATCH": "Global refining margins and crude oil prices, expansion of its own petrol pump network, its petrochemical business, and plans for refinery upgrades announced by its parent ONGC."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company is MRPL's parent?",
+     "options": [
+      "Indian Oil",
+      "BPCL",
+      "ONGC",
+      "Reliance Industries"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What mainly drives MRPL's profits?",
+     "options": [
+      "Refining margins",
+      "Mobile tariffs",
+      "Coal prices",
+      "Cement prices"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which private company is a refining rival of MRPL?",
+     "options": [
+      "Petronet LNG",
+      "Gujarat Gas",
+      "Oil India",
+      "Nayara Energy"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "MRPL, an ONGC subsidiary, runs a large refinery at Mangaluru making diesel, petrol and petrochemicals. Profits follow refining margins. Watch its fuel retail and petrochemical plans.",
+   "review": "unreviewed"
+  }
+ ]
+}

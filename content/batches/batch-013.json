@@ -1,0 +1,2724 @@
+{
+ "_meta": {
+  "batch": "013",
+  "about": "Health-tech, EV, energy, space and drones, travel, aviation and property startups.",
+  "review": "All entries unreviewed until the founder approves them.",
+  "generated": "2026-10-14"
+ },
+ "companies": [
+  {
+   "v": 2,
+   "slug": "practo",
+   "name": "Practo",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Jagnoor Singh",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Practo is a health app where patients find doctors, book clinic visits and video consultations, order lab tests and read their health records. It also sells clinic-management software to doctors and hospitals. Founder Shashank ND became MD and Executive Chairman, and Jagnoor Singh took over as CEO in September 2026.",
+    "EARNS": "Practo earns fees from doctors and clinics that use its listing and practice software, commissions on online consultations, and margins on lab tests booked through the app. Consumer consultations and software for providers are its two main engines, and the company says it has been profitable for some time.",
+    "SIZE": "One of India's best-known doctor-discovery platforms, with doctors listed across most large Indian cities. It is among the older and larger players in Indian health-tech.",
+    "RIVALS": "Tata 1mg and Apollo 24|7 in online consultations and lab tests, PharmEasy in diagnostics, and MFine and Eka Care in digital health records and teleconsults.",
+    "WATCH": "How the business runs under new CEO Jagnoor Singh, whether Practo moves towards a public listing, and how India's digital health ID system under the Ayushman Bharat Digital Mission changes record-keeping for clinics."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who became Practo's CEO in September 2026?",
+     "options": [
+      "Shashank ND",
+      "Jagnoor Singh",
+      "Rahul Guha",
+      "Naresh Krishnaswamy"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Besides the patient app, what does Practo sell to doctors and hospitals?",
+     "options": [
+      "Medical equipment",
+      "Clinic-management software",
+      "Health insurance",
+      "Generic medicines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a rival to Practo in online consultations?",
+     "options": [
+      "Apollo 24|7",
+      "Cult.fit",
+      "Lenskart",
+      "Zepto"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Practo lets patients find doctors, book consultations and lab tests, and sells clinic software to providers. Founder Shashank ND became Executive Chairman; Jagnoor Singh is the new CEO.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pharmeasy",
+   "name": "PharmEasy (API Holdings)",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Rahul Guha",
+    "leader_role": "MD & CEO, API Holdings",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "PharmEasy is an online pharmacy that delivers medicines and health products and books home lab tests. Its parent, API Holdings, also owns listed diagnostics chain Thyrocare and a large business supplying medicines to neighbourhood chemists. Thyrocare chief Rahul Guha took over as MD and CEO of the parent in 2025.",
+    "EARNS": "It earns a margin on every medicine and health product it delivers, plus fees on diagnostic tests. Thyrocare's lab-testing business is the steadiest earner, while the wholesale arm that supplies pharmacies brings in a large share of revenue at thin margins.",
+    "SIZE": "One of India's largest e-pharmacies and among the most heavily funded Indian health-tech companies. Through Thyrocare it also runs one of the country's big diagnostics networks.",
+    "RIVALS": "Tata 1mg, Apollo 24|7 and Netmeds (owned by Reliance) in e-pharmacy, Truemeds in discounted generics, and Dr Lal PathLabs and Metropolis in diagnostics.",
+    "WATCH": "Whether the turnaround under Rahul Guha cuts losses after years of heavy spending, how the long-pending rules for online pharmacies are finalised, and whether PharmEasy revives its plans for a public listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which listed diagnostics chain does PharmEasy's parent own?",
+     "options": [
+      "Dr Lal PathLabs",
+      "Metropolis",
+      "Thyrocare",
+      "Redcliffe Labs"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is PharmEasy's parent company called?",
+     "options": [
+      "API Holdings",
+      "Tata Digital",
+      "Info Edge",
+      "Reliance Retail"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a direct e-pharmacy rival to PharmEasy?",
+     "options": [
+      "Practo",
+      "Tata 1mg",
+      "Pristyn Care",
+      "HealthifyMe"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "PharmEasy delivers medicines and books lab tests; its parent API Holdings also owns Thyrocare. Under CEO Rahul Guha it is cutting losses while India finalises online-pharmacy rules.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cult-fit",
+   "name": "Cult.fit",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Naresh Krishnaswamy",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Cult.fit runs gyms and group workout centres under the cult brand, sells memberships that work across its centres, and offers home workouts and fitness classes on its app. It also sells fitness equipment and sportswear. Co-founder Mukesh Bansal is MD and Executive Chairman.",
+    "EARNS": "Most of its money comes from memberships to its own and partner gyms and workout centres. It also earns from franchised centres, app subscriptions and sales of fitness products, with the offline centres in big cities being the largest business.",
+    "SIZE": "India's largest fitness-centre chain by most estimates, with centres across many large Indian cities. Zomato's parent Eternal is among its backers.",
+    "RIVALS": "Gold's Gym, Anytime Fitness and Snap Fitness in gyms, local independent gyms everywhere, and apps such as HealthifyMe and Fittr in online fitness coaching.",
+    "WATCH": "Cult.fit has hired bankers for an initial public offering and says it has turned operationally profitable. Watch whether it files its draft prospectus, and how fast it adds franchised centres in smaller cities."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Cult.fit's main source of revenue?",
+     "options": [
+      "Selling protein supplements",
+      "Gym and workout-centre memberships",
+      "Advertising on its app",
+      "Corporate wellness software"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a gym-chain rival to Cult.fit?",
+     "options": [
+      "Anytime Fitness",
+      "Ultrahuman",
+      "Practo",
+      "Decathlon"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What big step is Cult.fit preparing for?",
+     "options": [
+      "Merging with Eternal",
+      "Leaving India",
+      "An initial public offering",
+      "Shutting its app"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Cult.fit runs India's largest chain of gyms and group workout centres and sells memberships, home workouts and fitness gear. It is preparing for an initial public offering.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "healthifyme",
+   "name": "HealthifyMe",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Tushar Vashisht",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "HealthifyMe is a diet and fitness app that tracks food, exercise and weight, and pairs users with human nutrition coaches and an AI assistant called Ria. Its paid plans include metabolic-health programmes that use continuous glucose monitors. It serves users in India and overseas markets.",
+    "EARNS": "It earns from paid subscriptions to coaching and weight-loss plans, which are its main revenue line. It also sells corporate wellness programmes, and its overseas users, especially in the US and the Middle East, have become an important source of revenue.",
+    "SIZE": "One of India's best-known calorie-tracking and diet-coaching apps, used by millions of people, and among the larger Indian consumer health-tech companies earning abroad.",
+    "RIVALS": "Global apps such as MyFitnessPal and Noom, Cult.fit and Fittr in fitness coaching in India, and Ultrahuman and other wearable makers in glucose-monitoring wellness programmes.",
+    "WATCH": "How fast its overseas business grows compared with India, how it builds medically guided weight-loss programmes as new weight-loss drugs reach India, and how it uses AI coaching to cut costs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is the name of HealthifyMe's AI assistant?",
+     "options": [
+      "Siri",
+      "Ria",
+      "Alexa",
+      "Maya"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is HealthifyMe's main source of revenue?",
+     "options": [
+      "Selling gym equipment",
+      "Paid coaching and diet-plan subscriptions",
+      "Hospital fees",
+      "Medicine deliveries"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global app competes with HealthifyMe in calorie tracking?",
+     "options": [
+      "Strava",
+      "Duolingo",
+      "MyFitnessPal",
+      "Headspace"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "HealthifyMe is a diet and fitness app that pairs users with nutrition coaches and its AI assistant Ria. Paid coaching subscriptions in India and abroad drive revenue.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pristyn-care",
+   "name": "Pristyn Care",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Harsimarbir Singh",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Pristyn Care arranges planned surgeries such as piles, hernia, cataract, gallstone and knee replacement for patients. It brings its own surgeons and care coordinators into partner hospitals and also runs its own clinics. It helps patients with insurance paperwork and transport on surgery day.",
+    "EARNS": "It earns a fee per surgery, sharing revenue with partner hospitals that provide beds and operating theatres. Common elective surgeries in large cities make up most of its business, with insurance-covered procedures a growing share.",
+    "SIZE": "One of India's largest surgical-care startups, working with hundreds of partner hospitals across many cities. It is among the few Indian health-tech companies valued as a unicorn.",
+    "RIVALS": "Hospital chains such as Apollo, Fortis and Max that market surgeries directly, HexaHealth and Practo in surgery booking, and local nursing homes and surgeons in every city.",
+    "WATCH": "Whether Pristyn Care keeps narrowing its losses, how it expands into smaller cities and new specialities, and whether it moves towards a public listing as several health-tech peers prepare theirs."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Pristyn Care mainly arrange for patients?",
+     "options": [
+      "Planned surgeries",
+      "Medicine delivery",
+      "Home lab tests",
+      "Gym memberships"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Pristyn Care mainly make money?",
+     "options": [
+      "Selling medical devices",
+      "A fee per surgery shared with partner hospitals",
+      "Insurance premiums",
+      "App advertising"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a rival in surgery booking?",
+     "options": [
+      "HexaHealth",
+      "Redcliffe Labs",
+      "Medikabazaar",
+      "Cult.fit"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Pristyn Care arranges planned surgeries like hernia and cataract using its own surgeons inside partner hospitals, earning a fee per procedure. Watch its losses and expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "medikabazaar",
+   "name": "Medikabazaar",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Dinesh Lodha",
+    "leader_role": "Group CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Medikabazaar is a business-to-business platform that supplies hospitals, clinics and labs with medical consumables, equipment and lab supplies. It also sells its own-brand products and acts as an exclusive distributor for some manufacturers. It reset its business after a 2023 whistleblower complaint led to forensic audits and restated accounts.",
+    "EARNS": "It earns a margin on the supplies it sources and delivers to healthcare providers. Exclusive distribution deals and its own-brand products carry better margins, and the company has closed loss-making lines to focus on them.",
+    "SIZE": "One of India's larger B2B medical-supply platforms, serving thousands of hospitals, clinics and labs. It has also expanded into some overseas markets in Asia and Africa.",
+    "RIVALS": "Hospital procurement platforms such as Medikart and SmartServ, large distributors of the device makers themselves, and hospital chains that buy directly from manufacturers.",
+    "WATCH": "Dinesh Lodha took over as group CEO in 2024 to lead the reset. Watch whether its announced new fundraising round closes and whether recent growth and improved profitability hold up."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who does Medikabazaar mainly sell to?",
+     "options": [
+      "Retail shoppers",
+      "Hospitals, clinics and labs",
+      "Gyms",
+      "Pharmacies abroad only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What kind of products give Medikabazaar better margins?",
+     "options": [
+      "Generic medicines",
+      "Fitness equipment",
+      "Imported cars",
+      "Exclusive distribution and own-brand products"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Who became Medikabazaar's group CEO in 2024?",
+     "options": [
+      "Dinesh Lodha",
+      "Vivek Tiwari",
+      "Aditya Kandoi",
+      "Rahul Guha"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Medikabazaar supplies hospitals, clinics and labs with medical consumables and equipment. After a governance reset under group CEO Dinesh Lodha, it is focusing on higher-margin distribution and own brands.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "redcliffe-labs",
+   "name": "Redcliffe Labs",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Aditya Kandoi",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Redcliffe Labs runs diagnostic labs and collects blood samples from homes for tests ranging from routine checkups to genetic and cancer screening. Customers book through its app, website or partner platforms, and it also runs collection centres and serves doctors and hospitals.",
+    "EARNS": "It earns a fee for every test, with preventive health packages and routine blood tests booked online making up most revenue. Specialised tests such as genetics carry higher prices, and lab work for hospitals and partners adds volume.",
+    "SIZE": "One of India's fastest-growing diagnostics startups, with labs and collection points across hundreds of towns. It reaches deep into smaller cities where big chains are thin.",
+    "RIVALS": "Dr Lal PathLabs, Metropolis and Thyrocare among established chains, Healthians and Orange Health among home-collection startups, and hospital labs such as Apollo Diagnostics.",
+    "WATCH": "How it expands its lab network and specialised testing, its new leadership hires including a COO in 2026, and whether it moves towards a public listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Redcliffe Labs mainly collect samples?",
+     "options": [
+      "Only at hospitals",
+      "From customers' homes",
+      "By post only",
+      "At gyms"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a home-collection startup rival to Redcliffe?",
+     "options": [
+      "Healthians",
+      "Pristyn Care",
+      "Cult.fit",
+      "Medikabazaar"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who founded and leads Redcliffe Labs?",
+     "options": [
+      "Deepak Sahni",
+      "Aditya Kandoi",
+      "Shashank ND",
+      "Mayank Banerjee"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Redcliffe Labs runs diagnostic labs and home sample collection across hundreds of towns, earning a fee per test. It competes with Dr Lal PathLabs, Thyrocare and Healthians.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "healthians",
+   "name": "Healthians",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Nishant Singhal",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Healthians sells home blood tests and preventive health checkup packages, collecting samples at customers' doorsteps and processing them in its own labs. It also offers doctor consultations and corporate health checkups. Founder Deepak Sahni stepped back from executive duties in January 2026.",
+    "EARNS": "It earns a fee per test or package, with preventive health packages booked by consumers making up most revenue. Corporate and partner tie-ups add steady volumes, and the company reported its first profitable year in the year to March 2026.",
+    "SIZE": "One of India's leading home-diagnostics startups, present in many cities. It is among the few companies in its segment to report a profit, though it is far smaller than listed lab chains.",
+    "RIVALS": "Redcliffe Labs and Orange Health in home testing, established chains such as Dr Lal PathLabs, Metropolis and Thyrocare, and Tata 1mg's lab-test business.",
+    "WATCH": "How CEO Nishant Singhal grows the business after the founder's step-back, the larger role of backer WestBridge after it raised its stake, and whether the company follows through on talk of a public listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Healthians mainly sell?",
+     "options": [
+      "Home blood tests and health checkups",
+      "Surgeries",
+      "Medical equipment",
+      "Fitness classes"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which investor increased its stake in Healthians in 2026?",
+     "options": [
+      "SoftBank",
+      "Tiger Global",
+      "WestBridge",
+      "Sequoia"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which of these is an established diagnostics chain competing with Healthians?",
+     "options": [
+      "Metropolis",
+      "Practo",
+      "Even Healthcare",
+      "Cleartrip"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Healthians sells home blood tests and preventive checkups processed in its own labs. It turned profitable recently, and CEO Nishant Singhal now leads after founder Deepak Sahni stepped back.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "even-healthcare",
+   "name": "Even Healthcare",
+   "type": "startup",
+   "industry": "healthcare-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Mayank Banerjee",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Even Healthcare combines health cover with its own hospitals and partner hospitals, so members get treatment at network hospitals with little or no paperwork. It opened its first multi-speciality hospital in Bengaluru in 2025 and in 2026 shifted towards a hospital-led model.",
+    "EARNS": "It has earned from membership plans that bundle care and cover, and increasingly from treatment fees at its own hospital. The Bengaluru hospital is now its main focus as it scales down parts of its insurance-style business.",
+    "SIZE": "A young and still small player compared with large hospital chains and insurers, operating mainly in Bengaluru. It is backed by Khosla Ventures among others.",
+    "RIVALS": "Hospital chains in Bengaluru such as Manipal, Narayana Health and Aster, and health insurers such as Star Health, Niva Bupa and Care Health that offer similar cover.",
+    "WATCH": "Even received regulatory approval from IRDAI in 2026 for retail health insurance, yet laid off a large part of its staff while pivoting to hospitals. Watch how these two moves are reconciled and whether it opens more hospitals."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where did Even Healthcare open its first hospital?",
+     "options": [
+      "Mumbai",
+      "Bengaluru",
+      "Delhi",
+      "Chennai"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which investor led a funding round in Even Healthcare?",
+     "options": [
+      "Khosla Ventures",
+      "Tiger Global",
+      "Peak XV",
+      "Accel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SIZE"
+    },
+    {
+     "prompt": "Which of these is an insurer that competes with Even?",
+     "options": [
+      "Star Health",
+      "Practo",
+      "Redcliffe Labs",
+      "Cult.fit"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Even Healthcare bundles health cover with treatment at its own and partner hospitals. In 2026 it is pivoting towards its Bengaluru hospital while holding new insurance approval.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ultrahuman",
+   "name": "Ultrahuman",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Mohit Kumar",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Ultrahuman makes health wearables, led by the Ultrahuman Ring Air smart ring that tracks sleep, heart rate and recovery. It also sells a glucose-tracking programme called M1, a home health monitor and paid software add-ons. Most of its customers are overseas, especially in the US and Europe.",
+    "EARNS": "It earns mainly from selling smart rings, with no compulsory subscription, plus paid app features and blood-testing services. International markets bring in most of its revenue.",
+    "SIZE": "One of the world's leading smart-ring makers after Oura and among India's most global consumer-hardware startups. It raised a fresh funding round in 2026.",
+    "RIVALS": "Oura is its main rival, along with Samsung's Galaxy Ring, and fitness trackers and watches from Whoop, Apple, Garmin and Fitbit. In India, boAt and Noise also sell smart rings.",
+    "WATCH": "Its patent dispute with Oura, which led to a US import ban on some Ultrahuman rings, and how its US manufacturing and new ring designs respond. Also watch whether it delivers on talk of profitability and a future listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Ultrahuman's best-known product?",
+     "options": [
+      "A smart ring",
+      "A smartphone",
+      "An electric scooter",
+      "A smart TV"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is Ultrahuman's main smart-ring rival?",
+     "options": [
+      "Fitbit",
+      "Oura",
+      "boAt",
+      "Nothing"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Where does most of Ultrahuman's revenue come from?",
+     "options": [
+      "Rural India",
+      "Government contracts",
+      "International markets",
+      "Hospital sales"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "Ultrahuman makes the Ring Air smart ring and glucose-tracking programmes, selling mostly abroad. It rivals Oura, with whom it fights a patent dispute affecting US sales.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nothing",
+   "name": "Nothing",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "profile": {
+    "hq": "London, United Kingdom",
+    "leader": "Carl Pei",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Nothing is a London-based consumer tech brand founded by OnePlus co-founder Carl Pei. It sells smartphones with see-through designs and Glyph lights, earbuds and headphones, and a cheaper sub-brand called CMF. India is one of its largest markets.",
+    "EARNS": "It earns from selling phones, audio products and accessories, with smartphones bringing in most of the money. India is a key market, where it sells through Flipkart and a growing network of retail stores.",
+    "SIZE": "A young but fast-growing smartphone brand that has become one of the better-known challenger brands in India's mid-range phone market, still far smaller than Samsung or Vivo.",
+    "RIVALS": "Samsung, OnePlus, Xiaomi, Realme, Vivo, Oppo and Motorola in mid-range smartphones, and boAt, OnePlus, Sony and Apple in earbuds and headphones. Apple and Google Pixel compete at the top end.",
+    "WATCH": "Nothing announced a joint venture with Optiemus to make phones in India and plans to export from here. Watch its expansion into offline stores and how its higher-end phones fare against established brands."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who founded Nothing?",
+     "options": [
+      "Pete Lau",
+      "Carl Pei",
+      "Lei Jun",
+      "Aman Gupta"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Nothing's cheaper sub-brand called?",
+     "options": [
+      "Redmi",
+      "Narzo",
+      "CMF",
+      "Nord"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Indian firm is Nothing's manufacturing joint-venture partner?",
+     "options": [
+      "Dixon Technologies",
+      "Optiemus",
+      "Lava",
+      "Tata Electronics"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Nothing is Carl Pei's London-based phone and audio brand, known for transparent designs and Glyph lights. India is a key market, and it plans local manufacturing with Optiemus.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "lava-international",
+   "name": "Lava International",
+   "type": "startup",
+   "industry": "consumer-electronics-d2c",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Sunil Raina",
+    "leader_role": "Managing Director",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Lava is an Indian phone maker that sells affordable smartphones under the Lava and Agni brands, feature phones, and tablets. It designs and makes its phones in India, mostly at its factory in Noida, and also makes devices for other brands.",
+    "EARNS": "It earns from selling phones, with feature phones and budget smartphones making up most volumes. Its Agni and Blaze ranges target young online buyers, and contract manufacturing adds revenue.",
+    "SIZE": "One of the few Indian smartphone brands still competing at scale, and a leading maker of feature phones. It is much smaller than Chinese and Korean rivals in smartphones.",
+    "RIVALS": "Xiaomi, Realme, Samsung, Vivo and Motorola in budget smartphones, and Nokia-brand phones by HMD and Itel in feature phones, where Chinese brands also dominate.",
+    "WATCH": "How the company runs after founder Hari Om Rai's arrest by the Enforcement Directorate and Sunil Raina's move to MD, its push under the government's production-linked incentive scheme, and long-running talk of a listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which smartphone brand does Lava sell for young buyers?",
+     "options": [
+      "Agni",
+      "Narzo",
+      "Nord",
+      "Galaxy"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where does Lava make most of its phones?",
+     "options": [
+      "China",
+      "Vietnam",
+      "Noida, India",
+      "Taiwan"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these competes with Lava in budget smartphones?",
+     "options": [
+      "Ultrahuman",
+      "Realme",
+      "Nothing Ear",
+      "Dyson"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Lava is an Indian maker of budget smartphones and feature phones, sold under Lava and Agni brands and built in Noida. It now runs under MD Sunil Raina.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "yulu",
+   "name": "Yulu",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Amit Gupta",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Yulu rents out small electric two-wheelers, mainly to delivery riders who work for quick-commerce and food-delivery apps. Riders rent by the day or week and swap batteries at Yulu Max stations. It began with shared e-bikes for commuters and now focuses on gig workers.",
+    "EARNS": "It earns rental fees from riders and from delivery companies that use its fleet. Rentals to delivery partners in big cities make up most of its revenue, and battery swapping through its joint venture with Magna adds a service line.",
+    "SIZE": "One of India's largest electric two-wheeler rental fleets for delivery work, present in several big cities. It says it has been operationally profitable since 2025.",
+    "RIVALS": "Zypp Electric and Bounce in EV rentals for delivery riders, Battery Smart and Sun Mobility in battery swapping, and riders who buy their own petrol or electric scooters.",
+    "WATCH": "Yulu raised a Series C round in 2026 led by GEF Capital Partners. It has said it plans to expand its fleet sharply over the next two years and prepare for a stock market listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are Yulu's main customers today?",
+     "options": [
+      "Office commuters",
+      "Delivery riders",
+      "Tourists",
+      "School students"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which firm led Yulu's 2026 Series C round?",
+     "options": [
+      "SoftBank",
+      "GEF Capital",
+      "Tiger Global",
+      "Accel"
+     ],
+     "correct_idx": 1,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which of these rents EVs to delivery riders, like Yulu?",
+     "options": [
+      "Zypp Electric",
+      "Zoomcar",
+      "Akasa Air",
+      "NoBroker"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Yulu rents small electric two-wheelers to delivery riders and runs battery swapping. It is operationally profitable, raised funds in 2026 and plans a bigger fleet.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "bounce",
+   "name": "Bounce",
+   "type": "startup",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Vivekananda Hallekere",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Bounce makes and sells electric scooters under the Bounce Infinity brand and runs a battery-swapping network. It started as a scooter-rental app and moved into electric vehicles after buying a two-wheeler maker in 2021.",
+    "EARNS": "It earns from selling scooters, renting them to delivery riders and businesses, and from battery-swapping subscriptions. Rentals and swapping for fleet users are a large part of its business, alongside retail scooter sales.",
+    "SIZE": "A small player in India's electric scooter market compared with leaders such as Ola Electric, TVS, Bajaj and Ather. It is best known in Bengaluru and other southern cities.",
+    "RIVALS": "Ola Electric, Ather, TVS, Bajaj and Hero's Vida in electric scooters, Yulu and Zypp in rentals to delivery riders, and Battery Smart and Sun Mobility in battery swapping.",
+    "WATCH": "Whether Bounce scales its battery-swapping network with fleet partners, and how its scooter sales hold up as larger makers cut prices and government subsidies for EVs are reduced."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Bounce's electric scooter brand?",
+     "options": [
+      "Bounce Infinity",
+      "Vida",
+      "Chetak",
+      "Indie"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What did Bounce start as?",
+     "options": [
+      "A food-delivery app",
+      "A scooter-rental app",
+      "A bank",
+      "A travel site"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a battery-swapping rival to Bounce?",
+     "options": [
+      "Battery Smart",
+      "Ultraviolette",
+      "Akasa Air",
+      "Pixxel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Bounce makes Bounce Infinity electric scooters and runs battery swapping and rentals for fleets. It started as a scooter-rental app and competes with Ola Electric and Ather.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zoomcar",
+   "name": "Zoomcar",
+   "type": "startup",
+   "industry": "consumer-services",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Deepankar Tiwari",
+    "leader_role": "CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Zoomcar is a peer-to-peer car-sharing marketplace where car owners rent out their cars to self-drive customers by the hour or day. Its parent, Zoomcar Holdings, is listed on the Nasdaq in the US, not on Indian exchanges.",
+    "EARNS": "It earns a commission on every booking, plus fees for trip protection and add-ons. India is now its main market after it closed most overseas operations.",
+    "SIZE": "One of India's best-known self-drive car rental platforms, with hosts across many cities. It remains a small company by revenue and has faced repeated losses since listing.",
+    "RIVALS": "Revv, Myles and Drivezy in self-drive rentals, local car-rental agencies, and Uber, Ola and Rapido as alternatives for short trips within cities.",
+    "WATCH": "Zoomcar extended CEO Deepankar Tiwari's term to May 2027 and appointed a separate India CEO in 2026. Watch whether its recent contribution profits turn into lasting profit."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Zoomcar's marketplace work?",
+     "options": [
+      "It owns all its cars",
+      "Owners rent their cars to self-drive customers",
+      "It runs chauffeur taxis",
+      "It sells used cars"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Zoomcar's parent company listed?",
+     "options": [
+      "NSE",
+      "BSE",
+      "Nasdaq",
+      "London Stock Exchange"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a self-drive rental rival?",
+     "options": [
+      "Revv",
+      "Spinny",
+      "Cars24",
+      "Yulu"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zoomcar is a peer-to-peer self-drive car rental marketplace earning booking commissions. Its parent trades on Nasdaq, and India is now its main market.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "euler-motors",
+   "name": "Euler Motors",
+   "type": "startup",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Saurav Kumar",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Euler Motors makes electric commercial vehicles, starting with the HiLoad cargo three-wheeler and the Storm EV small four-wheeler for goods. It sells to delivery companies, e-commerce firms and small businesses, and runs fast-charging and service support.",
+    "EARNS": "It earns from selling electric cargo vehicles, often in bulk to fleet operators and logistics firms, plus service and charging revenue. Cargo three-wheelers are its largest line.",
+    "SIZE": "One of India's leading makers of electric cargo three-wheelers and a growing player in small electric trucks, though much smaller than Mahindra in EV three-wheelers.",
+    "RIVALS": "Mahindra Last Mile Mobility, Piaggio, Bajaj and Altigreen in electric three-wheelers, and Tata Motors' Ace EV and Mahindra in small electric trucks. Diesel cargo vehicles are still the norm.",
+    "WATCH": "Euler raised a Series E round led by Lightrock and partnered with Tata Power Renewables on fast charging. Watch its push into small four-wheel cargo trucks and wider city coverage."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Euler's cargo three-wheeler called?",
+     "options": [
+      "HiLoad",
+      "Treo",
+      "Ape",
+      "Ace"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who mainly buys Euler's vehicles?",
+     "options": [
+      "Families",
+      "Fleet operators and logistics firms",
+      "Ride-hailing passengers",
+      "Farmers only"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Euler in electric three-wheelers?",
+     "options": [
+      "Mahindra Last Mile Mobility",
+      "Ather",
+      "Ultraviolette",
+      "River"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Euler Motors makes electric cargo vehicles such as the HiLoad three-wheeler and Storm EV, selling mainly to fleets and logistics firms. It competes with Mahindra and Piaggio.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "river",
+   "name": "River",
+   "type": "startup",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Aravind Mani",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "River makes the Indie, a rugged electric scooter with a large boot and a utility-focused design, aimed at everyday riders. It sells through its own stores, and Yamaha is one of its backers. It was founded in 2021 by Aravind Mani and Vipin George.",
+    "EARNS": "It earns from selling the Indie scooter along with accessories and service. So far nearly all its revenue comes from this one model, sold mainly in southern and western Indian cities.",
+    "SIZE": "A fast-growing new electric scooter maker, still much smaller than the market leaders but rising quickly in monthly sales, especially in southern Indian cities.",
+    "RIVALS": "Ather, Ola Electric, TVS iQube, Bajaj Chetak and Hero's Vida in electric scooters, and petrol scooters such as the Honda Activa that most buyers still choose.",
+    "WATCH": "River raised a large Series C round in August 2026 to scale its factory near Bengaluru and launch two new models. Watch its store expansion and the new launches."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is River's electric scooter called?",
+     "options": [
+      "Indie",
+      "Rizta",
+      "S1",
+      "iQube"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which established company is an investor in River?",
+     "options": [
+      "Honda",
+      "Yamaha",
+      "Suzuki",
+      "Hero"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What did River announce with its 2026 funding round?",
+     "options": [
+      "Two new models and a bigger factory",
+      "A merger with Ather",
+      "Exit from India",
+      "An airline"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "River makes the Indie, a rugged utility electric scooter, and is backed by Yamaha. A 2026 funding round will scale its factory and add two new models.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ultraviolette",
+   "name": "Ultraviolette",
+   "type": "startup",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Narayan Subramaniam",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Ultraviolette makes performance electric motorcycles, led by the F77, and has added the cheaper Shockwave motorcycle and the Tesseract scooter. It sells through its own experience centres in India and is expanding into Europe and other markets.",
+    "EARNS": "It earns from selling electric motorcycles and scooters, plus accessories and software upgrades. The F77 range has driven most revenue so far, with newer lower-priced models meant to widen sales.",
+    "SIZE": "India's best-known premium electric motorcycle maker. Its volumes are still small compared with mass-market makers, but sales grew fast in 2026. It is also among the few Indian EV makers selling abroad.",
+    "RIVALS": "Ola Electric's Roadster, Revolt and Oben in electric motorcycles, and petrol bikes from Royal Enfield, KTM and TVS in the performance segment.",
+    "WATCH": "Ultraviolette has said it aims to break even operationally in 2026 and is preparing for a future listing. Watch deliveries of the Tesseract and its overseas expansion."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Ultraviolette's flagship motorcycle?",
+     "options": [
+      "F77",
+      "RV400",
+      "Roadster",
+      "Duke"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Ultraviolette's electric scooter called?",
+     "options": [
+      "Indie",
+      "Tesseract",
+      "Chetak",
+      "Rizta"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is an electric motorcycle rival?",
+     "options": [
+      "Revolt",
+      "Yulu",
+      "Euler",
+      "Zoomcar"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Ultraviolette makes premium electric motorcycles like the F77 and the Tesseract scooter, selling in India and abroad. It aims for operational break-even and a future listing.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "simple-energy",
+   "name": "Simple Energy",
+   "type": "startup",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Suhas Rajkumar",
+    "leader_role": "Founder & CEO",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Simple Energy makes electric scooters, led by the long-range Simple One, and builds them at its factory in Hosur, Tamil Nadu. It has developed a motor that does not use heavy rare-earth magnets.",
+    "EARNS": "It earns from selling its scooters through its own and partner showrooms, mainly in southern India. The Simple One range brings in nearly all its revenue.",
+    "SIZE": "A small but growing electric scooter maker. It reported fast revenue growth in the year to March 2026 but remains far behind leaders such as TVS, Bajaj and Ather.",
+    "RIVALS": "Ather, Ola Electric, TVS iQube, Bajaj Chetak, Hero's Vida and River in electric scooters, along with petrol scooters from Honda and TVS.",
+    "WATCH": "Simple Energy raised a debt and equity round in 2026 and has said it is preparing for a public listing. Watch its dealer expansion, new models and its rare-earth-free motor."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Simple Energy's main scooter?",
+     "options": [
+      "Simple One",
+      "Indie",
+      "450X",
+      "S1 Pro"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Where is Simple Energy's factory?",
+     "options": [
+      "Pune",
+      "Hosur",
+      "Gurugram",
+      "Sanand"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these competes with Simple Energy?",
+     "options": [
+      "Ather",
+      "Euler",
+      "Akasa Air",
+      "Lava"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Simple Energy makes the long-range Simple One electric scooter at its Hosur factory. Revenue grew fast in 2026 and it is preparing for a public listing.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "revolt-motors",
+   "name": "Revolt Motors",
+   "type": "startup",
+   "industry": "automobiles",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Anjali Rattan",
+    "leader_role": "Chairperson",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Revolt Motors makes electric motorcycles such as the RV400 and the cheaper RV1 range, with swappable batteries and app connectivity. It is owned by listed RattanIndia Enterprises, which bought it from Micromax co-founder Rahul Sharma.",
+    "EARNS": "It earns from selling electric motorcycles through its dealer network, along with accessories and service. Commuter motorcycles are its main business.",
+    "SIZE": "One of India's leading electric motorcycle brands by sales, though electric motorcycles remain a small slice of India's huge two-wheeler market. It was among the first to sell electric motorcycles in India.",
+    "RIVALS": "Ola Electric's Roadster, Oben, Ultraviolette and Tork in electric motorcycles, and petrol commuter bikes from Hero, Bajaj, Honda and TVS. Most buyers still choose petrol bikes.",
+    "WATCH": "Revolt named a new president and chief business officer in 2025 to expand its dealer network. Watch new launches and how it competes as larger makers enter electric motorcycles."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Revolt's best-known electric motorcycle?",
+     "options": [
+      "F77",
+      "Roadster",
+      "RV400",
+      "Rorr"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which listed group owns Revolt Motors?",
+     "options": [
+      "RattanIndia Enterprises",
+      "Tata Motors",
+      "Hero MotoCorp",
+      "Bajaj Auto"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these competes with Revolt in electric motorcycles?",
+     "options": [
+      "River",
+      "Yulu",
+      "Euler",
+      "Oben"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Revolt Motors makes electric motorcycles such as the RV400 and is owned by RattanIndia Enterprises. It competes with Ola Electric, Oben and Ultraviolette.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "exponent-energy",
+   "name": "Exponent Energy",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Arun Vinayak",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Exponent Energy builds a rapid-charging system for electric vehicles: battery packs and chargers designed together so that a commercial EV can charge fully in about a quarter of an hour. It works with makers of electric three-wheelers and small trucks, and runs its own charging stations.",
+    "EARNS": "It earns from selling its battery packs to vehicle makers and from charging fees at its stations, which are used mainly by commercial drivers such as auto-rickshaw and cargo operators.",
+    "SIZE": "A young deep-tech startup with a charging network mainly in Bengaluru and a few other cities. It is one of the better-funded Indian EV-charging startups.",
+    "RIVALS": "Battery-swapping firms such as Sun Mobility and Battery Smart, and public charging networks run by Tata Power, Statiq and ChargeZone.",
+    "WATCH": "How fast it expands its charging network beyond Bengaluru, and whether it signs more electric three-wheeler and truck makers to fit its batteries in their vehicles."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Exponent Energy specialise in?",
+     "options": [
+      "Solar panels",
+      "Rapid EV charging with its own batteries",
+      "Battery swapping for scooters",
+      "Petrol pumps"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who mainly uses Exponent's charging stations?",
+     "options": [
+      "Airlines",
+      "Private car owners abroad",
+      "Railways",
+      "Commercial EV drivers"
+     ],
+     "correct_idx": 3,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a battery-swapping rival?",
+     "options": [
+      "Greenko",
+      "Avaada",
+      "Sun Mobility",
+      "Pixxel"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Exponent Energy builds batteries and chargers that rapid-charge commercial EVs, selling packs to vehicle makers and running charging stations, mainly in Bengaluru.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "greenko",
+   "name": "Greenko",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Anil Kumar Chalamalasetty",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Greenko builds and runs renewable power plants in India: wind, solar and hydro, plus large pumped-storage projects that store power for when the sun and wind are not available. Its founders also set up AM Green, which bought a large stake in Greenko from Japan's ORIX in 2025.",
+    "EARNS": "It earns by selling power and storage capacity to state utilities and companies under long-term contracts. Its pumped-storage projects, sold as round-the-clock clean power, are its fastest-growing business.",
+    "SIZE": "One of India's largest renewable energy companies by installed capacity and the country's leader in pumped-storage hydro projects. Its projects are spread across several Indian states, especially Andhra Pradesh.",
+    "RIVALS": "Adani Green, ReNew, Tata Power Renewables, JSW Energy and NTPC Green Energy in renewables, and state hydro companies in pumped storage.",
+    "WATCH": "Watch completion of its giant pumped-storage project at Pinnapuram in Andhra Pradesh, its links with AM Green's green ammonia plans, and reports that it may seek an Indian listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of energy storage is Greenko known for?",
+     "options": [
+      "Nuclear",
+      "Coal stockpiles",
+      "Pumped-storage hydro",
+      "Hydrogen cars"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company bought ORIX's stake in Greenko in 2025?",
+     "options": [
+      "Adani Green",
+      "AM Green",
+      "ReNew",
+      "Tata Power"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which of these is a Greenko rival?",
+     "options": [
+      "Exponent Energy",
+      "Hygenco",
+      "Yulu",
+      "ReNew"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Greenko builds and runs wind, solar, hydro and pumped-storage projects, selling power under long-term contracts. It leads India in pumped storage and is linked to AM Green.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "avaada",
+   "name": "Avaada Group",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Vineet Mittal",
+    "leader_role": "Founder & Chairman",
+    "as_of": "Oct 2026"
+   },
+   "parts": {
+    "SELLS": "Avaada builds and runs solar and wind power plants across India and, through Avaada Electro, manufactures solar modules and cells. It is also developing green hydrogen and green ammonia projects.",
+    "EARNS": "It earns mainly by selling clean power to state utilities and companies under long-term contracts. Manufacturing of solar modules is a growing second business.",
+    "SIZE": "One of India's large private renewable power producers, with a big pipeline of solar projects and a fast-growing solar manufacturing arm.",
+    "RIVALS": "Adani Green, ReNew, Greenko and Tata Power Renewables in clean power, and Waaree Energies and Premier Energies in solar module manufacturing.",
+    "WATCH": "Watch the expansion of Avaada Electro's solar cell and module factories, progress on its green ammonia projects, and any move to list Avaada Electro."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Avaada Electro make?",
+     "options": [
+      "Electric scooters",
+      "Wind turbines only",
+      "Batteries for phones",
+      "Solar modules and cells"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Avaada mainly earn?",
+     "options": [
+      "Retail fuel stations",
+      "Selling clean power under long-term contracts",
+      "Mining coal",
+      "Running hotels"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Avaada in solar manufacturing?",
+     "options": [
+      "Hygenco",
+      "Yulu",
+      "Waaree",
+      "Pixxel"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Avaada runs solar and wind plants selling power under long-term contracts, makes solar modules through Avaada Electro, and is developing green hydrogen and ammonia projects.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "hygenco",
+   "name": "Hygenco",
+   "type": "startup",
+   "industry": "energy-utilities",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Amit Bansal",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Hygenco builds and runs green hydrogen and green steam plants at its customers' factories, powered by renewable energy. It commissioned a green hydrogen plant for Jindal Stainless in Hisar and is developing green ammonia projects.",
+    "EARNS": "It earns by selling green hydrogen and steam to industrial customers under long-term supply contracts, a model often called hydrogen-as-a-service. Steel and other heavy industries are its main customers.",
+    "SIZE": "One of India's early green hydrogen developers, still small in scale next to large conglomerates, but with operating plants supplying customers.",
+    "RIVALS": "Large players such as Reliance, Adani New Industries, ACME, AM Green and L&T in green hydrogen, plus grey hydrogen made from natural gas that customers use today.",
+    "WATCH": "How it scales under the incentives of India's National Green Hydrogen Mission, whether its green ammonia projects move ahead, and new long-term customer contracts."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Hygenco mainly supply?",
+     "options": [
+      "Solar panels",
+      "Green hydrogen and green steam",
+      "Electric cars",
+      "Natural gas"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "For which steelmaker did Hygenco build a green hydrogen plant?",
+     "options": [
+      "Tata Steel",
+      "JSW Steel",
+      "Jindal Stainless",
+      "SAIL"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which government scheme matters most to Hygenco?",
+     "options": [
+      "National Green Hydrogen Mission",
+      "PM Kisan",
+      "Ayushman Bharat",
+      "UDAN"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Hygenco builds and runs green hydrogen and steam plants at factories and sells under long-term contracts. It built a plant for Jindal Stainless and targets green ammonia.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "agnikul-cosmos",
+   "name": "Agnikul Cosmos",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Srinath Ravichandran",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Agnikul Cosmos is building small rockets to launch small satellites. Its Agnibaan rocket uses 3D-printed engines, and it flew a test vehicle from its own launch pad at Sriharikota in 2024. It was incubated at IIT Madras.",
+    "EARNS": "It plans to earn by selling dedicated launches to satellite makers. Revenue is still at an early stage, and its 3D-printed engine technology is its main asset.",
+    "SIZE": "One of India's two leading private rocket startups, still in the testing phase and without regular commercial launches yet. It is based at IIT Madras's research park.",
+    "RIVALS": "Skyroot Aerospace in India, ISRO and NSIL's Small Satellite Launch Vehicle, and global small-rocket firms such as Rocket Lab. Larger rockets that carry many small satellites together are another option for customers.",
+    "WATCH": "Watch its first orbital launch of Agnibaan, and how quickly it can build and fly rockets after India opened the space sector to private companies."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Agnikul's rocket called?",
+     "options": [
+      "Vikram",
+      "Electron",
+      "PSLV",
+      "Agnibaan"
+     ],
+     "correct_idx": 3,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What technology is Agnikul known for?",
+     "options": [
+      "3D-printed rocket engines",
+      "Satellite phones",
+      "Drones",
+      "Solar panels"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Indian startup is Agnikul's main rival?",
+     "options": [
+      "Pixxel",
+      "ideaForge",
+      "Skyroot Aerospace",
+      "Tonbo"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Agnikul Cosmos builds Agnibaan small rockets with 3D-printed engines and flew a test from its own Sriharikota pad. It competes with Skyroot to launch small satellites.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "skyroot-aerospace",
+   "name": "Skyroot Aerospace",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Hyderabad, Telangana",
+    "leader": "Pawan Kumar Chandana",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Skyroot Aerospace builds Vikram rockets to launch small satellites. In 2022 its Vikram-S became the first privately built Indian rocket to reach space. It is now building Vikram-1, its first orbital rocket, at its Hyderabad campus.",
+    "EARNS": "It plans to earn by selling launches to satellite makers in India and abroad. Revenue is at an early stage, and its main asset is the rocket technology it has built.",
+    "SIZE": "One of India's two leading private rocket startups and the first to fly a privately built rocket to space. It is still before regular commercial launches.",
+    "RIVALS": "Agnikul Cosmos in India, ISRO and NSIL's Small Satellite Launch Vehicle, and global small-rocket companies such as Rocket Lab. SpaceX's rideshare missions, which carry many small satellites at once, are another option for customers.",
+    "WATCH": "Watch the first orbital flight of Vikram-1 and how quickly Skyroot moves to regular commercial launches for Indian and foreign satellite makers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What was the first private Indian rocket to reach space?",
+     "options": [
+      "Agnibaan",
+      "Vikram-S",
+      "PSLV",
+      "Electron"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Skyroot's first orbital rocket called?",
+     "options": [
+      "Agnibaan",
+      "GSLV",
+      "Vikram-1",
+      "Falcon 9"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which Indian startup is Skyroot's main rival?",
+     "options": [
+      "Pixxel",
+      "Garuda Aerospace",
+      "Hygenco",
+      "Agnikul Cosmos"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Skyroot Aerospace builds Vikram rockets for small satellites. Its Vikram-S was the first private Indian rocket in space, and Vikram-1 is next.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "pixxel",
+   "name": "Pixxel",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Awais Ahmed",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Pixxel builds hyperspectral imaging satellites that see far more colour bands than normal cameras, launching its Firefly satellites in 2025. It sells this data and its analysis software to farming, mining, oil and gas and environmental customers and governments.",
+    "EARNS": "It earns from selling satellite images and analysis through its Aurora software platform, and from contracts with governments and space agencies, including in the US.",
+    "SIZE": "One of India's best-funded space startups and among the global leaders in commercial hyperspectral imaging satellites. It is based in Bengaluru with a presence in the US.",
+    "RIVALS": "Planet Labs, Satellogic and other earth-observation companies abroad, and Indian satellite startups such as GalaxEye and Digantara.",
+    "WATCH": "Watch its role in India's earth-observation satellite programme built with private partners, its next satellite launches and new overseas contracts."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What kind of satellites does Pixxel build?",
+     "options": [
+      "Communications",
+      "Navigation",
+      "Hyperspectral imaging",
+      "Weather balloons"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What are Pixxel's satellites called?",
+     "options": [
+      "Firefly",
+      "Starlink",
+      "Vikram",
+      "Cartosat"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company is a Pixxel rival?",
+     "options": [
+      "Skyroot",
+      "Planet Labs",
+      "Agnikul",
+      "ideaForge"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Pixxel builds hyperspectral imaging satellites, called Firefly, and sells their data and analysis to farming, mining and government customers worldwide.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "ideaforge",
+   "name": "ideaForge Technology",
+   "type": "listed",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Navi Mumbai, Maharashtra",
+    "leader": "Ankit Mehta",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "ideaForge designs and makes unmanned aerial vehicles, or drones, used for surveillance, mapping and inspection. Its products, such as the SWITCH and NETRA series, are used by the Indian Army, paramilitary forces and police. It was founded by IIT Bombay alumni and listed on the stock exchanges in 2023.",
+    "EARNS": "It earns mainly from selling drones and spares to the armed forces and police, which bring in most of its revenue. Civilian buyers such as mapping, mining and infrastructure firms add a smaller share, along with service and support contracts.",
+    "SIZE": "One of India's largest and best-known makers of military and surveillance drones, and among the first Indian drone companies to list on the stock exchanges.",
+    "RIVALS": "Garuda Aerospace, Raphe mPhibr, Zen Technologies and Adani Defence among Indian players, along with imported drones that local makers now replace under government rules.",
+    "WATCH": "Defence orders tend to be lumpy, so watch new contracts after the government's push for locally made drones and its ban on most drone imports. Also watch its new product launches and efforts to sell abroad."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who are ideaForge's main customers?",
+     "options": [
+      "Airlines and airports",
+      "Armed forces and police",
+      "Farmers buying spray drones",
+      "Online shoppers"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which drone series is made by ideaForge?",
+     "options": [
+      "Mavic",
+      "SWITCH",
+      "Phantom",
+      "Kisan"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which Indian company competes with ideaForge in drones?",
+     "options": [
+      "Skyroot Aerospace",
+      "Pixxel",
+      "Raphe mPhibr",
+      "Tonbo Imaging"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "ideaForge makes drones such as the SWITCH series, selling mostly to the armed forces and police. It listed in 2023 and depends on lumpy defence orders.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "garuda-aerospace",
+   "name": "Garuda Aerospace",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Chennai, Tamil Nadu",
+    "leader": "Agnishwar Jayaprakash",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Garuda Aerospace makes drones for farming, such as crop-spraying and seeding drones, and for surveillance, mapping, cleaning and delivery. It also runs drone pilot training schools. Cricketer MS Dhoni is a backer and brand ambassador.",
+    "EARNS": "It earns mainly from selling drones, especially agricultural spraying drones bought by farmers' groups, agri companies and government programmes. Drone services for cities and companies, and pilot training fees, add to revenue.",
+    "SIZE": "One of India's larger drone startups by number of drones sold, with a strong focus on agriculture and government schemes.",
+    "RIVALS": "ideaForge in surveillance drones, IoTechWorld Avigation and Marut Drones in farm drones, and imported Chinese drones before India restricted them.",
+    "WATCH": "Watch demand from government schemes that fund farm drones, such as Namo Drone Didi for women's self-help groups, and its announced push into defence drones."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which famous cricketer backs Garuda Aerospace?",
+     "options": [
+      "Virat Kohli",
+      "Rohit Sharma",
+      "MS Dhoni",
+      "Sachin Tendulkar"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What kind of drones is Garuda best known for?",
+     "options": [
+      "Military strike drones",
+      "Agricultural spraying drones",
+      "Camera drones for film",
+      "Delivery drones for food apps"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Garuda in farm drones?",
+     "options": [
+      "IoTechWorld Avigation",
+      "Agnikul Cosmos",
+      "Tonbo Imaging",
+      "Pixxel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Garuda Aerospace makes drones for crop spraying, surveillance and mapping, and trains drone pilots. Backed by MS Dhoni, it benefits from government farm-drone schemes.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "tonbo-imaging",
+   "name": "Tonbo Imaging",
+   "type": "startup",
+   "industry": "capital-goods",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Arvind Lakshmikumar",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Tonbo Imaging makes thermal and night-vision cameras, weapon sights and sensors that let soldiers and vehicles see in darkness, smoke and bad weather. It sells to Indian armed forces and security agencies, and to defence customers abroad.",
+    "EARNS": "It earns from selling imaging systems and sensors to defence forces. Defence and security sales make up nearly all its revenue, with exports an important part.",
+    "SIZE": "One of India's leading private companies in military thermal imaging and a notable defence-electronics exporter from Bengaluru.",
+    "RIVALS": "Bharat Electronics and Alpha Design Technologies in India, and global defence firms such as Thales, Elbit Systems and Teledyne FLIR.",
+    "WATCH": "Watch new orders as India buys more locally made defence equipment, its export deals, and whether it moves towards a public listing."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Tonbo Imaging make?",
+     "options": [
+      "Satellites",
+      "Thermal and night-vision systems",
+      "Drones for farming",
+      "Smart rings"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Tonbo's main customers?",
+     "options": [
+      "Hospitals",
+      "Defence and security forces",
+      "Car makers",
+      "Retail stores"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global company competes with Tonbo?",
+     "options": [
+      "Teledyne FLIR",
+      "GoPro",
+      "Garmin",
+      "Canon"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Tonbo Imaging makes thermal and night-vision cameras and sights for defence forces in India and abroad, competing with Bharat Electronics and global defence firms.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "makemytrip",
+   "name": "MakeMyTrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Rajesh Magow",
+    "leader_role": "Co-founder & Group CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "MakeMyTrip is India's biggest online travel company, selling flights, hotels, holiday packages, train and bus tickets. It also owns Goibibo and redBus. Its shares trade on the Nasdaq in the US, not on Indian exchanges.",
+    "EARNS": "It earns commissions and fees on bookings. Hotels and holiday packages are its most profitable business, air ticketing brings large volumes, and bus ticketing through redBus is a growing earner.",
+    "SIZE": "India's largest online travel agency by most measures, well ahead of local rivals in hotels and holidays, and one of the oldest Indian internet companies.",
+    "RIVALS": "Booking.com and Agoda in hotels, EaseMyTrip, Yatra, Cleartrip and ixigo in flights and trains, and airlines' and hotels' own websites.",
+    "WATCH": "Watch how its shareholder base shifts after China's Trip.com cut its stake in 2025, growth in hotels and corporate travel, and redBus's expansion abroad."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which bus-ticketing platform does MakeMyTrip own?",
+     "options": [
+      "AbhiBus",
+      "redBus",
+      "Zingbus",
+      "IntrCity"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which is MakeMyTrip's most profitable business?",
+     "options": [
+      "Flights",
+      "Hotels and holiday packages",
+      "Train tickets",
+      "Travel insurance"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which global company competes with MakeMyTrip in hotels?",
+     "options": [
+      "Expedia's Vrbo",
+      "Airbnb Experiences",
+      "Booking.com",
+      "Uber"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "MakeMyTrip is India's largest online travel company and owns Goibibo and redBus. Hotels and holidays earn most profit; its shares trade on Nasdaq.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "cleartrip",
+   "name": "Cleartrip",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Anuj Rathi",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Cleartrip is an online travel company that sells flight tickets, hotels and bus tickets. It has been owned by Flipkart since 2021, and its bookings are also offered inside the Flipkart app.",
+    "EARNS": "It earns commissions and fees on bookings, with flights its largest business. It uses Flipkart's huge shopper base and payment offers to win travellers.",
+    "SIZE": "One of India's better-known online travel sites, strongest in flight bookings, and smaller than MakeMyTrip overall in hotels and holidays.",
+    "RIVALS": "MakeMyTrip and Goibibo, EaseMyTrip, Yatra and ixigo in India, and airlines' own websites and apps for direct flight bookings.",
+    "WATCH": "Watch its push into hotels and bus tickets to reduce reliance on flights, and how deeply Flipkart weaves travel bookings into its shopping app."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company owns Cleartrip?",
+     "options": [
+      "Amazon",
+      "Flipkart",
+      "Reliance Retail",
+      "Paytm"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Cleartrip's largest business?",
+     "options": [
+      "Hotels",
+      "Holiday packages",
+      "Flights",
+      "Trains"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Cleartrip?",
+     "options": [
+      "ixigo",
+      "Zostel",
+      "Treebo",
+      "OYO"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Cleartrip is Flipkart's online travel arm, strongest in flight bookings and sold inside the Flipkart app. It is expanding into hotels and bus tickets.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "easemytrip",
+   "name": "EaseMyTrip",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Rikant Pittie",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "EaseMyTrip, run by Easy Trip Planners, sells flights, hotels, holiday packages, train and bus tickets online. It is known for not charging convenience fees on many flight bookings. It listed on the stock exchanges in 2021 and was founded by the Pitti brothers.",
+    "EARNS": "It earns commissions and incentives from airlines, hotels and partners on bookings. Air ticketing is its main business, while hotels and holidays are smaller but growing.",
+    "SIZE": "One of India's largest online travel agencies by flight bookings, and among the few in the segment that have been consistently profitable. It was founded in 2008.",
+    "RIVALS": "MakeMyTrip and Goibibo, Yatra, Cleartrip and ixigo in online travel, and airlines' own websites for direct bookings.",
+    "WATCH": "Watch whether it can grow hotels and holiday packages beyond flights, and how it handles leadership changes within the founding Pitti family."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is EaseMyTrip known for in flight bookings?",
+     "options": [
+      "Loyalty miles",
+      "No convenience fees on many bookings",
+      "Only business-class tickets",
+      "Its own airline"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is EaseMyTrip's main business?",
+     "options": [
+      "Hotels",
+      "Holiday packages",
+      "Air ticketing",
+      "Bus tickets"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these competes with EaseMyTrip?",
+     "options": [
+      "Yatra",
+      "Akasa Air",
+      "Zostel",
+      "Stanza Living"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "EaseMyTrip is a listed online travel agency, mainly booking flights, and known for charging no convenience fees. It is trying to grow hotels and holidays.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "yatra",
+   "name": "Yatra Online",
+   "type": "listed",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Dhruv Shringi",
+    "leader_role": "Co-founder",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Yatra sells flights, hotels, holiday packages and bus tickets online, and manages business travel for companies. Its Indian company, Yatra Online Ltd, listed on the stock exchanges in 2023; its parent is also listed on the Nasdaq.",
+    "EARNS": "It earns commissions and fees on bookings. Corporate travel for businesses is its largest and steadiest business, while consumer flight and hotel bookings add volume.",
+    "SIZE": "One of India's oldest online travel agencies and a leader in managing business travel for large companies.",
+    "RIVALS": "MakeMyTrip's corporate arm myBiz, EaseMyTrip, Cleartrip and ixigo, plus global travel management firms such as BCD Travel and American Express GBT.",
+    "WATCH": "Watch new corporate clients, the growth of its hotel and holiday business, and any leadership changes at the top of the company."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What is Yatra's largest business?",
+     "options": [
+      "Holiday cruises",
+      "Corporate travel",
+      "Train tickets",
+      "Visa services"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "When did Yatra Online Ltd list on Indian stock exchanges?",
+     "options": [
+      "2015",
+      "2019",
+      "2023",
+      "2026"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which corporate travel product competes with Yatra?",
+     "options": [
+      "MakeMyTrip myBiz",
+      "Zostel Homes",
+      "Treebo",
+      "NoBroker"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Yatra is a listed online travel agency whose biggest business is managing corporate travel. It also sells flights, hotels and holidays to consumers.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zostel",
+   "name": "Zostel",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Dharamveer Singh Chouhan",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Zostel runs backpacker hostels across India's tourist spots, from the Himalayas to Goa, with dorm beds and private rooms for young travellers. It also runs Zostel Homes, a network of homestays, under its parent brand Zo World.",
+    "EARNS": "It earns from bed and room bookings at its hostels and homestays, along with food and experiences sold to guests. Many properties are run with local owners under a franchise-style model.",
+    "SIZE": "India's largest chain of backpacker hostels and one of the pioneers of hostel travel in the country, present in many tourist towns.",
+    "RIVALS": "goStops, The Hosteller and Moustache Hostels in backpacker hostels, and Airbnb and local guesthouses in homestays.",
+    "WATCH": "Watch its long-running legal dispute with OYO over a failed deal from 2015, and its expansion of homestays in hill and beach destinations."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Zostel mainly run?",
+     "options": [
+      "Luxury resorts",
+      "Backpacker hostels",
+      "Business hotels",
+      "Co-living for students"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company has a long-running legal dispute with Zostel?",
+     "options": [
+      "Treebo",
+      "FabHotels",
+      "OYO",
+      "MakeMyTrip"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "Which hostel chain competes with Zostel?",
+     "options": [
+      "The Hosteller",
+      "Stanza Living",
+      "Taj",
+      "Lemon Tree"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zostel runs India's largest chain of backpacker hostels and a homestay network. Watch its long-running legal dispute with OYO and its homestay expansion.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "treebo",
+   "name": "Treebo",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Sidharth Gupta",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Treebo runs a chain of budget and mid-market hotels under brands such as Treebo, Itsy by Treebo and Hotelier, working with independent hotel owners. It also sells hotel software to property owners.",
+    "EARNS": "It earns franchise and management fees from hotel owners, who pay for branding, bookings and technology. It does not own most of the hotels, which keeps its costs low.",
+    "SIZE": "One of India's larger branded budget hotel chains, present in many cities and towns, though smaller than OYO.",
+    "RIVALS": "OYO and FabHotels in branded budget hotels, Lemon Tree's budget brands in the mid-market, and thousands of unbranded local hotels.",
+    "WATCH": "Watch its expansion into more small towns and pilgrimage spots, its newer mid-market brands, and whether it stays profitable."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does Treebo mainly earn?",
+     "options": [
+      "Owning hotels outright",
+      "Franchise and management fees from hotel owners",
+      "Selling flight tickets",
+      "Advertising"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which of these is a Treebo brand?",
+     "options": [
+      "Itsy by Treebo",
+      "Townhouse",
+      "Ginger",
+      "Keys"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Treebo in budget hotels?",
+     "options": [
+      "Zostel",
+      "FabHotels",
+      "Stanza Living",
+      "Cleartrip"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Treebo runs franchised budget and mid-market hotels, earning fees from hotel owners rather than owning properties. It competes with OYO and FabHotels.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "fabhotels",
+   "name": "FabHotels",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Vaibhav Aggarwal",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "FabHotels runs a chain of budget hotels by partnering with independent hotel owners, who get the FabHotels brand, bookings and service standards. It also has a premium line called FabExpress and serves business travellers.",
+    "EARNS": "It earns a share of room revenue and fees from partner hotels. Business travellers and corporate clients make up an important part of its bookings.",
+    "SIZE": "One of India's larger branded budget hotel chains, present in many cities, though smaller than OYO.",
+    "RIVALS": "OYO and Treebo in branded budget hotels, Lemon Tree's budget brands, and unbranded local hotels listed on travel apps.",
+    "WATCH": "Watch its expansion into more cities and tourist destinations, and how it keeps quality steady across hotels it does not own."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "How does FabHotels work with hotels?",
+     "options": [
+      "It owns every hotel",
+      "It partners with independent hotel owners",
+      "It only builds new hotels",
+      "It runs hostels"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which customer group is important to FabHotels?",
+     "options": [
+      "Business travellers",
+      "Backpackers only",
+      "Students",
+      "Cruise passengers"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with FabHotels?",
+     "options": [
+      "Zolo",
+      "Thrillophilia",
+      "OYO",
+      "Zostel"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "FabHotels runs a branded chain of budget hotels by partnering with independent owners, serving many business travellers. It competes with OYO and Treebo.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "thrillophilia",
+   "name": "Thrillophilia",
+   "type": "startup",
+   "industry": "travel-hospitality",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Abhishek Daga",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Thrillophilia is an online platform for tours, activities and holiday packages, from treks and adventure sports in India to international trips. It was founded by Abhishek Daga and Chitra Gurnani Daga.",
+    "EARNS": "It earns commissions and margins on the tours, activities and packages it sells from local operators. Holiday packages to both Indian and foreign destinations bring in most of its revenue.",
+    "SIZE": "One of India's larger online platforms for tours and activities, popular with young travellers planning trips.",
+    "RIVALS": "MakeMyTrip holidays, Klook and GetYourGuide in activities, and Pickyourtrail and TravelTriangle in custom holiday packages.",
+    "WATCH": "Watch its push into international holiday packages and how it competes with big travel apps for package buyers."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Thrillophilia mainly sell?",
+     "options": [
+      "Flights",
+      "Tours, activities and holiday packages",
+      "Hotel software",
+      "Bus tickets"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which global company competes with Thrillophilia?",
+     "options": [
+      "Klook",
+      "Airbnb",
+      "Lufthansa",
+      "Uber"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "Who co-founded Thrillophilia with Abhishek Daga?",
+     "options": [
+      "Chitra Gurnani Daga",
+      "Falguni Nayar",
+      "Ghazal Alagh",
+      "Vineeta Singh"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    }
+   ],
+   "note_30w": "Thrillophilia sells tours, activities and holiday packages in India and abroad, earning commissions from local operators. It competes with MakeMyTrip holidays and Klook.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "akasa-air",
+   "name": "Akasa Air",
+   "type": "startup",
+   "industry": "aviation",
+   "profile": {
+    "hq": "Mumbai, Maharashtra",
+    "leader": "Vinay Dube",
+    "leader_role": "Founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Akasa Air is a low-cost airline that started flying in August 2022, using only Boeing 737 MAX planes. It flies domestic routes and some international routes to the Gulf. It was founded by Vinay Dube with backing from the family of the late Rakesh Jhunjhunwala.",
+    "EARNS": "It earns mostly from ticket sales, with domestic routes the largest share. Extra services such as seats, meals and baggage, plus cargo carried in the hold, add revenue.",
+    "SIZE": "India's newest national airline and one of the fastest-growing, though still far smaller than IndiGo and Air India.",
+    "RIVALS": "IndiGo, Air India Express and SpiceJet in low-cost flying, and Air India on many of the busiest routes.",
+    "WATCH": "Watch delays in Boeing plane deliveries, which have slowed its growth, and its expansion into more international routes."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which planes does Akasa Air fly?",
+     "options": [
+      "Airbus A320neo",
+      "Boeing 737 MAX",
+      "ATR 72",
+      "Boeing 787"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which airline is Akasa Air's biggest rival?",
+     "options": [
+      "Emirates",
+      "IndiGo",
+      "Lufthansa",
+      "Qatar Airways"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "What has slowed Akasa Air's growth?",
+     "options": [
+      "Boeing delivery delays",
+      "A ban on flying",
+      "Lack of pilots in Mumbai only",
+      "A merger"
+     ],
+     "correct_idx": 0,
+     "part_kind": "WATCH"
+    }
+   ],
+   "note_30w": "Akasa Air is India's newest low-cost airline, flying only Boeing 737 MAX planes since 2022. Boeing delivery delays have slowed its growth against IndiGo.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "spicejet",
+   "name": "SpiceJet",
+   "type": "listed",
+   "industry": "aviation",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Ajay Singh",
+    "leader_role": "Chairman & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "SpiceJet is a low-cost airline flying domestic and some international routes with Boeing 737 and Bombardier Q400 planes. It has struggled with grounded planes, unpaid dues and lessor disputes in recent years.",
+    "EARNS": "It earns mostly from ticket sales on domestic routes, with extra fees for seats, meals and baggage adding revenue. Cargo was once a separate business, SpiceXpress, which it has since folded back in.",
+    "SIZE": "Once India's second-largest airline, SpiceJet is now much smaller than IndiGo and Air India after years of shrinking.",
+    "RIVALS": "IndiGo, Air India Express and Akasa Air in low-cost flying, and Air India on many of the busiest routes.",
+    "WATCH": "SpiceJet raised fresh funds in 2024 and has said it plans to bring grounded planes back into service. Watch legal disputes with lessors and its former promoter Kalanithi Maran."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who leads SpiceJet?",
+     "options": [
+      "Vinay Dube",
+      "Rahul Bhatia",
+      "Ajay Singh",
+      "Campbell Wilson"
+     ],
+     "correct_idx": 2,
+     "part_kind": "WATCH"
+    },
+    {
+     "prompt": "What has been one of SpiceJet's biggest problems?",
+     "options": [
+      "Too many new planes",
+      "Grounded planes and lessor disputes",
+      "Lack of routes in Delhi",
+      "A ban on cargo"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which airline competes with SpiceJet?",
+     "options": [
+      "Akasa Air",
+      "Emirates",
+      "Singapore Airlines",
+      "Lufthansa"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "SpiceJet is a listed low-cost airline that has shrunk amid grounded planes and lessor disputes. It raised fresh funds and plans to restore its fleet.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "nobroker",
+   "name": "NoBroker",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Amit Kumar Agarwal",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "NoBroker is a property platform that connects owners directly with tenants and buyers so they avoid paying brokers. It also sells home services such as packing and moving, painting and cleaning, and runs NoBrokerHood, an app for managing housing societies.",
+    "EARNS": "It earns from paid plans that owners and tenants buy for faster matches and help, plus fees on home services, rent payments and its society-management app.",
+    "SIZE": "One of India's largest property platforms for rentals, and one of the few unicorns in Indian property technology. It is especially strong in Bengaluru, Mumbai and Chennai.",
+    "RIVALS": "MagicBricks, 99acres, Housing.com and Square Yards in property, and MyGate in society-management apps.",
+    "WATCH": "Watch growth in home services and its society app, and how it expands beyond the big cities where rentals are its core."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does NoBroker help people avoid?",
+     "options": [
+      "Banks",
+      "Brokers",
+      "Lawyers",
+      "Builders"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which app competes with NoBrokerHood?",
+     "options": [
+      "MyGate",
+      "Practo",
+      "Zolo",
+      "Treebo"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    },
+    {
+     "prompt": "How does NoBroker mainly make money?",
+     "options": [
+      "Commissions from brokers",
+      "Paid plans and home-service fees",
+      "Selling homes it builds",
+      "Government grants"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    }
+   ],
+   "note_30w": "NoBroker connects property owners directly with tenants and buyers, earning from paid plans, home services and its NoBrokerHood society app.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "square-yards",
+   "name": "Square Yards",
+   "type": "startup",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Tanuj Shori",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Square Yards is a real-estate platform that helps people buy, sell and rent property, mainly new homes from developers, and arranges home loans. It also owns the portal Propequity and sells data and software to builders and banks. It works in India and the Gulf.",
+    "EARNS": "It earns commissions from developers on new homes it helps sell, which bring in most of its revenue, plus fees from banks for home loans and from its data and software.",
+    "SIZE": "One of India's largest real-estate brokerage platforms by number of transactions, working in India and the Gulf.",
+    "RIVALS": "NoBroker, MagicBricks, 99acres and Housing.com, plus Anarock, traditional brokers and developers' own sales teams.",
+    "WATCH": "Square Yards has said it plans a public listing. Watch its progress towards that, and its expansion in the Gulf markets."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Where does most of Square Yards' revenue come from?",
+     "options": [
+      "Rent from co-living",
+      "Commissions on new homes from developers",
+      "Hotel bookings",
+      "Advertising"
+     ],
+     "correct_idx": 1,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which property data business does Square Yards own?",
+     "options": [
+      "Propequity",
+      "Anarock",
+      "PropTiger",
+      "Liases Foras"
+     ],
+     "correct_idx": 0,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Which company competes with Square Yards?",
+     "options": [
+      "Zostel",
+      "Zolo",
+      "Treebo",
+      "NoBroker"
+     ],
+     "correct_idx": 3,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Square Yards is a real-estate brokerage platform that mainly sells new homes for developers and arranges home loans. It plans a public listing.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "housing-com",
+   "name": "Housing.com",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "profile": {
+    "hq": "Gurugram, Haryana",
+    "leader": "Praveen Sharma",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Housing.com is an online property portal where people search for homes to buy or rent, and where builders, brokers and owners advertise. It is part of REA India, owned by Australia's REA Group, which also owns PropTiger.",
+    "EARNS": "It earns from listing fees and advertising paid by builders, brokers and owners, and from services such as home loans and rent payments.",
+    "SIZE": "One of India's leading property portals, alongside 99acres and MagicBricks, with a strong presence in big cities. Its sister brand PropTiger helps sell new homes.",
+    "RIVALS": "MagicBricks, 99acres (owned by Info Edge), NoBroker and Square Yards in online property search and listings.",
+    "WATCH": "Watch its rental and home-loan services and how it competes with 99acres and MagicBricks for builder advertising."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which company owns Housing.com?",
+     "options": [
+      "Info Edge",
+      "Times Group",
+      "REA Group",
+      "Flipkart"
+     ],
+     "correct_idx": 2,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does Housing.com mainly earn?",
+     "options": [
+      "Listing fees and advertising",
+      "Building homes",
+      "Hotel bookings",
+      "Insurance"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which portal competes with Housing.com?",
+     "options": [
+      "99acres",
+      "Treebo",
+      "Cleartrip",
+      "Zostel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Housing.com is a property portal owned by Australia's REA Group, earning from listing fees and advertising by builders, brokers and owners.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "magicbricks",
+   "name": "MagicBricks",
+   "type": "startup",
+   "industry": "internet-classifieds",
+   "profile": {
+    "hq": "Noida, Uttar Pradesh",
+    "leader": "Sudhir Pai",
+    "leader_role": "CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "MagicBricks is an online property portal where people search for homes to buy or rent. It is part of Times Internet, owned by the Times Group. It also offers home loans, interiors and legal services.",
+    "EARNS": "It earns from listing fees and advertising paid by builders, brokers and owners, plus fees from services such as home loans and interiors.",
+    "SIZE": "One of India's largest property portals, alongside 99acres and Housing.com, with a strong presence in big cities. It is backed by the reach of the Times Group's media.",
+    "RIVALS": "99acres (owned by Info Edge), Housing.com, NoBroker and Square Yards in online property search and listings.",
+    "WATCH": "Watch growth in its rental and home-services businesses, and its battle with 99acres for builder advertising."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Which group owns MagicBricks?",
+     "options": [
+      "REA Group",
+      "Times Group",
+      "Info Edge",
+      "Flipkart"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "How does MagicBricks mainly earn?",
+     "options": [
+      "Building homes",
+      "Hotel bookings",
+      "Listing fees and advertising",
+      "Insurance"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which portal competes with MagicBricks?",
+     "options": [
+      "Zolo",
+      "99acres",
+      "Thrillophilia",
+      "Cleartrip"
+     ],
+     "correct_idx": 1,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "MagicBricks is a Times Group property portal earning from listing fees and advertising, and selling home loans and services. It competes with 99acres and Housing.com.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "stanza-living",
+   "name": "Stanza Living",
+   "type": "startup",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "New Delhi, Delhi",
+    "leader": "Anindya Dutta",
+    "leader_role": "Co-founder & MD",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Stanza Living runs managed housing for students and young professionals, offering furnished rooms with meals, laundry, housekeeping and Wi-Fi. It leases buildings from property owners and runs them under its brand.",
+    "EARNS": "It earns rent from residents, with student housing near colleges its largest business. It also earns fees for managing properties for real-estate owners.",
+    "SIZE": "One of India's largest managed student-housing companies, present in many college towns and cities.",
+    "RIVALS": "Zolo, Your-Space and Colive in managed housing, and traditional paying-guest hostels near every college.",
+    "WATCH": "Watch its expansion into more cities and its shift towards managing properties for others rather than leasing them itself."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "Who does Stanza Living mainly serve?",
+     "options": [
+      "Families",
+      "Students and young professionals",
+      "Tourists",
+      "Senior citizens"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "What is Stanza Living's largest business?",
+     "options": [
+      "Student housing",
+      "Hotels",
+      "Offices",
+      "Malls"
+     ],
+     "correct_idx": 0,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Stanza Living?",
+     "options": [
+      "Treebo",
+      "Zostel",
+      "Your-Space",
+      "FabHotels"
+     ],
+     "correct_idx": 2,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Stanza Living runs managed housing for students and young professionals, earning rent from residents. It competes with Zolo and traditional paying-guest hostels.",
+   "review": "unreviewed"
+  },
+  {
+   "v": 2,
+   "slug": "zolo",
+   "name": "Zolo",
+   "type": "startup",
+   "industry": "real-estate",
+   "profile": {
+    "hq": "Bengaluru, Karnataka",
+    "leader": "Nikhil Sikri",
+    "leader_role": "Co-founder & CEO",
+    "as_of": "mid-2026, not re-checked"
+   },
+   "parts": {
+    "SELLS": "Zolo runs co-living spaces for students and young working professionals, offering furnished rooms with meals, housekeeping and Wi-Fi. It works with property owners who lease or hand over buildings for Zolo to run.",
+    "EARNS": "It earns rent from residents and fees from property owners. Young professionals in large tech cities are its main customers.",
+    "SIZE": "One of India's larger co-living companies, especially in southern Indian tech cities such as Bengaluru and Hyderabad.",
+    "RIVALS": "Stanza Living, Colive and Your-Space in managed housing, and traditional paying-guest hostels in every city.",
+    "WATCH": "Watch its expansion in tech cities and how it fills its beds as office work patterns shift between home and office."
+   },
+   "figures": [],
+   "needs_figures": true,
+   "quiz": [
+    {
+     "prompt": "What does Zolo mainly run?",
+     "options": [
+      "Hotels",
+      "Co-living spaces",
+      "Gyms",
+      "Airlines"
+     ],
+     "correct_idx": 1,
+     "part_kind": "SELLS"
+    },
+    {
+     "prompt": "Who are Zolo's main customers?",
+     "options": [
+      "Families",
+      "Tourists",
+      "Young professionals in tech cities",
+      "Senior citizens"
+     ],
+     "correct_idx": 2,
+     "part_kind": "EARNS"
+    },
+    {
+     "prompt": "Which company competes with Zolo?",
+     "options": [
+      "Stanza Living",
+      "Treebo",
+      "FabHotels",
+      "Zostel"
+     ],
+     "correct_idx": 0,
+     "part_kind": "RIVALS"
+    }
+   ],
+   "note_30w": "Zolo runs co-living spaces for students and young professionals, earning rent mainly in tech cities. It competes with Stanza Living and paying-guest hostels.",
+   "review": "unreviewed"
+  }
+ ]
+}
