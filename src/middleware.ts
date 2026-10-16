@@ -12,23 +12,28 @@ export async function middleware(request: NextRequest) {
 
   let response = NextResponse.next({ request });
 
-  const supabase = createServerClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
-    cookies: {
-      getAll() {
-        return request.cookies.getAll();
+  // Never let an auth error take down the whole site: on any failure, treat the
+  // visitor as signed out (public routes still render; protected ones redirect).
+  let user = null;
+  try {
+    const supabase = createServerClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
+      cookies: {
+        getAll() {
+          return request.cookies.getAll();
+        },
+        setAll(cookiesToSet) {
+          for (const { name, value } of cookiesToSet) request.cookies.set(name, value);
+          response = NextResponse.next({ request });
+          for (const { name, value, options } of cookiesToSet) response.cookies.set(name, value, options);
+        },
       },
-      setAll(cookiesToSet) {
-        for (const { name, value } of cookiesToSet) request.cookies.set(name, value);
-        response = NextResponse.next({ request });
-        for (const { name, value, options } of cookiesToSet) response.cookies.set(name, value, options);
-      },
-    },
-  });
-
-  // Refresh the session (must run before any redirect) and read the user.
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+    });
+    // Refresh the session (must run before any redirect) and read the user.
+    const result = await supabase.auth.getUser();
+    user = result.data.user;
+  } catch {
+    user = null;
+  }
 
   const path = request.nextUrl.pathname;
   const needsAuth = PROTECTED.some((p) => path === p || path.startsWith(p));
