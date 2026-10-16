@@ -6,12 +6,17 @@
 // seed script. To move to Postgres, change `provider` and DATABASE_URL.
 
 generator client {
-  provider = "prisma-client-js"
+  provider      = "prisma-client-js"
+  // native for local dev; rhel for Vercel's serverless runtime.
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
 }
 
 datasource db {
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  // Pooled connection (Supabase "Transaction" pooler, port 6543) for the app.
+  url       = env("DATABASE_URL")
+  // Direct connection (port 5432) for schema push and seeding.
+  directUrl = env("DIRECT_URL")
 }
 
 model Industry {
