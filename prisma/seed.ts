@@ -55,81 +55,92 @@ async function main() {
   }
 
   const now = new Date();
-  await prisma.$transaction(
-    async (tx) => {
-      await tx.figure.deleteMany();
-      await tx.quizQuestion.deleteMany();
-      await tx.explainerPart.deleteMany();
-      await tx.explainer.deleteMany();
-      await tx.company.deleteMany();
-      await tx.source.deleteMany();
-      await tx.industry.deleteMany();
 
-      for (const [slug, name] of Object.entries(INDUSTRIES)) {
-        await tx.industry.create({ data: { id: slug, slug, name } });
-      }
-      for (const s of sourceRows.values()) await tx.source.create({ data: s });
+  // Flatten into one array per table so each table loads with a bulk createMany.
+  // A single nested-write-per-company transaction times out over a remote
+  // Postgres (too many round-trips); bulk inserts are a handful of statements.
+  const industries: any[] = Object.entries(INDUSTRIES).map(([slug, name]) => ({ id: slug, slug, name }));
+  const sourceData: any[] = [...sourceRows.values()];
+  const companyRows: any[] = [];
+  const explainerRows: any[] = [];
+  const partRows: any[] = [];
+  const figureRows: any[] = [];
+  const questionRows: any[] = [];
 
-      for (const c of companies) {
-        const explainerId = `${c.slug}-v1`;
-        await tx.company.create({
-          data: {
-            id: c.slug,
-            slug: c.slug,
-            name: c.name,
-            type: c.type,
-            status: "published",
-            review: c.review ?? "supplied",
-            hq: c.profile?.hq ?? null,
-            leader: c.profile?.leader ?? null,
-            leaderRole: c.profile?.leader_role ?? null,
-            profileAsOf: c.profile?.as_of ?? null,
-            industryId: c.industry,
-            explainers: {
-              create: {
-                id: explainerId,
-                version: 1,
-                status: "published",
-                publishedAt: now,
-                note30w: c.note_30w.trim(),
-                parts: {
-                  create: PART_KINDS.map((kind, order) => ({
-                    id: `${explainerId}:${kind}`,
-                    kind,
-                    order,
-                    body: c.parts[kind].trim(),
-                    figures: {
-                      create: c.figures
-                        .filter((f) => f.part_kind === kind)
-                        .map((f) => ({
-                          id: `${explainerId}:${kind}:figure`,
-                          label: f.label,
-                          value: f.value,
-                          unit: f.unit,
-                          period: f.period,
-                          sourceId: sourceId(f.source),
-                        })),
-                    },
-                  })),
-                },
-                questions: {
-                  create: c.quiz.map((q, order) => ({
-                    id: `${explainerId}:q${order}`,
-                    order,
-                    partKind: q.part_kind,
-                    prompt: q.prompt,
-                    correctIdx: q.correct_idx,
-                    options: JSON.stringify(q.options),
-                  })),
-                },
-              },
-            },
-          },
+  for (const c of companies) {
+    const explainerId = `${c.slug}-v1`;
+    companyRows.push({
+      id: c.slug,
+      slug: c.slug,
+      name: c.name,
+      type: c.type,
+      status: "published",
+      review: c.review ?? "supplied",
+      hq: c.profile?.hq ?? null,
+      leader: c.profile?.leader ?? null,
+      leaderRole: c.profile?.leader_role ?? null,
+      profileAsOf: c.profile?.as_of ?? null,
+      industryId: c.industry,
+    });
+    explainerRows.push({
+      id: explainerId,
+      companyId: c.slug,
+      version: 1,
+      status: "published",
+      publishedAt: now,
+      note30w: c.note_30w.trim(),
+    });
+    PART_KINDS.forEach((kind, order) => {
+      const partId = `${explainerId}:${kind}`;
+      partRows.push({ id: partId, explainerId, kind, order, body: c.parts[kind].trim() });
+      for (const f of c.figures.filter((f) => f.part_kind === kind)) {
+        figureRows.push({
+          id: `${partId}:figure`,
+          partId,
+          label: f.label,
+          value: f.value,
+          unit: f.unit,
+          period: f.period,
+          sourceId: sourceId(f.source),
         });
       }
-    },
-    { timeout: 120_000 },
-  );
+    });
+    c.quiz.forEach((q, order) => {
+      questionRows.push({
+        id: `${explainerId}:q${order}`,
+        explainerId,
+        order,
+        partKind: q.part_kind,
+        prompt: q.prompt,
+        correctIdx: q.correct_idx,
+        options: JSON.stringify(q.options),
+      });
+    });
+  }
+
+  const chunk = <T,>(arr: T[], n: number): T[][] => {
+    const out: T[][] = [];
+    for (let i = 0; i < arr.length; i += n) out.push(arr.slice(i, i + n));
+    return out;
+  };
+
+  // Clear existing content, FK-safe order.
+  await prisma.figure.deleteMany();
+  await prisma.quizQuestion.deleteMany();
+  await prisma.explainerPart.deleteMany();
+  await prisma.explainer.deleteMany();
+  await prisma.company.deleteMany();
+  await prisma.source.deleteMany();
+  await prisma.industry.deleteMany();
+
+  // Insert in FK-safe order, chunked so each statement stays reasonable.
+  await prisma.industry.createMany({ data: industries });
+  await prisma.source.createMany({ data: sourceData });
+  for (const part of chunk(companyRows, 500)) await prisma.company.createMany({ data: part });
+  for (const part of chunk(explainerRows, 500)) await prisma.explainer.createMany({ data: part });
+  for (const part of chunk(partRows, 1000)) await prisma.explainerPart.createMany({ data: part });
+  for (const part of chunk(questionRows, 1000)) await prisma.quizQuestion.createMany({ data: part });
+  for (const part of chunk(figureRows, 1000)) await prisma.figure.createMany({ data: part });
 
   console.log(`\nSeeded ${summary}.`);
 }
