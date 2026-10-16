@@ -25,7 +25,7 @@ export default async function ExplainerPage({ params }: Props) {
           <p className="mt-3 text-[16px] leading-[1.5] text-ash">
             We only show companies we have written and checked.
           </p>
-          <Link href="/" className="btn mt-10">
+          <Link href="/search" className="btn mt-10">
             Search another company
           </Link>
         </main>

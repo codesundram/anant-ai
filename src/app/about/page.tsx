@@ -48,7 +48,7 @@ export default function AboutPage() {
             the same five parts: what it sells, how it earns, how big it is, who it competes with, and what to watch.
             It ends with a 30-word note saved to your notebook and a quick quiz.
           </p>
-          <Link href="/" className="btn mt-6">
+          <Link href="/search" className="btn mt-6">
             Start your first sixty
           </Link>
         </section>

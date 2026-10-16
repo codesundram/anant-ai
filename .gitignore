@@ -12,3 +12,6 @@ prisma/*.db-journal
 next-env.d.ts
 .DS_Store
 .claude/settings.local.json
+
+# agent helper scripts (not part of the app)
+scratchpad/

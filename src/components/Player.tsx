@@ -183,7 +183,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
               <span ref={clock} className="label tabular-nums" aria-hidden="true">
                 1:00
               </span>
-              <Link href="/" aria-label="Close explainer" className="-mr-2 px-2 py-1 text-[22px] leading-none text-ash">
+              <Link href="/search" aria-label="Close explainer" className="-mr-2 px-2 py-1 text-[22px] leading-none text-ash">
                 ×
               </Link>
             </div>

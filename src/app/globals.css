@@ -126,3 +126,55 @@ body {
     transition: none;
   }
 }
+
+/* ---- Landing intro: the infinity draws, then the splash clears ---- */
+@keyframes anant-draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+@keyframes anant-pop {
+  0%, 60% { transform: scale(1); }
+  78% { transform: scale(1.07); }
+  100% { transform: scale(1); }
+}
+@keyframes anant-splash-out {
+  to { opacity: 0; transform: scale(1.18); }
+}
+@keyframes anant-rise {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+
+.infinity-draw path {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: anant-draw 1200ms cubic-bezier(0.65, 0, 0.35, 1) forwards;
+}
+.infinity-draw {
+  animation: anant-pop 1600ms ease-out both;
+}
+
+.splash {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--black-room);
+}
+.splash--out {
+  animation: anant-splash-out 520ms cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  pointer-events: none;
+}
+
+.intro-content--hidden { opacity: 0; }
+.intro-content--in { animation: anant-rise 640ms cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .infinity-draw path { animation: none; stroke-dashoffset: 0; }
+  .infinity-draw { animation: none; }
+  .splash--out { animation: none; }
+  .intro-content--hidden { opacity: 1; }
+  .intro-content--in { animation: none; }
+}

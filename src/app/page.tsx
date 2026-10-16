@@ -1,26 +1,37 @@
-import { Footer } from "@/components/Footer";
-import { Header } from "@/components/Header";
+import type { Metadata } from "next";
+import { InfinityMark } from "@/components/InfinityMark";
+import { Intro } from "@/components/Intro";
+import { LoginForm } from "@/components/LoginForm";
 import { Screen } from "@/components/Screen";
-import { Search } from "@/components/Search";
-import { searchCompanies } from "@/lib/catalogue";
+import { Wordmark } from "@/components/Wordmark";
+import { DISCLAIMER, TAGLINE } from "@/lib/constants";
 
-export const dynamic = "force-dynamic";
+export const metadata: Metadata = { title: "Sign in" };
 
-export default async function Home() {
-  const initial = await searchCompanies("", 1000);
+export default async function Landing({ searchParams }: { searchParams: Promise<{ next?: string }> }) {
+  const { next } = await searchParams;
+  // Only allow in-app relative paths as the post-login destination.
+  const dest = next && next.startsWith("/") && !next.startsWith("//") ? next : "/search";
+
   return (
-    <Screen theme="watch">
-      <Header />
-      <main className="column pt-16">
-        <h1 className="font-display text-[34px] font-semibold leading-[1.08] tracking-[-0.02em]">
-          Sixty seconds. One company.{" "}
-          <span className="font-serif font-normal italic tracking-normal">Ready for the interview.</span>
-        </h1>
-        <div className="mt-12">
-          <Search initial={initial} />
-        </div>
-      </main>
-      <Footer />
-    </Screen>
+    <Intro>
+      <Screen theme="watch">
+        <main className="column flex flex-1 flex-col items-center pt-20 text-center">
+          <InfinityMark className="w-[68px]" />
+          <div className="mt-6">
+            <Wordmark className="w-[200px]" />
+          </div>
+          <p className="mt-5 font-serif text-[20px] italic leading-[1.3] text-bone">{TAGLINE}</p>
+
+          <div className="mt-2 w-full max-w-[360px] text-left">
+            <LoginForm next={dest} />
+          </div>
+        </main>
+
+        <footer className="column pb-10 pt-16 text-center">
+          <p className="mx-auto max-w-[34em] text-[12px] leading-[1.5] text-ash">{DISCLAIMER}</p>
+        </footer>
+      </Screen>
+    </Intro>
   );
 }

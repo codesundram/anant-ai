@@ -11,7 +11,7 @@ export function Notebook() {
     return (
       <div className="mt-6">
         <p className="text-[16px] leading-[1.5] text-ash">No notes yet. Watch one explainer and its note lands here.</p>
-        <Link href="/" className="btn mt-8">
+        <Link href="/search" className="btn mt-8">
           Start your first sixty
         </Link>
       </div>

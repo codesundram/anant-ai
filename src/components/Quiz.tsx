@@ -153,7 +153,7 @@ export function Quiz({ explainer }: { explainer: ExplainerDTO }) {
             </p>
           )}
           <div className="mt-10 flex flex-col gap-3">
-            <Link href="/" className="btn">
+            <Link href="/search" className="btn">
               Next company
             </Link>
             <Link href="/notebook" className="btn-quiet">

@@ -8,7 +8,7 @@ export default function NotFound() {
       <main className="column flex flex-1 flex-col justify-center py-16">
         <Wordmark className="text-[18px]" />
         <h1 className="mt-10 font-display text-[28px] font-semibold leading-tight">That page isn’t here.</h1>
-        <Link href="/" className="btn mt-10">
+        <Link href="/search" className="btn mt-10">
           Search a company
         </Link>
       </main>
