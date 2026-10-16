@@ -1,0 +1,1418 @@
+{
+  "_meta": {
+    "group": "fig-003",
+    "generated": "2026-10-15"
+  },
+  "companies": [
+    {
+      "slug": "canara-bank",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "119755",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Canara Bank FY25 results (via screener.in; net profit per Business Standard)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CANBK/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "17027",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Canara Bank FY25 results (via screener.in; net profit per Business Standard)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CANBK/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "can-fin-homes",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "3879",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Can Fin Homes FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CANFINHOME/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "857",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Can Fin Homes FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CANFINHOME/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "caplin-point-laboratories",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1937",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Caplin Point Laboratories FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CAPLIPOINT/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "541",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Caplin Point Laboratories FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CAPLIPOINT/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "capri-global-capital",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "3249",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Capri Global Capital FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CGCL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "479",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Capri Global Capital FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CGCL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cartrade-tech",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "641",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "CarTrade Tech FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CARTRADE/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "145",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "CarTrade Tech FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CARTRADE/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "carborundum-universal",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "4894",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Carborundum Universal FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CARBORUNIV/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "299",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Carborundum Universal FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CARBORUNIV/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "castrol",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "5722",
+          "unit": "₹ crore",
+          "period": "CY25",
+          "source": {
+            "title": "Castrol India CY2025 results, year ended Dec 2025 (via screener.in)",
+            "doc_type": "results",
+            "period": "CY25",
+            "url": "https://www.screener.in/company/CASTROLIND/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "950",
+          "unit": "₹ crore",
+          "period": "CY25",
+          "source": {
+            "title": "Castrol India CY2025 results, year ended Dec 2025 (via screener.in)",
+            "doc_type": "results",
+            "period": "CY25",
+            "url": "https://www.screener.in/company/CASTROLIND/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "central-bank-of",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "33666",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Central Bank of India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CENTRALBK/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "3785",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Central Bank of India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CENTRALBK/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "chambal-fertilizers-and-chemicals",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "16646",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Chambal Fertilisers and Chemicals FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHAMBLFERT/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1649",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Chambal Fertilisers and Chemicals FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHAMBLFERT/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "chennai-petroleum",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "58983",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Chennai Petroleum (CPCL) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHENNPETRO/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "214",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Chennai Petroleum (CPCL) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHENNPETRO/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "choice-international",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "921",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Choice International FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHOICEIN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "163",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Choice International FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHOICEIN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cholamandalam-investment-and-finance",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "25890",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cholamandalam Investment and Finance FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHOLAFIN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "4263",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cholamandalam Investment and Finance FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHOLAFIN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cholamandalam-financial-holdings",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "33196",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cholamandalam Financial Holdings FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHOLAHLDNG/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "4740",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cholamandalam Financial Holdings FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CHOLAHLDNG/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cipla",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "27548",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cipla FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CIPLA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "5269",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cipla FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CIPLA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "city-union-bank",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "5834",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "City Union Bank FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CUB/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1124",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "City Union Bank FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CUB/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "clean-science-and-technology",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "967",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Clean Science and Technology FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CLEAN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "264",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Clean Science and Technology FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CLEAN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "coal-india",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "169177",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Coal India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COALINDIA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "35450",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Coal India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COALINDIA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cochin-shipyard",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "4820",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cochin Shipyard FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COCHINSHIP/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "827",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cochin Shipyard FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COCHINSHIP/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "coforge",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "12073",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Coforge FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COFORGE/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "936",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Coforge FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COFORGE/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cohance-lifesciences",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "2608",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cohance Lifesciences FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COHANCE/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "484",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cohance Lifesciences FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COHANCE/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "colgate-palmolive",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "6040",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Colgate-Palmolive (India) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COLPAL/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1437",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Colgate-Palmolive (India) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COLPAL/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "computer-age-management-services",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1422",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "CAMS FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CAMS/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "465",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "CAMS FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CAMS/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "concord-biotech",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1200",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Concord Biotech FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CONCORDBIO/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "372",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Concord Biotech FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CONCORDBIO/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "container-of",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "8887",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Container Corporation of India (CONCOR) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CONCOR/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1293",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Container Corporation of India (CONCOR) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CONCOR/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "coromandel-international",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "24085",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Coromandel International FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COROMANDEL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2055",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Coromandel International FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/COROMANDEL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "craftsman-automation",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "5690",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Craftsman Automation FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CRAFTSMAN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "201",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Craftsman Automation FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CRAFTSMAN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "creditaccess-grameen",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Total income",
+          "value": "5752",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "CreditAccess Grameen FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CREDITACC/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "531",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "CreditAccess Grameen FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CREDITACC/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "crompton-greaves-consumer-electricals",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "7864",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Crompton Greaves Consumer Electricals FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CROMPTON/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "564",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Crompton Greaves Consumer Electricals FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CROMPTON/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cummins",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "10391",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cummins India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CUMMINSIND/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2000",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cummins India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CUMMINSIND/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cupid",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "183",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cupid FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CUPID/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "41",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cupid FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CUPID/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "cyient",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "7360",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cyient FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CYIENT/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "648",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Cyient FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/CYIENT/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dlf",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "7994",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "DLF FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DLF/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "4367",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "DLF FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DLF/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "doms-industries",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1913",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "DOMS Industries FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DOMS/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "214",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "DOMS Industries FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DOMS/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dabur",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "12563",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dabur India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DABUR/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1740",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dabur India FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DABUR/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dalmia-bharat",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "13980",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dalmia Bharat FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DALBHARAT/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "699",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dalmia Bharat FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DALBHARAT/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "data-patterns",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "708",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Data Patterns FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DATAPATTNS/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "222",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Data Patterns FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DATAPATTNS/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "deepak-fertilisers-and-petrochemicals-corp",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "10274",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Deepak Fertilisers and Petrochemicals (DFPCL) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DEEPAKFERT/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "945",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Deepak Fertilisers and Petrochemicals (DFPCL) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DEEPAKFERT/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "deepak-nitrite",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "8282",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Deepak Nitrite FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DEEPAKNTR/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "697",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Deepak Nitrite FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DEEPAKNTR/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "delhivery",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "8932",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Delhivery FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DELHIVERY/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "162",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Delhivery FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DELHIVERY/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "devyani-international",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "4951",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Devyani International FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DEVYANI/consolidated/"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "7",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Devyani International FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DEVYANI/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "divis-labs",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "9360",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Divi's Laboratories FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DIVISLAB/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2191",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Divi's Laboratories FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DIVISLAB/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dixon-technologies",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "38860",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dixon Technologies FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DIXON/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1233",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dixon Technologies FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DIXON/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dr-reddys",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "32644",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dr Reddy's Laboratories FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DRREDDY/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "5725",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dr Reddy's Laboratories FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/DRREDDY/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dr-lal-path-labs",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "2461",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dr. Lal PathLabs FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LALPATHLAB/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "492",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Dr. Lal PathLabs FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LALPATHLAB/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "e-i-d-parry",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "31609",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "E.I.D. Parry FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/EIDPARRY/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1773",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "E.I.D. Parry FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/EIDPARRY/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "eih",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "2743",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "EIH (Oberoi Group) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/EIHOTEL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "770",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "EIH (Oberoi Group) FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/EIHOTEL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "elgi-equipments",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "3510",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "ELGi Equipments FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/ELGIEQUIP/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "350",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "ELGi Equipments FY25 results (via screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/ELGIEQUIP/consolidated/"
+          }
+        }
+      ]
+    }
+  ]
+}

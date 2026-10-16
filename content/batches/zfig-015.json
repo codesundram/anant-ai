@@ -1,0 +1,266 @@
+{
+  "_meta": { "group": "fig-015", "generated": "2026-10-15" },
+  "companies": [
+    {
+      "slug": "zerodha",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "8847", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zerodha FY25 financials (consolidated, via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/zerodha-cash-reserve-stands-at-rs-22679-cr-in-fy25-10799921" } },
+        { "label": "Net profit", "value": "4237", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zerodha FY25 financials (consolidated, via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/zerodha-cash-reserve-stands-at-rs-22679-cr-in-fy25-10799921" } }
+      ]
+    },
+    {
+      "slug": "zoho",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "12313", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zoho FY25 RoC filings (via Medianama)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://www.medianama.com/2026/04/223-zoho-revenue-crosses-rs-12000-crore-fy25-profit-slips" } },
+        { "label": "Net profit", "value": "3191", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zoho FY25 RoC filings (via Medianama)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://www.medianama.com/2026/04/223-zoho-revenue-crosses-rs-12000-crore-fy25-profit-slips" } }
+      ]
+    },
+    {
+      "slug": "boat",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "3073", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "boAt (Imagine Marketing) FY25 financials (via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/boat-makes-turnaround-in-fy25-with-rs-60-cr-profit-9986751" } },
+        { "label": "Net profit", "value": "60", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "boAt (Imagine Marketing) FY25 financials (via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/boat-makes-turnaround-in-fy25-with-rs-60-cr-profit-9986751" } }
+      ]
+    },
+    {
+      "slug": "zetwerk",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Gross revenue", "value": "12798", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zetwerk FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/zetwerks-gmv-slips-11-in-fy25-posts-rs-371-cr-loss-10991308" } },
+        { "label": "Net loss", "value": "371", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Zetwerk FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/zetwerks-gmv-slips-11-in-fy25-posts-rs-371-cr-loss-10991308" } }
+      ]
+    },
+    {
+      "slug": "upstox",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "945", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Upstox FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/upstox-posts-rs-1208-cr-income-and-rs-215-cr-profit-in-fy25-11024275" } },
+        { "label": "Net profit", "value": "215", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Upstox FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/upstox-posts-rs-1208-cr-income-and-rs-215-cr-profit-in-fy25-11024275" } }
+      ]
+    },
+    {
+      "slug": "xpressbees",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "2874", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Xpressbees FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/xpressbees-losses-soar-85-to-rs-370-cr-in-fy25-amid-flat-revenue-10635110" } },
+        { "label": "Net loss", "value": "370", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Xpressbees FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/xpressbees-losses-soar-85-to-rs-370-cr-in-fy25-amid-flat-revenue-10635110" } }
+      ]
+    },
+    {
+      "slug": "wow-momo",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "470", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Wow! Momo FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/wow-momo-posts-rs-470-cr-revenue-and-rs-114-cr-loss-in-fy24-8757999" } },
+        { "label": "Net loss", "value": "114", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Wow! Momo FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/wow-momo-posts-rs-470-cr-revenue-and-rs-114-cr-loss-in-fy24-8757999" } }
+      ]
+    },
+    {
+      "slug": "vedantu",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "227", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Vedantu FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/vedantu-posts-rs-227-cr-revenue-in-fy25-losses-increase-25-11038680" } },
+        { "label": "Net loss", "value": "123", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Vedantu FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/vedantu-posts-rs-227-cr-revenue-in-fy25-losses-increase-25-11038680" } }
+      ]
+    },
+    {
+      "slug": "upgrad",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Gross revenue", "value": "1943", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "upGrad FY25 financials (via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/upgrad-turns-ebitda-positive-in-fy25-reports-rs-1943-cr-gross-revenue-10605459" } },
+        { "label": "Net loss", "value": "274", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "upGrad FY25 financials (consolidated, via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/upgrad-turns-ebitda-positive-in-fy25-reports-rs-1943-cr-gross-revenue-10605459" } }
+      ]
+    },
+    {
+      "slug": "magicpin",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "870", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "magicpin (Samast Technologies) FY24 RoC filings (via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/magicpin-triples-revenue-to-rs-870-cr-in-fy24-cuts-losses-8710385" } },
+        { "label": "Net loss", "value": "107.3", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "magicpin FY24 financials (via Inc42)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://inc42.com/company/magicpin/financials/" } }
+      ]
+    },
+    {
+      "slug": "treebo",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "109", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Treebo FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/treebo-crosses-rs-100-cr-revenue-in-fy24-outstanding-losses-climb-to-rs-488-cr-8580656" } },
+        { "label": "Net loss", "value": "28", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Treebo FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/treebo-crosses-rs-100-cr-revenue-in-fy24-outstanding-losses-climb-to-rs-488-cr-8580656" } }
+      ]
+    },
+    {
+      "slug": "whatfix",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "425", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Whatfix FY24 financials (via Inc42)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://inc42.com/buzz/whatfixs-revenue-jumps-49-crosses-inr-400-cr-mark" } },
+        { "label": "Net loss", "value": "263", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Whatfix FY24 financials (via Inc42)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://inc42.com/buzz/whatfixs-revenue-jumps-49-crosses-inr-400-cr-mark" } }
+      ]
+    },
+    {
+      "slug": "ultrahuman",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "565", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Ultrahuman FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/ultrahuman-reports-rs-565-cr-revenue-and-rs-73-cr-profit-in-fy25-10485974" } },
+        { "label": "Net profit", "value": "73", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Ultrahuman FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/ultrahuman-reports-rs-565-cr-revenue-and-rs-73-cr-profit-in-fy25-10485974" } }
+      ]
+    },
+    {
+      "slug": "ultraviolette",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "32.3", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Ultraviolette FY25 RoC filings (via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/zoho-backed-ultraviolette-reports-rs-32-cr-revenue-and-rs-116-cr-loss-in-fy25-10792170" } },
+        { "label": "Net loss", "value": "116", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Ultraviolette FY25 RoC filings (via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/zoho-backed-ultraviolette-reports-rs-32-cr-revenue-and-rs-116-cr-loss-in-fy25-10792170" } }
+      ]
+    },
+    {
+      "slug": "smallcase",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "67.4", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "smallcase FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/smallcase-revenue-soars-over-2x-in-fy24-losses-down-74-7602261" } }
+      ]
+    },
+    {
+      "slug": "cred-avenue-yubi",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "483.7", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Yubi FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/yubi-revenue-grows-47-to-rs-484-cr-in-fy24-losses-down-22-7385143" } },
+        { "label": "Net loss", "value": "395.8", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "Yubi FY24 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/yubi-revenue-grows-47-to-rs-484-cr-in-fy24-losses-down-22-7385143" } }
+      ]
+    },
+    {
+      "slug": "yulu",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "237.4", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Yulu FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/yulu-revenue-jumps-98-in-fy25-losses-stand-at-rs-126-cr-10831384" } },
+        { "label": "Net loss", "value": "126", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Yulu FY25 RoC filings (consolidated, via Entrackr)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/yulu-revenue-jumps-98-in-fy25-losses-stand-at-rs-126-cr-10831384" } }
+      ]
+    },
+    {
+      "slug": "mcaffeine",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "193", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "mCaffeine FY24 RoC filings (via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/mcaffeines-revenue-declines-to-rs-193-cr-in-fy24-7585248" } },
+        { "label": "Net loss", "value": "85.41", "unit": "₹ crore", "period": "FY24",
+          "source": { "title": "mCaffeine FY24 RoC filings (via Entrackr)", "doc_type": "annual_report", "period": "FY24",
+                      "url": "https://entrackr.com/fintrackr/mcaffeines-revenue-declines-to-rs-193-cr-in-fy24-7585248" } }
+      ]
+    },
+    {
+      "slug": "toyota-kirloskar-motor",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "64895", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Toyota Kirloskar Motor FY25 results (via Autocar Professional)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.autocarpro.in/news/exclusive-toyota-kirloskar-motor-delivers-record-%E2%82%B95672-cr-profit-in-fy25-elevates-indias-role-in-global-sales-128016" } },
+        { "label": "Net profit (consolidated)", "value": "5672", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Toyota Kirloskar Motor FY25 results (via Autocar Professional)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.autocarpro.in/news/exclusive-toyota-kirloskar-motor-delivers-record-%E2%82%B95672-cr-profit-in-fy25-elevates-indias-role-in-global-sales-128016" } }
+      ]
+    },
+    {
+      "slug": "veritas-finance",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "1550.68", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Veritas Finance FY25 results (standalone, via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/veritas-finance-standalone-net-profit-rises-16-64-in-the-march-2025-quarter-125050200712_1.html" } },
+        { "label": "Net profit", "value": "295.11", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Veritas Finance FY25 results (standalone, via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/veritas-finance-standalone-net-profit-rises-16-64-in-the-march-2025-quarter-125050200712_1.html" } }
+      ]
+    },
+    {
+      "slug": "vastu-housing-finance",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "1406.96", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Vastu Housing Finance FY25 results (consolidated, via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/vastu-housing-finance-corporation-consolidated-net-profit-declines-18-18-in-the-march-2025-quarter-125042100111_1.html" } },
+        { "label": "Net profit (consolidated)", "value": "323.92", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Vastu Housing Finance FY25 results (consolidated, via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/vastu-housing-finance-corporation-consolidated-net-profit-declines-18-18-in-the-march-2025-quarter-125042100111_1.html" } }
+      ]
+    },
+    {
+      "slug": "unity-small-finance-bank",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "2837", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Unity Small Finance Bank FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/news/unity-small-finance-bank-q4-results-profit-rises-83-to-rs-264-cr-125050500774_1.html" } },
+        { "label": "Net profit", "value": "482", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Unity Small Finance Bank FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/news/unity-small-finance-bank-q4-results-profit-rises-83-to-rs-264-cr-125050500774_1.html" } }
+      ]
+    }
+  ]
+}

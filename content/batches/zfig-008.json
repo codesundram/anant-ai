@@ -1,0 +1,251 @@
+{
+  "_meta": { "group": "fig-008", "generated": "2026-10-15" },
+  "companies": [
+    { "slug": "nuvama-wealth-management", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "2901", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Nuvama Wealth Management Q4 & FY25 earnings release", "doc_type": "results", "period": "FY25", "url": "https://www.nuvama.com/wp-content/uploads/2025/05/Nuvama_Earnings-Release_Q4-FY-24-25-2.pdf" } },
+      { "label": "Profit after tax", "value": "986", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Nuvama Wealth Management Q4 & FY25 earnings release", "doc_type": "results", "period": "FY25", "url": "https://www.nuvama.com/wp-content/uploads/2025/05/Nuvama_Earnings-Release_Q4-FY-24-25-2.pdf" } }
+    ] },
+    { "slug": "nuvoco-vistas", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "10357", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Nuvoco Vistas Q4 & FY25 results (via JCement)", "doc_type": "results", "period": "FY25", "url": "https://en.jcement.ru/content/news/nuvoco-vistas-announces-its-financial-results-for-q4-and-fy25/" } },
+      { "label": "Net profit", "value": "21.84", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Nuvoco Vistas Corp Q4FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/nuvoco-vistas-corp-q4fy25-results-net-profit-jumps-65-revenue-up-3-7-125050100982_1.html" } }
+    ] },
+    { "slug": "ongc", "needs_figures": false, "figures": [
+      { "label": "Gross revenue (consolidated)", "value": "663262", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "ONGC FY25 results (AngelOne)", "doc_type": "results", "period": "FY25", "url": "https://www.angelone.in/news/share-market/ongc-share-price-in-focus-net-profit-falls-fy25-results-declared-dividend" } },
+      { "label": "Net profit (consolidated)", "value": "38329", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "ONGC FY25 results (AngelOne)", "doc_type": "results", "period": "FY25", "url": "https://www.angelone.in/news/share-market/ongc-share-price-in-focus-net-profit-falls-fy25-results-declared-dividend" } }
+    ] },
+    { "slug": "oberoi-realty", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "5286.3", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Oberoi Realty Q4FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/oberoi-realty-q4fy25-results-net-profit-falls-45-to-433-2-crore-125042801414_1.html" } },
+      { "label": "Profit (consolidated)", "value": "2225.51", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Oberoi Realty Q4FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/oberoi-realty-q4fy25-results-net-profit-falls-45-to-433-2-crore-125042801414_1.html" } }
+    ] },
+    { "slug": "oil", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "36163.75", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Oil India Q4 & FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/oil-india-q4-fy25-result-profit-revenue-dividend-125052101923_1.html" } },
+      { "label": "Net profit (consolidated)", "value": "6551", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Oil India Q4 & FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/oil-india-q4-fy25-result-profit-revenue-dividend-125052101923_1.html" } }
+    ] },
+    { "slug": "ola-electric", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations (consolidated)", "value": "4514", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ola Electric FY25 results (Autocar Professional)", "doc_type": "results", "period": "FY25", "url": "https://www.autocarpro.in/news/ola-electric-reports-wider-losses-despite-revenue-growth-in-fy25-126676" } },
+      { "label": "Net loss (consolidated)", "value": "2276", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ola Electric FY25 results (Autocar Professional)", "doc_type": "results", "period": "FY25", "url": "https://www.autocarpro.in/news/ola-electric-reports-wider-losses-despite-revenue-growth-in-fy25-126676" } }
+    ] },
+    { "slug": "olectra-greentech", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "1801.90", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Olectra Greentech Q4FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/olectra-greentech-slips-as-q4-pat-drop-55-qoq-to-rs-21-cr-125052700585_1.html" } },
+      { "label": "Net profit (consolidated)", "value": "139.21", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Olectra Greentech Q4FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/olectra-greentech-slips-as-q4-pat-drop-55-qoq-to-rs-21-cr-125052700585_1.html" } }
+    ] },
+    { "slug": "oracle-financial-services-software", "needs_figures": false, "figures": [
+      { "label": "Net sales (consolidated)", "value": "6846.80", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "OFSS Q4 FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/oracle-financial-services-software-q4-pat-up-19-qoq-125042600482_1.html" } },
+      { "label": "Net profit (consolidated)", "value": "2379.60", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "OFSS Q4 FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/oracle-financial-services-software-q4-pat-up-19-qoq-125042600482_1.html" } }
+    ] },
+    { "slug": "pc-jeweller", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations (consolidated)", "value": "2244.60", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PC Jeweller turns profitable in FY25 (Indian Retailer)", "doc_type": "results", "period": "FY25", "url": "https://www.indianretailer.com/news/retail-india-news-pc-jeweller-turns-profitable-fy25-rs-577-cr-net-cuts-debt-50-pc" } },
+      { "label": "Profit after tax (consolidated)", "value": "577.70", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PC Jeweller turns profitable in FY25 (Indian Retailer)", "doc_type": "results", "period": "FY25", "url": "https://www.indianretailer.com/news/retail-india-news-pc-jeweller-turns-profitable-fy25-rs-577-cr-net-cuts-debt-50-pc" } }
+    ] },
+    { "slug": "pcbl-chemical", "needs_figures": false, "figures": [
+      { "label": "Net sales (consolidated)", "value": "8404.25", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PCBL Chemical FY25 profit & loss (MarketsMojo / Motilal Oswal)", "doc_type": "results", "period": "FY25", "url": "https://marketsmojo.motilaloswal.com//stocks-analysis/financial-profit-loss/pcbl-chemical-694251-0" } },
+      { "label": "Profit after tax (consolidated)", "value": "434.67", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PCBL Chemical FY25 profit & loss (MarketsMojo / Motilal Oswal)", "doc_type": "results", "period": "FY25", "url": "https://marketsmojo.motilaloswal.com//stocks-analysis/financial-profit-loss/pcbl-chemical-694251-0" } }
+    ] },
+    { "slug": "pg-electroplast", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations (consolidated)", "value": "4869", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PG Electroplast Q4 & FY25 results (The Machine Maker)", "doc_type": "results", "period": "FY25", "url": "https://themachinemaker.com/news/pg-electroplast-q4-profit-doubles-to-rs-146-38-crore/" } },
+      { "label": "Net profit (consolidated)", "value": "290.92", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PG Electroplast Q4 & FY25 results (The Machine Maker)", "doc_type": "results", "period": "FY25", "url": "https://themachinemaker.com/news/pg-electroplast-q4-profit-doubles-to-rs-146-38-crore/" } }
+    ] },
+    { "slug": "pi-industries", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations (consolidated)", "value": "7977.8", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PI Industries FY25 Directors' Report (via India Infoline)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.indiainfoline.com/company/p-i-industries-ltd/reports/directors-report" } },
+      { "label": "Profit after tax (consolidated)", "value": "1660.2", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PI Industries FY25 Directors' Report (via India Infoline)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.indiainfoline.com/company/p-i-industries-ltd/reports/directors-report" } }
+    ] },
+    { "slug": "pnb-housing-finance", "needs_figures": false, "figures": [
+      { "label": "Total income (consolidated)", "value": "7691.63", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PNB Housing Finance FY25 Directors' Report", "doc_type": "annual_report", "period": "FY25", "url": "https://www.pnbhousing.com/telugu/digital-annual-report/2024-2025/assets/pdf/directors-report.pdf" } },
+      { "label": "Profit after tax (consolidated)", "value": "1936.14", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PNB Housing Finance FY25 Directors' Report", "doc_type": "annual_report", "period": "FY25", "url": "https://www.pnbhousing.com/telugu/digital-annual-report/2024-2025/assets/pdf/directors-report.pdf" } }
+    ] },
+    { "slug": "pvr-inox", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations (consolidated)", "value": "5779.90", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PVR INOX Q4 & FY25 results (Outlook Business)", "doc_type": "results", "period": "FY25", "url": "https://www.outlookbusiness.com/corporate/pvr-inox-posts-q4-loss-at-rs-1253-crore-fy25-revenue-dips-5-to-rs-59536-crore" } },
+      { "label": "Net loss (consolidated)", "value": "279.60", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PVR INOX Q4 & FY25 results (Outlook Business)", "doc_type": "results", "period": "FY25", "url": "https://www.outlookbusiness.com/corporate/pvr-inox-posts-q4-loss-at-rs-1253-crore-fy25-revenue-dips-5-to-rs-59536-crore" } }
+    ] },
+    { "slug": "ptc-industries", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "308", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PTC Industries consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PTCIL/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "61", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "PTC Industries consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PTCIL/consolidated/" } }
+    ] },
+    { "slug": "page-industries", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "4935", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Page Industries P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PAGEIND/" } },
+      { "label": "Net profit", "value": "729", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Page Industries P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PAGEIND/" } }
+    ] },
+    { "slug": "paradeep-phosphates", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "16959", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Paradeep Phosphates consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PARADEEP/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "662", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Paradeep Phosphates consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PARADEEP/consolidated/" } }
+    ] },
+    { "slug": "patanjali-foods", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "33758", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Patanjali Foods consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PATANJALI/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "1301", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Patanjali Foods consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PATANJALI/consolidated/" } }
+    ] },
+    { "slug": "persistent", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "11939", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Persistent Systems consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PERSISTENT/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "1400", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Persistent Systems consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PERSISTENT/consolidated/" } }
+    ] },
+    { "slug": "petronet-lng", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "50982", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Petronet LNG consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PETRONET/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "3973", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Petronet LNG consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PETRONET/consolidated/" } }
+    ] },
+    { "slug": "phoenix-mills", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "3807", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Phoenix Mills consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PHOENIXLTD/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "1307", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Phoenix Mills consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PHOENIXLTD/consolidated/" } }
+    ] },
+    { "slug": "pidilite", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "13140", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Pidilite Industries consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PIDILITIND/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "2096", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Pidilite Industries consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PIDILITIND/consolidated/" } }
+    ] },
+    { "slug": "piramal-pharma", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "9151", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Piramal Pharma consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PPLPHARMA/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "91", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Piramal Pharma consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PPLPHARMA/consolidated/" } }
+    ] },
+    { "slug": "poly-medicure", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "1669", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Poly Medicure consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POLYMED/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "339", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Poly Medicure consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POLYMED/consolidated/" } }
+    ] },
+    { "slug": "polycab", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "22408", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Polycab India consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POLYCAB/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "2046", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Polycab India consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POLYCAB/consolidated/" } }
+    ] },
+    { "slug": "poonawalla-fincorp", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "4190", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Poonawalla Fincorp consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POONAWALLA/consolidated/" } },
+      { "label": "Net loss (consolidated)", "value": "98", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Poonawalla Fincorp consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POONAWALLA/consolidated/" } }
+    ] },
+    { "slug": "power-finance", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "106502", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Power Finance Corporation consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PFC/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "30514", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Power Finance Corporation consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PFC/consolidated/" } }
+    ] },
+    { "slug": "power-grid", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "45792", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Power Grid Corporation consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POWERGRID/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "15521", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Power Grid Corporation consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/POWERGRID/consolidated/" } }
+    ] },
+    { "slug": "premier-energies", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "6519", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Premier Energies consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PREMIERENE/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "937", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Premier Energies consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PREMIERENE/consolidated/" } }
+    ] },
+    { "slug": "prestige-estates-projects", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "7349", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Prestige Estates Projects consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PRESTIGE/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "617", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Prestige Estates Projects consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PRESTIGE/consolidated/" } }
+    ] },
+    { "slug": "prime-focus", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "3599", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Prime Focus consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PFOCUS/consolidated/" } },
+      { "label": "Net loss (consolidated)", "value": "458", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Prime Focus consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PFOCUS/consolidated/" } }
+    ] },
+    { "slug": "punjab-national-bank", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "124010", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Punjab National Bank consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PNB/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "18553", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Punjab National Bank consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PNB/consolidated/" } }
+    ] },
+    { "slug": "r-r-kabel", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "7618", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "R R Kabel consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RRKABEL/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "312", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "R R Kabel consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RRKABEL/consolidated/" } }
+    ] },
+    { "slug": "rbl-bank", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "14041", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "RBL Bank consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RBLBANK/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "717", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "RBL Bank consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RBLBANK/consolidated/" } }
+    ] },
+    { "slug": "rhi-magnesita", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "3674", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "RHI Magnesita India consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RHIM/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "203", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "RHI Magnesita India consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RHIM/consolidated/" } }
+    ] },
+    { "slug": "rec", "needs_figures": false, "figures": [
+      { "label": "Revenue (consolidated)", "value": "56369", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "REC consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RECLTD/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "15884", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "REC consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RECLTD/consolidated/" } }
+    ] },
+    { "slug": "rites", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "2196", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "RITES consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RITES/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "424", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "RITES consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RITES/consolidated/" } }
+    ] },
+    { "slug": "radico-khaitan", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "4843", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Radico Khaitan consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RADICO/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "346", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Radico Khaitan consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RADICO/consolidated/" } }
+    ] },
+    { "slug": "rail-vikas-nigam", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "19923", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Rail Vikas Nigam consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RVNL/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "1278", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Rail Vikas Nigam consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RVNL/consolidated/" } }
+    ] },
+    { "slug": "privi-speciality-chemicals", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "2101", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Privi Speciality Chemicals consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PRIVISCL/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "185", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Privi Speciality Chemicals consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/PRIVISCL/consolidated/" } }
+    ] },
+    { "slug": "rainbow-childrens-medicare", "needs_figures": false, "figures": [
+      { "label": "Sales (consolidated)", "value": "1516", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Rainbow Children's Medicare consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RAINBOW/consolidated/" } },
+      { "label": "Net profit (consolidated)", "value": "244", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Rainbow Children's Medicare consolidated P&L FY25 (Screener)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/RAINBOW/consolidated/" } }
+    ] }
+  ]
+}

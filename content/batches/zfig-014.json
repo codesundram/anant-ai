@@ -1,0 +1,247 @@
+{
+ "_meta": { "group": "fig-014", "generated": "2026-10-15" },
+ "companies": [
+  {
+   "slug": "payu",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "5563", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "PayU India narrows FY25 loss (via MediaNama)", "doc_type": "results", "period": "FY25", "url": "https://www.medianama.com/2025/09/223-payu-india-narrows-loss-fy25-ipo/" } },
+    { "label": "Net loss", "value": "248", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "PayU India narrows FY25 loss (via MediaNama)", "doc_type": "results", "period": "FY25", "url": "https://www.medianama.com/2025/09/223-payu-india-narrows-loss-fy25-ipo/" } }
+   ]
+  },
+  {
+   "slug": "perfios",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Operating revenue", "value": "669.5", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Perfios FY25: Profit Soars 46% To ₹104 Cr (Inc42)", "doc_type": "results", "period": "FY25", "url": "https://inc42.com/buzz/perfios-fy25-profit-soars-46-to-₹104-cr-revenue-crosses-₹700-cr/" } },
+    { "label": "Net profit", "value": "104.3", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Perfios FY25: Profit Soars 46% To ₹104 Cr (Inc42)", "doc_type": "results", "period": "FY25", "url": "https://inc42.com/buzz/perfios-fy25-profit-soars-46-to-₹104-cr-revenue-crosses-₹700-cr/" } }
+   ]
+  },
+  {
+   "slug": "phonepe",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "7115", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "PhonePe posts Rs 7,115 Cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/phonepe-posts-rs-7115-cr-revenue-and-rs-630-cr-adjusted-pat-in-fy25-10487742" } },
+    { "label": "Net loss", "value": "1727.4", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "PhonePe cuts losses to Rs 1,727.4 Cr in FY25 (Outlook Business)", "doc_type": "results", "period": "FY25", "url": "https://www.outlookbusiness.com/corporate/phonepe-cuts-losses-to-17274-cr-as-revenue-climbs-40" } }
+   ]
+  },
+  {
+   "slug": "rapido",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "934", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Rapido joins Rs 1,000 cr income club in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/rapido-joins-rs-1000-cr-income-club-in-fy25-delivery-biz-outpaces-ride-hailing-11014839" } },
+    { "label": "Net loss", "value": "258", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Rapido joins Rs 1,000 cr income club in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/rapido-joins-rs-1000-cr-income-club-in-fy25-delivery-biz-outpaces-ride-hailing-11014839" } }
+   ]
+  },
+  {
+   "slug": "razorpay",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "3783", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Razorpay revenue soars 65% in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/razorpay-revenue-soars-65-in-fy25-gross-profit-crosses-rs-1200-cr-10567344" } }
+   ]
+  },
+  {
+   "slug": "rebel-foods",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "1617", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Rebel Foods growth slows in FY25, reports Rs 336 cr loss (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067" } },
+    { "label": "Net loss", "value": "336.6", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Rebel Foods FY25: Loss Declines 11.5% To INR 337 Cr (Inc42)", "doc_type": "results", "period": "FY25", "url": "https://inc42.com/buzz/rebel-foods-fy25-loss-decines-11-5-to-inr-337-cr" } }
+   ]
+  },
+  {
+   "slug": "porter",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "4300", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Porter turns profitable with over Rs 4,000 Cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/exclusive/exclusive-porter-turns-profitable-with-over-rs-4000-cr-revenue-in-fy25-9496810" } },
+    { "label": "Net profit", "value": "55.3", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Porter reports first net profit of Rs 55.3 crore in FY25 (via MediaNama)", "doc_type": "results", "period": "FY25", "url": "https://www.medianama.com/2025/09/223-porter-profit-fy25-revenue-jump-costs-rise/" } }
+   ]
+  },
+  {
+   "slug": "purplle",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Operating revenue", "value": "1367", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Purplle doubles operating revenue to Rs 1,367 cr in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/purplle-doubles-operating-revenue-to-rs-1367-cr-in-fy25-losses-shrink-11023664" } },
+    { "label": "Net loss", "value": "69.4", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Purplle Trims FY25 Net Loss By 44% To ₹69.4 Cr (Inc42)", "doc_type": "results", "period": "FY25", "url": "https://inc42.com/buzz/purplle-trims-fy25-net-loss-by-44-to-₹69-4-cr/" } }
+   ]
+  },
+  {
+   "slug": "spinny",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "4657", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Spinny posts Rs 4,657 Cr revenue in FY25; cuts losses by 28% (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/spinny-posts-rs-4657-cr-revenue-in-fy25-cuts-losses-by-28-10509574" } },
+    { "label": "Net loss", "value": "423", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Spinny posts Rs 4,657 Cr revenue in FY25; cuts losses by 28% (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/spinny-posts-rs-4657-cr-revenue-in-fy25-cuts-losses-by-28-10509574" } }
+   ]
+  },
+  {
+   "slug": "pepperfry",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "163", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Pepperfry to raise $18 Mn funding in down round (Entrackr, FY25 figures)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/exclusive/exclusive-pepperfry-to-raise-18-mn-funding-in-down-round-11105761" } },
+    { "label": "Net loss", "value": "85", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Pepperfry to raise $18 Mn funding in down round (Entrackr, FY25 figures)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/exclusive/exclusive-pepperfry-to-raise-18-mn-funding-in-down-round-11105761" } }
+   ]
+  },
+  {
+   "slug": "sugar-cosmetics",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue", "value": "404", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Sugar Cosmetics' revenue slide deepens as losses mount (exchange4media)", "doc_type": "results", "period": "FY25", "url": "https://www.exchange4media.com/marketing-news/sugar-cosmetics-revenue-slide-deepens-as-losses-mount-157954.html" } },
+    { "label": "Net loss", "value": "134", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Sugar Cosmetics' revenue slide deepens as losses mount (exchange4media)", "doc_type": "results", "period": "FY25", "url": "https://www.exchange4media.com/marketing-news/sugar-cosmetics-revenue-slide-deepens-as-losses-mount-157954.html" } }
+   ]
+  },
+  {
+   "slug": "pristyn-care",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "601", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Pristyn Care revenue grows 33% to Rs 601 Cr in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/pristyn-care-revenue-grows-33-to-rs-601-cr-in-fy24-8577342" } },
+    { "label": "Net loss", "value": "381", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Pristyn Care's Loss Flat At INR 381 Cr In FY24 (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/pristyn-cares-loss-flat-at-inr-381-cr-in-fy24/" } }
+   ]
+  },
+  {
+   "slug": "practo",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "240", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Practo delivers 3,500 Cr GMV in FY24; narrows EBITDA losses (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/practo-delivers-3500-cr-gmv-in-fy24-narrow-ebitda-losses-by-82-8606848" } }
+   ]
+  },
+  {
+   "slug": "samsung",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "99541.6", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Samsung India reports record revenue and profit for FY24 (via Indian Retailer)", "doc_type": "results", "period": "FY24", "url": "https://indianretailer.com/news/retail-india-news-samsung-india-reports-record-revenue-and-profit-fy24-driven-mobile-segment" } },
+    { "label": "Net profit", "value": "8188.7", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Samsung India FY24 profit doubles to Rs 8,188.7 crore (GoodReturns)", "doc_type": "results", "period": "FY24", "url": "https://www.goodreturns.in/news/samsung-india-fy24-profit-revenue-growth-011-1386957.html" } }
+   ]
+  },
+  {
+   "slug": "tata-sons",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Total revenue (consolidated)", "value": "476927.67", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Tata Sons FY24 Management Discussion & Analysis", "doc_type": "annual_report", "period": "FY24", "url": "https://tata.com/content/dam/tata/pdf/fy24/Tata-Sons-Management-Discussion-Analysis-FY24.pdf" } },
+    { "label": "Profit after tax (consolidated)", "value": "49000.66", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Tata Sons FY24 Management Discussion & Analysis", "doc_type": "annual_report", "period": "FY24", "url": "https://tata.com/content/dam/tata/pdf/fy24/Tata-Sons-Management-Discussion-Analysis-FY24.pdf" } }
+   ]
+  },
+  {
+   "slug": "sharechat-mohalla-tech",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "718.1", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Decoding ShareChat's financial performance in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/decoding-sharechats-financial-performance-in-fy24-8597622" } },
+    { "label": "Net loss (consolidated)", "value": "1898", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Decoding ShareChat's financial performance in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/decoding-sharechats-financial-performance-in-fy24-8597622" } }
+   ]
+  },
+  {
+   "slug": "stanza-living",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "545.5", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Stanza Living turns profitable in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/stanza-living-turns-profitable-in-fy25-on-the-back-of-rs-277-cr-other-income-11182713" } }
+   ]
+  },
+  {
+   "slug": "square-yards",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Operating revenue", "value": "1410", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Square Yards crosses Rs 1,400 cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/square-yards-crosses-rs-1400-cr-revenue-in-fy25-gross-profit-surge-52-9083107" } }
+   ]
+  },
+  {
+   "slug": "simplilearn",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Operating revenue", "value": "749.77", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Simplilearn cuts losses by 56% in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/simplilearn-cuts-losses-by-56-in-fy24-revenue-growth-stagnates-8550402" } },
+    { "label": "Net loss", "value": "106.8", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Simplilearn's Revenue Jumps 10.2% To INR 773 Cr In FY24 (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/simplilearns-total-revenue-jumps-10-2-to-inr-773-in-fy24" } }
+   ]
+  },
+  {
+   "slug": "third-wave-coffee",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "241.3", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Third Wave Coffee revenue crosses Rs 240 cr in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/third-wave-coffee-revenue-crosses-rs-240-cr-in-fy24-losses-up-2x-7591001" } },
+    { "label": "Net loss", "value": "110.1", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Third Wave Coffee FY24 net loss Rs 110 crore (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/company/third-wave-coffee/financials/" } }
+   ]
+  },
+  {
+   "slug": "souled-store",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "492", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "The Souled Store nears Rs 500 cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/the-souled-store-nears-rs-500-cr-revenue-in-fy25-profits-decline-38-10954507" } },
+    { "label": "Net profit", "value": "11", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "The Souled Store nears Rs 500 cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/the-souled-store-nears-rs-500-cr-revenue-in-fy25-profits-decline-38-10954507" } }
+   ]
+  },
+  {
+   "slug": "man",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "154", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "The Man Company reports Rs 22 cr loss as sales decline in FY25 (Indian Retailer)", "doc_type": "results", "period": "FY25", "url": "https://indianretailer.com/news/man-company-reports-rs-22-cr-loss-sales-decline-fy25" } },
+    { "label": "Net loss", "value": "22", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "The Man Company reports Rs 22 cr loss as sales decline in FY25 (Indian Retailer)", "doc_type": "results", "period": "FY25", "url": "https://indianretailer.com/news/man-company-reports-rs-22-cr-loss-sales-decline-fy25" } }
+   ]
+  },
+  {
+   "slug": "rare-rabbit",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "637", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Rare Rabbit nears Rs 650 cr revenue in FY24, profit surges 2.3X (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/rare-rabbit-nears-rs-650-cr-revenue-in-fy24-profit-surges-23x-8735589" } },
+    { "label": "Net profit", "value": "74.5", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Rare Rabbit's FY24 Profit Doubles To INR 75 Cr (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/rare-rabbits-fy24-profit-doubles-to-inr-75-cr/" } }
+   ]
+  },
+  {
+   "slug": "snitch",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Operating revenue", "value": "243", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Snitch's FY24 Revenue Zooms 2.3X To INR 243 Cr (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/snitchs-fy24-revenue-zooms-2-3x-to-inr-243-cr" } },
+    { "label": "Net profit", "value": "4.4", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Snitch's FY24 Revenue Zooms 2.3X To INR 243 Cr (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/snitchs-fy24-revenue-zooms-2-3x-to-inr-243-cr" } }
+   ]
+  },
+  {
+   "slug": "redcliffe-labs",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "348.38", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Redcliffe Labs crosses Rs 350 cr revenue in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/redcliffe-labs-crosses-rs-350-cr-revenue-in-fy24-narrows-losses-significantly-8416489" } },
+    { "label": "Net loss", "value": "250", "unit": "₹ crore", "period": "FY24",
+      "source": { "title": "Redcliffe Labs crosses Rs 350 cr revenue in FY24, narrows losses (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/redcliffe-labs-crosses-rs-350-cr-revenue-in-fy24-narrows-losses-significantly-8416489" } }
+   ]
+  }
+ ]
+}

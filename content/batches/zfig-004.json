@@ -1,0 +1,251 @@
+{
+  "_meta": { "group": "fig-004", "generated": "2026-10-15" },
+  "companies": [
+    {
+      "slug": "easemytrip",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "587.3", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "EaseMyTrip Q4 & FY25 results (via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/easemytrip-revenue-declines-15-in-q4-fy25-9322820" } },
+        { "label": "Profit after tax", "value": "108.7", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "EaseMyTrip Q4 & FY25 results (via Entrackr)", "doc_type": "results", "period": "FY25",
+                      "url": "https://entrackr.com/fintrackr/easemytrip-revenue-declines-15-in-q4-fy25-9322820" } }
+      ]
+    },
+    {
+      "slug": "eicher-motors",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "18870.3", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Eicher Motors Q4 FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-q4-profit-up-27-pc-on-record-revenue-royal-enfield-sales-125051401506_1.html" } },
+        { "label": "Net profit (consolidated)", "value": "4734.4", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Eicher Motors Q4 FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-q4-profit-up-27-pc-on-record-revenue-royal-enfield-sales-125051401506_1.html" } }
+      ]
+    },
+    {
+      "slug": "emami",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "3809.19", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Emami Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/emami-q4fy25-net-profit-rises-8-9-pc-revenue-up-6-5-pc-in-fy25-125051601189_1.html" } },
+        { "label": "Net profit", "value": "806.46", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Emami Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/emami-q4fy25-net-profit-rises-8-9-pc-revenue-up-6-5-pc-in-fy25-125051601189_1.html" } }
+      ]
+    },
+    {
+      "slug": "emcure-pharmaceuticals",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "7896", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Emcure FY25 results press release", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.emcure.com/wp-content/uploads/2025/07/Press-Release-Emcure-Pharmaceuticals-Achieves-Robust-Q4FY25-Performance-with-19-Revenue-Growth-and-63-Profit-After-Tax-Growth.pdf" } },
+        { "label": "Profit after tax", "value": "681.33", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Emcure FY25 results (via Arihant Capital)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.arihantcapital.com/company-information/companynewsdetails/24142010368" } }
+      ]
+    },
+    {
+      "slug": "endurance-technologies",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "11678", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Endurance Technologies FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25",
+                      "url": "https://filingreader.com/news-wire/mumbai/2025-07-18/endurance-technologies-posts-13-revenue-growth-secures-major-orders" } },
+        { "label": "Net profit (consolidated)", "value": "836", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Endurance Technologies FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25",
+                      "url": "https://filingreader.com/news-wire/mumbai/2025-07-18/endurance-technologies-posts-13-revenue-growth-secures-major-orders" } }
+      ]
+    },
+    {
+      "slug": "escorts-kubota",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "10244", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Escorts Kubota Q4 & FY25 results (via The Week / PTI)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.theweek.in/wire-updates/business/2025/05/08/dcm38-biz-results-escorts-kubota.html" } },
+        { "label": "Net profit (consolidated)", "value": "1265", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Escorts Kubota Q4 & FY25 results (via The Week / PTI)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.theweek.in/wire-updates/business/2025/05/08/dcm38-biz-results-escorts-kubota.html" } }
+      ]
+    },
+    {
+      "slug": "exide-industries",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Net sales (consolidated)", "value": "16588", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Exide Industries FY25 annual report analysis (via Equitymaster)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://www.equitymaster.com/research-it/annual-results-analysis/EXIDE/EXIDE-INDUSTRIES-2024-25-Annual-Report-Analysis/12346" } },
+        { "label": "Profit after tax (consolidated)", "value": "1077", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Exide Industries FY25 annual report analysis (via Equitymaster)", "doc_type": "annual_report", "period": "FY25",
+                      "url": "https://www.equitymaster.com/research-it/annual-results-analysis/EXIDE/EXIDE-INDUSTRIES-2024-25-Annual-Report-Analysis/12346" } }
+      ]
+    },
+    {
+      "slug": "federal-bank",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income (consolidated)", "value": "32030.25", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Federal Bank FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25",
+                      "url": "https://filingreader.com/news-wire/mumbai/2025-04-30/federal-bank-reports-strong-fy25-results-dividend-declared" } },
+        { "label": "Net profit (consolidated)", "value": "4158.85", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Federal Bank FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25",
+                      "url": "https://filingreader.com/news-wire/mumbai/2025-04-30/federal-bank-reports-strong-fy25-results-dividend-declared" } }
+      ]
+    },
+    {
+      "slug": "firstcry",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "7810.1", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "FirstCry (Brainbees) Q4 & FY25 results (via Outlook Business)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.outlookbusiness.com/start-up/news/firstcry-parent-brainbees-reports-1115-cr-q4-loss-despite-16-revenue-growth" } },
+        { "label": "Net loss (consolidated)", "value": "264.8", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "FirstCry (Brainbees) Q4 & FY25 results (via Outlook Business)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.outlookbusiness.com/start-up/news/firstcry-parent-brainbees-reports-1115-cr-q4-loss-despite-16-revenue-growth" } }
+      ]
+    },
+    {
+      "slug": "firstsource-solutions",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue", "value": "7980.3", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Firstsource Solutions Q4 & FY25 results press release", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.firstsource.com/newsroom/press-releases/firstsource-solutions-reports-fourth-quarter-and-fiscal-2025-results" } },
+        { "label": "Profit after tax", "value": "594.5", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Firstsource Solutions Q4 & FY25 results press release", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.firstsource.com/newsroom/press-releases/firstsource-solutions-reports-fourth-quarter-and-fiscal-2025-results" } }
+      ]
+    },
+    {
+      "slug": "five-star-business-finance",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income from operations", "value": "2847.84", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Five-Star Business Finance FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25",
+                      "url": "https://filingreader.com/news-wire/mumbai/2025-04-30/five-star-business-finance-announces-strong-fy25-results-conference-call" } },
+        { "label": "Net profit after tax", "value": "1072.49", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Five-Star Business Finance FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25",
+                      "url": "https://filingreader.com/news-wire/mumbai/2025-04-30/five-star-business-finance-announces-strong-fy25-results-conference-call" } }
+      ]
+    },
+    {
+      "slug": "equitas-small-finance-bank",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Net profit (standalone)", "value": "147.05", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Equitas SFB Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/equitas-small-finance-bank-q4-net-profit-declines-80-to-rs-42-crore-125043000918_1.html" } }
+      ]
+    },
+    {
+      "slug": "force-motors",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales", "value": "8071.73", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Force Motors Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/force-motors-q4-pat-surges-210-yoy-to-rs-435-cr-declares-dividend-of-rs-40-sh-125042600455_1.html" } },
+        { "label": "Net profit", "value": "800.74", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Force Motors Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/force-motors-q4-pat-surges-210-yoy-to-rs-435-cr-declares-dividend-of-rs-40-sh-125042600455_1.html" } }
+      ]
+    },
+    {
+      "slug": "fortis-healthcare",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "7782.75", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Fortis Healthcare Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/fortis-healthcare-q4-result-profit-revenue-dividend-stock-125052001669_1.html" } },
+        { "label": "Net profit (consolidated)", "value": "774.21", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Fortis Healthcare Q4 & FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/companies/quarterly-results/fortis-healthcare-q4-result-profit-revenue-dividend-stock-125052001669_1.html" } }
+      ]
+    },
+    {
+      "slug": "gail",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "142291", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "GAIL (India) FY25 results press release (13 May 2025)", "doc_type": "results", "period": "FY25",
+                      "url": "https://gailonline.com/pdf/InvestorsZone/GeneralDisclosure/Press_Release_dated_13052025.pdf" } },
+        { "label": "Profit after tax (consolidated)", "value": "12450", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "GAIL (India) FY25 results press release (13 May 2025)", "doc_type": "results", "period": "FY25",
+                      "url": "https://gailonline.com/pdf/InvestorsZone/GeneralDisclosure/Press_Release_dated_13052025.pdf" } }
+      ]
+    },
+    {
+      "slug": "gmr-airports",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "10414.24", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "GMR Airports FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.business-standard.com/markets/capital-market-news/gmr-airports-reports-consolidated-net-loss-of-rs-237-59-crore-in-the-march-2025-quarter-125052300274_1.html" } }
+      ]
+    },
+    {
+      "slug": "glaxosmithkline-pharmaceuticals",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales", "value": "3749", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "GSK Pharmaceuticals FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GLAXO/consolidated/" } },
+        { "label": "Net profit", "value": "928", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "GSK Pharmaceuticals FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GLAXO/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "gland-pharma",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "5616", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Gland Pharma FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GLAND/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "699", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Gland Pharma FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GLAND/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "glenmark-pharmaceuticals",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "13322", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Glenmark Pharmaceuticals FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GLENMARK/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "1047", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Glenmark Pharmaceuticals FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GLENMARK/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "gabriel",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "4063", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Gabriel India FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GABRIEL/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "245", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Gabriel India FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GABRIEL/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "graphite",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "2560", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Graphite India FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GRAPHITE/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "458", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Graphite India FY25 P&L (Screener.in)", "doc_type": "results", "period": "FY25",
+                      "url": "https://www.screener.in/company/GRAPHITE/consolidated/" } }
+      ]
+    }
+  ]
+}

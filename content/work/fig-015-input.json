@@ -1,0 +1,195 @@
+{
+ "group": "fig-015",
+ "companies": [
+  {
+   "slug": "thrillophilia",
+   "name": "Thrillophilia",
+   "type": "startup"
+  },
+  {
+   "slug": "tiger-analytics",
+   "name": "Tiger Analytics",
+   "type": "startup"
+  },
+  {
+   "slug": "tonbo-imaging",
+   "name": "Tonbo Imaging",
+   "type": "startup"
+  },
+  {
+   "slug": "toyota-kirloskar-motor",
+   "name": "Toyota Kirloskar Motor",
+   "type": "startup"
+  },
+  {
+   "slug": "treebo",
+   "name": "Treebo",
+   "type": "startup"
+  },
+  {
+   "slug": "udaan",
+   "name": "Udaan",
+   "type": "startup"
+  },
+  {
+   "slug": "ultrahuman",
+   "name": "Ultrahuman",
+   "type": "startup"
+  },
+  {
+   "slug": "ultraviolette",
+   "name": "Ultraviolette",
+   "type": "startup"
+  },
+  {
+   "slug": "unacademy",
+   "name": "Unacademy",
+   "type": "startup"
+  },
+  {
+   "slug": "uniphore",
+   "name": "Uniphore",
+   "type": "startup"
+  },
+  {
+   "slug": "unity-small-finance-bank",
+   "name": "Unity Small Finance Bank",
+   "type": "startup"
+  },
+  {
+   "slug": "upstox",
+   "name": "Upstox",
+   "type": "startup"
+  },
+  {
+   "slug": "vastu-housing-finance",
+   "name": "Vastu Housing Finance",
+   "type": "startup"
+  },
+  {
+   "slug": "vedantu",
+   "name": "Vedantu",
+   "type": "startup"
+  },
+  {
+   "slug": "veritas-finance",
+   "name": "Veritas Finance",
+   "type": "startup"
+  },
+  {
+   "slug": "vijay-sales",
+   "name": "Vijay Sales",
+   "type": "startup"
+  },
+  {
+   "slug": "webengage",
+   "name": "WebEngage",
+   "type": "startup"
+  },
+  {
+   "slug": "whatfix",
+   "name": "Whatfix",
+   "type": "startup"
+  },
+  {
+   "slug": "winzo",
+   "name": "WinZO",
+   "type": "startup"
+  },
+  {
+   "slug": "workindia",
+   "name": "WorkIndia",
+   "type": "startup"
+  },
+  {
+   "slug": "wow-momo",
+   "name": "Wow! Momo",
+   "type": "startup"
+  },
+  {
+   "slug": "xpressbees",
+   "name": "Xpressbees",
+   "type": "startup"
+  },
+  {
+   "slug": "yellow-ai",
+   "name": "Yellow.ai",
+   "type": "startup"
+  },
+  {
+   "slug": "cred-avenue-yubi",
+   "name": "Yubi (formerly CredAvenue)",
+   "type": "startup"
+  },
+  {
+   "slug": "yulu",
+   "name": "Yulu",
+   "type": "startup"
+  },
+  {
+   "slug": "zerodha",
+   "name": "Zerodha",
+   "type": "startup"
+  },
+  {
+   "slug": "zetwerk",
+   "name": "Zetwerk",
+   "type": "startup"
+  },
+  {
+   "slug": "zluri",
+   "name": "Zluri",
+   "type": "startup"
+  },
+  {
+   "slug": "zoho",
+   "name": "Zoho",
+   "type": "startup"
+  },
+  {
+   "slug": "zolo",
+   "name": "Zolo",
+   "type": "startup"
+  },
+  {
+   "slug": "zoomcar",
+   "name": "Zoomcar",
+   "type": "startup"
+  },
+  {
+   "slug": "zostel",
+   "name": "Zostel",
+   "type": "startup"
+  },
+  {
+   "slug": "boat",
+   "name": "boAt (Imagine Marketing)",
+   "type": "startup"
+  },
+  {
+   "slug": "mcaffeine",
+   "name": "mCaffeine",
+   "type": "startup"
+  },
+  {
+   "slug": "magicpin",
+   "name": "magicpin",
+   "type": "startup"
+  },
+  {
+   "slug": "slice",
+   "name": "slice Small Finance Bank",
+   "type": "startup"
+  },
+  {
+   "slug": "smallcase",
+   "name": "smallcase",
+   "type": "startup"
+  },
+  {
+   "slug": "upgrad",
+   "name": "upGrad",
+   "type": "startup"
+  }
+ ]
+}

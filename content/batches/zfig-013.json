@@ -1,0 +1,647 @@
+{
+  "_meta": { "group": "fig-013", "generated": "2026-10-15" },
+  "companies": [
+    {
+      "slug": "infra-market",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Gross revenue",
+          "value": "18472",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Infra.Market reports over $2 bn gross revenue in FY25, profit falls 42% (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/inframarket-reports-over-2-bn-gross-revenue-in-fy25-profit-falls-42-10991551"
+          }
+        },
+        {
+          "label": "Profit",
+          "value": "220",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Infra.Market reports over $2 bn gross revenue in FY25, profit falls 42% (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/inframarket-reports-over-2-bn-gross-revenue-in-fy25-profit-falls-42-10991551"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "insurancedekho",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1290",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "InsuranceDekho slips into the red in FY25 despite 73% top line growth (Inc42)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://inc42.com/buzz/insurancedekho-slips-into-red-posts-inr-47-5-cr-loss-in-fy25/"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "47.5",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "InsuranceDekho slips into the red in FY25 despite 73% top line growth (Inc42)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://inc42.com/buzz/insurancedekho-slips-into-red-posts-inr-47-5-cr-loss-in-fy25/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "indifi",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "360",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Indifi's revenue grows 22% in FY25; reports Rs 107 Cr EBITDA (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/indifis-revenue-grows-22-in-fy25-reports-rs-107-cr-ebitda-10441177"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "45",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Indifi's revenue grows 22% in FY25; reports Rs 107 Cr EBITDA (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/indifis-revenue-grows-22-in-fy25-reports-rs-107-cr-ebitda-10441177"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "jsw-mg-motor",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "8790",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "JSW MG Motor crosses $1 billion revenue as losses surge (Electronics For You)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.electronicsforyou.biz/?p=130928"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "1096",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "JSW MG Motor crosses $1 billion revenue as losses surge (Electronics For You)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.electronicsforyou.biz/?p=130928"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "juspay",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "319.32",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "SoftBank-backed Juspay revenue spikes 50% to Rs 319 Cr in FY24 (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/softbank-backed-juspay-revenue-spikes-50-to-rs-319-cr-in-fy24-7563971"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "97.54",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Juspay trims net loss to INR 97.54 Cr in FY24 (Inc42)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://inc42.com/buzz/juspay-trims-net-loss-to-inr-97-54-cr-in-fy24/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "kia",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "34969.3",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Kia India enters a phase of correction, revenues and profits fall in FY24 (Autocar Professional)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://www.autocarpro.in/feature/kia-india-enters-a-phase-of-correction-after-years-of-growth-125757"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1576.9",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Kia India enters a phase of correction, revenues and profits fall in FY24 (Autocar Professional)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://www.autocarpro.in/feature/kia-india-enters-a-phase-of-correction-after-years-of-growth-125757"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "kinara-capital",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Sales",
+          "value": "721.07",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Kinara Capital Pvt standalone net profit rises; sales up 46.74% in year ended March 2024 (Business Standard)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://www.business-standard.com/markets/capital-market-news/kinara-capital-pvt-standalone-net-profit-declines-61-89-in-the-march-2024-quarter-124051001334_1.html"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "62.15",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Kinara Capital Pvt standalone results, year ended March 2024 (Business Standard)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://www.business-standard.com/markets/capital-market-news/kinara-capital-pvt-standalone-net-profit-declines-61-89-in-the-march-2024-quarter-124051001334_1.html"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "kreditbee",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "589.7",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "KreditBee FY25 profit rises 87% amid revenue decline (MediaNama)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.medianama.com/2026/01/223-kreditbee-fy25-profit-rises-87-percent-amid-revenue-decline/"
+          }
+        },
+        {
+          "label": "Profit",
+          "value": "237",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "KreditBee FY25 profit rises 87% amid revenue decline (MediaNama)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.medianama.com/2026/01/223-kreditbee-fy25-profit-rises-87-percent-amid-revenue-decline/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "licious",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "685",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Licious reports Rs 685 Cr revenue in FY24, bottom line improves (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/2024/10/licious-reports-rs-685-cr-revenue-in-fy24-bottom-line-improves"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "294",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Licious says FY24 loss down 44% YoY to INR 294 Cr (Inc42)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://inc42.com/buzz/licious-says-fy24-loss-down-44-yoy-to-inr-294-cr"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lendingkart",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1090",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Lendingkart posts Rs 1,090 Cr revenue in FY24, profit slips (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/lendingkart-posts-rs-1090-cr-revenue-in-fy24-profit-slips-7607179"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "livspace",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1460",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Livspace posts Rs 1,460 Cr revenue in FY25, losses shrink 42% (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "242",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Livspace posts Rs 1,460 Cr revenue in FY25, losses shrink 42% (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ninjacart",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1634",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Ninjacart posts Rs 256-cr loss in FY25, revenue drops to Rs 1,634 cr (PTI via The Week)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.theweek.in/wire-updates/business/2025/12/26/dcm46-biz-agri-ninjacart.html"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "256",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Ninjacart posts Rs 256-cr loss in FY25, revenue drops to Rs 1,634 cr (PTI via The Week)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.theweek.in/wire-updates/business/2025/12/26/dcm46-biz-agri-ninjacart.html"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nobroker",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "803",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "NoBroker reports Rs 803 Cr revenue in FY24 (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/nobroker-reports-rs-803-cr-revenue-in-fy24-but-57-expenses-remain-unexplained-9063969"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "411",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "NoBroker clocks Rs 411 crore loss in FY24 as expenses rise (IANS)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://ianslive.in/nobroker-clocks-rs-411-crore-loss-in-fy24-as-miscellaneous-dominate-rising-expenses--20250514125104"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "oyo",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "6252.8",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "OYO FY25 revenue and rebrands (MediaNama, citing FY25 annual report)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.medianama.com/2025/09/223-india-20-oyo-fy25-revenue-rebrands/"
+          }
+        },
+        {
+          "label": "Profit after tax",
+          "value": "244.8",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "OYO FY25 revenue and rebrands (MediaNama, citing FY25 annual report)",
+            "doc_type": "annual_report",
+            "period": "FY25",
+            "url": "https://www.medianama.com/2025/09/223-india-20-oyo-fy25-revenue-rebrands/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ofbusiness",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Operating revenue",
+          "value": "19296",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "OfBusiness revenue nears Rs 20,000 cr in FY24, profit crosses Rs 600 cr (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/2024/07/exclusive-ofbusiness-revenue-nears-rs-20000-cr-in-fy24-profits-crosses-rs-600-cr"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "603",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "OfBusiness revenue nears Rs 20,000 cr in FY24, profit crosses Rs 600 cr (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/2024/07/exclusive-ofbusiness-revenue-nears-rs-20000-cr-in-fy24-profits-crosses-rs-600-cr"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "moglix",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "4964",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "With Rs 4,964 Cr revenue, Moglix reports flat growth in FY24 (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/with-rs-4964-cr-revenue-moglix-reports-flat-growth-in-fy24-7348885"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "noise",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1431",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Noise posts Rs 1,431 Cr revenue in FY24, remains EBITDA positive (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/noise-posts-rs-1431-cr-revenue-in-fy24-remains-ebitda-positive-7575178"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "20",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Noise posts Rs 1,431 Cr revenue in FY24, remains EBITDA positive (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/noise-posts-rs-1431-cr-revenue-in-fy24-remains-ebitda-positive-7575178"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "kuku-fm",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "240",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Kuku FM reports Rs 240 Cr revenue in FY25, spends Rs 285 Cr on marketing (Entrackr)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://entrackr.com/fintrackr/kuku-fm-reports-rs-240-cr-revenue-in-fy25-spends-rs-285-cr-on-marketing-10943137"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lifestyle-international",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "11766",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lifestyle FY25 revenue up 5 pc to Rs 11,766 cr, profit rises 42 pc to Rs 415 cr (PTI via The Week)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.theweek.in/wire-updates/business/2025/10/09/dcm130-biz-lifestyle-revenue.html"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "415",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lifestyle FY25 revenue up 5 pc to Rs 11,766 cr, profit rises 42 pc to Rs 415 cr (PTI via The Week)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.theweek.in/wire-updates/business/2025/10/09/dcm130-biz-lifestyle-revenue.html"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "m2p-fintech",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "382",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "M2P Fintech revenue slips over 13% in FY24, losses remain unchanged (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/m2p-fintech-revenue-slips-over-13-in-fy24-losses-remain-unchanged-8795709"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "133.5",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "M2P Fintech's FY24 loss stagnant at INR 133 Cr (Inc42)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://inc42.com/buzz/m2p-fintechs-fy24-loss-stagnant-at-inr-133-cr"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "manipal-hospitals",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "8242.25",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Manipal Health Enterprises IPO DRHP financials (via IPO Central)",
+            "doc_type": "filing",
+            "period": "FY25",
+            "url": "https://ipocentral.in/manipal-health-ipo-analysis-peer-comparison/"
+          }
+        },
+        {
+          "label": "Profit for the year",
+          "value": "1081.67",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Manipal Health Enterprises IPO DRHP financials (via IPO Central)",
+            "doc_type": "filing",
+            "period": "FY25",
+            "url": "https://ipocentral.in/manipal-health-ipo-analysis-peer-comparison/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "medikabazaar",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Gross revenue",
+          "value": "1355",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Medikabazaar rebounds with Rs 1,355 Cr gross revenue in FY24 (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/medikabazaar-rebounds-with-rs-1355-cr-gross-revenue-in-fy24-9313969"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "394.8",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Medikabazaar rebounds with Rs 1,355 Cr gross revenue in FY24 (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/fintrackr/medikabazaar-rebounds-with-rs-1355-cr-gross-revenue-in-fy24-9313969"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "open-financial",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "24.81",
+          "unit": "₹ crore",
+          "period": "FY24",
+          "source": {
+            "title": "Neobank Open FY24 revenue drops to Rs 25 Cr, outstanding losses cross Rs 1,800 Cr (Entrackr)",
+            "doc_type": "results",
+            "period": "FY24",
+            "url": "https://entrackr.com/2024/09/neobank-opens-fy24-revenue-drops-to-rs-25-cr-outstanding-losses-cross-rs-1800-cr"
+          }
+        }
+      ]
+    }
+  ]
+}

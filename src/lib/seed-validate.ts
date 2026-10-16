@@ -207,11 +207,11 @@ export function mergeSeeds(files: { name: string; data: any }[]): { raw: { compa
         seenHere.add(slug);
       }
       const base = typeof slug === "string" ? bySlug.get(slug) : undefined;
-      const merged = { ...c };
-      if (base && !("figures" in c)) {
-        merged.figures = base.figures;
-        if (base.needs_figures !== undefined) merged.needs_figures = base.needs_figures;
-      }
+      // Field-level overlay: a later entry merges onto the earlier one, so a
+      // figures-only file ({slug, figures, needs_figures}) keeps the parts,
+      // quiz and note already loaded. A later entry that omits `figures`
+      // inherits them (and needs_figures) from the earlier one.
+      const merged = base ? { ...base, ...c } : { ...c };
       bySlug.set(slug ?? `${name}#${bySlug.size}`, merged);
     }
   }

@@ -1,0 +1,255 @@
+{
+ "group": "fig-001",
+ "companies": [
+  {
+   "slug": "360-one-wam",
+   "name": "360 ONE WAM",
+   "type": "listed"
+  },
+  {
+   "slug": "abb",
+   "name": "ABB India",
+   "type": "listed"
+  },
+  {
+   "slug": "acc",
+   "name": "ACC",
+   "type": "listed"
+  },
+  {
+   "slug": "acme-solar-holdings",
+   "name": "ACME Solar Holdings",
+   "type": "listed"
+  },
+  {
+   "slug": "aia-engineering",
+   "name": "AIA Engineering",
+   "type": "listed"
+  },
+  {
+   "slug": "apl-apollo-tubes",
+   "name": "APL Apollo Tubes",
+   "type": "listed"
+  },
+  {
+   "slug": "au-small-finance-bank",
+   "name": "AU Small Finance Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "awl-agri-business",
+   "name": "AWL Agri Business (Fortune)",
+   "type": "listed"
+  },
+  {
+   "slug": "aadhar-housing-finance",
+   "name": "Aadhar Housing Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "aarti-industries",
+   "name": "Aarti Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "aavas-financiers",
+   "name": "Aavas Financiers",
+   "type": "listed"
+  },
+  {
+   "slug": "abbott",
+   "name": "Abbott India",
+   "type": "listed"
+  },
+  {
+   "slug": "action-construction-equipment",
+   "name": "Action Construction Equipment (ACE)",
+   "type": "listed"
+  },
+  {
+   "slug": "acutaas-chemicals",
+   "name": "Acutaas Chemicals (Ami Organics)",
+   "type": "listed"
+  },
+  {
+   "slug": "adani-energy-solutions",
+   "name": "Adani Energy Solutions",
+   "type": "listed"
+  },
+  {
+   "slug": "adani-enterprises",
+   "name": "Adani Enterprises",
+   "type": "listed"
+  },
+  {
+   "slug": "adani-green",
+   "name": "Adani Green Energy",
+   "type": "listed"
+  },
+  {
+   "slug": "adani-ports",
+   "name": "Adani Ports & SEZ",
+   "type": "listed"
+  },
+  {
+   "slug": "adani-power",
+   "name": "Adani Power",
+   "type": "listed"
+  },
+  {
+   "slug": "adani-total-gas",
+   "name": "Adani Total Gas",
+   "type": "listed"
+  },
+  {
+   "slug": "aditya-birla-capital",
+   "name": "Aditya Birla Capital",
+   "type": "listed"
+  },
+  {
+   "slug": "aditya-birla-real-estate",
+   "name": "Aditya Birla Real Estate",
+   "type": "listed"
+  },
+  {
+   "slug": "aditya-birla-sun-life-amc",
+   "name": "Aditya Birla Sun Life AMC",
+   "type": "listed"
+  },
+  {
+   "slug": "aditya-infotech",
+   "name": "Aditya Infotech (CP PLUS)",
+   "type": "listed"
+  },
+  {
+   "slug": "aegis-logistics",
+   "name": "Aegis Logistics",
+   "type": "listed"
+  },
+  {
+   "slug": "aegis-vopak-terminals",
+   "name": "Aegis Vopak Terminals",
+   "type": "listed"
+  },
+  {
+   "slug": "aether-industries",
+   "name": "Aether Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "afcons-infrastructure",
+   "name": "Afcons Infrastructure",
+   "type": "listed"
+  },
+  {
+   "slug": "affle-3i",
+   "name": "Affle 3i",
+   "type": "listed"
+  },
+  {
+   "slug": "ajanta-pharmaceuticals",
+   "name": "Ajanta Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "alkem-laboratories",
+   "name": "Alkem Laboratories",
+   "type": "listed"
+  },
+  {
+   "slug": "allied-blenders-and-distillers",
+   "name": "Allied Blenders and Distillers",
+   "type": "listed"
+  },
+  {
+   "slug": "amara-raja-energy-and-mobility",
+   "name": "Amara Raja Energy & Mobility",
+   "type": "listed"
+  },
+  {
+   "slug": "amber-enterprises",
+   "name": "Amber Enterprises India",
+   "type": "listed"
+  },
+  {
+   "slug": "ambuja-cements",
+   "name": "Ambuja Cements",
+   "type": "listed"
+  },
+  {
+   "slug": "anand-rathi-wealth",
+   "name": "Anand Rathi Wealth",
+   "type": "listed"
+  },
+  {
+   "slug": "anant-raj",
+   "name": "Anant Raj",
+   "type": "listed"
+  },
+  {
+   "slug": "angel-one",
+   "name": "Angel One",
+   "type": "listed"
+  },
+  {
+   "slug": "anthem-biosciences",
+   "name": "Anthem Biosciences",
+   "type": "listed"
+  },
+  {
+   "slug": "anupam-rasayan",
+   "name": "Anupam Rasayan",
+   "type": "listed"
+  },
+  {
+   "slug": "apar-industries",
+   "name": "Apar Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "apollo-hospitals-enterprise",
+   "name": "Apollo Hospitals",
+   "type": "listed"
+  },
+  {
+   "slug": "apollo-tyres",
+   "name": "Apollo Tyres",
+   "type": "listed"
+  },
+  {
+   "slug": "aptus-value-housing-finance",
+   "name": "Aptus Value Housing Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "asahi-glass",
+   "name": "Asahi India Glass (AIS)",
+   "type": "listed"
+  },
+  {
+   "slug": "ashok-leyland",
+   "name": "Ashok Leyland",
+   "type": "listed"
+  },
+  {
+   "slug": "asian-paints",
+   "name": "Asian Paints",
+   "type": "listed"
+  },
+  {
+   "slug": "aster-dm-quality-care",
+   "name": "Aster DM Quality Care",
+   "type": "listed"
+  },
+  {
+   "slug": "astral",
+   "name": "Astral",
+   "type": "listed"
+  },
+  {
+   "slug": "ather",
+   "name": "Ather Energy",
+   "type": "listed"
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+  "_meta": { "group": "fig-009", "generated": "2026-10-15" },
+  "companies": [
+    {
+      "slug": "sbi-cards-and-payment-services",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "18637.15", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SBI Cards FY25 directors' report financial summary (via India Infoline)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.indiainfoline.com/company/sbi-cards-payment-services-ltd/reports/directors-report" } },
+        { "label": "Profit after tax", "value": "1916.41", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SBI Cards FY25 directors' report financial summary (via India Infoline)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.indiainfoline.com/company/sbi-cards-payment-services-ltd/reports/directors-report" } }
+      ]
+    },
+    {
+      "slug": "sbi-life",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "117118.67", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SBI Life Q4 FY25 results (via Groww)", "doc_type": "results", "period": "FY25", "url": "https://groww.in/blog/sbi-life-q4-fy25-net-profit-flat-at-813-cr" } },
+        { "label": "Profit after tax", "value": "2413.30", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SBI Life Q4 FY25 results (via Groww)", "doc_type": "results", "period": "FY25", "url": "https://groww.in/blog/sbi-life-q4-fy25-net-profit-flat-at-813-cr" } }
+      ]
+    },
+    {
+      "slug": "sjvn",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "3072.01", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SJVN FY25 audited results (via Angel One)", "doc_type": "results", "period": "FY25", "url": "https://www.angelone.in/news/share-market/sjvn-share-price-drops-total-income-rises-q4-sees-profit-dip-in-fy25-results" } },
+        { "label": "Net profit (consolidated)", "value": "818.02", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SJVN FY25 audited results (via Angel One)", "doc_type": "results", "period": "FY25", "url": "https://www.angelone.in/news/share-market/sjvn-share-price-drops-total-income-rises-q4-sees-profit-dip-in-fy25-results" } }
+      ]
+    },
+    {
+      "slug": "srf",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Net sales", "value": "14358.15", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SRF Ltd FY25 annual results (via India Infoline)", "doc_type": "results", "period": "FY25", "url": "https://live-next.indiainfoline.com/company/srf-ltd/results/annual-result" } },
+        { "label": "Profit after tax", "value": "1250.78", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SRF Ltd FY25 annual results (via India Infoline)", "doc_type": "results", "period": "FY25", "url": "https://live-next.indiainfoline.com/company/srf-ltd/results/annual-result" } }
+      ]
+    },
+    {
+      "slug": "sun-pharma",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (consolidated)", "value": "52578.44", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sun Pharma Q4 FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/sun-pharma-q4fy25-profit-down-revenue-up-specialty-pipeline-expands-125052201751_1.html" } },
+        { "label": "Net profit (consolidated)", "value": "10929", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sun Pharma Q4 FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/sun-pharma-q4fy25-profit-down-revenue-up-specialty-pipeline-expands-125052201751_1.html" } }
+      ]
+    },
+    {
+      "slug": "tvs-motor",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (standalone)", "value": "36251", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "TVS Motor FY25 record sales and profit (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-28/tvs-motor-company-achieves-record-sales-and-profit-in-fy25" } },
+        { "label": "Profit after tax (standalone)", "value": "2711", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "TVS Motor FY25 record sales and profit (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-28/tvs-motor-company-achieves-record-sales-and-profit-in-fy25" } }
+      ]
+    },
+    {
+      "slug": "shriram-finance",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "43783.52", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shriram Finance FY25 results (via India CSR)", "doc_type": "results", "period": "FY25", "url": "https://indiacsr.in/shriram-finance-fy25-results-rs-9761-cr-profit-35-75-percent-growth-17-percent/" } },
+        { "label": "Net profit after tax", "value": "9761", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shriram Finance FY25 results (via India CSR)", "doc_type": "results", "period": "FY25", "url": "https://indiacsr.in/shriram-finance-fy25-results-rs-9761-cr-profit-35-75-percent-growth-17-percent/" } }
+      ]
+    },
+    {
+      "slug": "shree-cement",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "18037.33", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shree Cement FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-07-11/shree-cement-posts-rs-18037-crore-revenue-following-dividend-announcement" } },
+        { "label": "Net profit after tax", "value": "1196.23", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shree Cement FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-07-11/shree-cement-posts-rs-18037-crore-revenue-following-dividend-announcement" } }
+      ]
+    },
+    {
+      "slug": "siemens",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated, year ended Sep 2025)", "value": "17364.20", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Siemens Ltd FY25 (year ended Sep 2025) results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/siemens-consolidated-net-profit-declines-41-63-in-the-september-2025-quarter-125111401597_1.html" } },
+        { "label": "Net profit (consolidated, year ended Sep 2025)", "value": "2104.20", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Siemens Ltd FY25 (year ended Sep 2025) results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/siemens-consolidated-net-profit-declines-41-63-in-the-september-2025-quarter-125111401597_1.html" } }
+      ]
+    },
+    {
+      "slug": "siemens-energy",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations (year ended Sep 2025)", "value": "7826.70", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Siemens Energy India Q4 FY25 results (via Quartr)", "doc_type": "results", "period": "FY25", "url": "https://quartr.com/events/siemens-energy-india-limited-enrin-q4-24-25_F1kB7I2I" } },
+        { "label": "Net profit (year ended Sep 2025)", "value": "1100.10", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Siemens Energy India Q4 FY25 results (via Quartr)", "doc_type": "results", "period": "FY25", "url": "https://quartr.com/events/siemens-energy-india-limited-enrin-q4-24-25_F1kB7I2I" } }
+      ]
+    },
+    {
+      "slug": "supreme-industries",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Net product turnover", "value": "10446.25", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Supreme Industries FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-24/supreme-industries-achieves-strong-fy25-results-recommends-record-dividend" } },
+        { "label": "Profit after tax", "value": "960.9", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Supreme Industries FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-24/supreme-industries-achieves-strong-fy25-results-recommends-record-dividend" } }
+      ]
+    },
+    {
+      "slug": "steel-authority-of",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "102478.19", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SAIL FY25 results (PTI, via Deccan Herald)", "doc_type": "results", "period": "FY25", "url": "https://www.deccanherald.com/business/companies/sail-q4-net-profit-jumps-over-11-to-rs-1251-cr-on-higher-revenues-3561289" } },
+        { "label": "Net profit", "value": "2371.80", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "SAIL FY25 results (PTI, via Deccan Herald)", "doc_type": "results", "period": "FY25", "url": "https://www.deccanherald.com/business/companies/sail-q4-net-profit-jumps-over-11-to-rs-1251-cr-on-higher-revenues-3561289" } }
+      ]
+    },
+    {
+      "slug": "solar-industries",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue", "value": "7611.09", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Solar Industries India FY25 financials (via Torus Digital)", "doc_type": "results", "period": "FY25", "url": "https://cug.torusdigital.com/stocks/solar-industries-india-ltd-share-price" } },
+        { "label": "Profit after tax", "value": "1287.93", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Solar Industries India FY25 financials (via Torus Digital)", "doc_type": "results", "period": "FY25", "url": "https://cug.torusdigital.com/stocks/solar-industries-india-ltd-share-price" } }
+      ]
+    },
+    {
+      "slug": "sona-blw-precision-forgings",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "3554.5", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sona Comstar FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-07-01/sona-comstar-reports-12-revenue-growth-in-fy25-expands-horizons" } },
+        { "label": "Profit after tax (consolidated)", "value": "601.2", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sona Comstar FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-07-01/sona-comstar-reports-12-revenue-growth-in-fy25-expands-horizons" } }
+      ]
+    },
+    {
+      "slug": "samvardhana-motherson-international",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "113662.57", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Samvardhana Motherson FY25 record revenue (via The Machine Maker)", "doc_type": "results", "period": "FY25", "url": "https://themachinemaker.com/news/samvardhana-motherson-achieves-record-revenue-of-%e2%82%b9113663-crores-in-fy25-celebrates-50-years-of-growth-and-global-impact/" } },
+        { "label": "Profit after tax (owners' share)", "value": "3803.02", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Samvardhana Motherson FY25 net profit up 40% (via HDFC Sky)", "doc_type": "results", "period": "FY25", "url": "https://hdfcsky.com/news/samvardhana-mothersons-net-profit-in-fy25-up-by-40-percent" } }
+      ]
+    },
+    {
+      "slug": "suzlon-energy",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "10851.32", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Suzlon Energy FY25 results (via HDFC Sky)", "doc_type": "results", "period": "FY25", "url": "https://hdfcsky.com/news/suzlon-energy-posts-decade-high-profit-of-rs-2072-crore-in-fy25" } },
+        { "label": "Net profit (consolidated)", "value": "2071.63", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Suzlon Energy FY25 results (via HDFC Sky)", "doc_type": "results", "period": "FY25", "url": "https://hdfcsky.com/news/suzlon-energy-posts-decade-high-profit-of-rs-2072-crore-in-fy25" } }
+      ]
+    },
+    {
+      "slug": "syngene-international",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Total income", "value": "3714.2", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Syngene International FY25 results (via Indian Pharma Post)", "doc_type": "results", "period": "FY25", "url": "https://www.indianpharmapost.com/news/lite/syngene-international-posts-q4-fy25-consolidated-profit-at-rs-1833-cr-17060" } },
+        { "label": "Net profit", "value": "496.2", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Syngene International FY25 results (via Indian Pharma Post)", "doc_type": "results", "period": "FY25", "url": "https://www.indianpharmapost.com/news/lite/syngene-international-posts-q4-fy25-consolidated-profit-at-rs-1833-cr-17060" } }
+      ]
+    },
+    {
+      "slug": "sun-tv-network",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue from operations", "value": "4015.09", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sun TV Network FY25 annual report figures (via Storyboard18)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.storyboard18.com/advertising/sun-tv-networks-ad-publicity-costs-surge-to-rs-45-4-crore-in-fy25-cricket-income-falls-to-rs-642-crore-79811.htm" } },
+        { "label": "Profit after tax", "value": "1654.46", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sun TV Network FY25 annual report figures (via Storyboard18)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.storyboard18.com/advertising/sun-tv-networks-ad-publicity-costs-surge-to-rs-45-4-crore-in-fy25-cricket-income-falls-to-rs-642-crore-79811.htm" } }
+      ]
+    },
+    {
+      "slug": "sagility",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "5570", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sagility India FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SAGILITY/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "539", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sagility India FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SAGILITY/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "sai-life-sciences",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "1695", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sai Life Sciences FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SAILIFE/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "170", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sai Life Sciences FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SAILIFE/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "sammaan-capital",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "8676", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sammaan Capital FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SAMMAANCAP/consolidated/" } },
+        { "label": "Net loss (consolidated)", "value": "1807", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sammaan Capital FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SAMMAANCAP/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "sansera-engineering",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "3017", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sansera Engineering FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SANSERA/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "217", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sansera Engineering FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SANSERA/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "sarda-energy-and-minerals",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "4643", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sarda Energy & Minerals FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SARDAEN/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "702", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sarda Energy & Minerals FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SARDAEN/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "satin-creditcare",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "2572", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Satin Creditcare Network FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SATIN/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "186", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Satin Creditcare Network FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SATIN/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "schaeffler",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (CY2024, Jan-Dec)", "value": "8076", "unit": "₹ crore", "period": "CY24",
+          "source": { "title": "Schaeffler India CY2024 P&L (Screener.in)", "doc_type": "results", "period": "CY24", "url": "https://www.screener.in/company/SCHAEFFLER/" } },
+        { "label": "Net profit (CY2024, Jan-Dec)", "value": "978", "unit": "₹ crore", "period": "CY24",
+          "source": { "title": "Schaeffler India CY2024 P&L (Screener.in)", "doc_type": "results", "period": "CY24", "url": "https://www.screener.in/company/SCHAEFFLER/" } }
+      ]
+    },
+    {
+      "slug": "senco-gold",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "6328", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Senco Gold FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SENCO/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "159", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Senco Gold FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SENCO/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "shoppers-stop",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "4628", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shoppers Stop FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SHOPERSTOP/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "11", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shoppers Stop FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SHOPERSTOP/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "shyam-metalics-and-energy",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "15159", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shyam Metalics and Energy FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SHYAMMETL/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "909", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Shyam Metalics and Energy FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SHYAMMETL/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "sobha",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Revenue (consolidated)", "value": "4039", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sobha Ltd FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SOBHA/consolidated/" } },
+        { "label": "Net profit (consolidated)", "value": "95", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Sobha Ltd FY25 consolidated P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/SOBHA/consolidated/" } }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "_meta": { "group": "fig-012", "generated": "2026-10-15" },
+  "companies": [
+    { "slug": "browserstack", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "681.8", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "BrowserStack FY24 financials (Inc42)", "doc_type": "filing", "period": "FY24", "url": "https://inc42.com/company/browserstack/financials/" } },
+      { "label": "Profit after tax", "value": "129", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "BrowserStack FY24 financials (Inc42)", "doc_type": "filing", "period": "FY24", "url": "https://inc42.com/company/browserstack/financials/" } }
+    ] },
+    { "slug": "cred", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "2735", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "CRED reports Rs 2,735 Cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/news/cred-reports-rs-2735-cr-revenue-in-fy25-operating-losses-fall-51-11058243" } },
+      { "label": "Net loss", "value": "1457", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "CRED reports Rs 2,735 Cr revenue in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/news/cred-reports-rs-2735-cr-revenue-in-fy25-operating-losses-fall-51-11058243" } }
+    ] },
+    { "slug": "cardekho", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "2250", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "CarDekho Group FY24 results (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/cardekho-groups-revenue-slips-due-to-closure-of-used-car-biz-insurancedekho-shines-7756977" } },
+      { "label": "Net loss", "value": "340.08", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "CarDekho FY24 loss declines 39% to INR 340 Cr (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/cardekhos-fy24-loss-declines-39-to-inr-340-cr" } }
+    ] },
+    { "slug": "cars24", "needs_figures": false, "figures": [
+      { "label": "Gross revenue", "value": "6917", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Cars24 sells 2 lakh cars in FY24, revenue nears Rs 7,000 Cr (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/cars24-sells-2-lakh-cars-in-fy24-revenue-nears-rs-7000-cr-7610637" } },
+      { "label": "Net loss", "value": "498.4", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Cars24 sells 2 lakh cars in FY24, revenue nears Rs 7,000 Cr (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/cars24-sells-2-lakh-cars-in-fy24-revenue-nears-rs-7000-cr-7610637" } }
+    ] },
+    { "slug": "cashfree-payments", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "642.7", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Cashfree posts Rs 643 Cr revenue and Rs 133 Cr loss in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/cashfree-posts-rs-643-cr-revenue-and-rs-133-cr-loss-in-fy24-7383538" } },
+      { "label": "Net loss", "value": "133", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Cashfree posts Rs 643 Cr revenue and Rs 133 Cr loss in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/cashfree-posts-rs-643-cr-revenue-and-rs-133-cr-loss-in-fy24-7383538" } }
+    ] },
+    { "slug": "cult-fit", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "1216", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Cult.fit posts Rs 1,216 Cr revenue and Rs 481 Cr loss in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/cultfit-posts-rs-1216-cr-revenue-and-rs-481-cr-loss-in-fy25-10911945" } },
+      { "label": "Net loss", "value": "481", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Cult.fit posts Rs 1,216 Cr revenue and Rs 481 Cr loss in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/cultfit-posts-rs-1216-cr-revenue-and-rs-481-cr-loss-in-fy25-10911945" } }
+    ] },
+    { "slug": "classplus", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "213", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Classplus revenue spikes 2x to Rs 260 Cr in FY24, cuts losses by 57% (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/2024/10/classplus-revenue-spikes-2x-to-rs-260-cr-in-fy24-cuts-losses-by-57" } }
+    ] },
+    { "slug": "credila", "needs_figures": false, "figures": [
+      { "label": "Total income", "value": "4720", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Credila Financial Services FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://wap.business-standard.com/article/markets/credila-financial-services-standalone-net-profit-rises-111-15-in-the-march-2025-quarter-125061100802_1.html" } },
+      { "label": "Net profit", "value": "989.96", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Credila Financial Services FY25 results (Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://wap.business-standard.com/article/markets/credila-financial-services-standalone-net-profit-rises-111-15-in-the-march-2025-quarter-125061100802_1.html" } }
+    ] },
+    { "slug": "dailyhunt-verse-innovation", "needs_figures": false, "figures": [
+      { "label": "Total revenue", "value": "1261", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "VerSe cuts burn by 51% in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/verse-cuts-burn-by-51-in-fy24-eyes-profitability-in-h2-cy25-8891559" } },
+      { "label": "Net loss", "value": "814.8", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Dailyhunt parent VerSe Innovation FY24 loss (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/?p=514582" } }
+    ] },
+    { "slug": "clevertap", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "430.55", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "CleverTap revenue hits Rs 430 crore for FY24 (Exchange4media)", "doc_type": "results", "period": "FY24", "url": "https://www.exchange4media.com/digital-news/clevertap-revenue-hits-rs-430-crore-for-fy24-up-by-627-139123.html" } },
+      { "label": "Profit after tax", "value": "30.41", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "CleverTap revenue hits Rs 430 crore for FY24 (Exchange4media)", "doc_type": "results", "period": "FY24", "url": "https://www.exchange4media.com/digital-news/clevertap-revenue-hits-rs-430-crore-for-fy24-up-by-627-139123.html" } }
+    ] },
+    { "slug": "dream11", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "7933.8", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Dream Sports FY24 financials (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/?p=548198" } },
+      { "label": "Profit after tax", "value": "1295", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Dream Sports FY24 profit Rs 1,295 Cr (Storyboard18)", "doc_type": "results", "period": "FY24", "url": "https://stgwww.storyboard18.com/advertising/dream11-spends-rs-3913-crore-on-advertising-logs-rs-479-crore-loss-89182.htm" } }
+    ] },
+    { "slug": "decathlon", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "4008.26", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Decathlon India posts Rs 4,008 Cr revenue and Rs 197 Cr PAT in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/decathlon-india-posts-rs-4008-cr-revenue-and-rs-197-cr-pat-in-fy24-8874740" } },
+      { "label": "Profit after tax", "value": "197", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Decathlon India posts Rs 4,008 Cr revenue and Rs 197 Cr PAT in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/decathlon-india-posts-rs-4008-cr-revenue-and-rs-197-cr-pat-in-fy24-8874740" } }
+    ] },
+    { "slug": "dehaat", "needs_figures": false, "figures": [
+      { "label": "Gross revenue", "value": "2674.8", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "DeHaat reports Rs 2,675 Cr gross revenue in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/dehaat-reports-rs-2675-cr-gross-revenue-in-fy24-losses-shrink-34-7385674" } }
+    ] },
+    { "slug": "darwinbox", "needs_figures": false, "figures": [
+      { "label": "Total revenue", "value": "533.9", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Darwinbox's revenue rises to Rs 534 Cr in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/news/darwinboxs-revenue-rises-to-rs-534-cr-in-fy25-narrows-adjusted-losses-10572733" } }
+    ] },
+    { "slug": "eruditus", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "3733", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Eruditus posts Rs 3,733 crore revenue in FY24 (Business Standard)", "doc_type": "results", "period": "FY24", "url": "https://www.business-standard.com/amp/companies/news/eruditus-posts-rs-3-733-crore-revenue-in-fy24-reduces-losses-by-83-125040201323_1.html" } }
+    ] },
+    { "slug": "chaayos", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "248.5", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Chaayos scale remains flat in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/chaayos-scale-remains-flat-in-fy24-turns-ebitda-positive-8576898" } },
+      { "label": "Net loss", "value": "54", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Chaayos' loss halves to INR 54 Cr in FY24 (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/chaayos-loss-halves-to-inr-54-cr-in-fy24" } }
+    ] },
+    { "slug": "cleartrip", "needs_figures": false, "figures": [
+      { "label": "Net revenue from operations", "value": "97", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Flipkart-owned Cleartrip spent Rs 988 Cr to earn Rs 97 Cr in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/flipkart-owned-cleartrip-spent-rs-988-cr-to-earn-rs-97-cr-in-fy24-7658587" } },
+      { "label": "Net loss", "value": "784.5", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Cleartrip FY24 financials (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/company/cleartrip/financials/" } }
+    ] },
+    { "slug": "ditto-insurance", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "97.1", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ditto Insurance (Tacterial Consulting) FY25 financials (Inc42)", "doc_type": "filing", "period": "FY25", "url": "https://inc42.com/company/ditto-insurance/financials/" } }
+    ] },
+    { "slug": "euler-motors", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "191", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Euler Motors reports Rs 191 Cr revenue and Rs 200 Cr loss in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/euler-motors-reports-rs-191-cr-revenue-and-rs-200-cr-loss-in-fy25-10626993" } },
+      { "label": "Net loss", "value": "200", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Euler Motors reports Rs 191 Cr revenue and Rs 200 Cr loss in FY25 (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/euler-motors-reports-rs-191-cr-revenue-and-rs-200-cr-loss-in-fy25-10626993" } }
+    ] },
+    { "slug": "fibe", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "1228", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Fibe crosses Rs 1,200 Cr revenue in FY25; profit spikes 13% (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/fibe-crosses-rs-1200-cr-revenue-in-fy25-profit-spikes-13-11121260" } },
+      { "label": "Net profit", "value": "114", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Fibe crosses Rs 1,200 Cr revenue in FY25; profit spikes 13% (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/fibe-crosses-rs-1200-cr-revenue-in-fy25-profit-spikes-13-11121260" } }
+    ] },
+    { "slug": "flexiloans", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "262", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "FlexiLoans FY24 financials (Business Outreach, via TheKredible)", "doc_type": "results", "period": "FY24", "url": "https://www.businessoutreach.in/?p=103610" } },
+      { "label": "Profit after tax", "value": "3", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "FlexiLoans FY24 financials (Business Outreach, via TheKredible)", "doc_type": "results", "period": "FY24", "url": "https://www.businessoutreach.in/?p=103610" } }
+    ] },
+    { "slug": "giva", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "274", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Giva's revenue spikes 66% to Rs 274 Cr in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/givas-revenue-spikes-66-to-rs-274-cr-revenue-in-fy24-7579614" } },
+      { "label": "Net loss", "value": "59", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Giva's revenue spikes 66% to Rs 274 Cr in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/givas-revenue-spikes-66-to-rs-274-cr-revenue-in-fy24-7579614" } }
+    ] },
+    { "slug": "foxtale", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "83", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Foxtale's revenue soars to Rs 83 Cr in FY24, losses widen (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/foxtales-revenue-soars-to-rs-83-cr-in-fy24-losses-widen-8629531" } },
+      { "label": "Net loss", "value": "55", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Foxtale FY25 results with FY24 comparison (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/foxtales-revenue-nears-rs-200-cr-in-fy25-losses-jump-38-10945518" } }
+    ] },
+    { "slug": "freshtohome", "needs_figures": false, "figures": [
+      { "label": "Gross revenue", "value": "421", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "FreshToHome posts Rs 421 Cr revenue in FY25, losses remain stable (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/freshtohome-posts-rs-421-cr-revenue-in-fy25-losses-remain-stable-10965975" } },
+      { "label": "Net loss", "value": "146", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "FreshToHome posts Rs 421 Cr revenue in FY25, losses remain stable (Entrackr)", "doc_type": "results", "period": "FY25", "url": "https://entrackr.com/fintrackr/freshtohome-posts-rs-421-cr-revenue-in-fy25-losses-remain-stable-10965975" } }
+    ] },
+    { "slug": "flipkart", "needs_figures": false, "figures": [
+      { "label": "Revenue (Flipkart Internet, marketplace arm)", "value": "17907.3", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Flipkart marketplace arm revenue grows 21%, losses reduce 41% in FY24 (Business Standard)", "doc_type": "results", "period": "FY24", "url": "https://www.business-standard.com/companies/results/flipkart-marketplace-arm-revenue-grows-21-losses-reduce-by-41-in-fy24-124102800950_1.html" } },
+      { "label": "Net loss (Flipkart Internet)", "value": "2358", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Flipkart marketplace arm revenue grows 21%, losses reduce 41% in FY24 (Business Standard)", "doc_type": "results", "period": "FY24", "url": "https://www.business-standard.com/companies/results/flipkart-marketplace-arm-revenue-grows-21-losses-reduce-by-41-in-fy24-124102800950_1.html" } }
+    ] },
+    { "slug": "games24x7", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "1988", "unit": "₹ crore", "period": "FY23",
+        "source": { "title": "Games24x7 crosses Rs 2,000 Cr income in FY23, controls losses (Entrackr)", "doc_type": "results", "period": "FY23", "url": "https://entrackr.com/2024/06/games24x7-crosses-rs-2000-cr-income-in-fy23-controls-losses" } },
+      { "label": "Net loss", "value": "199", "unit": "₹ crore", "period": "FY23",
+        "source": { "title": "Games24x7 crosses Rs 2,000 Cr income in FY23, controls losses (Entrackr)", "doc_type": "results", "period": "FY23", "url": "https://entrackr.com/2024/06/games24x7-crosses-rs-2000-cr-income-in-fy23-controls-losses" } }
+    ] },
+    { "slug": "indmoney", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "70", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "INDmoney revenue spikes 73% in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/indmoney-revenue-spikes-73-in-fy24-earns-rs-58-cr-from-other-income-7588939" } },
+      { "label": "Net loss", "value": "82.6", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "INDmoney FY24 financials (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/company/indmoney/financials/" } }
+    ] },
+    { "slug": "healthifyme", "needs_figures": false, "figures": [
+      { "label": "Total revenue", "value": "206.8", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "HealthifyMe FY24 financials (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/company/healthifyme/financials/" } },
+      { "label": "Net loss", "value": "88.3", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "HealthifyMe FY24 financials (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/company/healthifyme/financials/" } }
+    ] },
+    { "slug": "exotel", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "444", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Exotel posts flat scale in FY24, losses shrink 61% (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/exotel-posts-flat-scale-in-fy24-losses-shrink-61-8566740" } },
+      { "label": "Net loss", "value": "43.3", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Exotel narrows loss by 60% to INR 43 Cr in FY24 (Inc42)", "doc_type": "results", "period": "FY24", "url": "https://inc42.com/buzz/exotel-narrows-loss-by-60-to-inr-43-cr-in-fy24" } }
+    ] },
+    { "slug": "fabhotels", "needs_figures": false, "figures": [
+      { "label": "Gross revenue", "value": "552", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "FabHotels gross revenue crosses Rs 550 Cr in FY24, losses widen 23% (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/fabhotels-gross-revenue-crosses-rs-550-cr-in-fy24-losses-widen-23-8649057" } },
+      { "label": "Net loss", "value": "114", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "FabHotels gross revenue crosses Rs 550 Cr in FY24, losses widen 23% (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/fabhotels-gross-revenue-crosses-rs-550-cr-in-fy24-losses-widen-23-8649057" } }
+    ] },
+    { "slug": "healthians", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "243", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Healthians achieves EBITDA breakeven with Rs 250 Cr income in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/healthians-achieves-ebitda-breakeven-with-rs-250-cr-income-in-fy24-7599998" } },
+      { "label": "Net loss", "value": "45", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Healthians achieves EBITDA breakeven with Rs 250 Cr income in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/healthians-achieves-ebitda-breakeven-with-rs-250-cr-income-in-fy24-7599998" } }
+    ] },
+    { "slug": "highradius", "needs_figures": false, "figures": [
+      { "label": "Revenue (India entity)", "value": "909.5", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "HighRadius FY24 financials (Inc42)", "doc_type": "filing", "period": "FY24", "url": "https://inc42.com/company/highradius/financials/" } },
+      { "label": "Profit after tax (India entity)", "value": "93", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "HighRadius FY24 financials (Inc42)", "doc_type": "filing", "period": "FY24", "url": "https://inc42.com/company/highradius/financials/" } }
+    ] },
+    { "slug": "icertis", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations (India entity)", "value": "863", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Icertis clocks 36.6% jump in net profit to Rs 97 Cr in FY24 (YourStory)", "doc_type": "results", "period": "FY24", "url": "https://ts.yourstory.com/2024/11/icertis-clocks-366-yoy-jump-in-net-profit-to-rs-97-crore-in-fy24" } },
+      { "label": "Net profit (India entity)", "value": "97", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Icertis clocks 36.6% jump in net profit to Rs 97 Cr in FY24 (YourStory)", "doc_type": "results", "period": "FY24", "url": "https://ts.yourstory.com/2024/11/icertis-clocks-366-yoy-jump-in-net-profit-to-rs-97-crore-in-fy24" } }
+    ] },
+    { "slug": "garuda-aerospace", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "110", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Garuda Aerospace revenue and profit soar over 2x in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/garuda-aerospace-revenue-and-profit-soar-over-2x-in-fy24-8887698" } },
+      { "label": "Net profit", "value": "16", "unit": "₹ crore", "period": "FY24",
+        "source": { "title": "Garuda Aerospace revenue and profit soar over 2x in FY24 (Entrackr)", "doc_type": "results", "period": "FY24", "url": "https://entrackr.com/fintrackr/garuda-aerospace-revenue-and-profit-soar-over-2x-in-fy24-8887698" } }
+    ] }
+  ]
+}

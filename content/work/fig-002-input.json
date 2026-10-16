@@ -1,0 +1,255 @@
+{
+ "group": "fig-002",
+ "companies": [
+  {
+   "slug": "atul",
+   "name": "Atul",
+   "type": "listed"
+  },
+  {
+   "slug": "aurobindo-pharma",
+   "name": "Aurobindo Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "authum-investment-and-infrastructure",
+   "name": "Authum Investment & Infrastructure",
+   "type": "listed"
+  },
+  {
+   "slug": "avanti-feeds",
+   "name": "Avanti Feeds",
+   "type": "listed"
+  },
+  {
+   "slug": "awfis",
+   "name": "Awfis Space Solutions",
+   "type": "listed"
+  },
+  {
+   "slug": "axis-bank",
+   "name": "Axis Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "azad-engineering",
+   "name": "Azad Engineering",
+   "type": "listed"
+  },
+  {
+   "slug": "beml",
+   "name": "BEML",
+   "type": "listed"
+  },
+  {
+   "slug": "bls-international-services",
+   "name": "BLS International",
+   "type": "listed"
+  },
+  {
+   "slug": "bse",
+   "name": "BSE",
+   "type": "listed"
+  },
+  {
+   "slug": "bagmane-prime-office-reit",
+   "name": "Bagmane Prime Office REIT",
+   "type": "listed"
+  },
+  {
+   "slug": "bajaj-auto",
+   "name": "Bajaj Auto",
+   "type": "listed"
+  },
+  {
+   "slug": "bajaj-finance",
+   "name": "Bajaj Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "bajaj-finserv",
+   "name": "Bajaj Finserv",
+   "type": "listed"
+  },
+  {
+   "slug": "bajaj-holdings-and-investment",
+   "name": "Bajaj Holdings & Investment",
+   "type": "listed"
+  },
+  {
+   "slug": "bajaj-housing",
+   "name": "Bajaj Housing Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "balkrishna-industries",
+   "name": "Balkrishna Industries (BKT)",
+   "type": "listed"
+  },
+  {
+   "slug": "balrampur-chini-mills",
+   "name": "Balrampur Chini Mills",
+   "type": "listed"
+  },
+  {
+   "slug": "bandhan-bank",
+   "name": "Bandhan Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "bank-of-baroda",
+   "name": "Bank of Baroda",
+   "type": "listed"
+  },
+  {
+   "slug": "bank-of",
+   "name": "Bank of India",
+   "type": "listed"
+  },
+  {
+   "slug": "bank-of-maharashtra",
+   "name": "Bank of Maharashtra",
+   "type": "listed"
+  },
+  {
+   "slug": "bata",
+   "name": "Bata India",
+   "type": "listed"
+  },
+  {
+   "slug": "belrise-industries",
+   "name": "Belrise Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "berger-paints",
+   "name": "Berger Paints India",
+   "type": "listed"
+  },
+  {
+   "slug": "bharat-dynamics",
+   "name": "Bharat Dynamics (BDL)",
+   "type": "listed"
+  },
+  {
+   "slug": "bharat-electronics",
+   "name": "Bharat Electronics (BEL)",
+   "type": "listed"
+  },
+  {
+   "slug": "bharat-forge",
+   "name": "Bharat Forge",
+   "type": "listed"
+  },
+  {
+   "slug": "bharat-heavy-electricals",
+   "name": "Bharat Heavy Electricals (BHEL)",
+   "type": "listed"
+  },
+  {
+   "slug": "bharat-petroleum",
+   "name": "Bharat Petroleum (BPCL)",
+   "type": "listed"
+  },
+  {
+   "slug": "bharti-airtel",
+   "name": "Bharti Airtel",
+   "type": "listed"
+  },
+  {
+   "slug": "bikaji-foods",
+   "name": "Bikaji Foods",
+   "type": "listed"
+  },
+  {
+   "slug": "biocon",
+   "name": "Biocon",
+   "type": "listed"
+  },
+  {
+   "slug": "birlasoft",
+   "name": "Birlasoft",
+   "type": "listed"
+  },
+  {
+   "slug": "black-box",
+   "name": "Black Box",
+   "type": "listed"
+  },
+  {
+   "slug": "blackbuck-zinka-logistics",
+   "name": "BlackBuck (Zinka Logistics)",
+   "type": "listed"
+  },
+  {
+   "slug": "blue-dart",
+   "name": "Blue Dart",
+   "type": "listed"
+  },
+  {
+   "slug": "blue-star",
+   "name": "Blue Star",
+   "type": "listed"
+  },
+  {
+   "slug": "bluestone",
+   "name": "BlueStone",
+   "type": "listed"
+  },
+  {
+   "slug": "bosch",
+   "name": "Bosch India (Bosch Ltd)",
+   "type": "listed"
+  },
+  {
+   "slug": "brigade-enterprises",
+   "name": "Brigade Enterprises",
+   "type": "listed"
+  },
+  {
+   "slug": "britannia",
+   "name": "Britannia Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "brookfield-real-estate-trust",
+   "name": "Brookfield India REIT",
+   "type": "listed"
+  },
+  {
+   "slug": "ccl-products-i",
+   "name": "CCL Products",
+   "type": "listed"
+  },
+  {
+   "slug": "central-depository-services",
+   "name": "CDSL (Central Depository Services)",
+   "type": "listed"
+  },
+  {
+   "slug": "ceat",
+   "name": "CEAT",
+   "type": "listed"
+  },
+  {
+   "slug": "cesc",
+   "name": "CESC",
+   "type": "listed"
+  },
+  {
+   "slug": "cg-power-and-industrial-solutions",
+   "name": "CG Power and Industrial Solutions",
+   "type": "listed"
+  },
+  {
+   "slug": "cie-automotive",
+   "name": "CIE Automotive India",
+   "type": "listed"
+  },
+  {
+   "slug": "crisil",
+   "name": "CRISIL",
+   "type": "listed"
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+  "_meta": { "group": "fig-006", "generated": "2026-10-15" },
+  "companies": [
+    { "slug": "ipca-laboratories", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "8939.59", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ipca Laboratories FY25 results (via HDFC Sky)", "doc_type": "results", "period": "FY25", "url": "https://hdfcsky.com/news/ipca-laboratories-fy25-profit-up-by-35-percent" } },
+      { "label": "Net profit", "value": "737.68", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ipca Laboratories FY25 results (via HDFC Sky)", "doc_type": "results", "period": "FY25", "url": "https://hdfcsky.com/news/ipca-laboratories-fy25-profit-up-by-35-percent" } }
+    ] },
+    { "slug": "jammu-and-kashmir-bank", "needs_figures": false, "figures": [
+      { "label": "Total income", "value": "13672.67", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "J&K Bank Earnings Update March 2025", "doc_type": "results", "period": "FY25", "url": "https://www.jkbank.com/sites/default/files/2025-05/J%26KBank-Earnings%20Update%20CRORE-Mar_2025.pdf" } },
+      { "label": "Net profit", "value": "2082.46", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "J&K Bank Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/j-k-bank-slides-as-q4-pat-dips-8-yoy-to-rs-585-crore-125050600511_1.html" } }
+    ] },
+    { "slug": "jbm-auto", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "5472.33", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JBM Auto Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jbm-auto-q4-pat-rises-15-yoy-to-rs-72-cr-125050600823_1.html" } },
+      { "label": "Net profit", "value": "214.63", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JBM Auto Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jbm-auto-q4-pat-rises-15-yoy-to-rs-72-cr-125050600823_1.html" } }
+    ] },
+    { "slug": "j-k-cement", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "12052.10", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JK Cement Q4/FY25 results (via Outlook Business)", "doc_type": "results", "period": "FY25", "url": "https://www.outlookbusiness.com/corporate/jk-cement-q4-profit-jumps-644-to-rs-3613-crore-sales-rise-153-to-rs-35812-crore" } },
+      { "label": "Net profit", "value": "872.17", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JK Cement Q4/FY25 results (via Outlook Business)", "doc_type": "results", "period": "FY25", "url": "https://www.outlookbusiness.com/corporate/jk-cement-q4-profit-jumps-644-to-rs-3613-crore-sales-rise-153-to-rs-35812-crore" } }
+    ] },
+    { "slug": "jk-tyre-and-industries", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "14692.92", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JK Tyre Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jk-tyre-inds-surges-after-q4-pat-climbs-88-qoq-to-rs-97-cr-125052100757_1.html" } },
+      { "label": "Net profit", "value": "495.04", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JK Tyre Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jk-tyre-inds-surges-after-q4-pat-climbs-88-qoq-to-rs-97-cr-125052100757_1.html" } }
+    ] },
+    { "slug": "jm-financial", "needs_figures": false, "figures": [
+      { "label": "Total income", "value": "4452.83", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JM Financial FY25 results (via MoneyWorks4Me)", "doc_type": "results", "period": "FY25", "url": "https://www.moneyworks4me.com/company/news/index/id/742002" } }
+    ] },
+    { "slug": "jsw-energy", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "12639", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JSW Energy Q4/FY25 results (via Business Today)", "doc_type": "results", "period": "FY25", "url": "https://www.businesstoday.in/markets/stocks/story/jsw-energy-q4-earnings-fund-raising-dividend-net-profit-share-price-and-more-476501-2025-05-16" } },
+      { "label": "Net profit", "value": "1951", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JSW Energy Q4/FY25 results (via Business Today)", "doc_type": "results", "period": "FY25", "url": "https://www.businesstoday.in/markets/stocks/story/jsw-energy-q4-earnings-fund-raising-dividend-net-profit-share-price-and-more-476501-2025-05-16" } }
+    ] },
+    { "slug": "jsw-infrastructure", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "4476.14", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JSW Infrastructure FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jsw-infrastructure-consolidated-net-profit-rises-54-35-in-the-march-2025-quarter-125050200152_1.html" } },
+      { "label": "Net profit", "value": "1503.08", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JSW Infrastructure FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jsw-infrastructure-consolidated-net-profit-rises-54-35-in-the-march-2025-quarter-125050200152_1.html" } }
+    ] },
+    { "slug": "jsw-steel", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "168824", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JSW Steel FY25 results (via IANS)", "doc_type": "results", "period": "FY25", "url": "https://ianslive.in/jsw-steels-annual-net-profit-falls-over-61-pc-to-rs-3491-crore-in-fy25--20250523174421" } },
+      { "label": "Net profit", "value": "3504", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "JSW Steel Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/jsw-steel-q4fy25-net-profit-up-15-7-pc-on-lower-coal-costs-125052301554_1.html" } }
+    ] },
+    { "slug": "jaiprakash-power-ventures", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "5462.19", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jaiprakash Power Ventures Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/jaiprakash-power-ventures-q4-results-net-profit-slumps-73-to-rs-156-crore-125050100951_1.html" } },
+      { "label": "Net profit", "value": "813.55", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jaiprakash Power Ventures Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/jaiprakash-power-ventures-q4-results-net-profit-slumps-73-to-rs-156-crore-125050100951_1.html" } }
+    ] },
+    { "slug": "jana-small-finance-bank", "needs_figures": false, "figures": [
+      { "label": "Total operating income", "value": "4709.79", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jana Small Finance Bank Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jana-small-finance-bank-standalone-net-profit-declines-61-61-in-the-march-2025-quarter-125043000170_1.html" } },
+      { "label": "Net profit", "value": "501.42", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jana Small Finance Bank Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jana-small-finance-bank-standalone-net-profit-declines-61-61-in-the-march-2025-quarter-125043000170_1.html" } }
+    ] },
+    { "slug": "jindal-saw", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "20828.89", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jindal Saw FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jindal-saw-consolidated-net-profit-declines-42-00-in-the-march-2025-quarter-125050201055_1.html" } },
+      { "label": "Net profit", "value": "1738.37", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jindal Saw FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jindal-saw-consolidated-net-profit-declines-42-00-in-the-march-2025-quarter-125050201055_1.html" } }
+    ] },
+    { "slug": "jio-financial", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "2042.91", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jio Financial Services Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jio-financial-services-q4-pat-rises-2-yoy-to-rs-316-cr-125042100194_1.html" } },
+      { "label": "Net profit", "value": "1612.59", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Jio Financial Services Q4/FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/markets/capital-market-news/jio-financial-services-q4-pat-rises-2-yoy-to-rs-316-cr-125042100194_1.html" } }
+    ] },
+    { "slug": "jubilant-foodworks", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "8104", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jubilant FoodWorks consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JUBLFOOD/consolidated/" } },
+      { "label": "Net profit", "value": "217", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jubilant FoodWorks consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JUBLFOOD/consolidated/" } }
+    ] },
+    { "slug": "jubilant-ingrevia", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "4178", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jubilant Ingrevia consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JUBLINGREA/consolidated/" } },
+      { "label": "Net profit", "value": "251", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jubilant Ingrevia consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JUBLINGREA/consolidated/" } }
+    ] },
+    { "slug": "jupiter-wagons", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "3963", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jupiter Wagons consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JWL/consolidated/" } },
+      { "label": "Net profit", "value": "380", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jupiter Wagons consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JWL/consolidated/" } }
+    ] },
+    { "slug": "justdial", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "1142", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Justdial standalone P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JUSTDIAL/" } },
+      { "label": "Net profit", "value": "584", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Justdial standalone P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JUSTDIAL/" } }
+    ] },
+    { "slug": "jyoti-cnc-automation", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "1818", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jyoti CNC Automation consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JYOTICNC/consolidated/" } },
+      { "label": "Net profit", "value": "316", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Jyoti CNC Automation consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/JYOTICNC/consolidated/" } }
+    ] },
+    { "slug": "kec-international", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "21847", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KEC International consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KEC/consolidated/" } },
+      { "label": "Net profit", "value": "571", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KEC International consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KEC/consolidated/" } }
+    ] },
+    { "slug": "kei-industries", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "9736", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KEI Industries consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KEI/consolidated/" } },
+      { "label": "Net profit", "value": "696", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KEI Industries consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KEI/consolidated/" } }
+    ] },
+    { "slug": "krishna-institute-of-medical-sciences", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "3035", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KIMS (Krishna Institute of Medical Sciences) consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KIMS/consolidated/" } },
+      { "label": "Net profit", "value": "415", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KIMS (Krishna Institute of Medical Sciences) consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KIMS/consolidated/" } }
+    ] },
+    { "slug": "kpit-technologies", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "5842", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KPIT Technologies consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KPITTECH/consolidated/" } },
+      { "label": "Net profit", "value": "840", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KPIT Technologies consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KPITTECH/consolidated/" } }
+    ] },
+    { "slug": "k-p-r-mill", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "6388", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KPR Mill consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KPRMILL/consolidated/" } },
+      { "label": "Net profit", "value": "815", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KPR Mill consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KPRMILL/consolidated/" } }
+    ] },
+    { "slug": "ksb", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "2696", "unit": "₹ crore", "period": "CY25",
+        "source": { "title": "Screener.in — KSB Ltd consolidated P&L (Dec 2025 year-end)", "doc_type": "results", "period": "CY25", "url": "https://www.screener.in/company/KSB/consolidated/" } },
+      { "label": "Net profit", "value": "270", "unit": "₹ crore", "period": "CY25",
+        "source": { "title": "Screener.in — KSB Ltd consolidated P&L (Dec 2025 year-end)", "doc_type": "results", "period": "CY25", "url": "https://www.screener.in/company/KSB/consolidated/" } }
+    ] },
+    { "slug": "kajaria-ceramics", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "4635", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kajaria Ceramics consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KAJARIACER/consolidated/" } },
+      { "label": "Net profit", "value": "300", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kajaria Ceramics consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KAJARIACER/consolidated/" } }
+    ] },
+    { "slug": "kfin-technologies", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "1091", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KFin Technologies consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KFINTECH/consolidated/" } },
+      { "label": "Net profit", "value": "333", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — KFin Technologies consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KFINTECH/consolidated/" } }
+    ] },
+    { "slug": "kalpataru-projects-international", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "22316", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kalpataru Projects International consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KPIL/consolidated/" } },
+      { "label": "Net profit", "value": "567", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kalpataru Projects International consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KPIL/consolidated/" } }
+    ] },
+    { "slug": "kalyan-jewellers", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "25045", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kalyan Jewellers consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KALYANKJIL/consolidated/" } },
+      { "label": "Net profit", "value": "714", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kalyan Jewellers consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KALYANKJIL/consolidated/" } }
+    ] },
+    { "slug": "karur-vysya-bank", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "9678", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Karur Vysya Bank P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KARURVYSYA/" } },
+      { "label": "Net profit", "value": "1942", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Karur Vysya Bank P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KARURVYSYA/" } }
+    ] },
+    { "slug": "kaynes-technology", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "2722", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kaynes Technology consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KAYNES/consolidated/" } },
+      { "label": "Net profit", "value": "293", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kaynes Technology consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KAYNES/consolidated/" } }
+    ] },
+    { "slug": "kirloskar-brothers", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "4492", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kirloskar Brothers consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KIRLOSBROS/consolidated/" } },
+      { "label": "Net profit", "value": "419", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kirloskar Brothers consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KIRLOSBROS/consolidated/" } }
+    ] },
+    { "slug": "kirloskar-oil-eng", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "6329", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kirloskar Oil Engines consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KIRLOSENG/consolidated/" } },
+      { "label": "Net profit", "value": "476", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kirloskar Oil Engines consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KIRLOSENG/consolidated/" } }
+    ] },
+    { "slug": "kotak-bank", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "65669", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kotak Mahindra Bank consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KOTAKBANK/consolidated/" } },
+      { "label": "Net profit", "value": "22126", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — Kotak Mahindra Bank consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/KOTAKBANK/consolidated/" } }
+    ] },
+    { "slug": "l-and-t-finance", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "15924", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — L&T Finance consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/LTF/consolidated/" } },
+      { "label": "Net profit", "value": "2643", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — L&T Finance consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/LTF/consolidated/" } }
+    ] },
+    { "slug": "l-and-t-technology-services", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "9642", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — L&T Technology Services consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/LTTS/consolidated/" } },
+      { "label": "Net profit", "value": "1264", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Screener.in — L&T Technology Services consolidated P&L", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/LTTS/consolidated/" } }
+    ] }
+  ]
+}

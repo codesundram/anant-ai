@@ -1,0 +1,255 @@
+{
+ "group": "fig-007",
+ "companies": [
+  {
+   "slug": "lloyds-metals-and-energy",
+   "name": "Lloyds Metals and Energy",
+   "type": "listed"
+  },
+  {
+   "slug": "lodha-developers",
+   "name": "Lodha Developers",
+   "type": "listed"
+  },
+  {
+   "slug": "lupin",
+   "name": "Lupin",
+   "type": "listed"
+  },
+  {
+   "slug": "mmtc",
+   "name": "MMTC",
+   "type": "listed"
+  },
+  {
+   "slug": "mrf",
+   "name": "MRF",
+   "type": "listed"
+  },
+  {
+   "slug": "mtar-technologies",
+   "name": "MTAR Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "mahanagar-gas",
+   "name": "Mahanagar Gas (MGL)",
+   "type": "listed"
+  },
+  {
+   "slug": "mahindra",
+   "name": "Mahindra & Mahindra",
+   "type": "listed"
+  },
+  {
+   "slug": "mahindra-and-mahindra-financial-services",
+   "name": "Mahindra Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "manappuram-finance",
+   "name": "Manappuram Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "mangalore-refinery-and-petrochemicals",
+   "name": "Mangalore Refinery & Petrochemicals (MRPL)",
+   "type": "listed"
+  },
+  {
+   "slug": "mankind-pharma",
+   "name": "Mankind Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "marico",
+   "name": "Marico",
+   "type": "listed"
+  },
+  {
+   "slug": "maruti-suzuki",
+   "name": "Maruti Suzuki",
+   "type": "listed"
+  },
+  {
+   "slug": "bharatmatrimony-matrimony-com",
+   "name": "Matrimony.com (BharatMatrimony)",
+   "type": "listed"
+  },
+  {
+   "slug": "max-financial-services",
+   "name": "Max Financial Services",
+   "type": "listed"
+  },
+  {
+   "slug": "max-healthcare-institute",
+   "name": "Max Healthcare",
+   "type": "listed"
+  },
+  {
+   "slug": "mazagoan-dock-shipbuilders",
+   "name": "Mazagon Dock Shipbuilders",
+   "type": "listed"
+  },
+  {
+   "slug": "global-health",
+   "name": "Medanta (Global Health)",
+   "type": "listed"
+  },
+  {
+   "slug": "meesho",
+   "name": "Meesho",
+   "type": "listed"
+  },
+  {
+   "slug": "metropolis-healthcare",
+   "name": "Metropolis Healthcare",
+   "type": "listed"
+  },
+  {
+   "slug": "minda",
+   "name": "Minda Corporation (Spark Minda)",
+   "type": "listed"
+  },
+  {
+   "slug": "mobikwik",
+   "name": "MobiKwik",
+   "type": "listed"
+  },
+  {
+   "slug": "moneyview",
+   "name": "Moneyview",
+   "type": "listed"
+  },
+  {
+   "slug": "motherson-sumi-wiring",
+   "name": "Motherson Sumi Wiring India",
+   "type": "listed"
+  },
+  {
+   "slug": "motilal-oswal-financial-services",
+   "name": "Motilal Oswal Financial Services",
+   "type": "listed"
+  },
+  {
+   "slug": "mphasis",
+   "name": "Mphasis",
+   "type": "listed"
+  },
+  {
+   "slug": "multi-commodity-exchange-of",
+   "name": "Multi Commodity Exchange (MCX)",
+   "type": "listed"
+  },
+  {
+   "slug": "muthoot-finance",
+   "name": "Muthoot Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "natco-pharma",
+   "name": "NATCO Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "nbcc",
+   "name": "NBCC (India)",
+   "type": "listed"
+  },
+  {
+   "slug": "ncc",
+   "name": "NCC",
+   "type": "listed"
+  },
+  {
+   "slug": "nhpc",
+   "name": "NHPC",
+   "type": "listed"
+  },
+  {
+   "slug": "nlc",
+   "name": "NLC India",
+   "type": "listed"
+  },
+  {
+   "slug": "nmdc",
+   "name": "NMDC",
+   "type": "listed"
+  },
+  {
+   "slug": "nmdc-steel",
+   "name": "NMDC Steel",
+   "type": "listed"
+  },
+  {
+   "slug": "ntpc",
+   "name": "NTPC",
+   "type": "listed"
+  },
+  {
+   "slug": "ntpc-green-energy",
+   "name": "NTPC Green Energy",
+   "type": "listed"
+  },
+  {
+   "slug": "narayana-hrudayalaya",
+   "name": "Narayana Health (Narayana Hrudayalaya)",
+   "type": "listed"
+  },
+  {
+   "slug": "national-aluminium",
+   "name": "National Aluminium Company (NALCO)",
+   "type": "listed"
+  },
+  {
+   "slug": "nsdl",
+   "name": "National Securities Depository (NSDL)",
+   "type": "listed"
+  },
+  {
+   "slug": "nava",
+   "name": "Nava (Nava Bharat Ventures)",
+   "type": "listed"
+  },
+  {
+   "slug": "navin-fluorine-international",
+   "name": "Navin Fluorine International",
+   "type": "listed"
+  },
+  {
+   "slug": "nazara-technologies",
+   "name": "Nazara Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "nestle-india",
+   "name": "Nestlé India",
+   "type": "listed"
+  },
+  {
+   "slug": "netweb-technologies",
+   "name": "Netweb Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "neuland-laboratories",
+   "name": "Neuland Laboratories",
+   "type": "listed"
+  },
+  {
+   "slug": "new-assurance",
+   "name": "New India Assurance",
+   "type": "listed"
+  },
+  {
+   "slug": "nippon-life-asset-management",
+   "name": "Nippon Life India Asset Management",
+   "type": "listed"
+  },
+  {
+   "slug": "niva-bupa-health-insurance",
+   "name": "Niva Bupa Health Insurance",
+   "type": "listed"
+  }
+ ]
+}

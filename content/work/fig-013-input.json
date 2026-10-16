@@ -1,0 +1,255 @@
+{
+ "group": "fig-013",
+ "companies": [
+  {
+   "slug": "inmobi",
+   "name": "InMobi",
+   "type": "startup"
+  },
+  {
+   "slug": "indifi",
+   "name": "Indifi Technologies",
+   "type": "startup"
+  },
+  {
+   "slug": "infra-market",
+   "name": "Infra.Market",
+   "type": "startup"
+  },
+  {
+   "slug": "innovaccer",
+   "name": "Innovaccer",
+   "type": "startup"
+  },
+  {
+   "slug": "insurancedekho",
+   "name": "InsuranceDekho",
+   "type": "startup"
+  },
+  {
+   "slug": "intas-pharmaceuticals",
+   "name": "Intas Pharmaceuticals",
+   "type": "startup"
+  },
+  {
+   "slug": "jsw-mg-motor",
+   "name": "JSW MG Motor India",
+   "type": "startup"
+  },
+  {
+   "slug": "joyalukkas",
+   "name": "Joyalukkas",
+   "type": "startup"
+  },
+  {
+   "slug": "jumbotail",
+   "name": "Jumbotail",
+   "type": "startup"
+  },
+  {
+   "slug": "junglee-games",
+   "name": "Junglee Games",
+   "type": "startup"
+  },
+  {
+   "slug": "juspay",
+   "name": "Juspay",
+   "type": "startup"
+  },
+  {
+   "slug": "kia",
+   "name": "Kia India",
+   "type": "startup"
+  },
+  {
+   "slug": "kinara-capital",
+   "name": "Kinara Capital",
+   "type": "startup"
+  },
+  {
+   "slug": "krafton",
+   "name": "Krafton India",
+   "type": "startup"
+  },
+  {
+   "slug": "kreditbee",
+   "name": "KreditBee",
+   "type": "startup"
+  },
+  {
+   "slug": "krutrim",
+   "name": "Krutrim",
+   "type": "startup"
+  },
+  {
+   "slug": "kuku-fm",
+   "name": "Kuku FM",
+   "type": "startup"
+  },
+  {
+   "slug": "lead-school",
+   "name": "LEAD Group (LEAD School)",
+   "type": "startup"
+  },
+  {
+   "slug": "lava-international",
+   "name": "Lava International",
+   "type": "startup"
+  },
+  {
+   "slug": "leadsquared",
+   "name": "LeadSquared",
+   "type": "startup"
+  },
+  {
+   "slug": "leap-scholar",
+   "name": "Leap Scholar",
+   "type": "startup"
+  },
+  {
+   "slug": "lendingkart",
+   "name": "Lendingkart",
+   "type": "startup"
+  },
+  {
+   "slug": "letstransport",
+   "name": "LetsTransport",
+   "type": "startup"
+  },
+  {
+   "slug": "libas",
+   "name": "Libas",
+   "type": "startup"
+  },
+  {
+   "slug": "licious",
+   "name": "Licious",
+   "type": "startup"
+  },
+  {
+   "slug": "lifestyle-international",
+   "name": "Lifestyle International",
+   "type": "startup"
+  },
+  {
+   "slug": "livspace",
+   "name": "Livspace",
+   "type": "startup"
+  },
+  {
+   "slug": "lulu-group",
+   "name": "Lulu Group India",
+   "type": "startup"
+  },
+  {
+   "slug": "m2p-fintech",
+   "name": "M2P Fintech",
+   "type": "startup"
+  },
+  {
+   "slug": "magicbricks",
+   "name": "MagicBricks",
+   "type": "startup"
+  },
+  {
+   "slug": "makemytrip",
+   "name": "MakeMyTrip",
+   "type": "startup"
+  },
+  {
+   "slug": "malabar-gold-and-diamonds",
+   "name": "Malabar Gold & Diamonds",
+   "type": "startup"
+  },
+  {
+   "slug": "manipal-hospitals",
+   "name": "Manipal Hospitals",
+   "type": "startup"
+  },
+  {
+   "slug": "medikabazaar",
+   "name": "Medikabazaar",
+   "type": "startup"
+  },
+  {
+   "slug": "micro-labs",
+   "name": "Micro Labs",
+   "type": "startup"
+  },
+  {
+   "slug": "mindtickle",
+   "name": "Mindtickle",
+   "type": "startup"
+  },
+  {
+   "slug": "moengage",
+   "name": "MoEngage",
+   "type": "startup"
+  },
+  {
+   "slug": "moglix",
+   "name": "Moglix",
+   "type": "startup"
+  },
+  {
+   "slug": "more-retail",
+   "name": "More Retail",
+   "type": "startup"
+  },
+  {
+   "slug": "mswipe",
+   "name": "Mswipe",
+   "type": "startup"
+  },
+  {
+   "slug": "mu-sigma",
+   "name": "Mu Sigma",
+   "type": "startup"
+  },
+  {
+   "slug": "neeman-s",
+   "name": "Neeman's",
+   "type": "startup"
+  },
+  {
+   "slug": "neogrowth",
+   "name": "NeoGrowth Credit",
+   "type": "startup"
+  },
+  {
+   "slug": "ninjacart",
+   "name": "Ninjacart",
+   "type": "startup"
+  },
+  {
+   "slug": "nobroker",
+   "name": "NoBroker",
+   "type": "startup"
+  },
+  {
+   "slug": "noise",
+   "name": "Noise",
+   "type": "startup"
+  },
+  {
+   "slug": "nothing",
+   "name": "Nothing",
+   "type": "startup"
+  },
+  {
+   "slug": "oyo",
+   "name": "OYO (PRISM)",
+   "type": "startup"
+  },
+  {
+   "slug": "ofbusiness",
+   "name": "OfBusiness",
+   "type": "startup"
+  },
+  {
+   "slug": "open-financial",
+   "name": "Open (Open Financial Technologies)",
+   "type": "startup"
+  }
+ ]
+}

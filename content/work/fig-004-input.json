@@ -1,0 +1,255 @@
+{
+ "group": "fig-004",
+ "companies": [
+  {
+   "slug": "easemytrip",
+   "name": "EaseMyTrip",
+   "type": "listed"
+  },
+  {
+   "slug": "eicher-motors",
+   "name": "Eicher Motors (Royal Enfield)",
+   "type": "listed"
+  },
+  {
+   "slug": "elecon-engineering",
+   "name": "Elecon Engineering",
+   "type": "listed"
+  },
+  {
+   "slug": "emami",
+   "name": "Emami",
+   "type": "listed"
+  },
+  {
+   "slug": "embassy-office-parks-reit",
+   "name": "Embassy Office Parks REIT",
+   "type": "listed"
+  },
+  {
+   "slug": "emcure-pharmaceuticals",
+   "name": "Emcure Pharmaceuticals",
+   "type": "listed"
+  },
+  {
+   "slug": "emmvee-photovoltaic-power",
+   "name": "Emmvee Photovoltaic Power",
+   "type": "listed"
+  },
+  {
+   "slug": "endurance-technologies",
+   "name": "Endurance Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "engineers",
+   "name": "Engineers India (EIL)",
+   "type": "listed"
+  },
+  {
+   "slug": "equitas-small-finance-bank",
+   "name": "Equitas Small Finance Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "escorts-kubota",
+   "name": "Escorts Kubota",
+   "type": "listed"
+  },
+  {
+   "slug": "exide-industries",
+   "name": "Exide Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "federal-bank",
+   "name": "Federal Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "fertilisers-and-chemicals-travancore",
+   "name": "Fertilisers and Chemicals Travancore (FACT)",
+   "type": "listed"
+  },
+  {
+   "slug": "fino-payments-bank",
+   "name": "Fino Payments Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "finolex-cables",
+   "name": "Finolex Cables",
+   "type": "listed"
+  },
+  {
+   "slug": "firstcry",
+   "name": "FirstCry (Brainbees Solutions)",
+   "type": "listed"
+  },
+  {
+   "slug": "firstsource-solutions",
+   "name": "Firstsource Solutions",
+   "type": "listed"
+  },
+  {
+   "slug": "five-star-business-finance",
+   "name": "Five-Star Business Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "force-motors",
+   "name": "Force Motors",
+   "type": "listed"
+  },
+  {
+   "slug": "fortis-healthcare",
+   "name": "Fortis Healthcare",
+   "type": "listed"
+  },
+  {
+   "slug": "fractal-analytics",
+   "name": "Fractal Analytics",
+   "type": "listed"
+  },
+  {
+   "slug": "gail",
+   "name": "GAIL (India)",
+   "type": "listed"
+  },
+  {
+   "slug": "ge-vernova-t-and-d",
+   "name": "GE Vernova T&D India",
+   "type": "listed"
+  },
+  {
+   "slug": "gmr-airports",
+   "name": "GMR Airports",
+   "type": "listed"
+  },
+  {
+   "slug": "glaxosmithkline-pharmaceuticals",
+   "name": "GSK Pharmaceuticals India",
+   "type": "listed"
+  },
+  {
+   "slug": "gabriel",
+   "name": "Gabriel India",
+   "type": "listed"
+  },
+  {
+   "slug": "gallantt-ispat",
+   "name": "Gallantt Ispat",
+   "type": "listed"
+  },
+  {
+   "slug": "garden-reach-shipbuilders-and-engineers",
+   "name": "Garden Reach Shipbuilders & Engineers (GRSE)",
+   "type": "listed"
+  },
+  {
+   "slug": "general-insurance-of",
+   "name": "General Insurance Corporation of India (GIC Re)",
+   "type": "listed"
+  },
+  {
+   "slug": "gillette",
+   "name": "Gillette India",
+   "type": "listed"
+  },
+  {
+   "slug": "gland-pharma",
+   "name": "Gland Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "glenmark-pharmaceuticals",
+   "name": "Glenmark Pharmaceuticals",
+   "type": "listed"
+  },
+  {
+   "slug": "go-digit",
+   "name": "Go Digit General Insurance",
+   "type": "listed"
+  },
+  {
+   "slug": "godawari-power-and-ispat",
+   "name": "Godawari Power & Ispat",
+   "type": "listed"
+  },
+  {
+   "slug": "godfrey-phillips",
+   "name": "Godfrey Phillips India",
+   "type": "listed"
+  },
+  {
+   "slug": "godrej-consumer",
+   "name": "Godrej Consumer Products",
+   "type": "listed"
+  },
+  {
+   "slug": "godrej-industries",
+   "name": "Godrej Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "godrej-properties",
+   "name": "Godrej Properties",
+   "type": "listed"
+  },
+  {
+   "slug": "granules",
+   "name": "Granules India",
+   "type": "listed"
+  },
+  {
+   "slug": "graphite",
+   "name": "Graphite India",
+   "type": "listed"
+  },
+  {
+   "slug": "grasim-industries",
+   "name": "Grasim Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "gravita",
+   "name": "Gravita India",
+   "type": "listed"
+  },
+  {
+   "slug": "great-eastern-shipping",
+   "name": "Great Eastern Shipping",
+   "type": "listed"
+  },
+  {
+   "slug": "groww",
+   "name": "Groww (Billionbrains Garage Ventures)",
+   "type": "listed"
+  },
+  {
+   "slug": "gujarat-fluorochemicals",
+   "name": "Gujarat Fluorochemicals (GFL)",
+   "type": "listed"
+  },
+  {
+   "slug": "gujarat-mineral-development",
+   "name": "Gujarat Mineral Development Corporation (GMDC)",
+   "type": "listed"
+  },
+  {
+   "slug": "hbl-engineering",
+   "name": "HBL Engineering",
+   "type": "listed"
+  },
+  {
+   "slug": "hcltech",
+   "name": "HCLTech",
+   "type": "listed"
+  },
+  {
+   "slug": "hdb-financial-services",
+   "name": "HDB Financial Services",
+   "type": "listed"
+  }
+ ]
+}

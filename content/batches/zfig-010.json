@@ -1,0 +1,315 @@
+{
+  "_meta": { "group": "fig-010", "generated": "2026-10-15" },
+  "companies": [
+    {
+      "slug": "tata-chemicals",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Sales (consolidated)",
+          "value": "14887",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Chemicals consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TATACHEM/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "387",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Chemicals consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TATACHEM/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-communications",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue (consolidated)",
+          "value": "23109",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Communications Q4 FY2025 financial results (company press release)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.tatacommunications.com/press-release/q4-fy2025-financial-results"
+          }
+        },
+        {
+          "label": "Profit after tax",
+          "value": "1625",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Communications Q4 FY2025 financial results (company press release)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.tatacommunications.com/press-release/q4-fy2025-financial-results"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-consumer",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "17618.30",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Consumer Products records 5.9% YoY growth in net profit in FY25 (exchange4media)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.exchange4media.com/announcements-news/tata-consumer-products-records-59-yoy-growth-in-net-profit-in-fy25-142879.html"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1287",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Consumer Products consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TATACONSUM/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-elxsi",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Operating revenue",
+          "value": "3729",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Elxsi operating revenue at Rs. 3,729 crores for FY'25 (CXOToday / company release)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://cxotoday.com/press-release/tata-elxsi-operating-revenue-at-rs-3729-crores-for-fy25-with-full-year-pbt-at-26-3/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "784.9",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Elxsi FY25 results, final dividend of Rs 75/share (Business Standard)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.business-standard.com/markets/capital-market-news/tata-elxsi-edges-higher-after-board-oks-final-dividend-of-rs-75-share-for-fy25-125042100176_1.html"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-technologies",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "5168.45",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Technologies Q4 PAT climbs 12% QoQ to Rs 189 cr (Business Standard, FY25 full year)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.business-standard.com/markets/capital-market-news/tata-technologies-q4-pat-climbs-12-qoq-to-rs-189-cr-125042501088_1.html"
+          }
+        },
+        {
+          "label": "Profit after tax",
+          "value": "676.95",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Technologies Q4 PAT climbs 12% QoQ to Rs 189 cr (Business Standard, FY25 full year)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.business-standard.com/markets/capital-market-news/tata-technologies-q4-pat-climbs-12-qoq-to-rs-189-cr-125042501088_1.html"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-teleservices-maharashtra",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue from operations",
+          "value": "1308.04",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Teleservices (Maharashtra) FY25 annual results (IIFL / indiainfoline)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.indiainfoline.com/company/tata-teleservices-maharashtra-ltd/annual-result/financials/21214"
+          }
+        },
+        {
+          "label": "Net loss",
+          "value": "1276.78",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Teleservices (Maharashtra) FY25 annual results (IIFL / indiainfoline)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.indiainfoline.com/company/tata-teleservices-maharashtra-ltd/annual-result/financials/21214"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-power",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Sales (consolidated)",
+          "value": "65478",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Power consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TATAPOWER/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "4775",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Power consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TATAPOWER/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tata-steel",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue (consolidated)",
+          "value": "218542.51",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Steel Q4 FY25 net profit surges 112% on lower costs (Business Standard, FY25 full year)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q4fy25-net-profit-surges-112-per-cent-on-lower-costs-125051201304_1.html"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "3174",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tata Steel consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TATASTEEL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tech-mahindra",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Sales (consolidated)",
+          "value": "52988",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tech Mahindra consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TECHM/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "4253",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Tech Mahindra consolidated annual P&L (Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/TECHM/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "techno-electric-and-engineering",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "2269", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Techno Electric & Engineering consolidated annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/TECHNOE/consolidated/" } },
+        { "label": "Net profit", "value": "423", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Techno Electric & Engineering consolidated annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/TECHNOE/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "tega-industries",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "1639", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Tega Industries consolidated annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/TEGA/consolidated/" } },
+        { "label": "Net profit", "value": "200", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Tega Industries consolidated annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/TEGA/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "tejas-networks",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales (consolidated)", "value": "8923", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Tejas Networks consolidated annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/TEJASNET/consolidated/" } },
+        { "label": "Net profit", "value": "447", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Tejas Networks consolidated annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/TEJASNET/consolidated/" } }
+      ]
+    },
+    {
+      "slug": "thangamayil-jewellery",
+      "needs_figures": false,
+      "figures": [
+        { "label": "Sales", "value": "4911", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Thangamayil Jewellery annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/THANGAMAYL/" } },
+        { "label": "Net profit", "value": "119", "unit": "₹ crore", "period": "FY25",
+          "source": { "title": "Thangamayil Jewellery annual P&L (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/THANGAMAYL/" } }
+      ]
+    }
+  ]
+}

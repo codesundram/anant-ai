@@ -1,0 +1,137 @@
+{
+ "_meta": { "group": "fig-011", "generated": "2026-10-15" },
+ "companies": [
+  { "slug": "vishal-mega-mart", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "10716", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Vishal Mega Mart FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/VMM/consolidated/" } },
+    { "label": "Net profit", "value": "632", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Vishal Mega Mart FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/VMM/consolidated/" } }
+  ] },
+  { "slug": "vodafone-idea", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "43572", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Vodafone Idea FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/IDEA/consolidated/" } },
+    { "label": "Net loss", "value": "27384", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Vodafone Idea FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/IDEA/consolidated/" } }
+  ] },
+  { "slug": "voltas", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "15413", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Voltas FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/VOLTAS/consolidated/" } },
+    { "label": "Net profit", "value": "834", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Voltas FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/VOLTAS/consolidated/" } }
+  ] },
+  { "slug": "waaree-energies", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "14444", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Waaree Energies FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WAAREEENER/consolidated/" } },
+    { "label": "Net profit", "value": "1928", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Waaree Energies FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WAAREEENER/consolidated/" } }
+  ] },
+  { "slug": "welspun-corp", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "13978", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Welspun Corp FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WELCORP/consolidated/" } },
+    { "label": "Net profit", "value": "1902", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Welspun Corp FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WELCORP/consolidated/" } }
+  ] },
+  { "slug": "welspun-living", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "10545", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Welspun Living FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WELSPUNLIV/consolidated/" } },
+    { "label": "Net profit", "value": "644", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Welspun Living FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WELSPUNLIV/consolidated/" } }
+  ] },
+  { "slug": "whirlpool-of", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "7919", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Whirlpool of India FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WHIRLPOOL/consolidated/" } },
+    { "label": "Net profit", "value": "363", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Whirlpool of India FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WHIRLPOOL/consolidated/" } }
+  ] },
+  { "slug": "wipro", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "89088", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Wipro FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WIPRO/consolidated/" } },
+    { "label": "Net profit", "value": "13218", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Wipro FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WIPRO/consolidated/" } }
+  ] },
+  { "slug": "wockhardt", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "3012", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Wockhardt FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WOCKPHARMA/consolidated/" } },
+    { "label": "Net loss", "value": "57", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Wockhardt FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/WOCKPHARMA/consolidated/" } }
+  ] },
+  { "slug": "yatra", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "791", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Yatra Online FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/YATRA/consolidated/" } },
+    { "label": "Net profit", "value": "37", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Yatra Online FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/YATRA/consolidated/" } }
+  ] },
+  { "slug": "yes-bank", "needs_figures": false, "figures": [
+    { "label": "Total income", "value": "36752", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Yes Bank FY25 results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/YESBANK/" } },
+    { "label": "Net profit", "value": "2406", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Yes Bank FY25 results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/YESBANK/" } }
+  ] },
+  { "slug": "zf-commercial-vehicle-control-systems", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "3831", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ZF Commercial Vehicle Control Systems India FY25 results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZFCVINDIA/consolidated/" } },
+    { "label": "Net profit", "value": "461", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ZF Commercial Vehicle Control Systems India FY25 results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZFCVINDIA/consolidated/" } }
+  ] },
+  { "slug": "zaggle", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "1304", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zaggle Prepaid Ocean Services FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZAGGLE/consolidated/" } },
+    { "label": "Net profit", "value": "88", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zaggle Prepaid Ocean Services FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZAGGLE/consolidated/" } }
+  ] },
+  { "slug": "zee-entertainment-enterprises", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "8294", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zee Entertainment FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZEEL/consolidated/" } },
+    { "label": "Net profit", "value": "680", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zee Entertainment FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZEEL/consolidated/" } }
+  ] },
+  { "slug": "zen-technologies", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "974", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zen Technologies FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZENTEC/consolidated/" } },
+    { "label": "Net profit", "value": "299", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zen Technologies FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZENTEC/consolidated/" } }
+  ] },
+  { "slug": "zensar-technolgies", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "5281", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zensar Technologies FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZENSARTECH/consolidated/" } },
+    { "label": "Net profit", "value": "650", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zensar Technologies FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZENSARTECH/consolidated/" } }
+  ] },
+  { "slug": "zydus-lifesciences", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "23242", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zydus Lifesciences FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZYDUSLIFE/consolidated/" } },
+    { "label": "Net profit", "value": "4673", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zydus Lifesciences FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZYDUSLIFE/consolidated/" } }
+  ] },
+  { "slug": "zydus-wellness", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "2709", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zydus Wellness FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZYDUSWELL/consolidated/" } },
+    { "label": "Net profit", "value": "347", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Zydus Wellness FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ZYDUSWELL/consolidated/" } }
+  ] },
+  { "slug": "eclerx-services", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "3366", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "eClerx Services FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ECLERX/consolidated/" } },
+    { "label": "Net profit", "value": "541", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "eClerx Services FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ECLERX/consolidated/" } }
+  ] },
+  { "slug": "ideaforge", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "161", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ideaForge Technology FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/IDEAFORGE/consolidated/" } },
+    { "label": "Net loss", "value": "62", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ideaForge Technology FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/IDEAFORGE/consolidated/" } }
+  ] },
+  { "slug": "ixigo", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "914", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ixigo (Le Travenues Technology) FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/IXIGO/consolidated/" } },
+    { "label": "Net profit", "value": "60", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ixigo (Le Travenues Technology) FY25 consolidated results (screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/IXIGO/consolidated/" } }
+  ] },
+  { "slug": "wework", "needs_figures": false, "figures": [
+    { "label": "Revenue from operations", "value": "1949.2", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "WeWork India FY25 MCA filings (via Inc42)", "doc_type": "filing", "period": "FY25", "url": "https://inc42.com/buzz/wework-india-fy25-posts-inr-128-cr-profit-on-deferred-tax-gains/" } },
+    { "label": "Profit after tax", "value": "128.2", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "WeWork India FY25 MCA filings (via Inc42)", "doc_type": "filing", "period": "FY25", "url": "https://inc42.com/buzz/wework-india-fy25-posts-inr-128-cr-profit-on-deferred-tax-gains/" } }
+  ] }
+ ]
+}

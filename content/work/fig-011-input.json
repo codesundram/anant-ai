@@ -1,0 +1,255 @@
+{
+ "group": "fig-011",
+ "companies": [
+  {
+   "slug": "vishal-mega-mart",
+   "name": "Vishal Mega Mart",
+   "type": "listed"
+  },
+  {
+   "slug": "vodafone-idea",
+   "name": "Vodafone Idea (Vi)",
+   "type": "listed"
+  },
+  {
+   "slug": "voltas",
+   "name": "Voltas",
+   "type": "listed"
+  },
+  {
+   "slug": "waaree-energies",
+   "name": "Waaree Energies",
+   "type": "listed"
+  },
+  {
+   "slug": "wakefit",
+   "name": "Wakefit",
+   "type": "listed"
+  },
+  {
+   "slug": "wework",
+   "name": "WeWork India",
+   "type": "listed"
+  },
+  {
+   "slug": "welspun-corp",
+   "name": "Welspun Corp",
+   "type": "listed"
+  },
+  {
+   "slug": "welspun-living",
+   "name": "Welspun Living",
+   "type": "listed"
+  },
+  {
+   "slug": "whirlpool-of",
+   "name": "Whirlpool of India",
+   "type": "listed"
+  },
+  {
+   "slug": "wipro",
+   "name": "Wipro",
+   "type": "listed"
+  },
+  {
+   "slug": "wockhardt",
+   "name": "Wockhardt",
+   "type": "listed"
+  },
+  {
+   "slug": "yatra",
+   "name": "Yatra Online",
+   "type": "listed"
+  },
+  {
+   "slug": "yes-bank",
+   "name": "Yes Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "zf-commercial-vehicle-control-systems",
+   "name": "ZF Commercial Vehicle Control Systems India",
+   "type": "listed"
+  },
+  {
+   "slug": "zaggle",
+   "name": "Zaggle Prepaid",
+   "type": "listed"
+  },
+  {
+   "slug": "zee-entertainment-enterprises",
+   "name": "Zee Entertainment",
+   "type": "listed"
+  },
+  {
+   "slug": "zen-technologies",
+   "name": "Zen Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "zensar-technolgies",
+   "name": "Zensar Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "zydus-lifesciences",
+   "name": "Zydus Lifesciences",
+   "type": "listed"
+  },
+  {
+   "slug": "zydus-wellness",
+   "name": "Zydus Wellness",
+   "type": "listed"
+  },
+  {
+   "slug": "eclerx-services",
+   "name": "eClerx Services",
+   "type": "listed"
+  },
+  {
+   "slug": "ideaforge",
+   "name": "ideaForge Technology",
+   "type": "listed"
+  },
+  {
+   "slug": "ixigo",
+   "name": "ixigo (Le Travenues)",
+   "type": "listed"
+  },
+  {
+   "slug": "acko",
+   "name": "Acko",
+   "type": "startup"
+  },
+  {
+   "slug": "adda247",
+   "name": "Adda247",
+   "type": "startup"
+  },
+  {
+   "slug": "agnikul-cosmos",
+   "name": "Agnikul Cosmos",
+   "type": "startup"
+  },
+  {
+   "slug": "akasa-air",
+   "name": "Akasa Air",
+   "type": "startup"
+  },
+  {
+   "slug": "allen-career-institute",
+   "name": "Allen Career Institute",
+   "type": "startup"
+  },
+  {
+   "slug": "amazon",
+   "name": "Amazon India",
+   "type": "startup"
+  },
+  {
+   "slug": "amul-gcmmf",
+   "name": "Amul (GCMMF)",
+   "type": "startup"
+  },
+  {
+   "slug": "apna",
+   "name": "Apna",
+   "type": "startup"
+  },
+  {
+   "slug": "arohan-financial",
+   "name": "Arohan Financial Services",
+   "type": "startup"
+  },
+  {
+   "slug": "atomberg",
+   "name": "Atomberg",
+   "type": "startup"
+  },
+  {
+   "slug": "avaada",
+   "name": "Avaada Group",
+   "type": "startup"
+  },
+  {
+   "slug": "avanse-financial",
+   "name": "Avanse Financial Services",
+   "type": "startup"
+  },
+  {
+   "slug": "axis-max-life-insurance",
+   "name": "Axis Max Life Insurance",
+   "type": "startup"
+  },
+  {
+   "slug": "aye-finance",
+   "name": "Aye Finance",
+   "type": "startup"
+  },
+  {
+   "slug": "balaji-wafers",
+   "name": "Balaji Wafers",
+   "type": "startup"
+  },
+  {
+   "slug": "bewakoof",
+   "name": "Bewakoof",
+   "type": "startup"
+  },
+  {
+   "slug": "bharat-biotech",
+   "name": "Bharat Biotech",
+   "type": "startup"
+  },
+  {
+   "slug": "bharatpe",
+   "name": "BharatPe",
+   "type": "startup"
+  },
+  {
+   "slug": "bharti-axa-life",
+   "name": "Bharti AXA Life Insurance",
+   "type": "startup"
+  },
+  {
+   "slug": "swiggy-instamart",
+   "name": "BigBasket",
+   "type": "startup"
+  },
+  {
+   "slug": "biological-e",
+   "name": "Biological E",
+   "type": "startup"
+  },
+  {
+   "slug": "bira-91",
+   "name": "Bira 91",
+   "type": "startup"
+  },
+  {
+   "slug": "bizongo",
+   "name": "Bizongo",
+   "type": "startup"
+  },
+  {
+   "slug": "blue-tokai-coffee",
+   "name": "Blue Tokai Coffee",
+   "type": "startup"
+  },
+  {
+   "slug": "bombay-shaving",
+   "name": "Bombay Shaving Company",
+   "type": "startup"
+  },
+  {
+   "slug": "bookmyshow-bigtree",
+   "name": "BookMyShow (Bigtree Entertainment)",
+   "type": "startup"
+  },
+  {
+   "slug": "bounce",
+   "name": "Bounce",
+   "type": "startup"
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "group": "fig-003",
+ "companies": [
+  {
+   "slug": "can-fin-homes",
+   "name": "Can Fin Homes",
+   "type": "listed"
+  },
+  {
+   "slug": "canara-bank",
+   "name": "Canara Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "canara-hsbc-life-insurance",
+   "name": "Canara HSBC Life Insurance",
+   "type": "listed"
+  },
+  {
+   "slug": "caplin-point-laboratories",
+   "name": "Caplin Point Laboratories",
+   "type": "listed"
+  },
+  {
+   "slug": "capri-global-capital",
+   "name": "Capri Global Capital",
+   "type": "listed"
+  },
+  {
+   "slug": "cartrade-tech",
+   "name": "CarTrade Tech",
+   "type": "listed"
+  },
+  {
+   "slug": "carborundum-universal",
+   "name": "Carborundum Universal (CUMI)",
+   "type": "listed"
+  },
+  {
+   "slug": "castrol",
+   "name": "Castrol India",
+   "type": "listed"
+  },
+  {
+   "slug": "cemindia-projects",
+   "name": "Cemindia Projects",
+   "type": "listed"
+  },
+  {
+   "slug": "central-bank-of",
+   "name": "Central Bank of India",
+   "type": "listed"
+  },
+  {
+   "slug": "chambal-fertilizers-and-chemicals",
+   "name": "Chambal Fertilisers and Chemicals",
+   "type": "listed"
+  },
+  {
+   "slug": "chennai-petroleum",
+   "name": "Chennai Petroleum (CPCL)",
+   "type": "listed"
+  },
+  {
+   "slug": "choice-international",
+   "name": "Choice International",
+   "type": "listed"
+  },
+  {
+   "slug": "cholamandalam-investment-and-finance",
+   "name": "Cholamandalam Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "cholamandalam-financial-holdings",
+   "name": "Cholamandalam Financial Holdings",
+   "type": "listed"
+  },
+  {
+   "slug": "cipla",
+   "name": "Cipla",
+   "type": "listed"
+  },
+  {
+   "slug": "city-union-bank",
+   "name": "City Union Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "clean-science-and-technology",
+   "name": "Clean Science and Technology",
+   "type": "listed"
+  },
+  {
+   "slug": "clean-max-enviro-energy-solutions",
+   "name": "CleanMax",
+   "type": "listed"
+  },
+  {
+   "slug": "coal-india",
+   "name": "Coal India",
+   "type": "listed"
+  },
+  {
+   "slug": "cochin-shipyard",
+   "name": "Cochin Shipyard",
+   "type": "listed"
+  },
+  {
+   "slug": "coforge",
+   "name": "Coforge",
+   "type": "listed"
+  },
+  {
+   "slug": "cohance-lifesciences",
+   "name": "Cohance Lifesciences",
+   "type": "listed"
+  },
+  {
+   "slug": "colgate-palmolive",
+   "name": "Colgate-Palmolive (India)",
+   "type": "listed"
+  },
+  {
+   "slug": "computer-age-management-services",
+   "name": "Computer Age Management Services (CAMS)",
+   "type": "listed"
+  },
+  {
+   "slug": "concord-biotech",
+   "name": "Concord Biotech",
+   "type": "listed"
+  },
+  {
+   "slug": "container-of",
+   "name": "Container Corporation of India (CONCOR)",
+   "type": "listed"
+  },
+  {
+   "slug": "coromandel-international",
+   "name": "Coromandel International",
+   "type": "listed"
+  },
+  {
+   "slug": "craftsman-automation",
+   "name": "Craftsman Automation",
+   "type": "listed"
+  },
+  {
+   "slug": "creditaccess-grameen",
+   "name": "CreditAccess Grameen",
+   "type": "listed"
+  },
+  {
+   "slug": "crompton-greaves-consumer-electricals",
+   "name": "Crompton Greaves Consumer Electricals",
+   "type": "listed"
+  },
+  {
+   "slug": "cummins",
+   "name": "Cummins India",
+   "type": "listed"
+  },
+  {
+   "slug": "cupid",
+   "name": "Cupid",
+   "type": "listed"
+  },
+  {
+   "slug": "cyient",
+   "name": "Cyient",
+   "type": "listed"
+  },
+  {
+   "slug": "dlf",
+   "name": "DLF",
+   "type": "listed"
+  },
+  {
+   "slug": "doms-industries",
+   "name": "DOMS Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "dabur",
+   "name": "Dabur India",
+   "type": "listed"
+  },
+  {
+   "slug": "dalmia-bharat",
+   "name": "Dalmia Bharat",
+   "type": "listed"
+  },
+  {
+   "slug": "data-patterns",
+   "name": "Data Patterns",
+   "type": "listed"
+  },
+  {
+   "slug": "deepak-fertilisers-and-petrochemicals-corp",
+   "name": "Deepak Fertilisers and Petrochemicals (DFPCL)",
+   "type": "listed"
+  },
+  {
+   "slug": "deepak-nitrite",
+   "name": "Deepak Nitrite",
+   "type": "listed"
+  },
+  {
+   "slug": "delhivery",
+   "name": "Delhivery",
+   "type": "listed"
+  },
+  {
+   "slug": "devyani-international",
+   "name": "Devyani International",
+   "type": "listed"
+  },
+  {
+   "slug": "divis-labs",
+   "name": "Divi's Laboratories",
+   "type": "listed"
+  },
+  {
+   "slug": "dixon-technologies",
+   "name": "Dixon Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "dr-reddys",
+   "name": "Dr Reddy's Laboratories",
+   "type": "listed"
+  },
+  {
+   "slug": "dr-lal-path-labs",
+   "name": "Dr. Lal PathLabs",
+   "type": "listed"
+  },
+  {
+   "slug": "e-i-d-parry",
+   "name": "E.I.D. Parry",
+   "type": "listed"
+  },
+  {
+   "slug": "eih",
+   "name": "EIH (The Oberoi Group)",
+   "type": "listed"
+  },
+  {
+   "slug": "elgi-equipments",
+   "name": "ELGi Equipments",
+   "type": "listed"
+  }
+ ]
+}

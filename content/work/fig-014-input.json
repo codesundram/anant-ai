@@ -1,0 +1,255 @@
+{
+ "group": "fig-014",
+ "companies": [
+  {
+   "slug": "paper-boat-hector-beverages",
+   "name": "Paper Boat (Hector Beverages)",
+   "type": "startup"
+  },
+  {
+   "slug": "parle-products",
+   "name": "Parle Products",
+   "type": "startup"
+  },
+  {
+   "slug": "payu",
+   "name": "PayU India",
+   "type": "startup"
+  },
+  {
+   "slug": "pepperfry",
+   "name": "Pepperfry",
+   "type": "startup"
+  },
+  {
+   "slug": "perfios",
+   "name": "Perfios",
+   "type": "startup"
+  },
+  {
+   "slug": "pharmeasy",
+   "name": "PharmEasy (API Holdings)",
+   "type": "startup"
+  },
+  {
+   "slug": "phonepe",
+   "name": "PhonePe",
+   "type": "startup"
+  },
+  {
+   "slug": "pixxel",
+   "name": "Pixxel",
+   "type": "startup"
+  },
+  {
+   "slug": "plum-pureplay-skin-sciences",
+   "name": "Plum (Pureplay Skin Sciences)",
+   "type": "startup"
+  },
+  {
+   "slug": "pocket-fm",
+   "name": "Pocket FM",
+   "type": "startup"
+  },
+  {
+   "slug": "porter",
+   "name": "Porter",
+   "type": "startup"
+  },
+  {
+   "slug": "postman",
+   "name": "Postman",
+   "type": "startup"
+  },
+  {
+   "slug": "practo",
+   "name": "Practo",
+   "type": "startup"
+  },
+  {
+   "slug": "pratilipi",
+   "name": "Pratilipi",
+   "type": "startup"
+  },
+  {
+   "slug": "pristyn-care",
+   "name": "Pristyn Care",
+   "type": "startup"
+  },
+  {
+   "slug": "purplle",
+   "name": "Purplle",
+   "type": "startup"
+  },
+  {
+   "slug": "quikr",
+   "name": "Quikr",
+   "type": "startup"
+  },
+  {
+   "slug": "rapido",
+   "name": "Rapido",
+   "type": "startup"
+  },
+  {
+   "slug": "rare-rabbit",
+   "name": "Rare Rabbit",
+   "type": "startup"
+  },
+  {
+   "slug": "razorpay",
+   "name": "Razorpay",
+   "type": "startup"
+  },
+  {
+   "slug": "rebel-foods",
+   "name": "Rebel Foods",
+   "type": "startup"
+  },
+  {
+   "slug": "redcliffe-labs",
+   "name": "Redcliffe Labs",
+   "type": "startup"
+  },
+  {
+   "slug": "revolt-motors",
+   "name": "Revolt Motors",
+   "type": "startup"
+  },
+  {
+   "slug": "river",
+   "name": "River",
+   "type": "startup"
+  },
+  {
+   "slug": "rocketlane",
+   "name": "Rocketlane",
+   "type": "startup"
+  },
+  {
+   "slug": "sk-finance",
+   "name": "SK Finance",
+   "type": "startup"
+  },
+  {
+   "slug": "samsung",
+   "name": "Samsung India",
+   "type": "startup"
+  },
+  {
+   "slug": "sarvam-ai",
+   "name": "Sarvam AI",
+   "type": "startup"
+  },
+  {
+   "slug": "scaler-interviewbit",
+   "name": "Scaler (InterviewBit)",
+   "type": "startup"
+  },
+  {
+   "slug": "scripbox",
+   "name": "Scripbox",
+   "type": "startup"
+  },
+  {
+   "slug": "serum-institute-of",
+   "name": "Serum Institute of India",
+   "type": "startup"
+  },
+  {
+   "slug": "shaadi-com",
+   "name": "Shaadi.com",
+   "type": "startup"
+  },
+  {
+   "slug": "sharechat-mohalla-tech",
+   "name": "ShareChat (Mohalla Tech)",
+   "type": "startup"
+  },
+  {
+   "slug": "shivalik-small-finance-bank",
+   "name": "Shivalik Small Finance Bank",
+   "type": "startup"
+  },
+  {
+   "slug": "simple-energy",
+   "name": "Simple Energy",
+   "type": "startup"
+  },
+  {
+   "slug": "simplilearn",
+   "name": "Simplilearn",
+   "type": "startup"
+  },
+  {
+   "slug": "skyroot-aerospace",
+   "name": "Skyroot Aerospace",
+   "type": "startup"
+  },
+  {
+   "slug": "sleepy-owl",
+   "name": "Sleepy Owl",
+   "type": "startup"
+  },
+  {
+   "slug": "snitch",
+   "name": "Snitch",
+   "type": "startup"
+  },
+  {
+   "slug": "spinny",
+   "name": "Spinny",
+   "type": "startup"
+  },
+  {
+   "slug": "square-yards",
+   "name": "Square Yards",
+   "type": "startup"
+  },
+  {
+   "slug": "stanza-living",
+   "name": "Stanza Living",
+   "type": "startup"
+  },
+  {
+   "slug": "sugar-cosmetics",
+   "name": "Sugar Cosmetics",
+   "type": "startup"
+  },
+  {
+   "slug": "table-space",
+   "name": "Table Space",
+   "type": "startup"
+  },
+  {
+   "slug": "tata-sons",
+   "name": "Tata Sons",
+   "type": "startup"
+  },
+  {
+   "slug": "testbook",
+   "name": "Testbook",
+   "type": "startup"
+  },
+  {
+   "slug": "man",
+   "name": "The Man Company",
+   "type": "startup"
+  },
+  {
+   "slug": "souled-store",
+   "name": "The Souled Store",
+   "type": "startup"
+  },
+  {
+   "slug": "whole-truth",
+   "name": "The Whole Truth",
+   "type": "startup"
+  },
+  {
+   "slug": "third-wave-coffee",
+   "name": "Third Wave Coffee",
+   "type": "startup"
+  }
+ ]
+}

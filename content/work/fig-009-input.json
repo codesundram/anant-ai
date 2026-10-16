@@ -1,0 +1,255 @@
+{
+ "group": "fig-009",
+ "companies": [
+  {
+   "slug": "sbi-cards-and-payment-services",
+   "name": "SBI Card",
+   "type": "listed"
+  },
+  {
+   "slug": "sbi-life",
+   "name": "SBI Life Insurance",
+   "type": "listed"
+  },
+  {
+   "slug": "sjvn",
+   "name": "SJVN",
+   "type": "listed"
+  },
+  {
+   "slug": "spr-auto-technologies",
+   "name": "SPR Auto Technologies (formerly Shriram Pistons & Rings)",
+   "type": "listed"
+  },
+  {
+   "slug": "srf",
+   "name": "SRF",
+   "type": "listed"
+  },
+  {
+   "slug": "sagility",
+   "name": "Sagility",
+   "type": "listed"
+  },
+  {
+   "slug": "sai-life-sciences",
+   "name": "Sai Life Sciences",
+   "type": "listed"
+  },
+  {
+   "slug": "sammaan-capital",
+   "name": "Sammaan Capital (formerly Indiabulls Housing Finance)",
+   "type": "listed"
+  },
+  {
+   "slug": "samvardhana-motherson-international",
+   "name": "Samvardhana Motherson International (Motherson)",
+   "type": "listed"
+  },
+  {
+   "slug": "sansera-engineering",
+   "name": "Sansera Engineering",
+   "type": "listed"
+  },
+  {
+   "slug": "sarda-energy-and-minerals",
+   "name": "Sarda Energy & Minerals",
+   "type": "listed"
+  },
+  {
+   "slug": "satin-creditcare",
+   "name": "Satin Creditcare Network",
+   "type": "listed"
+  },
+  {
+   "slug": "schaeffler",
+   "name": "Schaeffler India",
+   "type": "listed"
+  },
+  {
+   "slug": "schneider-electric-infrastructure",
+   "name": "Schneider Electric Infrastructure",
+   "type": "listed"
+  },
+  {
+   "slug": "senco-gold",
+   "name": "Senco Gold & Diamonds",
+   "type": "listed"
+  },
+  {
+   "slug": "shadowfax",
+   "name": "Shadowfax",
+   "type": "listed"
+  },
+  {
+   "slug": "shipping-of",
+   "name": "Shipping Corporation of India (SCI)",
+   "type": "listed"
+  },
+  {
+   "slug": "shiprocket",
+   "name": "Shiprocket",
+   "type": "listed"
+  },
+  {
+   "slug": "shoppers-stop",
+   "name": "Shoppers Stop",
+   "type": "listed"
+  },
+  {
+   "slug": "shree-cement",
+   "name": "Shree Cement",
+   "type": "listed"
+  },
+  {
+   "slug": "shriram-finance",
+   "name": "Shriram Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "shyam-metalics-and-energy",
+   "name": "Shyam Metalics and Energy",
+   "type": "listed"
+  },
+  {
+   "slug": "siemens-energy",
+   "name": "Siemens Energy India",
+   "type": "listed"
+  },
+  {
+   "slug": "siemens",
+   "name": "Siemens India",
+   "type": "listed"
+  },
+  {
+   "slug": "signatureglobal",
+   "name": "Signatureglobal",
+   "type": "listed"
+  },
+  {
+   "slug": "smartworks",
+   "name": "Smartworks Coworking",
+   "type": "listed"
+  },
+  {
+   "slug": "sobha",
+   "name": "Sobha",
+   "type": "listed"
+  },
+  {
+   "slug": "solar-industries",
+   "name": "Solar Industries India",
+   "type": "listed"
+  },
+  {
+   "slug": "sona-blw-precision-forgings",
+   "name": "Sona Comstar (Sona BLW)",
+   "type": "listed"
+  },
+  {
+   "slug": "spandana-sphoorty",
+   "name": "Spandana Sphoorty Financial",
+   "type": "listed"
+  },
+  {
+   "slug": "spencer-s-retail",
+   "name": "Spencer's Retail",
+   "type": "listed"
+  },
+  {
+   "slug": "spicejet",
+   "name": "SpiceJet",
+   "type": "listed"
+  },
+  {
+   "slug": "star-health",
+   "name": "Star Health Insurance",
+   "type": "listed"
+  },
+  {
+   "slug": "sbi",
+   "name": "State Bank of India",
+   "type": "listed"
+  },
+  {
+   "slug": "steel-authority-of",
+   "name": "Steel Authority of India (SAIL)",
+   "type": "listed"
+  },
+  {
+   "slug": "sterlite-technologies",
+   "name": "Sterlite Technologies (STL)",
+   "type": "listed"
+  },
+  {
+   "slug": "sumitomo-chemical",
+   "name": "Sumitomo Chemical India",
+   "type": "listed"
+  },
+  {
+   "slug": "sun-pharma",
+   "name": "Sun Pharmaceutical",
+   "type": "listed"
+  },
+  {
+   "slug": "sun-tv-network",
+   "name": "Sun TV Network",
+   "type": "listed"
+  },
+  {
+   "slug": "sundaram-finance",
+   "name": "Sundaram Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "supreme-industries",
+   "name": "Supreme Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "suryoday-small-finance-bank",
+   "name": "Suryoday Small Finance Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "suzlon-energy",
+   "name": "Suzlon Energy",
+   "type": "listed"
+  },
+  {
+   "slug": "swan-corp",
+   "name": "Swan Corp (formerly Swan Energy)",
+   "type": "listed"
+  },
+  {
+   "slug": "syngene-international",
+   "name": "Syngene International",
+   "type": "listed"
+  },
+  {
+   "slug": "syrma-sgs-technology",
+   "name": "Syrma SGS Technology",
+   "type": "listed"
+  },
+  {
+   "slug": "tbo-tek",
+   "name": "TBO Tek",
+   "type": "listed"
+  },
+  {
+   "slug": "td-power-systems",
+   "name": "TD Power Systems",
+   "type": "listed"
+  },
+  {
+   "slug": "tvs-motor",
+   "name": "TVS Motor Company",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-capital",
+   "name": "Tata Capital",
+   "type": "listed"
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "group": "fig-008",
+ "companies": [
+  {
+   "slug": "nuvama-wealth-management",
+   "name": "Nuvama Wealth Management",
+   "type": "listed"
+  },
+  {
+   "slug": "nuvoco-vistas",
+   "name": "Nuvoco Vistas",
+   "type": "listed"
+  },
+  {
+   "slug": "ongc",
+   "name": "ONGC",
+   "type": "listed"
+  },
+  {
+   "slug": "oberoi-realty",
+   "name": "Oberoi Realty",
+   "type": "listed"
+  },
+  {
+   "slug": "oil",
+   "name": "Oil India",
+   "type": "listed"
+  },
+  {
+   "slug": "ola-electric",
+   "name": "Ola Electric",
+   "type": "listed"
+  },
+  {
+   "slug": "olectra-greentech",
+   "name": "Olectra Greentech",
+   "type": "listed"
+  },
+  {
+   "slug": "onesource-specialty-pharma",
+   "name": "OneSource Specialty Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "oracle-financial-services-software",
+   "name": "Oracle Financial Services Software (OFSS)",
+   "type": "listed"
+  },
+  {
+   "slug": "pc-jeweller",
+   "name": "PC Jeweller",
+   "type": "listed"
+  },
+  {
+   "slug": "pcbl-chemical",
+   "name": "PCBL Chemical",
+   "type": "listed"
+  },
+  {
+   "slug": "pg-electroplast",
+   "name": "PG Electroplast",
+   "type": "listed"
+  },
+  {
+   "slug": "pi-industries",
+   "name": "PI Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "pnb-housing-finance",
+   "name": "PNB Housing Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "ptc-industries",
+   "name": "PTC Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "pvr-inox",
+   "name": "PVR INOX",
+   "type": "listed"
+  },
+  {
+   "slug": "page-industries",
+   "name": "Page Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "paradeep-phosphates",
+   "name": "Paradeep Phosphates",
+   "type": "listed"
+  },
+  {
+   "slug": "patanjali-foods",
+   "name": "Patanjali Foods",
+   "type": "listed"
+  },
+  {
+   "slug": "persistent",
+   "name": "Persistent Systems",
+   "type": "listed"
+  },
+  {
+   "slug": "petronet-lng",
+   "name": "Petronet LNG",
+   "type": "listed"
+  },
+  {
+   "slug": "phoenix-mills",
+   "name": "Phoenix Mills",
+   "type": "listed"
+  },
+  {
+   "slug": "physicswallah",
+   "name": "PhysicsWallah",
+   "type": "listed"
+  },
+  {
+   "slug": "pidilite",
+   "name": "Pidilite Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "pine-labs",
+   "name": "Pine Labs",
+   "type": "listed"
+  },
+  {
+   "slug": "piramal-finance",
+   "name": "Piramal Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "piramal-pharma",
+   "name": "Piramal Pharma",
+   "type": "listed"
+  },
+  {
+   "slug": "poly-medicure",
+   "name": "Poly Medicure",
+   "type": "listed"
+  },
+  {
+   "slug": "polycab",
+   "name": "Polycab India",
+   "type": "listed"
+  },
+  {
+   "slug": "poonawalla-fincorp",
+   "name": "Poonawalla Fincorp",
+   "type": "listed"
+  },
+  {
+   "slug": "power-finance",
+   "name": "Power Finance Corporation (PFC)",
+   "type": "listed"
+  },
+  {
+   "slug": "power-grid",
+   "name": "Power Grid Corporation",
+   "type": "listed"
+  },
+  {
+   "slug": "premier-energies",
+   "name": "Premier Energies",
+   "type": "listed"
+  },
+  {
+   "slug": "prestige-estates-projects",
+   "name": "Prestige Estates Projects (Prestige Group)",
+   "type": "listed"
+  },
+  {
+   "slug": "prime-focus",
+   "name": "Prime Focus",
+   "type": "listed"
+  },
+  {
+   "slug": "privi-speciality-chemicals",
+   "name": "Privi Speciality Chemicals",
+   "type": "listed"
+  },
+  {
+   "slug": "punjab-national-bank",
+   "name": "Punjab National Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "r-r-kabel",
+   "name": "R R Kabel",
+   "type": "listed"
+  },
+  {
+   "slug": "rbl-bank",
+   "name": "RBL Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "rec",
+   "name": "REC",
+   "type": "listed"
+  },
+  {
+   "slug": "rhi-magnesita",
+   "name": "RHI Magnesita India",
+   "type": "listed"
+  },
+  {
+   "slug": "rites",
+   "name": "RITES",
+   "type": "listed"
+  },
+  {
+   "slug": "radico-khaitan",
+   "name": "Radico Khaitan",
+   "type": "listed"
+  },
+  {
+   "slug": "rail-vikas-nigam",
+   "name": "Rail Vikas Nigam (RVNL)",
+   "type": "listed"
+  },
+  {
+   "slug": "railtel-of",
+   "name": "RailTel Corporation of India",
+   "type": "listed"
+  },
+  {
+   "slug": "rainbow-childrens-medicare",
+   "name": "Rainbow Children's Medicare",
+   "type": "listed"
+  },
+  {
+   "slug": "ramkrishna-forgings",
+   "name": "Ramkrishna Forgings",
+   "type": "listed"
+  },
+  {
+   "slug": "redington",
+   "name": "Redington",
+   "type": "listed"
+  },
+  {
+   "slug": "reliance-power",
+   "name": "Reliance Power",
+   "type": "listed"
+  },
+  {
+   "slug": "rubicon-research",
+   "name": "Rubicon Research",
+   "type": "listed"
+  }
+ ]
+}

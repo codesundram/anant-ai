@@ -1,0 +1,255 @@
+{
+ "group": "fig-010",
+ "companies": [
+  {
+   "slug": "tata-chemicals",
+   "name": "Tata Chemicals",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-communications",
+   "name": "Tata Communications",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-consumer",
+   "name": "Tata Consumer Products",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-elxsi",
+   "name": "Tata Elxsi",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-investment",
+   "name": "Tata Investment Corporation",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-motors",
+   "name": "Tata Motors (Commercial Vehicles)",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-motors-passenger-vehicles",
+   "name": "Tata Motors Passenger Vehicles",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-power",
+   "name": "Tata Power",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-steel",
+   "name": "Tata Steel",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-technologies",
+   "name": "Tata Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "tata-teleservices-maharashtra",
+   "name": "Tata Teleservices (Maharashtra)",
+   "type": "listed"
+  },
+  {
+   "slug": "tech-mahindra",
+   "name": "Tech Mahindra",
+   "type": "listed"
+  },
+  {
+   "slug": "techno-electric-and-engineering",
+   "name": "Techno Electric & Engineering",
+   "type": "listed"
+  },
+  {
+   "slug": "tega-industries",
+   "name": "Tega Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "tejas-networks",
+   "name": "Tejas Networks",
+   "type": "listed"
+  },
+  {
+   "slug": "tenneco-clean-air",
+   "name": "Tenneco Clean Air India",
+   "type": "listed"
+  },
+  {
+   "slug": "thangamayil-jewellery",
+   "name": "Thangamayil Jewellery",
+   "type": "listed"
+  },
+  {
+   "slug": "ramco-cements",
+   "name": "The Ramco Cements",
+   "type": "listed"
+  },
+  {
+   "slug": "thermax",
+   "name": "Thermax",
+   "type": "listed"
+  },
+  {
+   "slug": "timken",
+   "name": "Timken India",
+   "type": "listed"
+  },
+  {
+   "slug": "titagarh-rail-systems",
+   "name": "Titagarh Rail Systems",
+   "type": "listed"
+  },
+  {
+   "slug": "titan",
+   "name": "Titan Company",
+   "type": "listed"
+  },
+  {
+   "slug": "torrent-pharmaceuticals",
+   "name": "Torrent Pharmaceuticals",
+   "type": "listed"
+  },
+  {
+   "slug": "torrent-power",
+   "name": "Torrent Power",
+   "type": "listed"
+  },
+  {
+   "slug": "transformers-and-rectifiers",
+   "name": "Transformers and Rectifiers (India)",
+   "type": "listed"
+  },
+  {
+   "slug": "trent",
+   "name": "Trent",
+   "type": "listed"
+  },
+  {
+   "slug": "trident",
+   "name": "Trident",
+   "type": "listed"
+  },
+  {
+   "slug": "triveni-turbine",
+   "name": "Triveni Turbine",
+   "type": "listed"
+  },
+  {
+   "slug": "tube-investments-of",
+   "name": "Tube Investments of India (TII)",
+   "type": "listed"
+  },
+  {
+   "slug": "turtlemint",
+   "name": "Turtlemint",
+   "type": "listed"
+  },
+  {
+   "slug": "uco-bank",
+   "name": "UCO Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "uno-minda",
+   "name": "UNO Minda",
+   "type": "listed"
+  },
+  {
+   "slug": "upl",
+   "name": "UPL",
+   "type": "listed"
+  },
+  {
+   "slug": "uti-asset-management",
+   "name": "UTI Asset Management (UTI AMC)",
+   "type": "listed"
+  },
+  {
+   "slug": "ujjivan-small-finance-bank",
+   "name": "Ujjivan Small Finance Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "ultratech",
+   "name": "UltraTech Cement",
+   "type": "listed"
+  },
+  {
+   "slug": "union-bank-of",
+   "name": "Union Bank of India",
+   "type": "listed"
+  },
+  {
+   "slug": "united-breweries",
+   "name": "United Breweries (Kingfisher)",
+   "type": "listed"
+  },
+  {
+   "slug": "united-spirits",
+   "name": "United Spirits (Diageo India)",
+   "type": "listed"
+  },
+  {
+   "slug": "urban-company",
+   "name": "Urban Company",
+   "type": "listed"
+  },
+  {
+   "slug": "usha-martin",
+   "name": "Usha Martin",
+   "type": "listed"
+  },
+  {
+   "slug": "v-mart",
+   "name": "V-Mart Retail",
+   "type": "listed"
+  },
+  {
+   "slug": "vardhman-textiles",
+   "name": "Vardhman Textiles",
+   "type": "listed"
+  },
+  {
+   "slug": "varun-beverages",
+   "name": "Varun Beverages",
+   "type": "listed"
+  },
+  {
+   "slug": "vedanta",
+   "name": "Vedanta",
+   "type": "listed"
+  },
+  {
+   "slug": "vedanta-aluminium-metal",
+   "name": "Vedanta Aluminium Metal",
+   "type": "listed"
+  },
+  {
+   "slug": "vedanta-iron-and-steel",
+   "name": "Vedanta Iron and Steel",
+   "type": "listed"
+  },
+  {
+   "slug": "vedanta-oil-and-gas",
+   "name": "Vedanta Oil and Gas (Cairn)",
+   "type": "listed"
+  },
+  {
+   "slug": "vedanta-power",
+   "name": "Vedanta Power",
+   "type": "listed"
+  },
+  {
+   "slug": "vijaya-diagnostic-centre",
+   "name": "Vijaya Diagnostic Centre",
+   "type": "listed"
+  }
+ ]
+}

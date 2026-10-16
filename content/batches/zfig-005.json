@@ -1,0 +1,317 @@
+{
+ "_meta": { "group": "fig-005", "generated": "2026-10-15" },
+ "companies": [
+  {
+   "slug": "hdfc-asset-management",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Total income", "value": "4058.26", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HDFC AMC FY25 results (Business Standard)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.business-standard.com/amp/markets/capital-market-news/hdfc-amc-rallies-after-q4-pat-jumps-18-yoy-to-rs-639-cr-declares-final-dividend-of-rs-90-sh-125042100196_1.html" } },
+    { "label": "Net profit", "value": "2461.05", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HDFC AMC FY25 results (Business Standard)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.business-standard.com/amp/markets/capital-market-news/hdfc-amc-rallies-after-q4-pat-jumps-18-yoy-to-rs-639-cr-declares-final-dividend-of-rs-90-sh-125042100196_1.html" } }
+   ]
+  },
+  {
+   "slug": "hfcl",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations (consolidated)", "value": "4064.52", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HFCL FY25 results (Angel One)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.angelone.in/news/share-market/hfcl-share-price-in-focus-on-may-23-revenue-falls-9-percent-yoy-in-fy25-results" } },
+    { "label": "Profit after tax (consolidated)", "value": "173.26", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HFCL FY25 results (Angel One)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.angelone.in/news/share-market/hfcl-share-price-in-focus-on-may-23-revenue-falls-9-percent-yoy-in-fy25-results" } }
+   ]
+  },
+  {
+   "slug": "housing-and-urban-development",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Total income", "value": "10348.38", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HUDCO FY25 results (FilingReader)", "doc_type": "results", "period": "FY25",
+                  "url": "https://filingreader.com/news-wire/mumbai/2025-08-23/hudco-reports-30-income-rise-achieves-navratna-status" } },
+    { "label": "Net profit", "value": "2709.14", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HUDCO FY25 results (FilingReader)", "doc_type": "results", "period": "FY25",
+                  "url": "https://filingreader.com/news-wire/mumbai/2025-08-23/hudco-reports-30-income-rise-achieves-navratna-status" } }
+   ]
+  },
+  {
+   "slug": "iifl-finance",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "10233", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IIFL Finance FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IIFL/consolidated/" } },
+    { "label": "Net profit (consolidated)", "value": "578", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IIFL Finance FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IIFL/consolidated/" } }
+   ]
+  },
+  {
+   "slug": "idfc-first-bank",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue", "value": "36501", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IDFC First Bank FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IDFCFIRSTB/" } },
+    { "label": "Net profit", "value": "1525", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IDFC First Bank FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IDFCFIRSTB/" } }
+   ]
+  },
+  {
+   "slug": "ifci",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "2021", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IFCI FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IFCI/consolidated/" } },
+    { "label": "Net profit (consolidated)", "value": "349", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IFCI FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IFCI/consolidated/" } }
+   ]
+  },
+  {
+   "slug": "icici-prudential-life-insurance",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Sales", "value": "70775", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ICICI Prudential Life FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/ICICIPRULI/" } },
+    { "label": "Profit after tax", "value": "1189", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ICICI Prudential Life FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/ICICIPRULI/" } }
+   ]
+  },
+  {
+   "slug": "idbi-bank",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue", "value": "28902", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IDBI Bank FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IDBI/" } },
+    { "label": "Net profit", "value": "7515", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "IDBI Bank FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/IDBI/" } }
+   ]
+  },
+  {
+   "slug": "hyundai-motor",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Sales (consolidated)", "value": "69193", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hyundai Motor India FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HYUNDAI/consolidated/" } },
+    { "label": "Net profit (consolidated)", "value": "5640", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hyundai Motor India FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HYUNDAI/consolidated/" } }
+   ]
+  },
+  {
+   "slug": "icici-lombard-general-insurance",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Sales", "value": "23961", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ICICI Lombard FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/ICICIGI/" } },
+    { "label": "Net profit", "value": "2508", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "ICICI Lombard FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/ICICIGI/" } }
+   ]
+  },
+  {
+   "slug": "honasa",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Sales (consolidated)", "value": "2067", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Honasa Consumer FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HONASA/consolidated/" } },
+    { "label": "Net profit (consolidated)", "value": "73", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Honasa Consumer FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HONASA/consolidated/" } }
+   ]
+  },
+  {
+   "slug": "honeywell-automation",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Sales", "value": "4190", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Honeywell Automation India FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HONAUT/" } },
+    { "label": "Net profit", "value": "524", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Honeywell Automation India FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HONAUT/" } }
+   ]
+  },
+  {
+   "slug": "home-first-finance",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue", "value": "1539", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Home First Finance FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HOMEFIRST/" } },
+    { "label": "Net profit", "value": "382", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Home First Finance FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HOMEFIRST/" } }
+   ]
+  },
+  {
+   "slug": "hitachi-energy",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Sales", "value": "6385", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hitachi Energy India FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/POWERINDIA/" } },
+    { "label": "Net profit", "value": "384", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hitachi Energy India FY25 financials (screener.in)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/POWERINDIA/" } }
+   ]
+  },
+  {
+   "slug": "hdfc-life",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "96922", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HDFC Life FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HDFCLIFE/consolidated/" } },
+    { "label": "Net profit (consolidated)", "value": "1811", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HDFC Life FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HDFCLIFE/consolidated/" } }
+   ]
+  },
+  {
+   "slug": "himadri-speciality-chemical",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "4613", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Himadri Speciality Chemical FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HSCL/consolidated/" } },
+    { "label": "Net profit (consolidated)", "value": "555", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Himadri Speciality Chemical FY25 financials (screener.in, consolidated)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.screener.in/company/HSCL/consolidated/" } }
+   ]
+  },
+  {
+   "slug": "havells",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "21778", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Havells India FY25 results (AlphaStreet)", "doc_type": "results", "period": "FY25",
+                  "url": "https://alphastreet.com/india/havells-india-fy25-double-digit-growth-lloyd-turns-profitable" } },
+    { "label": "Net profit", "value": "1470.24", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Havells India FY25 consolidated net profit (PTI via The Week)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.theweek.in/wire-updates/business/2025/04/22/dcm100-biz-results-havells.amp.html" } }
+   ]
+  },
+  {
+   "slug": "hero-motocorp",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations (consolidated)", "value": "40923", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hero MotoCorp FY25 results (DSIJ)", "doc_type": "results", "period": "FY25",
+                  "url": "https://insights.dsij.in/appmindshare/hero-motocorp-reports-highest-ever-revenue-and-profit-in-fy25-declares-final-dividend-of-rs-65-per-share-48993" } },
+    { "label": "Profit after tax (consolidated)", "value": "4376", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hero MotoCorp FY25 results (DSIJ)", "doc_type": "results", "period": "FY25",
+                  "url": "https://insights.dsij.in/appmindshare/hero-motocorp-reports-highest-ever-revenue-and-profit-in-fy25-declares-final-dividend-of-rs-65-per-share-48993" } }
+   ]
+  },
+  {
+   "slug": "hexaware-technologies",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue", "value": "11974.40", "unit": "₹ crore", "period": "CY24",
+      "source": { "title": "Hexaware Technologies CY24 results (Business Standard)", "doc_type": "results", "period": "CY24",
+                  "url": "https://www.business-standard.com/amp/markets/capital-market-news/hexaware-technologies-consolidated-net-profit-rises-65-40-in-the-december-2024-quarter-125030700430_1.html" } },
+    { "label": "Net profit", "value": "1176.40", "unit": "₹ crore", "period": "CY24",
+      "source": { "title": "Hexaware Technologies CY24 results (Business Standard)", "doc_type": "results", "period": "CY24",
+                  "url": "https://www.business-standard.com/amp/markets/capital-market-news/hexaware-technologies-consolidated-net-profit-rises-65-40-in-the-december-2024-quarter-125030700430_1.html" } }
+   ]
+  },
+  {
+   "slug": "hindalco",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "238496", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hindalco Q4 & FY25 results (Aditya Birla Group)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.adityabirla.com/media/press-releases/hindalco-q4-fy25-results-fy25-consolidated-pat-up-58-q4-consolidated-pat-up-66" } },
+    { "label": "Profit after tax (consolidated)", "value": "16002", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hindalco Q4 & FY25 results (Aditya Birla Group)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.adityabirla.com/media/press-releases/hindalco-q4-fy25-results-fy25-consolidated-pat-up-58-q4-consolidated-pat-up-66" } }
+   ]
+  },
+  {
+   "slug": "hindustan-aeronautics",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations (consolidated)", "value": "30980.95", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HAL FY25 consolidated results (Groww)", "doc_type": "results", "period": "FY25",
+                  "url": "https://groww.in/blog/hal-q4-fy25-results-consolidated-net-profit-dips" } },
+    { "label": "Net profit (consolidated)", "value": "8364.13", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HAL FY25 consolidated results (Groww)", "doc_type": "results", "period": "FY25",
+                  "url": "https://groww.in/blog/hal-q4-fy25-results-consolidated-net-profit-dips" } }
+   ]
+  },
+  {
+   "slug": "hindustan-petroleum",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "466346", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HPCL Q4 & FY25 results (HPCL newsroom)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.hindustanpetroleum.com/NewsroomDetails/439" } },
+    { "label": "Profit after tax (consolidated)", "value": "6736", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "HPCL Q4 & FY25 results (HPCL newsroom)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.hindustanpetroleum.com/NewsroomDetails/439" } }
+   ]
+  },
+  {
+   "slug": "hindustan-zinc",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations", "value": "34083", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hindustan Zinc FY25 results (Autocar Professional)", "doc_type": "results", "period": "FY25",
+                  "url": "https://autocarpro.in/news/hindustan-zinc-reports-strong-fy-2025-results-extends-ceos-tenure-126092" } },
+    { "label": "Profit after tax", "value": "10353", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Hindustan Zinc FY25 results (Autocar Professional)", "doc_type": "results", "period": "FY25",
+                  "url": "https://autocarpro.in/news/hindustan-zinc-reports-strong-fy-2025-results-extends-ceos-tenure-126092" } }
+   ]
+  },
+  {
+   "slug": "indian-oil",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations (consolidated)", "value": "859362.73", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Indian Oil FY25 results (FilingReader)", "doc_type": "results", "period": "FY25",
+                  "url": "https://filingreader.com/news-wire/mumbai/2025-04-30/indian-oil-corp-posts-strong-fy25-results-boosts-renewable-investments" } },
+    { "label": "Net profit", "value": "13597", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Indian Oil FY25 results (Business Standard)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.business-standard.com/companies/quarterly-results/iocl-q4-results-net-profit-rises-58-to-8-124-crore-revenue-down-by-1-125043001342_1.html" } }
+   ]
+  },
+  {
+   "slug": "infosys",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue (consolidated)", "value": "162990", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Infosys FY25 results (Angel One)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.angelone.in/news/infosys-reports-over-4-percent-revenue-growth-in-fy25-declared-dividend" } },
+    { "label": "Net profit (consolidated)", "value": "26750", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "Infosys FY25 results (Angel One)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.angelone.in/news/infosys-reports-over-4-percent-revenue-growth-in-fy25-declared-dividend" } }
+   ]
+  },
+  {
+   "slug": "indigo",
+   "needs_figures": false,
+   "figures": [
+    { "label": "Revenue from operations (consolidated)", "value": "80802.9", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "InterGlobe Aviation (IndiGo) FY25 results (Business Standard)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.business-standard.com/companies/quarterly-results/indigo-q4-result-fy25-interglobe-aviation-profit-share-dividend-125052101134_1.html" } },
+    { "label": "Net profit (consolidated)", "value": "7258.4", "unit": "₹ crore", "period": "FY25",
+      "source": { "title": "InterGlobe Aviation (IndiGo) FY25 results (Business Standard)", "doc_type": "results", "period": "FY25",
+                  "url": "https://www.business-standard.com/companies/quarterly-results/indigo-q4-result-fy25-interglobe-aviation-profit-share-dividend-125052101134_1.html" } }
+   ]
+  }
+ ]
+}

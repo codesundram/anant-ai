@@ -1,0 +1,255 @@
+{
+ "group": "fig-012",
+ "companies": [
+  {
+   "slug": "browserstack",
+   "name": "BrowserStack",
+   "type": "startup"
+  },
+  {
+   "slug": "byju-s",
+   "name": "Byju's (Think & Learn)",
+   "type": "startup"
+  },
+  {
+   "slug": "cred",
+   "name": "CRED",
+   "type": "startup"
+  },
+  {
+   "slug": "cardekho",
+   "name": "CarDekho Group",
+   "type": "startup"
+  },
+  {
+   "slug": "care-health-insurance",
+   "name": "Care Health Insurance",
+   "type": "startup"
+  },
+  {
+   "slug": "cars24",
+   "name": "Cars24",
+   "type": "startup"
+  },
+  {
+   "slug": "cashfree-payments",
+   "name": "Cashfree Payments",
+   "type": "startup"
+  },
+  {
+   "slug": "chaayos",
+   "name": "Chaayos",
+   "type": "startup"
+  },
+  {
+   "slug": "chargebee",
+   "name": "Chargebee",
+   "type": "startup"
+  },
+  {
+   "slug": "classplus",
+   "name": "Classplus",
+   "type": "startup"
+  },
+  {
+   "slug": "cleartrip",
+   "name": "Cleartrip",
+   "type": "startup"
+  },
+  {
+   "slug": "clevertap",
+   "name": "CleverTap",
+   "type": "startup"
+  },
+  {
+   "slug": "country-delight",
+   "name": "Country Delight",
+   "type": "startup"
+  },
+  {
+   "slug": "credila",
+   "name": "Credila Financial Services",
+   "type": "startup"
+  },
+  {
+   "slug": "cult-fit",
+   "name": "Cult.fit",
+   "type": "startup"
+  },
+  {
+   "slug": "dailyhunt-verse-innovation",
+   "name": "Dailyhunt (VerSe Innovation)",
+   "type": "startup"
+  },
+  {
+   "slug": "darwinbox",
+   "name": "Darwinbox",
+   "type": "startup"
+  },
+  {
+   "slug": "dehaat",
+   "name": "DeHaat",
+   "type": "startup"
+  },
+  {
+   "slug": "decathlon",
+   "name": "Decathlon India",
+   "type": "startup"
+  },
+  {
+   "slug": "ditto-insurance",
+   "name": "Ditto Insurance",
+   "type": "startup"
+  },
+  {
+   "slug": "dream11",
+   "name": "Dream11 (Dream Sports)",
+   "type": "startup"
+  },
+  {
+   "slug": "druva",
+   "name": "Druva",
+   "type": "startup"
+  },
+  {
+   "slug": "duroflex",
+   "name": "Duroflex",
+   "type": "startup"
+  },
+  {
+   "slug": "eruditus",
+   "name": "Eruditus (Emeritus)",
+   "type": "startup"
+  },
+  {
+   "slug": "euler-motors",
+   "name": "Euler Motors",
+   "type": "startup"
+  },
+  {
+   "slug": "even-healthcare",
+   "name": "Even Healthcare",
+   "type": "startup"
+  },
+  {
+   "slug": "exotel",
+   "name": "Exotel",
+   "type": "startup"
+  },
+  {
+   "slug": "exponent-energy",
+   "name": "Exponent Energy",
+   "type": "startup"
+  },
+  {
+   "slug": "fabhotels",
+   "name": "FabHotels",
+   "type": "startup"
+  },
+  {
+   "slug": "fibe",
+   "name": "Fibe (formerly EarlySalary)",
+   "type": "startup"
+  },
+  {
+   "slug": "fire-boltt",
+   "name": "Fire-Boltt",
+   "type": "startup"
+  },
+  {
+   "slug": "flexiloans",
+   "name": "FlexiLoans",
+   "type": "startup"
+  },
+  {
+   "slug": "flipkart",
+   "name": "Flipkart",
+   "type": "startup"
+  },
+  {
+   "slug": "foxtale",
+   "name": "Foxtale",
+   "type": "startup"
+  },
+  {
+   "slug": "freshtohome",
+   "name": "FreshToHome",
+   "type": "startup"
+  },
+  {
+   "slug": "freshworks",
+   "name": "Freshworks",
+   "type": "startup"
+  },
+  {
+   "slug": "games24x7",
+   "name": "Games24x7",
+   "type": "startup"
+  },
+  {
+   "slug": "garuda-aerospace",
+   "name": "Garuda Aerospace",
+   "type": "startup"
+  },
+  {
+   "slug": "giva",
+   "name": "Giva",
+   "type": "startup"
+  },
+  {
+   "slug": "greenko",
+   "name": "Greenko",
+   "type": "startup"
+  },
+  {
+   "slug": "gupshup",
+   "name": "Gupshup",
+   "type": "startup"
+  },
+  {
+   "slug": "haier",
+   "name": "Haier India",
+   "type": "startup"
+  },
+  {
+   "slug": "haldiram-s",
+   "name": "Haldiram's",
+   "type": "startup"
+  },
+  {
+   "slug": "healthians",
+   "name": "Healthians",
+   "type": "startup"
+  },
+  {
+   "slug": "healthifyme",
+   "name": "HealthifyMe",
+   "type": "startup"
+  },
+  {
+   "slug": "highradius",
+   "name": "HighRadius",
+   "type": "startup"
+  },
+  {
+   "slug": "housing-com",
+   "name": "Housing.com",
+   "type": "startup"
+  },
+  {
+   "slug": "hygenco",
+   "name": "Hygenco",
+   "type": "startup"
+  },
+  {
+   "slug": "indmoney",
+   "name": "INDmoney",
+   "type": "startup"
+  },
+  {
+   "slug": "icertis",
+   "name": "Icertis",
+   "type": "startup"
+  }
+ ]
+}

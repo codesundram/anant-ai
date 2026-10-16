@@ -1,0 +1,219 @@
+{
+  "_meta": { "group": "fig-001", "generated": "2026-10-15" },
+  "companies": [
+    { "slug": "360-one-wam", "needs_figures": false, "figures": [
+      { "label": "Total revenue", "value": "2652", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "360 ONE WAM FY25 results (via Angel One)", "doc_type": "results", "period": "FY25", "url": "https://www.angelone.in/news/share-market/360-one-wam-q4-net-rises-announces-interim-dividend-for-fy26" } },
+      { "label": "Profit after tax", "value": "1015", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "360 ONE WAM FY25 results (via Angel One)", "doc_type": "results", "period": "FY25", "url": "https://www.angelone.in/news/share-market/360-one-wam-q4-net-rises-announces-interim-dividend-for-fy26" } }
+    ] },
+    { "slug": "abb", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "13203", "unit": "₹ crore", "period": "CY25",
+        "source": { "title": "ABB India Q4 & CY2025 results press release (NSE)", "doc_type": "results", "period": "CY25", "url": "https://nsearchives.nseindia.com/corporate/ABB_19022026174454_Press_ReleaseQ42025.pdf" } },
+      { "label": "Net profit", "value": "1668.26", "unit": "₹ crore", "period": "CY25",
+        "source": { "title": "ABB India Q4 & CY2025 results press release (NSE)", "doc_type": "results", "period": "CY25", "url": "https://nsearchives.nseindia.com/corporate/ABB_19022026174454_Press_ReleaseQ42025.pdf" } }
+    ] },
+    { "slug": "acc", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "20672", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "ACC FY25 results (via IANS / Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://ianslive.in/adanis-cement-major-acc-clocks-highest-ever-annual-pat-at-rs-2402-crore-in-fy25--20250424162103" } },
+      { "label": "Net profit", "value": "2402.27", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "ACC FY25 results (via IANS)", "doc_type": "results", "period": "FY25", "url": "https://ianslive.in/adanis-cement-major-acc-clocks-highest-ever-annual-pat-at-rs-2402-crore-in-fy25--20250424162103" } }
+    ] },
+    { "slug": "aia-engineering", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "4287.44", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "AIA Engineering FY25 directors' report (via IndiaInfoline)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.indiainfoline.com/company/aia-engineering-ltd/reports/directors-report" } },
+      { "label": "Net profit", "value": "1060.07", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "AIA Engineering FY25 directors' report (via IndiaInfoline)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.indiainfoline.com/company/aia-engineering-ltd/reports/directors-report" } }
+    ] },
+    { "slug": "apl-apollo-tubes", "needs_figures": false, "figures": [
+      { "label": "Total income", "value": "20785.60", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "APL Apollo Tubes FY25 results", "doc_type": "results", "period": "FY25", "url": "https://www.indianchemicalnews.com/general/apl-apollo-tubes-posts-q4-fy25-consolidated-profit-at-rs-29311-cr-26109" } },
+      { "label": "Net profit", "value": "757.06", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "APL Apollo Tubes FY25 results", "doc_type": "results", "period": "FY25", "url": "https://www.indianchemicalnews.com/general/apl-apollo-tubes-posts-q4-fy25-consolidated-profit-at-rs-29311-cr-26109" } }
+    ] },
+    { "slug": "au-small-finance-bank", "needs_figures": false, "figures": [
+      { "label": "Net profit", "value": "2106", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "AU Small Finance Bank FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-22/au-small-finance-bank-reports-32-profit-surge-for-fy25" } }
+    ] },
+    { "slug": "aarti-industries", "needs_figures": false, "figures": [
+      { "label": "Net sales", "value": "7271", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aarti Industries FY25 results (via Business Standard / Capital Market)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/markets/capital-market-news/aarti-industries-consolidated-net-profit-declines-27-27-in-the-march-2025-quarter-125050900178_1.html" } },
+      { "label": "Net profit", "value": "331", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aarti Industries FY25 results (via Business Standard / Capital Market)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/markets/capital-market-news/aarti-industries-consolidated-net-profit-declines-27-27-in-the-march-2025-quarter-125050900178_1.html" } }
+    ] },
+    { "slug": "aavas-financiers", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "2354.51", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aavas Financiers FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-24/aavas-financiers-fy25-strong-asset-quality-18-aum-growth" } },
+      { "label": "Net profit", "value": "574.11", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aavas Financiers FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-04-24/aavas-financiers-fy25-strong-asset-quality-18-aum-growth" } }
+    ] },
+    { "slug": "abbott", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "6409.15", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Abbott India FY25 results (via Business Today)", "doc_type": "results", "period": "FY25", "url": "https://www.businesstoday.in/amp/markets/stocks/story/rs-475-dividend-rise-in-net-profit-mid-cap-firm-reports-q4-earnings-476480-2025-05-16" } },
+      { "label": "Net profit", "value": "1414.44", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Abbott India FY25 results (via Business Today)", "doc_type": "results", "period": "FY25", "url": "https://www.businesstoday.in/amp/markets/stocks/story/rs-475-dividend-rise-in-net-profit-mid-cap-firm-reports-q4-earnings-476480-2025-05-16" } }
+    ] },
+    { "slug": "acme-solar-holdings", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "1405.13", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "ACME Solar Holdings FY25 results (via Energetica India)", "doc_type": "results", "period": "FY25", "url": "https://www.energetica-india.net/news/acme-solar-reports-revenue-of-inr-1575-cr-in-fy25-pat-up-by-130-7-percent" } },
+      { "label": "Net profit", "value": "251", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "ACME Solar Holdings FY25 directors' report (via Arihant)", "doc_type": "annual_report", "period": "FY25", "url": "https://www.arihantcapital.com/company-information/directors-report/71636" } }
+    ] },
+    { "slug": "adani-energy-solutions", "needs_figures": false, "figures": [
+      { "label": "Net sales", "value": "23767.09", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Energy Solutions FY25 results (via Business Standard / Capital Market)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/markets/capital-market-news/adani-energy-solutions-consolidated-net-profit-rises-79-05-in-the-march-2025-quarter-125042400875_1.html" } },
+      { "label": "Net profit", "value": "1059.97", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Energy Solutions FY25 results (via Business Standard / Capital Market)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/markets/capital-market-news/adani-energy-solutions-consolidated-net-profit-rises-79-05-in-the-march-2025-quarter-125042400875_1.html" } }
+    ] },
+    { "slug": "adani-enterprises", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "97894.75", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Enterprises FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-05-01/adani-enterprises-fy25-strong-growth-dividend-and-inr-150bn-fundraise" } },
+      { "label": "Net profit", "value": "7099", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Enterprises FY25 results (via FilingReader)", "doc_type": "results", "period": "FY25", "url": "https://filingreader.com/news-wire/mumbai/2025-05-01/adani-enterprises-fy25-strong-growth-dividend-and-inr-150bn-fundraise" } }
+    ] },
+    { "slug": "adani-green", "needs_figures": false, "figures": [
+      { "label": "Total income", "value": "12422", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Green Energy FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/adani-green-energy-q4-results-profit-rises-25-54-to-rs-383-crore-125042801416_1.html" } },
+      { "label": "Net profit", "value": "1444", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Green Energy FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/companies/quarterly-results/adani-green-energy-q4-results-profit-rises-25-54-to-rs-383-crore-125042801416_1.html" } }
+    ] },
+    { "slug": "adani-ports", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "30475.33", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Ports & SEZ FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/companies/quarterly-results/adani-ports-profit-jumps-48-in-q4fy25-cargo-volume-grows-8-to-118-mmt-125050100508_1.html" } },
+      { "label": "Net profit", "value": "11092.31", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Ports & SEZ FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/companies/quarterly-results/adani-ports-profit-jumps-48-in-q4fy25-cargo-volume-grows-8-to-118-mmt-125050100508_1.html" } }
+    ] },
+    { "slug": "adani-power", "needs_figures": false, "figures": [
+      { "label": "Revenue from operations", "value": "56203.09", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Power Q4 & FY25 results (via Bajaj Broking)", "doc_type": "results", "period": "FY25", "url": "https://www.bajajbroking.in/share-market-news/adani-power-q4-results-fy-24-25" } },
+      { "label": "Net profit", "value": "12750", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Power FY25 results (via UNI India)", "doc_type": "results", "period": "FY25", "url": "https://test.uniindia.com/news/business-economy/adani-power-ebitda-q4/3451915.html" } }
+    ] },
+    { "slug": "aditya-birla-capital", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "47369", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aditya Birla Capital Q4FY25 & FY25 results press release", "doc_type": "results", "period": "FY25", "url": "https://www.adityabirla.com/media/press-releases/aditya-birla-capital-announces-q4fy25-and-fy25-results/" } },
+      { "label": "Profit after tax", "value": "3142", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aditya Birla Capital Q4FY25 & FY25 results press release", "doc_type": "results", "period": "FY25", "url": "https://www.adityabirla.com/media/press-releases/aditya-birla-capital-announces-q4fy25-and-fy25-results/" } }
+    ] },
+    { "slug": "aditya-birla-real-estate", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "1203.4", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aditya Birla Real Estate Q4FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/companies/quarterly-results/aditya-birla-real-estate-q4fy25-loss-rs-131-cr-revenue-dips-43-pc-125051401477_1.html" } },
+      { "label": "Net loss", "value": "161.3", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aditya Birla Real Estate Q4FY25 results (via Business Standard)", "doc_type": "results", "period": "FY25", "url": "https://www.business-standard.com/amp/companies/quarterly-results/aditya-birla-real-estate-q4fy25-loss-rs-131-cr-revenue-dips-43-pc-125051401477_1.html" } }
+    ] },
+    { "slug": "adani-total-gas", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "5000", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Total Gas consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ATGL/consolidated/" } },
+      { "label": "Net profit", "value": "654", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Adani Total Gas consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ATGL/consolidated/" } }
+    ] },
+    { "slug": "aditya-birla-sun-life-amc", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "1982", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aditya Birla Sun Life AMC consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ABSLAMC/consolidated/" } },
+      { "label": "Net profit", "value": "931", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aditya Birla Sun Life AMC consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ABSLAMC/consolidated/" } }
+    ] },
+    { "slug": "action-construction-equipment", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "3327", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Action Construction Equipment consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ACE/consolidated/" } },
+      { "label": "Net profit", "value": "409", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Action Construction Equipment consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ACE/consolidated/" } }
+    ] },
+    { "slug": "aegis-logistics", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "6764", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aegis Logistics consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AEGISLOG/consolidated/" } },
+      { "label": "Net profit", "value": "787", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aegis Logistics consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AEGISLOG/consolidated/" } }
+    ] },
+    { "slug": "aether-industries", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "841", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aether Industries consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AETHER/consolidated/" } },
+      { "label": "Net profit", "value": "158", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Aether Industries consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AETHER/consolidated/" } }
+    ] },
+    { "slug": "afcons-infrastructure", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "12548", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Afcons Infrastructure consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AFCONS/consolidated/" } },
+      { "label": "Net profit", "value": "487", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Afcons Infrastructure consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AFCONS/consolidated/" } }
+    ] },
+    { "slug": "affle-3i", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "2266", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Affle 3i consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AFFLE/consolidated/" } },
+      { "label": "Net profit", "value": "382", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Affle 3i consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AFFLE/consolidated/" } }
+    ] },
+    { "slug": "acutaas-chemicals", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "1007", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Acutaas Chemicals (Ami Organics) P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ACUTAAS/consolidated/" } },
+      { "label": "Net profit", "value": "160", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Acutaas Chemicals (Ami Organics) P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ACUTAAS/consolidated/" } }
+    ] },
+    { "slug": "ajanta-pharmaceuticals", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "4648", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ajanta Pharma consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AJANTPHARM/consolidated/" } },
+      { "label": "Net profit", "value": "920", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ajanta Pharma consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AJANTPHARM/consolidated/" } }
+    ] },
+    { "slug": "alkem-laboratories", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "12965", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Alkem Laboratories consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ALKEM/consolidated/" } },
+      { "label": "Net profit", "value": "2215", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Alkem Laboratories consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ALKEM/consolidated/" } }
+    ] },
+    { "slug": "allied-blenders-and-distillers", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "3520", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Allied Blenders and Distillers consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ABDL/consolidated/" } },
+      { "label": "Net profit", "value": "195", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Allied Blenders and Distillers consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ABDL/consolidated/" } }
+    ] },
+    { "slug": "amber-enterprises", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "9973.02", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Amber Enterprises consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AMBER/consolidated/" } },
+      { "label": "Net profit", "value": "251.15", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Amber Enterprises consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AMBER/consolidated/" } }
+    ] },
+    { "slug": "ambuja-cements", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "35336", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ambuja Cements consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AMBUJACEM/consolidated/" } },
+      { "label": "Net profit", "value": "5294", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Ambuja Cements consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/AMBUJACEM/consolidated/" } }
+    ] },
+    { "slug": "anand-rathi-wealth", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "980", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anand Rathi Wealth consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANANDRATHI/consolidated/" } },
+      { "label": "Net profit", "value": "301", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anand Rathi Wealth consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANANDRATHI/consolidated/" } }
+    ] },
+    { "slug": "anant-raj", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "2060", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anant Raj consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANANTRAJ/consolidated/" } },
+      { "label": "Net profit", "value": "426", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anant Raj consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANANTRAJ/consolidated/" } }
+    ] },
+    { "slug": "angel-one", "needs_figures": false, "figures": [
+      { "label": "Revenue", "value": "5239", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Angel One consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANGELONE/consolidated/" } },
+      { "label": "Net profit", "value": "1172", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Angel One consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANGELONE/consolidated/" } }
+    ] },
+    { "slug": "anthem-biosciences", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "1845", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anthem Biosciences consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANTHEM/consolidated/" } },
+      { "label": "Net profit", "value": "451", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anthem Biosciences consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANTHEM/consolidated/" } }
+    ] },
+    { "slug": "anupam-rasayan", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "1437", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anupam Rasayan consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANURAS/consolidated/" } },
+      { "label": "Net profit", "value": "160", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Anupam Rasayan consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/ANURAS/consolidated/" } }
+    ] },
+    { "slug": "apollo-hospitals-enterprise", "needs_figures": false, "figures": [
+      { "label": "Sales", "value": "21794", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Apollo Hospitals consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/APOLLOHOSP/consolidated/" } },
+      { "label": "Net profit", "value": "1505", "unit": "₹ crore", "period": "FY25",
+        "source": { "title": "Apollo Hospitals consolidated P&L FY25 (Screener.in)", "doc_type": "results", "period": "FY25", "url": "https://www.screener.in/company/APOLLOHOSP/consolidated/" } }
+    ] }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+ "group": "fig-005",
+ "companies": [
+  {
+   "slug": "hdfc-asset-management",
+   "name": "HDFC Asset Management (HDFC Mutual Fund)",
+   "type": "listed"
+  },
+  {
+   "slug": "hdfc-life",
+   "name": "HDFC Life Insurance",
+   "type": "listed"
+  },
+  {
+   "slug": "heg-advanced-materials",
+   "name": "HEG Advanced Materials",
+   "type": "listed"
+  },
+  {
+   "slug": "hfcl",
+   "name": "HFCL",
+   "type": "listed"
+  },
+  {
+   "slug": "housing-and-urban-development",
+   "name": "HUDCO",
+   "type": "listed"
+  },
+  {
+   "slug": "havells",
+   "name": "Havells India",
+   "type": "listed"
+  },
+  {
+   "slug": "hero-motocorp",
+   "name": "Hero MotoCorp",
+   "type": "listed"
+  },
+  {
+   "slug": "hexaware-technologies",
+   "name": "Hexaware Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "himadri-speciality-chemical",
+   "name": "Himadri Speciality Chemical",
+   "type": "listed"
+  },
+  {
+   "slug": "hindalco",
+   "name": "Hindalco Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "hindustan-aeronautics",
+   "name": "Hindustan Aeronautics (HAL)",
+   "type": "listed"
+  },
+  {
+   "slug": "hindustan-copper",
+   "name": "Hindustan Copper",
+   "type": "listed"
+  },
+  {
+   "slug": "hindustan-petroleum",
+   "name": "Hindustan Petroleum (HPCL)",
+   "type": "listed"
+  },
+  {
+   "slug": "hindustan-zinc",
+   "name": "Hindustan Zinc",
+   "type": "listed"
+  },
+  {
+   "slug": "hitachi-energy",
+   "name": "Hitachi Energy India",
+   "type": "listed"
+  },
+  {
+   "slug": "home-first-finance",
+   "name": "Home First Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "honasa",
+   "name": "Honasa Consumer (Mamaearth)",
+   "type": "listed"
+  },
+  {
+   "slug": "honeywell-automation",
+   "name": "Honeywell Automation India",
+   "type": "listed"
+  },
+  {
+   "slug": "hyundai-motor",
+   "name": "Hyundai Motor India",
+   "type": "listed"
+  },
+  {
+   "slug": "icici-lombard-general-insurance",
+   "name": "ICICI Lombard",
+   "type": "listed"
+  },
+  {
+   "slug": "icici-prudential-asset-management",
+   "name": "ICICI Prudential AMC",
+   "type": "listed"
+  },
+  {
+   "slug": "icici-prudential-life-insurance",
+   "name": "ICICI Prudential Life",
+   "type": "listed"
+  },
+  {
+   "slug": "idbi-bank",
+   "name": "IDBI Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "idfc-first-bank",
+   "name": "IDFC First Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "ifci",
+   "name": "IFCI",
+   "type": "listed"
+  },
+  {
+   "slug": "iifl-finance",
+   "name": "IIFL Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "inox",
+   "name": "INOX India (INOXCVA)",
+   "type": "listed"
+  },
+  {
+   "slug": "irb-infrastructure-developers",
+   "name": "IRB Infrastructure Developers",
+   "type": "listed"
+  },
+  {
+   "slug": "ircon-international",
+   "name": "IRCON International",
+   "type": "listed"
+  },
+  {
+   "slug": "irctc",
+   "name": "IRCTC",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-renewable-energy-development-agency",
+   "name": "IREDA",
+   "type": "listed"
+  },
+  {
+   "slug": "itc-hotels",
+   "name": "ITC Hotels",
+   "type": "listed"
+  },
+  {
+   "slug": "iti",
+   "name": "ITI Ltd",
+   "type": "listed"
+  },
+  {
+   "slug": "indiamart-intermesh",
+   "name": "IndiaMART",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-bank",
+   "name": "Indian Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-energy-exchange",
+   "name": "Indian Energy Exchange (IEX)",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-hotels",
+   "name": "Indian Hotels (Taj)",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-oil",
+   "name": "Indian Oil Corporation (IOC)",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-overseas-bank",
+   "name": "Indian Overseas Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "indian-railway-finance",
+   "name": "Indian Railway Finance Corporation (IRFC)",
+   "type": "listed"
+  },
+  {
+   "slug": "indraprastha-gas",
+   "name": "Indraprastha Gas (IGL)",
+   "type": "listed"
+  },
+  {
+   "slug": "indus-towers",
+   "name": "Indus Towers",
+   "type": "listed"
+  },
+  {
+   "slug": "indusind-bank",
+   "name": "IndusInd Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "info-edge",
+   "name": "Info Edge (Naukri)",
+   "type": "listed"
+  },
+  {
+   "slug": "infosys",
+   "name": "Infosys",
+   "type": "listed"
+  },
+  {
+   "slug": "inox-wind",
+   "name": "Inox Wind",
+   "type": "listed"
+  },
+  {
+   "slug": "intellect-design-arena",
+   "name": "Intellect Design Arena",
+   "type": "listed"
+  },
+  {
+   "slug": "indigo",
+   "name": "InterGlobe Aviation (IndiGo)",
+   "type": "listed"
+  },
+  {
+   "slug": "international-gemological-institute",
+   "name": "International Gemological Institute (IGI)",
+   "type": "listed"
+  },
+  {
+   "slug": "inventurus-knowledge-solutions",
+   "name": "Inventurus Knowledge Solutions (IKS)",
+   "type": "listed"
+  }
+ ]
+}

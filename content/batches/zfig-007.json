@@ -1,0 +1,1238 @@
+{
+  "_meta": {
+    "group": "fig-007",
+    "generated": "2026-10-15"
+  },
+  "companies": [
+    {
+      "slug": "lupin",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "22708",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lupin FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LUPIN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "3306",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lupin FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LUPIN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lodha-developers",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "13780",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lodha Developers FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LODHA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2767",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lodha Developers FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LODHA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mrf",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "28152",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "MRF FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MRF/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1873",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "MRF FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MRF/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "maruti-suzuki",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "152913",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Maruti Suzuki FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MARUTI/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "14500",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Maruti Suzuki FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MARUTI/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "marico",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "10831",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Marico FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MARICO/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1658",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Marico FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MARICO/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mankind-pharma",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "12207",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mankind Pharma FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MANKIND/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2011",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mankind Pharma FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MANKIND/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mahanagar-gas",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "7264",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mahanagar Gas FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MGL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1040",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mahanagar Gas FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MGL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mahindra",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "159211",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mahindra & Mahindra FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/M%26M/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "14073",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mahindra & Mahindra FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/M%26M/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mahindra-and-mahindra-financial-services",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "18519",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mahindra Finance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/M%26MFIN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2261",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mahindra Finance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/M%26MFIN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "manappuram-finance",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "10012",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Manappuram Finance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MANAPPURAM/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1204",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Manappuram Finance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MANAPPURAM/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mangalore-refinery-and-petrochemicals",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "94684",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "MRPL FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MRPL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "56",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "MRPL FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MRPL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mtar-technologies",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "676",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "MTAR Technologies FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MTARTECH/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "53",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "MTAR Technologies FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MTARTECH/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "bharatmatrimony-matrimony-com",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "456",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Matrimony.com FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MATRIMONY/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "45",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Matrimony.com FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MATRIMONY/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "max-financial-services",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "46469",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Max Financial Services FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MFSL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "403",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Max Financial Services FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MFSL/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "max-healthcare-institute",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "7028",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Max Healthcare FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MAXHEALTH/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1076",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Max Healthcare FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MAXHEALTH/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mazagoan-dock-shipbuilders",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "11432",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mazagon Dock Shipbuilders FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MAZDOCK/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2414",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mazagon Dock Shipbuilders FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MAZDOCK/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "global-health",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "3692",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Medanta (Global Health) FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MEDANTA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "481",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Medanta (Global Health) FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MEDANTA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "metropolis-healthcare",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1331",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Metropolis Healthcare FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/METROPOLIS/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "146",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Metropolis Healthcare FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/METROPOLIS/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "minda",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "5056",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Minda Corporation FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MINDACORP/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "255",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Minda Corporation FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MINDACORP/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "motilal-oswal-financial-services",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "8340",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Motilal Oswal Financial Services FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MOTILALOFS/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2508",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Motilal Oswal Financial Services FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MOTILALOFS/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mphasis",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "14230",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mphasis FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MPHASIS/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1702",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Mphasis FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MPHASIS/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "multi-commodity-exchange-of",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1113",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Multi Commodity Exchange (MCX) FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MCX/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "560",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Multi Commodity Exchange (MCX) FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MCX/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "muthoot-finance",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "20214",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Muthoot Finance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MUTHOOTFIN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "5352",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Muthoot Finance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/MUTHOOTFIN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "natco-pharma",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "4430",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NATCO Pharma FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NATCOPHARM/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1883",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NATCO Pharma FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NATCOPHARM/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nbcc",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "12044",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NBCC (India) FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NBCC/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "557",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NBCC (India) FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NBCC/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ncc",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "22199",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NCC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NCC/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "868",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NCC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NCC/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nhpc",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "10380",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NHPC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NHPC/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "3412",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NHPC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NHPC/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nlc",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "15322",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NLC India FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NLCINDIA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "2714",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NLC India FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NLCINDIA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nmdc",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "23906",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NMDC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NMDC/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "6520",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NMDC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NMDC/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ntpc",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "188138",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NTPC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NTPC/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "23953",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NTPC FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NTPC/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ntpc-green-energy",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "2210",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NTPC Green Energy FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NTPCGREEN/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "474",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NTPC Green Energy FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NTPCGREEN/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "narayana-hrudayalaya",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "5483",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Narayana Health FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NH/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "791",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Narayana Health FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NH/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "national-aluminium",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "16788",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NALCO FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NATIONALUM/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "5268",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "NALCO FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NATIONALUM/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nava",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "3984",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nava FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAVA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1434",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nava FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAVA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "navin-fluorine-international",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "2349",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Navin Fluorine International FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAVINFLUOR/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "289",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Navin Fluorine International FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAVINFLUOR/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nazara-technologies",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1624",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nazara Technologies FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAZARA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "51",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nazara Technologies FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAZARA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nestle-india",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "20202",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nestlé India FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NESTLEIND/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "3208",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nestlé India FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NESTLEIND/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lloyds-metals-and-energy",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "6721",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lloyds Metals and Energy FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LLOYDSME/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1455",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Lloyds Metals and Energy FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/LLOYDSME/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "neuland-laboratories",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "1477",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Neuland Laboratories FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NEULANDLAB/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "260",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Neuland Laboratories FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NEULANDLAB/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nippon-life-asset-management",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "2518",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nippon Life India Asset Management FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAM-INDIA/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1286",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "Nippon Life India Asset Management FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NAM-INDIA/consolidated/"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "new-assurance",
+      "needs_figures": false,
+      "figures": [
+        {
+          "label": "Revenue",
+          "value": "43541",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "New India Assurance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NIACL/consolidated/"
+          }
+        },
+        {
+          "label": "Net profit",
+          "value": "1038",
+          "unit": "₹ crore",
+          "period": "FY25",
+          "source": {
+            "title": "New India Assurance FY25 results (via Screener.in)",
+            "doc_type": "results",
+            "period": "FY25",
+            "url": "https://www.screener.in/company/NIACL/consolidated/"
+          }
+        }
+      ]
+    }
+  ]
+}

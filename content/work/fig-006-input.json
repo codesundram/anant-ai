@@ -1,0 +1,255 @@
+{
+ "group": "fig-006",
+ "companies": [
+  {
+   "slug": "ipca-laboratories",
+   "name": "Ipca Laboratories",
+   "type": "listed"
+  },
+  {
+   "slug": "jammu-and-kashmir-bank",
+   "name": "J&K Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "jbm-auto",
+   "name": "JBM Auto",
+   "type": "listed"
+  },
+  {
+   "slug": "j-k-cement",
+   "name": "JK Cement",
+   "type": "listed"
+  },
+  {
+   "slug": "jk-tyre-and-industries",
+   "name": "JK Tyre & Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "jm-financial",
+   "name": "JM Financial",
+   "type": "listed"
+  },
+  {
+   "slug": "jsw-cement",
+   "name": "JSW Cement",
+   "type": "listed"
+  },
+  {
+   "slug": "jsw-energy",
+   "name": "JSW Energy",
+   "type": "listed"
+  },
+  {
+   "slug": "jsw-infrastructure",
+   "name": "JSW Infrastructure",
+   "type": "listed"
+  },
+  {
+   "slug": "jsw-steel",
+   "name": "JSW Steel",
+   "type": "listed"
+  },
+  {
+   "slug": "jain-resource-recycling",
+   "name": "Jain Resource Recycling",
+   "type": "listed"
+  },
+  {
+   "slug": "jaiprakash-power-ventures",
+   "name": "Jaiprakash Power Ventures (JP Power)",
+   "type": "listed"
+  },
+  {
+   "slug": "jana-small-finance-bank",
+   "name": "Jana Small Finance Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "jindal-saw",
+   "name": "Jindal Saw",
+   "type": "listed"
+  },
+  {
+   "slug": "jindal-stainless",
+   "name": "Jindal Stainless",
+   "type": "listed"
+  },
+  {
+   "slug": "jindal-steel",
+   "name": "Jindal Steel",
+   "type": "listed"
+  },
+  {
+   "slug": "jio-financial",
+   "name": "Jio Financial Services",
+   "type": "listed"
+  },
+  {
+   "slug": "jubilant-foodworks",
+   "name": "Jubilant FoodWorks",
+   "type": "listed"
+  },
+  {
+   "slug": "jubilant-ingrevia",
+   "name": "Jubilant Ingrevia",
+   "type": "listed"
+  },
+  {
+   "slug": "jupiter-wagons",
+   "name": "Jupiter Wagons",
+   "type": "listed"
+  },
+  {
+   "slug": "justdial",
+   "name": "Justdial",
+   "type": "listed"
+  },
+  {
+   "slug": "jyoti-cnc-automation",
+   "name": "Jyoti CNC Automation",
+   "type": "listed"
+  },
+  {
+   "slug": "kec-international",
+   "name": "KEC International",
+   "type": "listed"
+  },
+  {
+   "slug": "kei-industries",
+   "name": "KEI Industries",
+   "type": "listed"
+  },
+  {
+   "slug": "kfin-technologies",
+   "name": "KFin Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "krishna-institute-of-medical-sciences",
+   "name": "KIMS Hospitals",
+   "type": "listed"
+  },
+  {
+   "slug": "kpit-technologies",
+   "name": "KPIT Technologies",
+   "type": "listed"
+  },
+  {
+   "slug": "k-p-r-mill",
+   "name": "KPR Mill",
+   "type": "listed"
+  },
+  {
+   "slug": "ksb",
+   "name": "KSB Ltd",
+   "type": "listed"
+  },
+  {
+   "slug": "kajaria-ceramics",
+   "name": "Kajaria Ceramics",
+   "type": "listed"
+  },
+  {
+   "slug": "kalpataru-projects-international",
+   "name": "Kalpataru Projects International",
+   "type": "listed"
+  },
+  {
+   "slug": "kalyan-jewellers",
+   "name": "Kalyan Jewellers",
+   "type": "listed"
+  },
+  {
+   "slug": "karur-vysya-bank",
+   "name": "Karur Vysya Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "kaynes-technology",
+   "name": "Kaynes Technology",
+   "type": "listed"
+  },
+  {
+   "slug": "kirloskar-brothers",
+   "name": "Kirloskar Brothers",
+   "type": "listed"
+  },
+  {
+   "slug": "kirloskar-oil-eng",
+   "name": "Kirloskar Oil Engines",
+   "type": "listed"
+  },
+  {
+   "slug": "kissht",
+   "name": "Kissht (OnEMI Technology)",
+   "type": "listed"
+  },
+  {
+   "slug": "kotak-bank",
+   "name": "Kotak Mahindra Bank",
+   "type": "listed"
+  },
+  {
+   "slug": "l-and-t-finance",
+   "name": "L&T Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "l-and-t-technology-services",
+   "name": "L&T Technology Services (LTTS)",
+   "type": "listed"
+  },
+  {
+   "slug": "lg-electronics",
+   "name": "LG Electronics India",
+   "type": "listed"
+  },
+  {
+   "slug": "lic-housing-finance",
+   "name": "LIC Housing Finance",
+   "type": "listed"
+  },
+  {
+   "slug": "lt-foods",
+   "name": "LT Foods (Daawat)",
+   "type": "listed"
+  },
+  {
+   "slug": "larsen-infotech",
+   "name": "LTIMindtree",
+   "type": "listed"
+  },
+  {
+   "slug": "larsen-toubro",
+   "name": "Larsen & Toubro",
+   "type": "listed"
+  },
+  {
+   "slug": "latentview-analytics",
+   "name": "LatentView Analytics",
+   "type": "listed"
+  },
+  {
+   "slug": "laurus-labs",
+   "name": "Laurus Labs",
+   "type": "listed"
+  },
+  {
+   "slug": "lemon-tree-hotels",
+   "name": "Lemon Tree Hotels",
+   "type": "listed"
+  },
+  {
+   "slug": "life-insurance-of",
+   "name": "Life Insurance Corporation of India (LIC)",
+   "type": "listed"
+  },
+  {
+   "slug": "linde",
+   "name": "Linde India",
+   "type": "listed"
+  }
+ ]
+}
