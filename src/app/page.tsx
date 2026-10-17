@@ -16,12 +16,12 @@ export default async function Landing({ searchParams }: { searchParams: Promise<
   return (
     <Intro>
       <Screen theme="watch">
-        <main className="column flex flex-1 flex-col items-center pt-20 text-center">
-          <InfinityMark className="w-[68px]" />
-          <div className="mt-6">
-            <Wordmark className="w-[200px]" />
+        <main className="column flex flex-1 flex-col items-center pt-24 text-center">
+          <div className="flex items-center justify-center gap-3">
+            <InfinityMark className="w-[72px]" />
+            <Wordmark className="w-[188px]" />
           </div>
-          <p className="mt-5 font-serif text-[20px] italic leading-[1.3] text-bone">{TAGLINE}</p>
+          <p className="mt-6 font-serif text-[20px] italic leading-[1.3] text-bone">{TAGLINE}</p>
 
           <div className="mt-2 w-full max-w-[360px] text-left">
             <LoginForm next={dest} />
