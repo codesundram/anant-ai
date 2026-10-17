@@ -1,0 +1,376 @@
+{
+  "_meta": {
+    "batch": "gbatch-002",
+    "wave": "g1",
+    "part": 2,
+    "about": "Global (US) company explainers in v2 format with native-currency (USD) figures. Revenue and net income taken from stockanalysis.com for each company's latest reported fiscal year; revenue shows on SIZE, net income on EARNS. Leaders and HQs checked against web reports as of Oct 2026.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-17"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "costco",
+      "name": "Costco",
+      "type": "listed",
+      "industry": "retail",
+      "profile": { "hq": "Issaquah, Washington, USA", "leader": "Ron Vachris", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Costco runs membership-only warehouse clubs selling groceries, fresh food, electronics, clothing and household goods in bulk, plus fuel, pharmacy, optical and its Kirkland Signature own-brand. Shoppers pay an annual fee to enter. Ron Vachris, who started as a forklift driver, has led as CEO since January 2024.",
+        "EARNS": "Most of Costco's operating profit comes from membership fees, not product markups, which are kept deliberately thin. High renewal rates and huge purchase volumes let it squeeze suppliers and pass low prices on. Groceries and fresh food drive the bulk of sales.",
+        "SIZE": "One of the largest retailers in the world by sales, with warehouses across the United States and a growing international footprint in Canada, Mexico, Asia and Europe.",
+        "RIVALS": "Sam's Club (owned by Walmart) and BJ's Wholesale in warehouse clubs; Walmart, Target, Kroger and Amazon in everyday grocery and general merchandise.",
+        "WATCH": "Whether membership renewal stays high after recent fee increases, how fast it opens warehouses abroad, and its handling of tariff costs, which management has discussed passing back to members."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "303154", "unit": "$ million", "period": "FY2026",
+          "source": { "title": "Costco FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2026", "url": "https://stockanalysis.com/stocks/COST/financials/" } },
+        { "label": "Net income", "value": "9226", "unit": "$ million", "period": "FY2026",
+          "source": { "title": "Costco FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2026", "url": "https://stockanalysis.com/stocks/COST/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "How does Costco make most of its operating profit?", "options": ["Wide product markups", "Membership fees", "Advertising", "Credit-card interest"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "What is Costco's own-brand label called?", "options": ["Great Value", "Kirkland Signature", "Member's Mark", "Up & Up"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which is Costco's closest warehouse-club rival?", "options": ["Sam's Club", "Trader Joe's", "Aldi", "Whole Foods"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Costco runs membership warehouse clubs, earning most operating profit from annual fees rather than markups. Low prices drive high volumes and renewals. Watch fee increases and overseas expansion.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "exxonmobil",
+      "name": "ExxonMobil",
+      "type": "listed",
+      "industry": "oil-gas-fuels",
+      "profile": { "hq": "Spring, Texas, USA", "leader": "Darren Woods", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "ExxonMobil finds, produces and sells crude oil and natural gas, refines them into fuels and lubricants, and makes petrochemicals and plastics. It also invests in lower-carbon lines such as carbon capture, hydrogen and lithium. Darren Woods has been chairman and CEO since January 2017.",
+        "EARNS": "Upstream, pumping and selling oil and gas, is the biggest profit engine and swings with commodity prices. Downstream refining and chemicals add steadier earnings. Its Guyana and US Permian basin acreage are central low-cost growth areas after the Pioneer acquisition.",
+        "SIZE": "One of the world's largest publicly traded energy companies, operating across the Americas, Europe, Africa, the Middle East and Asia.",
+        "RIVALS": "Chevron, Shell, BP and TotalEnergies among international majors, plus national oil companies such as Saudi Aramco.",
+        "WATCH": "Oil and gas price swings, ramp-up of Guyana and Permian output, progress on its lower-carbon ventures, and how geopolitics around Venezuela and the Middle East affect supply."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "323905", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "ExxonMobil FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/XOM/financials/" } },
+        { "label": "Net income", "value": "28844", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "ExxonMobil FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/XOM/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which business is ExxonMobil's biggest profit engine?", "options": ["Retail convenience stores", "Upstream oil and gas production", "Solar farms", "Shipping"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which region is a key low-cost growth area for Exxon?", "options": ["Guyana", "Antarctica", "Greenland", "Mongolia"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which company is a direct ExxonMobil rival?", "options": ["Chevron", "Pfizer", "Boeing", "Visa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "ExxonMobil produces oil and gas, refines fuels and makes chemicals. Upstream drives profit and swings with prices. Watch Guyana and Permian growth and lower-carbon ventures.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "type": "listed",
+      "industry": "capital-markets",
+      "profile": { "hq": "New York City, New York, USA", "leader": "David Solomon", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Goldman Sachs is a global investment bank. It advises companies on mergers and fundraising, trades securities for clients, manages money for institutions and the wealthy, and runs asset and wealth management. David Solomon has been chairman and CEO since 2018, after pulling back from a consumer-banking push.",
+        "EARNS": "It earns advisory and underwriting fees, trading revenue from markets, and fees on assets it manages. Deal-making and trading swing with market conditions, while asset and wealth management add steadier fee income that the firm is working to grow.",
+        "SIZE": "One of the most prominent Wall Street firms, with a leading position in global mergers advice and capital-raising.",
+        "RIVALS": "Morgan Stanley, JPMorgan Chase and Bank of America in dealmaking and trading; boutiques like Evercore and Lazard in advisory.",
+        "WATCH": "The pace of mergers and public listings, growth of fee-based asset and wealth management, trading swings, and how it redeploys capital after retreating from consumer lending."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "59396", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Goldman Sachs FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/GS/financials/" } },
+        { "label": "Net income", "value": "16244", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Goldman Sachs FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/GS/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What is a core Goldman Sachs activity?", "options": ["Advising on mergers", "Running supermarkets", "Making smartphones", "Mining lithium"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Why do Goldman's earnings swing year to year?", "options": ["Weather", "Deal-making and trading depend on markets", "Fuel prices", "Harvest cycles"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which firm is a Goldman Sachs rival?", "options": ["Morgan Stanley", "Netflix", "Nestlé", "Nike"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Goldman Sachs advises on mergers, trades markets and manages money. Deal and trading income swings with markets; it is growing steadier asset-management fees. Watch the deal cycle.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "home-depot",
+      "name": "Home Depot (The)",
+      "type": "listed",
+      "industry": "retail",
+      "profile": { "hq": "Atlanta, Georgia, USA", "leader": "Ted Decker", "leader_role": "Chairman, President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Home Depot runs large home-improvement stores selling building materials, tools, appliances, paint, lumber and garden supplies to both do-it-yourself shoppers and professional contractors. It has pushed hard into serving pros, buying supplier SRS Distribution. Ted Decker has been CEO since 2022.",
+        "EARNS": "It earns retail margins on goods sold across its big-box stores and website, with professional contractors a large and growing share of spend. Scale lets it buy cheaply and keep stores stocked; services like installation and tool rental add extra revenue.",
+        "SIZE": "The largest home-improvement retailer in the United States, with stores across North America serving millions of households and trade customers.",
+        "RIVALS": "Lowe's is the direct rival; Menards, Ace Hardware, Amazon and specialist building-supply distributors also compete for DIY and pro spending.",
+        "WATCH": "Housing activity and renovation demand, the push to win professional contractors after the SRS deal, interest-rate effects on big projects, and CEO Ted Decker's medical leave announced in August 2026."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "164683", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Home Depot fiscal 2025 income statement, year ended Feb 1 2026 (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/HD/financials/" } },
+        { "label": "Net income", "value": "14156", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Home Depot fiscal 2025 income statement, year ended Feb 1 2026 (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/HD/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which customer group is Home Depot pushing hard to serve?", "options": ["Professional contractors", "Airlines", "Hospitals", "Schools"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is Home Depot's direct rival?", "options": ["Lowe's", "Costco", "Walgreens", "Best Buy"], "correct_idx": 0, "part_kind": "RIVALS" },
+        { "prompt": "What demand most affects Home Depot's sales?", "options": ["Air travel", "Housing and renovation", "Streaming subscriptions", "Oil drilling"], "correct_idx": 1, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Home Depot sells building materials and tools to DIY shoppers and contractors. Scale keeps costs low; pros are a growing focus after the SRS deal. Watch housing demand.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "ibm",
+      "name": "IBM",
+      "type": "listed",
+      "industry": "it-services",
+      "profile": { "hq": "Armonk, New York, USA", "leader": "Arvind Krishna", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "IBM sells enterprise software (including Red Hat open-source and automation tools), consulting services, and hybrid-cloud and AI platforms like watsonx, plus mainframe computers and quantum-computing research. It has reshaped around software and AI after spinning off its managed-infrastructure unit Kyndryl. Arvind Krishna has led as CEO since 2020.",
+        "EARNS": "Software and recurring subscriptions are the highest-margin engine, consulting brings large service contracts, and infrastructure covers mainframes and systems. Long-term client relationships and renewals give IBM steady, contracted revenue rather than one-off sales.",
+        "SIZE": "A long-established global technology company serving large enterprises and governments across more than a hundred countries.",
+        "RIVALS": "Microsoft, Amazon Web Services and Google Cloud in cloud and AI; Accenture in consulting; Oracle and SAP in enterprise software.",
+        "WATCH": "Whether its AI platform watsonx wins enterprise work, growth in Red Hat and software, consulting demand, and progress turning quantum computing into a real business."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "67535", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "IBM FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/IBM/financials/" } },
+        { "label": "Net income", "value": "10593", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "IBM FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/IBM/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which open-source business does IBM own?", "options": ["Red Hat", "Ubuntu", "Docker", "GitLab"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is IBM's highest-margin engine?", "options": ["Mainframe hardware", "Software and subscriptions", "Printers", "Advertising"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which is an IBM cloud rival?", "options": ["Amazon Web Services", "Spotify", "Uber", "Airbnb"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "IBM sells enterprise software, consulting and hybrid-cloud and AI platforms, plus mainframes. Software and subscriptions are the margin engine. Watch watsonx adoption and Red Hat growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "intel",
+      "name": "Intel",
+      "type": "listed",
+      "industry": "semiconductors",
+      "profile": { "hq": "Santa Clara, California, USA", "leader": "Lip-Bu Tan", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Intel designs and manufactures computer processors for laptops, desktops and data-centre servers, plus chips for AI and networking. Unusually, it both designs chips and runs its own factories, and is building a contract foundry to make chips for others. Lip-Bu Tan became CEO in March 2025.",
+        "EARNS": "Most revenue comes from selling PC and data-centre processors. Intel is spending heavily to build advanced factories and a foundry business, which has weighed on profit; the aim is to win manufacturing orders from other chip designers over time.",
+        "SIZE": "A foundational chipmaker that powered the PC era, still one of the biggest processor suppliers, though it has lost ground in recent years.",
+        "RIVALS": "AMD and Arm-based designs in processors, Nvidia in AI chips, and TSMC and Samsung in chip manufacturing and foundry services.",
+        "WATCH": "Whether its turnaround and new factories deliver, if the foundry wins big outside customers, progress in AI chips against Nvidia, and government and shareholder backing for its US plants."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "52853", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Intel FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/INTC/financials/" } },
+        { "label": "Net income", "value": "-267", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Intel FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/INTC/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What makes Intel's model unusual among chip firms?", "options": ["It only designs, never makes chips", "It both designs and manufactures chips", "It only sells software", "It makes phones"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Who became Intel's CEO in March 2025?", "options": ["Lip-Bu Tan", "Pat Gelsinger", "Jensen Huang", "Lisa Su"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is Intel's main rival in AI chips?", "options": ["Nvidia", "Oracle", "Adobe", "Salesforce"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Intel designs and manufactures processors and is building a contract foundry. Heavy factory spending has pressured profit. Watch its turnaround, AI chips and foundry customer wins.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "johnson-and-johnson",
+      "name": "Johnson & Johnson",
+      "type": "listed",
+      "industry": "pharma",
+      "profile": { "hq": "New Brunswick, New Jersey, USA", "leader": "Joaquin Duato", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Johnson & Johnson is a healthcare company with two arms: prescription medicines (cancer, immune and brain conditions) and medical devices for surgery, orthopaedics and heart care. It spun off its consumer-brands business, Kenvue, to focus on these. Joaquin Duato has been chairman and CEO since 2022.",
+        "EARNS": "Innovative prescription medicines are the larger profit driver, led by immunology and cancer drugs, with medical devices adding steady sales. Patents and a broad pipeline let it charge premium prices while newer drugs replace those losing protection.",
+        "SIZE": "One of the world's largest healthcare companies, selling medicines and medical devices in markets across the globe.",
+        "RIVALS": "Pfizer, Merck, AbbVie and Roche in medicines; Medtronic, Stryker and Abbott in medical devices.",
+        "WATCH": "Patent expiries on big drugs like Stelara, new launches to replace them, talc-litigation settlements, and bolt-on acquisitions in medicines and devices."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "94193", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Johnson & Johnson FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/JNJ/financials/" } },
+        { "label": "Net income", "value": "26804", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Johnson & Johnson FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/JNJ/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What are Johnson & Johnson's two main arms today?", "options": ["Medicines and medical devices", "Food and beverages", "Banking and insurance", "Cars and parts"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which business did J&J spin off to focus?", "options": ["Kenvue consumer brands", "Its cancer drugs", "Its heart devices", "Its factories"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which company rivals J&J in medical devices?", "options": ["Medtronic", "Comcast", "Delta Air Lines", "Starbucks"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Johnson & Johnson sells prescription medicines and medical devices after spinning off Kenvue. Immunology and cancer drugs drive profit. Watch patent expiries, new launches and talc litigation.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "jpmorgan-chase",
+      "name": "JPMorgan Chase",
+      "type": "listed",
+      "industry": "banking",
+      "profile": { "hq": "New York City, New York, USA", "leader": "Jamie Dimon", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "JPMorgan Chase is the largest US bank. It runs consumer and community banking (Chase branches, cards, mortgages), commercial banking, an investment bank advising on deals and trading, and asset and wealth management. Jamie Dimon has led it since 2005 and named co-presidents as succession candidates in 2026.",
+        "EARNS": "It earns interest on loans and deposits across its huge retail and card base, plus fees from dealmaking, trading, payments and managing money. Net interest income from everyday banking is the steady backbone; the investment bank adds market-linked swings.",
+        "SIZE": "The biggest bank in the United States by assets and a leading global investment bank, serving millions of consumers and large institutions.",
+        "RIVALS": "Bank of America, Wells Fargo and Citigroup in US banking; Goldman Sachs and Morgan Stanley in dealmaking and trading.",
+        "WATCH": "Interest-rate moves and loan losses, who eventually succeeds Jamie Dimon after the 2026 co-president appointments, trading and deal activity, and spending on technology and AI."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "168235", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "JPMorgan Chase FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/JPM/financials/" } },
+        { "label": "Net income", "value": "55681", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "JPMorgan Chase FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/JPM/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What is JPMorgan's steady earnings backbone?", "options": ["Interest from everyday banking", "Movie production", "Oil drilling", "Car sales"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who has led JPMorgan Chase as CEO since 2005?", "options": ["Jamie Dimon", "David Solomon", "Brian Moynihan", "Jane Fraser"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a JPMorgan rival in US banking?", "options": ["Bank of America", "Pfizer", "Intel", "McDonald's"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "JPMorgan Chase is the largest US bank, spanning retail banking, cards, dealmaking and wealth management. Everyday banking income is steady; the investment bank swings. Watch rates and succession.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "lilly-eli",
+      "name": "Lilly (Eli)",
+      "type": "listed",
+      "industry": "pharma",
+      "profile": { "hq": "Indianapolis, Indiana, USA", "leader": "David Ricks", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Eli Lilly develops and sells prescription medicines, now led by its weight-loss and diabetes drugs Mounjaro and Zepbound, alongside treatments for cancer, immune conditions and Alzheimer's. The obesity drugs have driven a surge in demand. David Ricks has been chairman and CEO since 2017.",
+        "EARNS": "Revenue comes from patented medicines sold worldwide, with the incretin drugs for diabetes and obesity now the dominant growth engine. Patents let Lilly charge premium prices; it is expanding manufacturing to meet demand and defend against rivals.",
+        "SIZE": "One of the most valuable pharmaceutical companies in the world, with its weight-loss franchise making it a standout in the industry.",
+        "RIVALS": "Novo Nordisk is the main rival in obesity and diabetes drugs; Merck, Pfizer, AstraZeneca and Roche compete across cancer and other therapies.",
+        "WATCH": "Supply and demand for its obesity drugs, an oral weight-loss pill in development, competition from Novo Nordisk, pricing pressure, and the big factory build-out."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "65179", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Eli Lilly FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/LLY/financials/" } },
+        { "label": "Net income", "value": "20640", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Eli Lilly FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/LLY/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which drugs drive Eli Lilly's recent growth?", "options": ["Mounjaro and Zepbound", "Aspirin and ibuprofen", "Vitamins", "Cough syrup"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is Lilly's main rival in obesity drugs?", "options": ["Novo Nordisk", "Samsung", "Ford", "Visa"], "correct_idx": 0, "part_kind": "RIVALS" },
+        { "prompt": "What lets Lilly charge premium prices?", "options": ["Patents on its medicines", "Government subsidies", "Low wages", "Advertising bans"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Eli Lilly sells prescription medicines led by obesity and diabetes drugs Mounjaro and Zepbound. Patented drugs drive growth. Watch supply, an oral pill and Novo Nordisk competition.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "mastercard",
+      "name": "Mastercard",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "profile": { "hq": "Harrison, New York, USA", "leader": "Michael Miebach", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Mastercard runs a global payments network that connects banks, merchants and cardholders so card and digital payments clear in seconds. It does not lend or issue cards itself; banks do that. It also sells fraud-prevention, data and value-added services. Michael Miebach has been CEO since 2021.",
+        "EARNS": "It earns small fees on the value and number of transactions flowing across its network, so revenue rises with consumer spending and the shift from cash to cards. A fast-growing services arm adds fees for security, analytics and consulting.",
+        "SIZE": "One of two dominant global card networks, with its brand accepted at merchants in almost every country.",
+        "RIVALS": "Visa is the direct rival; American Express, PayPal, and domestic networks and account-to-account systems also compete.",
+        "WATCH": "The cash-to-digital shift in emerging markets, growth of value-added services, competition from real-time account-to-account payments, and regulation of card fees."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "32791", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Mastercard FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/MA/financials/" } },
+        { "label": "Net income", "value": "14968", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Mastercard FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/MA/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "How does Mastercard mainly earn money?", "options": ["Fees on transactions across its network", "Interest on loans it makes", "Selling phones", "Oil sales"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who issues the cards carrying Mastercard's brand?", "options": ["Banks", "Mastercard itself", "Governments", "Retailers"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is Mastercard's direct rival?", "options": ["Visa", "Netflix", "Boeing", "Shell"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Mastercard runs a global payments network, earning small fees per transaction as spending shifts from cash to cards. Banks issue the cards. Watch emerging markets and services growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "mcdonalds",
+      "name": "McDonald's",
+      "type": "listed",
+      "industry": "restaurants",
+      "profile": { "hq": "Chicago, Illinois, USA", "leader": "Chris Kempczinski", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "McDonald's runs the world's largest fast-food chain, selling burgers, fries, chicken, breakfast and drinks. Most restaurants are run by franchisees under its brand. It leans on value meals, its loyalty app and delivery to pull in customers. Chris Kempczinski has been CEO since 2019.",
+        "EARNS": "Most profit comes from franchising: McDonald's collects rent and royalty fees from franchisees, who run the restaurants, rather than from selling food directly. It often owns or leases the underlying property, making real estate a big part of the model.",
+        "SIZE": "The largest restaurant company in the world by sales, with tens of thousands of outlets across more than a hundred countries.",
+        "RIVALS": "Burger King, Wendy's, Yum Brands (KFC, Taco Bell), Restaurant Brands and Starbucks, plus local fast-food chains in each market.",
+        "WATCH": "Whether value menus revive US traffic after admitted missteps, loyalty-app and delivery growth, franchisee health, and expansion in fast-growing overseas markets."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "26885", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "McDonald's FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/MCD/financials/" } },
+        { "label": "Net income", "value": "8563", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "McDonald's FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/MCD/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "How does McDonald's make most of its profit?", "options": ["Franchise rent and royalty fees", "Selling cooking oil", "Advertising agency work", "Car parking"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who runs most McDonald's restaurants?", "options": ["Franchisees", "The government", "The head office directly", "Suppliers"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a McDonald's rival?", "options": ["Burger King", "Pfizer", "Intel", "Chevron"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "McDonald's is the world's largest fast-food chain, earning most profit from franchise rent and royalties rather than selling food. Real estate is key. Watch value menus and loyalty.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "meta-platforms",
+      "name": "Meta Platforms",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "Menlo Park, California, USA", "leader": "Mark Zuckerberg", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Meta runs Facebook, Instagram, WhatsApp and Messenger, used by billions to connect and share. It also builds Reality Labs hardware like Quest headsets and smart glasses, and is pouring money into artificial intelligence. Founder Mark Zuckerberg remains chairman and CEO and controls the company through special voting shares.",
+        "EARNS": "Almost all revenue is digital advertising: brands pay to target Meta's huge audience across Facebook and Instagram feeds, Reels and Stories. Its AI improves ad targeting and engagement. Reality Labs still loses money as a long-term bet.",
+        "SIZE": "One of the largest internet companies in the world, with its apps reaching a majority of the global online population each month.",
+        "RIVALS": "Google and YouTube, TikTok, Snap, Pinterest and X for attention and ad budgets; Apple and others in headsets and devices.",
+        "WATCH": "Heavy AI spending and whether it pays off, TikTok competition, Reality Labs losses, regulation and privacy rules, and planned job cuts reported in 2026."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "200966", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Meta Platforms FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/META/financials/" } },
+        { "label": "Net income", "value": "60458", "unit": "$ million", "period": "FY2025",
+          "source": { "title": "Meta Platforms FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/META/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Where does almost all of Meta's revenue come from?", "options": ["Digital advertising", "Headset sales", "Subscriptions", "Cloud hosting"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which app does Meta NOT own?", "options": ["WhatsApp", "Instagram", "TikTok", "Messenger"], "correct_idx": 2, "part_kind": "SELLS" },
+        { "prompt": "Which is a Meta rival for ad budgets?", "options": ["Google", "ExxonMobil", "Costco", "Medtronic"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Meta runs Facebook, Instagram and WhatsApp, earning almost all revenue from digital advertising. It is spending heavily on AI while Reality Labs loses money. Watch AI payoff and TikTok.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "microsoft",
+      "name": "Microsoft",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "Redmond, Washington, USA", "leader": "Satya Nadella", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Microsoft sells Windows, Office/Microsoft 365, the Azure cloud platform, LinkedIn, Xbox gaming and enterprise tools, plus AI Copilots woven across its products through its OpenAI partnership. Cloud and AI are now the centre of the business. Satya Nadella has been CEO since 2014 and chairman since 2021.",
+        "EARNS": "Recurring subscriptions and cloud computing are the biggest engines: businesses pay ongoing fees for Microsoft 365 and rent computing power on Azure, whose revenue recently passed a major milestone. Gaming and LinkedIn add further recurring income.",
+        "SIZE": "One of the most valuable companies in the world and a leader in enterprise software and cloud computing, serving businesses and consumers globally.",
+        "RIVALS": "Amazon Web Services and Google Cloud in cloud; Google in productivity and search; Sony and Nintendo in gaming; Oracle and Salesforce in enterprise software.",
+        "WATCH": "Azure and AI Copilot growth, the scale of AI data-centre spending, the evolving OpenAI relationship, and gaming after the Activision Blizzard deal."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "331839", "unit": "$ million", "period": "FY2026",
+          "source": { "title": "Microsoft FY2026 income statement, year ended Jun 30 2026 (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2026", "url": "https://stockanalysis.com/stocks/MSFT/financials/" } },
+        { "label": "Net income", "value": "133749", "unit": "$ million", "period": "FY2026",
+          "source": { "title": "Microsoft FY2026 income statement, year ended Jun 30 2026 (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2026", "url": "https://stockanalysis.com/stocks/MSFT/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Microsoft's cloud platform called?", "options": ["Azure", "Fabric", "Fusion", "Nimbus"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which company does Microsoft partner with on AI?", "options": ["OpenAI", "Netflix", "Spotify", "Uber"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who rivals Microsoft in cloud computing?", "options": ["Amazon Web Services", "Pfizer", "McDonald's", "Visa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Microsoft sells Windows, Office, Azure cloud, gaming and AI Copilots via its OpenAI partnership. Subscriptions and cloud drive earnings. Watch Azure, AI spending and the OpenAI relationship.",
+      "review": "unreviewed"
+    }
+  ]
+}

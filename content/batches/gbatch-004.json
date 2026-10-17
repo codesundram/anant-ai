@@ -1,0 +1,306 @@
+{
+  "_meta": {
+    "batch": "gbatch-004",
+    "about": "Global wave g1, part 4: major US/EU listed companies and three global AI/fintech startups. v2 entries with figures in native currency (US $ from SEC filings, EU in EUR/CHF/DKK from company results releases). Leaders verified on the web Oct 2026.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-17"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "walt-disney",
+      "name": "Walt Disney Company (The)",
+      "type": "listed",
+      "industry": "media-entertainment",
+      "profile": { "hq": "Burbank, California, USA", "leader": "Josh D'Amaro", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Disney makes and sells entertainment: films and TV from Disney, Pixar, Marvel, Star Wars and more; streaming through Disney+, Hulu and ESPN; the ABC network; and the Experiences arm of theme parks, resorts, cruises and consumer products. Bob Iger handed the CEO role to parks veteran Josh D'Amaro in March 2026.",
+        "EARNS": "Three engines: Entertainment (studios, linear TV and streaming subscriptions plus ads), Sports (ESPN carriage fees and ads) and Experiences. Experiences, the parks-and-resorts business, is the largest profit source, while streaming has only recently turned profitable.",
+        "SIZE": "One of the world's largest entertainment companies, with the biggest collection of film franchises, a leading streaming bundle and the most-visited theme-park network on earth.",
+        "RIVALS": "Netflix, Warner Bros. Discovery, Comcast's NBCUniversal and Paramount in content and streaming; Universal and Comcast parks in Experiences; and Amazon, Apple and YouTube for viewing time.",
+        "WATCH": "How D'Amaro runs the whole company after years leading parks, the standalone ESPN streaming push, keeping Disney+ growing and profitable, and new park and cruise expansion."
+      },
+      "figures": [
+        { "label": "Total revenues", "value": "91361", "unit": "$ million", "period": "FY24",
+          "source": { "title": "Walt Disney FY2024 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY24", "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448924000276/dis-20240928.htm" } },
+        { "label": "Net income attributable to Disney", "value": "4972", "unit": "$ million", "period": "FY24",
+          "source": { "title": "Walt Disney FY2024 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY24", "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448924000276/dis-20240928.htm" } }
+      ],
+      "quiz": [
+        { "prompt": "Which Disney arm runs its theme parks, resorts and cruises?", "options": ["Entertainment", "Experiences", "Sports", "Hulu"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who became Disney's CEO in March 2026?", "options": ["Bob Chapek", "Josh D'Amaro", "Dana Walden", "Bob Iger"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which is a direct streaming rival to Disney+?", "options": ["Netflix", "Spotify", "Roblox", "LinkedIn"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Disney sells films, streaming, sports and theme parks; its Experiences arm is the profit engine. New CEO Josh D'Amaro took over in 2026. Watch ESPN streaming and Disney+ profitability.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "asml-holding",
+      "name": "ASML Holding",
+      "type": "listed",
+      "industry": "semiconductors",
+      "profile": { "hq": "Veldhoven, Netherlands", "leader": "Christophe Fouquet", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "ASML builds the lithography machines that print circuit patterns onto silicon wafers, the core step in making advanced chips. It is the only maker of EUV (extreme ultraviolet) systems, the tools needed for the most cutting-edge chips, and also sells older DUV systems plus services and upgrades.",
+        "EARNS": "ASML earns from selling these machines, each costing a fortune, and from a large installed-base business of service, spare parts and software upgrades that brings steady recurring revenue. The service stream grows as more machines run in customers' fabs.",
+        "SIZE": "Among the most valuable technology companies in Europe and the undisputed leader in chipmaking lithography, holding a near-monopoly on EUV equipment.",
+        "RIVALS": "Nikon and Canon in older lithography systems; in EUV it has no direct rival. Its fortunes track chipmakers like TSMC, Samsung and Intel, who are its customers.",
+        "WATCH": "Demand tied to the AI chip boom, export-control limits on sales to China, the ramp of its next-generation High-NA EUV machines, and the pace of new fab building worldwide."
+      },
+      "figures": [
+        { "label": "Total net sales", "value": "28263", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "ASML Q4 and full-year 2024 results", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.asml.com/en/news/press-releases/2025/q4-2024-financial-results" } },
+        { "label": "Net income", "value": "7572", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "ASML Q4 and full-year 2024 results", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.asml.com/en/news/press-releases/2025/q4-2024-financial-results" } }
+      ],
+      "quiz": [
+        { "prompt": "What does ASML make?", "options": ["Finished smartphone chips", "Chipmaking lithography machines", "Data-center servers", "Solar panels"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "ASML is the only maker of which kind of system?", "options": ["DUV lithography", "EUV lithography", "Memory chips", "Wafer slicing"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which company is an ASML customer rather than a rival?", "options": ["Nikon", "Canon", "TSMC", "None of these"], "correct_idx": 2, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "ASML makes the lithography machines that print advanced chips and is the only supplier of EUV systems. Services add recurring revenue. Watch AI-driven demand, China export limits and High-NA.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "lvmh",
+      "name": "LVMH",
+      "type": "listed",
+      "industry": "luxury-goods",
+      "profile": { "hq": "Paris, France", "leader": "Bernard Arnault", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "LVMH is the world's biggest luxury group, owning around 75 houses across fashion and leather goods (Louis Vuitton, Dior), wines and spirits (Moët, Hennessy), watches and jewellery (Tiffany, Bulgari), perfumes and cosmetics, and selective retail like Sephora and DFS travel stores.",
+        "EARNS": "It earns by selling high-margin branded goods through its own boutiques and selective retail, keeping tight control of pricing and distribution. Fashion and Leather Goods, led by Louis Vuitton and Dior, is by far the largest and most profitable division.",
+        "SIZE": "The largest luxury company in the world by revenue and one of Europe's most valuable firms, with a stable of iconic brands spanning several centuries.",
+        "RIVALS": "Kering (Gucci), Hermès and Richemont (Cartier) in fashion and jewellery; Estée Lauder and L'Oréal in beauty; and Ulta and independents against Sephora.",
+        "WATCH": "The pace of luxury demand in China and the United States, succession questions around the Arnault family, and how Tiffany and Sephora perform under its ownership."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "84683", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "LVMH 2024 full-year results", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.lvmh.com/en/publications/lvmh-achieves-a-solid-performance-despite-an-unfavorable-global-economic-environment" } },
+        { "label": "Net profit, Group share", "value": "12550", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "LVMH 2024 full-year results", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.lvmh.com/en/publications/lvmh-achieves-a-solid-performance-despite-an-unfavorable-global-economic-environment" } }
+      ],
+      "quiz": [
+        { "prompt": "Which is LVMH's largest and most profitable division?", "options": ["Wines & Spirits", "Fashion & Leather Goods", "Watches & Jewellery", "Selective Retailing"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which retail chain does LVMH own?", "options": ["Ulta Beauty", "Sephora", "Macy's", "Zara"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which group is a direct LVMH rival?", "options": ["Kering", "Unilever", "Nestlé", "Adidas"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "LVMH is the world's largest luxury group, owning Louis Vuitton, Dior, Tiffany, Sephora and dozens more. Fashion and Leather Goods drives profit. Watch China and US luxury demand.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "novo-nordisk",
+      "name": "Novo Nordisk",
+      "type": "listed",
+      "industry": "pharma",
+      "profile": { "hq": "Bagsværd, Denmark", "leader": "Maziar Mike Doustdar", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Novo Nordisk is a Danish drugmaker focused on diabetes and obesity. It sells insulin and the blockbuster GLP-1 medicines semaglutide, branded Ozempic for diabetes and Wegovy for weight loss, along with rare-disease treatments. Mike Doustdar became CEO in August 2025.",
+        "EARNS": "It earns by developing and selling patented prescription medicines worldwide, with diabetes and obesity care providing the bulk of sales. The surge in demand for its GLP-1 weight-loss and diabetes drugs has been the main growth driver.",
+        "SIZE": "One of the most valuable companies in Europe and a global leader in diabetes and obesity treatment, with manufacturing being expanded heavily to meet demand.",
+        "RIVALS": "Eli Lilly, whose tirzepatide drugs Mounjaro and Zepbound compete head-on in diabetes and obesity; Sanofi and others in insulin; and emerging weight-loss pill makers.",
+        "WATCH": "Competition from Lilly, the rollout of oral weight-loss drugs, pricing pressure in the United States, pipeline setbacks like CagriSema, and capacity to keep up with demand."
+      },
+      "figures": [
+        { "label": "Net sales", "value": "290403", "unit": "DKK million", "period": "2024",
+          "source": { "title": "Novo Nordisk FY2024 results (Form 6-K, SEC)", "doc_type": "annual_report", "period": "2024", "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003924/caq42024.htm" } },
+        { "label": "Net profit", "value": "100988", "unit": "DKK million", "period": "2024",
+          "source": { "title": "Novo Nordisk FY2024 results (Form 6-K, SEC)", "doc_type": "annual_report", "period": "2024", "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003924/caq42024.htm" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Novo Nordisk best known for treating?", "options": ["Cancer and heart disease", "Diabetes and obesity", "Vaccines", "Eye disorders"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which is Novo Nordisk's weight-loss brand?", "options": ["Wegovy", "Mounjaro", "Zepbound", "Humira"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which company is Novo Nordisk's main GLP-1 rival?", "options": ["Pfizer", "Eli Lilly", "Moderna", "AstraZeneca"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Novo Nordisk is a Danish leader in diabetes and obesity drugs, making Ozempic and Wegovy. GLP-1 demand drives growth. Watch Eli Lilly competition, oral drugs and US pricing.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "nestl",
+      "name": "Nestlé",
+      "type": "listed",
+      "industry": "fmcg",
+      "profile": { "hq": "Vevey, Switzerland", "leader": "Philipp Navratil", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Nestlé is the world's largest food and drink company, selling coffee (Nescafé, Nespresso), water, dairy, infant nutrition, pet food (Purina), confectionery (KitKat) and prepared foods across almost every country. Philipp Navratil became CEO in September 2025 after the board removed Laurent Freixe.",
+        "EARNS": "It earns by selling branded packaged food and drink through supermarkets, shops and online, using scale, marketing and a huge distribution network. Coffee, pet care and nutrition are among its strongest and most profitable categories.",
+        "SIZE": "The biggest packaged-food maker in the world, with thousands of brands and a presence in nearly every market on earth.",
+        "RIVALS": "Unilever, Danone, Mondelez, Mars and PepsiCo across food and drink; JDE Peet's and Starbucks in coffee; and supermarket private-label brands everywhere.",
+        "WATCH": "New CEO Navratil's cost-cutting and portfolio review, a possible sale or spin-off of some brands, the water business under review, and volume growth as price rises slow."
+      },
+      "figures": [
+        { "label": "Total sales", "value": "91354", "unit": "CHF million", "period": "2024",
+          "source": { "title": "Nestlé 2024 full-year results", "doc_type": "annual_report", "period": "2024", "url": "https://www.nestle.com/media/pressreleases/allpressreleases/full-year-results-2024" } },
+        { "label": "Net profit", "value": "10884", "unit": "CHF million", "period": "2024",
+          "source": { "title": "Nestlé 2024 full-year results", "doc_type": "annual_report", "period": "2024", "url": "https://www.nestle.com/media/pressreleases/allpressreleases/full-year-results-2024" } }
+      ],
+      "quiz": [
+        { "prompt": "Which pet-food brand does Nestlé own?", "options": ["Pedigree", "Purina", "Royal Canin", "Whiskas"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Who became Nestlé's CEO in September 2025?", "options": ["Laurent Freixe", "Mark Schneider", "Philipp Navratil", "Ulf Mark Schneider"], "correct_idx": 2, "part_kind": "SELLS" },
+        { "prompt": "Which company competes with Nestlé in food and drink?", "options": ["Danone", "ASML", "Shell", "SAP"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Nestlé is the world's biggest food and drink company, owning Nescafé, Nespresso, Purina and KitKat. New CEO Navratil runs a cost and portfolio review. Watch the water business.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "sap",
+      "name": "SAP",
+      "type": "listed",
+      "industry": "saas",
+      "profile": { "hq": "Walldorf, Germany", "leader": "Christian Klein", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "SAP is Europe's largest software company, selling enterprise software that runs core business operations: finance, supply chain, procurement, HR and analytics. Its flagship is S/4HANA, increasingly delivered as cloud software, plus the Business Technology Platform and acquired tools like Concur and SuccessFactors.",
+        "EARNS": "It has shifted from one-off software licences to cloud subscriptions, so most revenue now comes from recurring cloud and support contracts. The move to cloud, led by migrating big customers to S/4HANA, is the central earnings story.",
+        "SIZE": "The dominant enterprise-software vendor in Europe and one of the largest in the world, used by a majority of the biggest global companies.",
+        "RIVALS": "Oracle in core enterprise systems and databases; Microsoft, Salesforce and Workday in cloud business applications; and specialist vendors in procurement and HR.",
+        "WATCH": "The pace of cloud and S/4HANA migration before older support ends, embedding AI across its products, and keeping cloud backlog growing."
+      },
+      "figures": [
+        { "label": "Total revenue", "value": "34176", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "SAP Q4 and full-year 2024 results (Form 6-K exhibit, SEC)", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465925006886/tm254685d1_ex99-1.htm" } },
+        { "label": "Profit after tax", "value": "3150", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "SAP Q4 and full-year 2024 results (Form 6-K exhibit, SEC)", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465925006886/tm254685d1_ex99-1.htm" } }
+      ],
+      "quiz": [
+        { "prompt": "What does SAP mainly sell?", "options": ["Consumer apps", "Enterprise business software", "Mobile phones", "Video games"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What is SAP's flagship product?", "options": ["Windows", "S/4HANA", "Salesforce", "Oracle DB"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which company is SAP's long-standing rival in core enterprise systems?", "options": ["Oracle", "Spotify", "Nestlé", "ASML"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "SAP is Europe's largest software firm, running enterprise finance, supply chain and HR systems via S/4HANA. It is shifting to cloud subscriptions. Watch cloud migration and AI features.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "shell",
+      "name": "Shell",
+      "type": "listed",
+      "industry": "oil-gas-fuels",
+      "profile": { "hq": "London, United Kingdom", "leader": "Wael Sawan", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Shell is a global energy company that finds, produces, refines and sells oil, natural gas and fuels. It is a leader in liquefied natural gas (LNG), runs refineries and chemical plants, operates thousands of fuel stations, and is building a smaller low-carbon business in biofuels, hydrogen and power.",
+        "EARNS": "It earns across the chain: pumping oil and gas (Upstream), its large Integrated Gas and LNG trading arm, and refining, chemicals and marketing fuels (Downstream). Integrated Gas and Upstream are the biggest profit drivers, and trading adds to earnings.",
+        "SIZE": "One of the largest energy companies in the world and a top global trader of liquefied natural gas.",
+        "RIVALS": "ExxonMobil, Chevron, BP, TotalEnergies and Equinor among the oil and gas majors, plus national oil companies and specialist LNG traders.",
+        "WATCH": "Oil and gas price swings, the balance between returning cash to owners and spending on low-carbon energy, LNG expansion, and how fast its energy-transition plans move."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "284312", "unit": "$ million", "period": "FY2024",
+          "source": { "title": "Shell plc FY2024 results (Form 6-K, SEC)", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.sec.gov/Archives/edgar/data/1306965/000130696525000003/q42024exhibit992.htm" } },
+        { "label": "Income attributable to shareholders", "value": "16093", "unit": "$ million", "period": "FY2024",
+          "source": { "title": "Shell plc FY2024 results (Form 6-K, SEC)", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.sec.gov/Archives/edgar/data/1306965/000130696525000003/q42024exhibit992.htm" } }
+      ],
+      "quiz": [
+        { "prompt": "In which energy product is Shell a global leader?", "options": ["Nuclear power", "Liquefied natural gas", "Coal mining", "Solar panels"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which Shell segments are its biggest profit drivers?", "options": ["Only fuel stations", "Integrated Gas and Upstream", "Chemicals only", "Renewables only"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which company is a Shell rival?", "options": ["ExxonMobil", "Nestlé", "ASML", "Stripe"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Shell is a global energy major producing and trading oil, gas and fuels, and a leading LNG player. Integrated Gas and Upstream drive profit. Watch prices and transition spending.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "spotify",
+      "name": "Spotify",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "Stockholm, Sweden", "leader": "Gustav Söderström and Alex Norström", "leader_role": "Co-CEOs", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Spotify runs the world's largest music-streaming service, offering on-demand music, podcasts and audiobooks on a free ad-supported tier and a paid Premium tier. It has pushed into podcasts and audiobooks to widen its audio offering. Founder Daniel Ek moved to executive chairman in January 2026.",
+        "EARNS": "Most revenue comes from Premium subscriptions, with a smaller share from advertising on the free tier. A large part of its income flows back to rights holders as royalties, so growing subscribers and improving margins are central.",
+        "SIZE": "The leading global music-streaming platform by users, ahead of its nearest rivals in most markets outside China.",
+        "RIVALS": "Apple Music, Amazon Music, YouTube Music and Tencent Music in streaming; Audible in audiobooks; and radio and other audio for listening time.",
+        "WATCH": "Co-CEOs Söderström and Norström settling into the top job, pricing increases, growth in audiobooks and podcasts, and widening profit margins."
+      },
+      "figures": [
+        { "label": "Total revenue", "value": "15673", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "Spotify Technology FY2024 Form 20-F (SEC)", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.sec.gov/Archives/edgar/data/1639920/000163992025000003/ck0001639920-20241231.htm" } },
+        { "label": "Net income", "value": "1138", "unit": "€ million", "period": "FY2024",
+          "source": { "title": "Spotify Technology FY2024 Form 20-F (SEC)", "doc_type": "annual_report", "period": "FY2024", "url": "https://www.sec.gov/Archives/edgar/data/1639920/000163992025000003/ck0001639920-20241231.htm" } }
+      ],
+      "quiz": [
+        { "prompt": "Where does most of Spotify's revenue come from?", "options": ["Hardware sales", "Premium subscriptions", "Concert tickets", "Selling user data"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who moved to executive chairman in January 2026?", "options": ["Daniel Ek", "Gustav Söderström", "Alex Norström", "Tim Cook"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a direct Spotify rival?", "options": ["Apple Music", "Netflix", "Disney+", "SAP"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Spotify runs the world's biggest music-streaming service, earning mostly from Premium subscriptions. It added podcasts and audiobooks and turned profitable. Co-CEOs now lead. Watch pricing and margins.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "openai",
+      "name": "OpenAI",
+      "type": "startup",
+      "industry": "internet-software",
+      "profile": { "hq": "San Francisco, California, USA", "leader": "Sam Altman", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "OpenAI builds artificial-intelligence models and products, best known for ChatGPT and the GPT family of models. It sells ChatGPT subscriptions to consumers and businesses, and an API that lets developers build on its models. It also offers image, voice and reasoning capabilities.",
+        "EARNS": "It earns from consumer and enterprise ChatGPT subscriptions and from developers paying to use its models through the API, usually priced by usage. Microsoft is a major investor and distribution partner through its cloud.",
+        "SIZE": "One of the most prominent AI companies in the world, with ChatGPT among the fastest-adopted software products ever and a valuation among the highest of any private startup.",
+        "RIVALS": "Anthropic, Google DeepMind, Meta and xAI in frontier AI models; and a growing field of open-source model makers.",
+        "WATCH": "Its unusual capped-profit structure and governance, heavy spending on computing power, the race to release more capable models, and questions over AI safety and regulation."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        { "prompt": "What is OpenAI best known for?", "options": ["ChatGPT and GPT models", "A search engine", "A social network", "A smartphone"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does OpenAI mainly earn money?", "options": ["Selling hardware", "Subscriptions and API usage", "Advertising only", "Government grants"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which company is a major OpenAI investor and cloud partner?", "options": ["Microsoft", "Oracle", "Shell", "Nestlé"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "OpenAI builds AI models and ChatGPT, earning from subscriptions and developer API usage, with Microsoft a key backer. Still private. Watch governance, compute costs and model races.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "anthropic",
+      "name": "Anthropic",
+      "type": "startup",
+      "industry": "internet-software",
+      "profile": { "hq": "San Francisco, California, USA", "leader": "Dario Amodei", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Anthropic is an AI company that builds the Claude family of models and the Claude chat and coding products. It sells Claude subscriptions and an API for developers and businesses, with a stated focus on AI safety and reliability. It was founded by former OpenAI staff.",
+        "EARNS": "It earns from consumer and business subscriptions to Claude and from developers paying by usage through its API. Large cloud partners, including Amazon and Google, have invested and distribute its models through their platforms.",
+        "SIZE": "One of the leading frontier-AI companies and among the most highly valued private startups, competing at the top end of the model market.",
+        "RIVALS": "OpenAI, Google DeepMind, Meta and xAI in frontier models; and open-source model providers for cost-sensitive users.",
+        "WATCH": "Its enterprise and coding momentum, funding and cloud partnerships, the pace of new Claude releases, and its emphasis on safety amid tightening AI regulation."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        { "prompt": "What is Anthropic's main product family?", "options": ["Claude", "Gemini", "Llama", "Grok"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Anthropic mainly earn money?", "options": ["Selling phones", "Subscriptions and API usage", "Ticket sales", "Oil trading"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which companies are major Anthropic investors and cloud partners?", "options": ["Amazon and Google", "Shell and BP", "Nestlé and Danone", "Nikon and Canon"], "correct_idx": 0, "part_kind": "EARNS" }
+      ],
+      "note_30w": "Anthropic builds the Claude AI models, earning from subscriptions and developer API usage, with Amazon and Google as backers. It stresses AI safety. Watch enterprise and coding growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "stripe",
+      "name": "Stripe",
+      "type": "startup",
+      "industry": "fintech-payments",
+      "profile": { "hq": "South San Francisco, California, USA", "leader": "Patrick Collison", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Stripe provides payment and financial software for businesses on the internet. Its tools let companies accept card and online payments, run subscriptions and marketplaces, issue cards, handle billing and fraud, and manage taxes. It is widely used by startups and large enterprises alike. Brothers Patrick and John Collison founded it.",
+        "EARNS": "It earns mainly by taking a small fee on each payment it processes for merchants, plus fees for added services like billing, fraud prevention, tax and card issuing. Volume of payments flowing through its system is the core driver.",
+        "SIZE": "One of the largest payment processors for online businesses and among the most valuable private technology startups in the world.",
+        "RIVALS": "PayPal and its Braintree arm, Adyen, Block (Square), and traditional banks and card processors; plus Checkout.com and regional payment providers.",
+        "WATCH": "Expansion beyond payments into broader financial services, international growth, any move toward a public listing, and competition from Adyen and others."
+      },
+      "figures": [],
+      "needs_figures": true,
+      "quiz": [
+        { "prompt": "What does Stripe mainly provide?", "options": ["Online payment software", "Social media", "Streaming video", "Cloud storage only"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Stripe mainly earn money?", "options": ["Monthly flat fees only", "Fees on payments it processes", "Advertising", "Selling hardware"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which company is a direct Stripe rival?", "options": ["Adyen", "Spotify", "ASML", "Novo Nordisk"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Stripe provides online payment and financial software for businesses, earning fees on payments it processes. It is a leading private fintech. Watch its move into broader financial services.",
+      "review": "unreviewed"
+    }
+  ]
+}

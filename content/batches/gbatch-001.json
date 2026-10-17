@@ -1,0 +1,348 @@
+{
+  "_meta": {
+    "batch": "g001",
+    "about": "Global wave g1, part 1: thirteen major US companies as v2 explainers with native-currency (USD) figures. Figures are latest full fiscal year from SEC 10-K filings / company results releases, cross-checked on stockanalysis.com. Leaders and HQ verified on the web in Oct 2026.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-17"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "adobe",
+      "name": "Adobe Inc.",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "San Jose, California, USA", "leader": "Shantanu Narayen", "leader_role": "Chair & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Adobe makes creative and document software, sold mostly as subscriptions. Its Creative Cloud bundles Photoshop, Illustrator, Premiere and more; Document Cloud is built around Acrobat and PDF; Experience Cloud handles marketing and analytics for businesses. It has woven generative-AI 'Firefly' tools across these apps.",
+        "EARNS": "Almost all revenue is recurring subscription fees, billed monthly or yearly, which makes income steady and predictable. The Digital Media segment, Creative Cloud plus Document Cloud, is the largest engine, with Digital Experience serving enterprise marketers as the second pillar.",
+        "SIZE": "One of the world's largest software companies and the dominant name in creative and PDF tools, used by individual creators, agencies and large enterprises worldwide.",
+        "RIVALS": "Canva and Figma in design, DocuSign in e-signatures, and Microsoft in documents and collaboration. In marketing software it meets Salesforce and Oracle.",
+        "WATCH": "How quickly Firefly and AI features turn into paid upgrades, whether rivals like Canva erode the low end, and how Adobe prices AI without pushing customers away."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "23769", "unit": "$ million", "period": "FY2025", "source": { "title": "Adobe FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=796343&type=10-K" } },
+        { "label": "Net income", "value": "7130", "unit": "$ million", "period": "FY2025", "source": { "title": "Adobe FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=796343&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "Which Adobe product is central to its Document Cloud?", "options": ["Photoshop", "Acrobat", "Premiere", "Illustrator"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "How does Adobe mainly earn money?", "options": ["One-time software licences", "Recurring subscriptions", "Hardware sales", "Advertising"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which rival challenges Adobe most directly in graphic design?", "options": ["DocuSign", "Canva", "Oracle", "Zoom"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Adobe sells creative and PDF software as subscriptions, with Creative Cloud and Acrobat at the core and Firefly adding AI. Watch whether AI upgrades lift paid plans against Canva.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "advanced-micro-devices",
+      "name": "Advanced Micro Devices",
+      "type": "listed",
+      "industry": "semiconductors",
+      "profile": { "hq": "Santa Clara, California, USA", "leader": "Lisa Su", "leader_role": "Chair & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "AMD designs computer chips: CPUs for PCs and servers under the Ryzen and EPYC brands, graphics cards under Radeon, and AI accelerators in its Instinct line. It also makes chips for game consoles and, through its Xilinx acquisition, programmable and embedded chips. It designs but does not manufacture its own chips.",
+        "EARNS": "AMD earns by selling chips to PC makers, cloud and server operators, and device builders. Data-centre processors and AI accelerators have become the biggest growth driver, alongside steady client-PC and embedded revenue, while gaming chips vary with console cycles.",
+        "SIZE": "One of the two main makers of x86 processors and a leading supplier of data-centre and graphics chips, now a serious contender in AI accelerators.",
+        "RIVALS": "Intel in CPUs, Nvidia in graphics and AI accelerators, and foundry partner TSMC, which manufactures AMD's most advanced designs.",
+        "WATCH": "How fast its Instinct AI chips win cloud customers against Nvidia, supply from TSMC, and whether it keeps taking server share from Intel."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "34639", "unit": "$ million", "period": "FY2025", "source": { "title": "AMD FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488&type=10-K" } },
+        { "label": "Net income", "value": "4335", "unit": "$ million", "period": "FY2025", "source": { "title": "AMD FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What does AMD sell under the EPYC brand?", "options": ["Server processors", "Game consoles", "Phones", "Monitors"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who makes AMD's most advanced chips?", "options": ["Intel", "TSMC", "Samsung phones division", "Qualcomm"], "correct_idx": 1, "part_kind": "RIVALS" },
+        { "prompt": "Which area is AMD's biggest growth driver?", "options": ["Printers", "Data-centre and AI chips", "Hard drives", "Networking cables"], "correct_idx": 1, "part_kind": "EARNS" }
+      ],
+      "note_30w": "AMD designs CPUs, graphics and AI accelerator chips, made by TSMC. Data-centre and AI chips drive growth. Watch its contest with Nvidia in accelerators and Intel in servers.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "alphabet",
+      "name": "Alphabet Inc. (Class A)",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "Mountain View, California, USA", "leader": "Sundar Pichai", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Alphabet is the parent of Google. It runs Search, YouTube, Android, Chrome, Maps and Gmail, plus Google Cloud for businesses and the Gemini family of AI models. 'Other Bets' such as Waymo self-driving sit alongside the core. Most products are free to users and paid for by advertising.",
+        "EARNS": "Advertising on Search and YouTube is by far the largest source of money, sold through automated auctions. Google Cloud is the fast-growing second engine, charging businesses for computing and software. Subscriptions and device sales add smaller amounts.",
+        "SIZE": "One of the largest companies in the world and the dominant player in web search and online video, with a cloud business among the top three globally.",
+        "RIVALS": "Microsoft and OpenAI in AI and cloud, Amazon in cloud and ads, Meta and TikTok in digital advertising, and Apple in mobile platforms.",
+        "WATCH": "Whether AI answers reshape Search advertising, how fast Gemini and Cloud grow, Waymo's expansion, and antitrust rulings that could reshape its businesses."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "402836", "unit": "$ million", "period": "FY2025", "source": { "title": "Alphabet FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044&type=10-K" } },
+        { "label": "Net income", "value": "132170", "unit": "$ million", "period": "FY2025", "source": { "title": "Alphabet FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Alphabet's largest source of revenue?", "options": ["Advertising", "Hardware", "Cloud subscriptions", "Self-driving cars"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which of these is an Alphabet product?", "options": ["iOS", "YouTube", "Azure", "Instagram"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What is Alphabet's family of AI models called?", "options": ["Copilot", "Llama", "Gemini", "Claude"], "correct_idx": 2, "part_kind": "WATCH" }
+      ],
+      "note_30w": "Alphabet owns Google: Search, YouTube, Android, Cloud and the Gemini AI models, funded mainly by advertising. Watch how AI answers reshape Search and the pace of Cloud growth.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "amazon",
+      "name": "Amazon",
+      "type": "listed",
+      "industry": "retail",
+      "profile": { "hq": "Seattle, Washington, USA", "leader": "Andy Jassy", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Amazon runs the world's largest online store, selling its own goods and hosting millions of third-party sellers. It also offers Prime membership, streaming video and music, Kindle and Echo devices, grocery through Whole Foods, advertising, and Amazon Web Services, its cloud-computing arm.",
+        "EARNS": "Retail brings the most revenue, but AWS cloud and the fast-growing advertising business generate much of the profit. Amazon also earns from Prime subscriptions and from fees charged to third-party sellers for selling and fulfilment.",
+        "SIZE": "The largest online retailer in much of the world and the biggest cloud-computing provider, with one of the most-used membership programmes in Prime.",
+        "RIVALS": "Walmart and other retailers in shopping, Microsoft Azure and Google Cloud in cloud, and Google and Meta in digital advertising. Netflix and Disney compete in streaming.",
+        "WATCH": "How AWS grows as businesses adopt AI, the push into healthcare and faster delivery, advertising's rise, and cost discipline across the retail network."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "716924", "unit": "$ million", "period": "FY2025", "source": { "title": "Amazon FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724&type=10-K" } },
+        { "label": "Net income", "value": "77670", "unit": "$ million", "period": "FY2025", "source": { "title": "Amazon FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What is AWS?", "options": ["Amazon's cloud-computing business", "A delivery van", "A grocery chain", "A streaming show"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which businesses drive much of Amazon's profit?", "options": ["Only online retail", "AWS cloud and advertising", "Kindle devices", "Whole Foods alone"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who is Amazon's main rival in cloud computing?", "options": ["Walmart", "Microsoft Azure", "Netflix", "Target"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Amazon runs the biggest online store, Prime, devices and AWS cloud. Cloud and advertising drive profit while retail drives revenue. Watch AWS growth as businesses adopt AI.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "apple",
+      "name": "Apple Inc.",
+      "type": "listed",
+      "industry": "consumer-electronics-d2c",
+      "profile": { "hq": "Cupertino, California, USA", "leader": "John Ternus", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Apple makes the iPhone, iPad, Mac and Apple Watch, plus AirPods and accessories, tied together by its own software and chips. Its Services arm sells the App Store, iCloud, Apple Music, Apple TV+ and payments. Tim Cook handed the CEO role to hardware chief John Ternus in September 2026, staying on as executive chairman.",
+        "EARNS": "The iPhone is still the single biggest source of revenue, but high-margin Services is the fast-growing second engine, earning steady fees from a large base of devices. Mac, iPad and wearables round out the hardware mix.",
+        "SIZE": "One of the most valuable companies in the world, with a vast base of active devices and one of the strongest consumer brands globally.",
+        "RIVALS": "Samsung and Google in phones, Microsoft and Google in computers and software, and Spotify, Netflix and others across its Services.",
+        "WATCH": "How Apple adds AI features across its devices, whether Services keeps growing, new product categories, and Ternus's priorities in his first year as CEO."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "416161", "unit": "$ million", "period": "FY2025", "source": { "title": "Apple FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=320193&type=10-K" } },
+        { "label": "Net income", "value": "112010", "unit": "$ million", "period": "FY2025", "source": { "title": "Apple FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=320193&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "Which Apple product brings in the most revenue?", "options": ["iPad", "iPhone", "Apple Watch", "Mac"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who became Apple's CEO in September 2026?", "options": ["Tim Cook", "John Ternus", "Jeff Williams", "Craig Federighi"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which is part of Apple's Services business?", "options": ["App Store", "AirPods", "MacBook", "iMac"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Apple sells iPhone, Mac, iPad and wearables plus growing Services. iPhone leads revenue; Services grows fastest. John Ternus became CEO in 2026. Watch his AI and product moves.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "bank-of-america",
+      "name": "Bank of America",
+      "type": "listed",
+      "industry": "banking",
+      "profile": { "hq": "Charlotte, North Carolina, USA", "leader": "Brian Moynihan", "leader_role": "Chair & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Bank of America offers checking and savings accounts, cards, mortgages and loans to households and businesses, wealth management through Merrill, and investment banking and trading through BofA Securities. Its mobile app and large branch network serve tens of millions of customers.",
+        "EARNS": "The bank mainly earns net interest income, the gap between what it charges on loans and pays on deposits, plus fees from cards, wealth management, advice and trading. Consumer banking and Global Wealth are major profit centres alongside markets and investment banking.",
+        "SIZE": "One of the largest banks in the United States by deposits and assets, with a nationwide retail franchise and a global markets and advisory business.",
+        "RIVALS": "JPMorgan Chase, Wells Fargo and Citigroup in banking; Morgan Stanley and Goldman Sachs in wealth management and investment banking.",
+        "WATCH": "How interest rates move net interest income, loan losses if the economy slows, growth in digital banking and wealth, and the eventual succession to Moynihan."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "107422", "unit": "$ million", "period": "FY2025", "source": { "title": "Bank of America FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=70858&type=10-K" } },
+        { "label": "Net income", "value": "29055", "unit": "$ million", "period": "FY2025", "source": { "title": "Bank of America FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=70858&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What is net interest income?", "options": ["Fees on cards", "The gap between loan and deposit rates", "Trading profit", "Branch rent"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "What is the name of Bank of America's wealth-management arm?", "options": ["Merrill", "Chase", "Schwab", "Fidelity"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a main rival of Bank of America?", "options": ["JPMorgan Chase", "Walmart", "Pfizer", "Boeing"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Bank of America serves households and businesses with accounts, loans, cards, wealth management and trading. It earns mainly from interest and fees. Watch rates, loan losses and CEO succession.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "berkshire-hathaway",
+      "name": "Berkshire Hathaway",
+      "type": "listed",
+      "industry": "conglomerate",
+      "profile": { "hq": "Omaha, Nebraska, USA", "leader": "Greg Abel", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Berkshire Hathaway is a conglomerate that owns businesses outright and holds large stakes in listed companies. It owns insurers like GEICO, the BNSF railroad, energy utilities, and makers and retailers from Dairy Queen to Duracell, while holding big stakes in firms such as Apple and Coca-Cola. Greg Abel became CEO in January 2026, succeeding Warren Buffett, who stayed on as chairman.",
+        "EARNS": "Insurance is central: premiums collected upfront provide 'float' that Berkshire invests before claims are paid. It also earns operating profit from the railroad, utilities and dozens of businesses, plus dividends and gains from its share portfolio.",
+        "SIZE": "One of the largest companies in the world by market value, spanning insurance, railroads, energy and consumer brands, with a very large investment portfolio.",
+        "RIVALS": "Its units face rivals directly: GEICO against Progressive and State Farm, BNSF against Union Pacific, and its utilities and brands against sector peers.",
+        "WATCH": "How Greg Abel leads after Buffett, what the large cash pile is used for, insurance results, and performance across the railroad and energy businesses."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "371444", "unit": "$ million", "period": "FY2025", "source": { "title": "Berkshire Hathaway FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1067983&type=10-K" } },
+        { "label": "Net income", "value": "66968", "unit": "$ million", "period": "FY2025", "source": { "title": "Berkshire Hathaway FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1067983&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "Who became Berkshire Hathaway's CEO in January 2026?", "options": ["Warren Buffett", "Greg Abel", "Charlie Munger", "Ajit Jain"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What is insurance 'float'?", "options": ["A type of boat", "Premiums held and invested before claims", "A bank loan", "A tax refund"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which insurer does Berkshire own?", "options": ["GEICO", "Progressive", "Allstate", "State Farm"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Berkshire Hathaway owns insurers, a railroad, utilities and consumer brands, plus big share stakes. Insurance float funds investing. Greg Abel now leads after Buffett. Watch cash deployment.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "boeing",
+      "name": "Boeing",
+      "type": "listed",
+      "industry": "aerospace-defense",
+      "profile": { "hq": "Arlington, Virginia, USA", "leader": "Kelly Ortberg", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Boeing builds commercial jets like the 737, 787 and 777 for airlines, military aircraft, satellites and weapons for defence customers, and runs a large services arm for spare parts, maintenance and training. Kelly Ortberg became CEO in 2024 to steer a turnaround after safety and quality crises.",
+        "EARNS": "Boeing earns by delivering aircraft and defence systems from a huge order backlog, and from ongoing services as planes fly for decades. Commercial jets are the largest business, though defence and services provide steadier work.",
+        "SIZE": "One of two dominant makers of large passenger jets worldwide and a major defence contractor, with an order backlog stretching years ahead.",
+        "RIVALS": "Airbus in commercial jets, and Lockheed Martin, RTX, Northrop Grumman and General Dynamics across defence and space.",
+        "WATCH": "Whether Boeing raises 737 and 787 output safely, clears quality concerns with regulators, works down its backlog, and sustains its recovery under Ortberg."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "89463", "unit": "$ million", "period": "FY2025", "source": { "title": "Boeing Fourth Quarter & Full-Year 2025 Results (investor release)", "doc_type": "results_release", "period": "FY2025", "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Fourth-Quarter-Results/default.aspx" } },
+        { "label": "Net income", "value": "2238", "unit": "$ million", "period": "FY2025", "source": { "title": "Boeing Fourth Quarter & Full-Year 2025 Results (investor release)", "doc_type": "results_release", "period": "FY2025", "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Fourth-Quarter-Results/default.aspx" } }
+      ],
+      "quiz": [
+        { "prompt": "Who is Boeing's main rival in large passenger jets?", "options": ["Airbus", "Embraer", "Bombardier", "Lockheed Martin"], "correct_idx": 0, "part_kind": "RIVALS" },
+        { "prompt": "Which is a Boeing commercial jet?", "options": ["A320", "787 Dreamliner", "E175", "C919"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Why did Kelly Ortberg become CEO in 2024?", "options": ["To steer a turnaround after crises", "To launch a car brand", "To sell the defence unit", "To split the company"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Boeing builds commercial jets, defence systems and services from a huge backlog. Kelly Ortberg leads a turnaround after safety crises. Watch whether it lifts output safely and sustains recovery.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "broadcom",
+      "name": "Broadcom",
+      "type": "listed",
+      "industry": "semiconductors",
+      "profile": { "hq": "Palo Alto, California, USA", "leader": "Hock Tan", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Broadcom makes semiconductors for networking, data centres, broadband and wireless, including custom AI chips and switches that move data between servers. Through its VMware acquisition it also sells enterprise software for running and managing corporate computing. It supplies chips used in smartphones and networking gear.",
+        "EARNS": "Broadcom earns from selling chips to cloud, networking and device makers, and increasingly from custom AI accelerators and networking silicon. The software side, led by VMware, adds large recurring subscription and licence revenue.",
+        "SIZE": "One of the largest semiconductor companies in the world and, since buying VMware, a major enterprise-software vendor as well.",
+        "RIVALS": "Nvidia, AMD and Marvell in data-centre and AI chips; Cisco in networking; and in software, VMware competes with cloud and virtualization providers.",
+        "WATCH": "How custom AI-chip demand from big cloud customers grows, how the VMware integration and pricing land with enterprises, and acquisition appetite under Hock Tan."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "63887", "unit": "$ million", "period": "FY2025", "source": { "title": "Broadcom FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168&type=10-K" } },
+        { "label": "Net income", "value": "23126", "unit": "$ million", "period": "FY2025", "source": { "title": "Broadcom FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "Which company did Broadcom acquire to enter enterprise software?", "options": ["VMware", "Oracle", "SAP", "Salesforce"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is a growing chip business for Broadcom?", "options": ["Custom AI accelerators", "Car tyres", "Solar panels", "Batteries"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a Broadcom rival in networking?", "options": ["Cisco", "Netflix", "Visa", "Nike"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Broadcom makes networking and custom AI chips and, via VMware, sells enterprise software. Cloud AI demand and software subscriptions drive it. Watch VMware integration and AI-chip orders.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "caterpillar",
+      "name": "Caterpillar Inc.",
+      "type": "listed",
+      "industry": "capital-goods",
+      "profile": { "hq": "Irving, Texas, USA", "leader": "Joe Creed", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Caterpillar makes heavy machinery: excavators, bulldozers, loaders and trucks for construction and mining, plus engines, turbines and generators for energy and transport. It sells through a global dealer network and offers financing to help buyers. Joe Creed became CEO in May 2025, with Jim Umpleby as executive chairman.",
+        "EARNS": "Caterpillar earns by selling new equipment and, importantly, high-margin spare parts and services as machines are used for years. Its three main segments are Construction Industries, Resource Industries for mining, and Energy & Transportation, supported by its financing arm.",
+        "SIZE": "The world's leading maker of construction and mining equipment, with a dealer and parts network spanning the globe.",
+        "RIVALS": "Komatsu, Deere, Volvo Construction Equipment and Hitachi in machinery; Cummins and others in engines and power systems.",
+        "WATCH": "How construction and mining demand tracks the economy, data-centre demand for its power systems, parts and services growth, and Creed's early strategy."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "67589", "unit": "$ million", "period": "FY2025", "source": { "title": "Caterpillar FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=18230&type=10-K" } },
+        { "label": "Net income", "value": "8884", "unit": "$ million", "period": "FY2025", "source": { "title": "Caterpillar FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=18230&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What does Caterpillar mainly make?", "options": ["Heavy machinery and engines", "Mobile phones", "Soft drinks", "Clothing"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Beyond new machines, what is a key high-margin business?", "options": ["Spare parts and services", "Movie tickets", "Air travel", "Insurance only"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a Caterpillar rival?", "options": ["Komatsu", "Spotify", "Adobe", "Pfizer"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Caterpillar makes construction and mining machinery, engines and power systems, earning strongly from parts and services. Joe Creed became CEO in 2025. Watch economic demand and data-centre power sales.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "chevron",
+      "name": "Chevron Corporation",
+      "type": "listed",
+      "industry": "oil-gas-fuels",
+      "profile": { "hq": "Houston, Texas, USA", "leader": "Mike Wirth", "leader_role": "Chair & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Chevron is an integrated energy company. 'Upstream' it finds and produces crude oil and natural gas; 'downstream' it refines them into fuels and chemicals and sells through branded stations. It also invests in lower-carbon fuels, hydrogen and carbon capture.",
+        "EARNS": "Most profit comes from upstream oil and gas production, so earnings rise and fall with energy prices. Refining, chemicals and fuel marketing add downstream income that can cushion swings in crude prices.",
+        "SIZE": "One of the largest integrated oil and gas companies in the world, with production, refining and marketing operations across many countries.",
+        "RIVALS": "ExxonMobil, Shell, BP and TotalEnergies among the global majors, plus national oil companies and large US shale producers.",
+        "WATCH": "Oil and gas prices, integration of recent acquisitions, spending discipline and shareholder payouts, lower-carbon investments, and eventual succession to Wirth."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "184654", "unit": "$ million", "period": "FY2025", "source": { "title": "Chevron FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93410&type=10-K" } },
+        { "label": "Net income", "value": "12299", "unit": "$ million", "period": "FY2025", "source": { "title": "Chevron FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93410&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What does 'upstream' mean for Chevron?", "options": ["Finding and producing oil and gas", "Running petrol stations", "Making plastics", "Shipping goods"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What most affects Chevron's profit?", "options": ["Oil and gas prices", "Movie releases", "Phone sales", "Interest on savings"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a Chevron rival?", "options": ["ExxonMobil", "Netflix", "Boeing", "Visa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Chevron produces oil and gas, refines fuels and sells them, with some lower-carbon bets. Profit tracks energy prices. Watch prices, acquisitions, payouts and eventual CEO succession.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "cisco",
+      "name": "Cisco",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "San Jose, California, USA", "leader": "Chuck Robbins", "leader_role": "Chair & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Cisco makes the networking gear that runs the internet and corporate networks: routers, switches and wireless equipment, plus cybersecurity, observability and collaboration tools like Webex. Its Splunk acquisition added data and security analytics. It increasingly sells software and subscriptions alongside hardware.",
+        "EARNS": "Cisco earns from selling networking hardware and, more and more, from recurring software subscriptions and service contracts. Networking is the core, with security and collaboration as growing software-led areas that smooth revenue.",
+        "SIZE": "The leading maker of enterprise networking equipment worldwide, with a large and growing software and security business.",
+        "RIVALS": "Arista Networks, Juniper, Huawei and HPE in networking; Palo Alto Networks, Fortinet and others in cybersecurity; Microsoft and Zoom in collaboration.",
+        "WATCH": "How fast recurring software revenue grows, demand for AI-era data-centre networking, the payoff from Splunk, and competition from Arista and cloud networking."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "63325", "unit": "$ million", "period": "FY2026", "source": { "title": "Cisco FY2026 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2026", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=858877&type=10-K" } },
+        { "label": "Net income", "value": "13267", "unit": "$ million", "period": "FY2026", "source": { "title": "Cisco FY2026 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2026", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=858877&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "What does Cisco primarily make?", "options": ["Networking equipment", "Cars", "Soft drinks", "Film studios"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which company did Cisco acquire for data and security analytics?", "options": ["Splunk", "Slack", "Zoom", "Figma"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a Cisco rival in networking?", "options": ["Arista Networks", "Coca-Cola", "Pfizer", "Nike"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Cisco makes networking gear and sells security, collaboration and software subscriptions, boosted by Splunk. Networking is the core. Watch recurring-software growth and AI-era data-centre demand.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "coca-cola",
+      "name": "Coca-Cola Company (The)",
+      "type": "listed",
+      "industry": "fmcg",
+      "profile": { "hq": "Atlanta, Georgia, USA", "leader": "Henrique Braun", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Coca-Cola sells non-alcoholic drinks worldwide: sparkling sodas like Coca-Cola, Sprite and Fanta, plus water, juice, tea, coffee and sports drinks under brands such as Dasani, Minute Maid, Costa and Powerade. It focuses on brands and concentrate while bottling partners handle most production. Henrique Braun became CEO in 2026, with James Quincey as executive chairman.",
+        "EARNS": "Coca-Cola mainly sells concentrate and syrups to a network of bottlers that make and distribute the finished drinks, and earns from its brands and marketing. Sparkling soft drinks remain the largest category, with water, coffee and other drinks adding growth.",
+        "SIZE": "One of the world's largest beverage companies, with brands sold in virtually every country and one of the most recognised trademarks globally.",
+        "RIVALS": "PepsiCo most directly, plus Keurig Dr Pepper, Nestlé in water and coffee, and many regional and private-label drink makers.",
+        "WATCH": "How Coca-Cola grows amid health trends and sugar scrutiny, pricing against inflation, expansion in coffee and other categories, and Braun's early priorities."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "47941", "unit": "$ million", "period": "FY2025", "source": { "title": "Coca-Cola FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=21344&type=10-K" } },
+        { "label": "Net income", "value": "13107", "unit": "$ million", "period": "FY2025", "source": { "title": "Coca-Cola FY2025 Form 10-K (SEC)", "doc_type": "annual_report", "period": "FY2025", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=21344&type=10-K" } }
+      ],
+      "quiz": [
+        { "prompt": "How does Coca-Cola mostly operate?", "options": ["Sells concentrate to bottling partners", "Owns every bottling plant itself", "Only sells online", "Makes alcoholic drinks"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which is a Coca-Cola brand?", "options": ["Sprite", "Pepsi", "Mountain Dew", "Gatorade"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Who is Coca-Cola's most direct rival?", "options": ["PepsiCo", "Boeing", "Cisco", "Chevron"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Coca-Cola sells sodas, water, juice, tea and coffee worldwide, mostly supplying concentrate to bottlers. Sparkling drinks lead. Henrique Braun became CEO in 2026. Watch health trends and category growth.",
+      "review": "unreviewed"
+    }
+  ]
+}

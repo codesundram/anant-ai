@@ -1,0 +1,348 @@
+{
+  "_meta": {
+    "batch": "g003",
+    "about": "Global wave g1, part 3: 13 major US companies, full v2 entries with native-currency (USD) figures sourced from stockanalysis.com for the latest reported fiscal year. Leaders verified against web reports as of Oct 2026.",
+    "review": "All entries unreviewed until the founder approves them.",
+    "generated": "2026-10-17"
+  },
+  "companies": [
+    {
+      "v": 2,
+      "slug": "netflix",
+      "name": "Netflix",
+      "type": "listed",
+      "industry": "media-entertainment",
+      "profile": { "hq": "Los Gatos, California, USA", "leader": "Ted Sarandos & Greg Peters", "leader_role": "Co-CEOs", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Netflix is a streaming service: films, series, documentaries, stand-up and games delivered on demand to TVs and phones worldwide. It commissions its own shows and licenses others. It has added a cheaper ad-supported plan and a growing slate of live events and sport.",
+        "EARNS": "Netflix makes money mainly from monthly subscriptions across its plan tiers, now topped up by advertising on the ad-supported tier and fees for extra members on shared accounts. The United States and Canada remain its largest region, with Europe close behind.",
+        "SIZE": "One of the world's largest paid streaming services by subscribers, present in almost every country and spending heavily on original content each year.",
+        "RIVALS": "Disney+, Amazon Prime Video, Warner Bros. Discovery's Max, Apple TV+ and YouTube, plus local streamers in each market competing for viewing time.",
+        "WATCH": "How fast the ad tier grows, whether the password-sharing crackdown keeps lifting sign-ups, the push into live sport and events, and how games fit the core service."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "45183", "unit": "$ million", "period": "FY2025", "source": { "title": "Netflix FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/NFLX/financials/" } },
+        { "label": "Net income", "value": "10981", "unit": "$ million", "period": "FY2025", "source": { "title": "Netflix FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/NFLX/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "How does Netflix mainly make money?", "options": ["Cinema ticket sales", "Monthly subscriptions", "Selling TV hardware", "Pay-per-download films"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Which is a direct Netflix rival in streaming?", "options": ["Spotify", "Disney+", "Roblox", "Uber"], "correct_idx": 1, "part_kind": "RIVALS" },
+        { "prompt": "What newer, cheaper option did Netflix add?", "options": ["A free channel", "An ad-supported plan", "A cable package", "A one-time lifetime pass"], "correct_idx": 1, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Netflix streams films, series and games worldwide, earning mostly from subscriptions plus a growing ad tier. FY2025 revenue $45,183 million, net income $10,981 million. Watch ads and live events.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "nike",
+      "name": "Nike, Inc.",
+      "type": "listed",
+      "industry": "textiles-apparel",
+      "profile": { "hq": "Beaverton, Oregon, USA", "leader": "Elliott Hill", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Nike designs and sells athletic footwear, apparel and equipment under the Nike and Jordan brands, plus Converse. It sells through its own stores and apps and through retailers. Veteran Elliott Hill returned as CEO in late 2024 to steady the brand after a sales wobble.",
+        "EARNS": "Nike earns from selling shoes and sportswear, with footwear the biggest category and the Jordan brand a major driver. Its own direct channel, stores and digital apps, carries higher margins than wholesale; North America is its largest market.",
+        "SIZE": "The world's largest sportswear company by sales, with a global supply chain and one of the most recognised consumer brands anywhere.",
+        "RIVALS": "Adidas, Puma, Under Armour, New Balance, Asics and fast-growing challengers On and Hoka, plus Lululemon in athletic apparel.",
+        "WATCH": "Whether Hill's reset revives innovation and wholesale ties, how China demand recovers, inventory clean-up, and pressure from On and Hoka at the premium-running end."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "46398", "unit": "$ million", "period": "FY26", "source": { "title": "Nike FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/NKE/financials/" } },
+        { "label": "Net income", "value": "3108", "unit": "$ million", "period": "FY26", "source": { "title": "Nike FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/NKE/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which premium brand does Nike own?", "options": ["Jordan", "Yeezy", "Reebok", "Fila"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is Nike's biggest product category?", "options": ["Equipment", "Footwear", "Watches", "Eyewear"], "correct_idx": 1, "part_kind": "EARNS" },
+        { "prompt": "Who is a traditional Nike rival?", "options": ["Adidas", "Levi's", "Zara", "Patagonia"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Nike sells footwear and sportswear under Nike, Jordan and Converse, with footwear the engine. FY2026 revenue $46,398 million, net income $3,108 million. Watch Elliott Hill's turnaround.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "nvidia",
+      "name": "Nvidia",
+      "type": "listed",
+      "industry": "semiconductors",
+      "profile": { "hq": "Santa Clara, California, USA", "leader": "Jensen Huang", "leader_role": "Founder & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Nvidia designs chips and the software around them. Its GPUs power video games, but the giant business now is data-centre accelerators for artificial intelligence, sold with networking gear and the CUDA software platform developers build on. It also sells chips for cars and robotics.",
+        "EARNS": "Nvidia earns mostly from selling data-centre GPUs and systems to cloud providers and companies training AI models, a segment that dwarfs its older gaming business. It designs the chips and outsources manufacturing, keeping high margins on cutting-edge parts.",
+        "SIZE": "The dominant maker of AI accelerators and one of the most valuable companies in the world, central to the current AI build-out.",
+        "RIVALS": "AMD and Intel in chips, cloud giants Google, Amazon and Microsoft designing their own AI silicon, and specialists like Broadcom in custom accelerators.",
+        "WATCH": "Whether AI demand stays this hot, export limits on sales to China, customers building in-house chips, and how fast each new GPU generation ships."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "215938", "unit": "$ million", "period": "FY26", "source": { "title": "Nvidia FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/NVDA/financials/" } },
+        { "label": "Net income", "value": "120067", "unit": "$ million", "period": "FY26", "source": { "title": "Nvidia FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/NVDA/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Nvidia's biggest business today?", "options": ["Gaming consoles", "Data-centre AI chips", "Phone screens", "Hard drives"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What software platform locks developers to Nvidia?", "options": ["CUDA", "Android", "Linux", "iOS"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which company is a direct Nvidia chip rival?", "options": ["Oracle", "AMD", "Netflix", "Visa"], "correct_idx": 1, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Nvidia designs GPUs that now power the AI boom, sold with its CUDA software. FY2026 revenue $215,938 million, net income $120,067 million. Watch AI demand and China export limits.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "oracle",
+      "name": "Oracle Corporation",
+      "type": "listed",
+      "industry": "internet-software",
+      "profile": { "hq": "Austin, Texas, USA", "leader": "Clay Magouyrk & Mike Sicilia", "leader_role": "Co-CEOs", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Oracle sells database software, business applications and cloud infrastructure. Its databases run many large organisations; its cloud rents computing power, increasingly for AI workloads. Larry Ellison stays chairman and CTO, with Safra Catz now vice chair after co-CEOs Clay Magouyrk and Mike Sicilia took over in 2025.",
+        "EARNS": "Oracle earns from software licences and, more and more, from cloud subscriptions and infrastructure rentals billed over time. Cloud services and licence support make up the bulk of revenue; the fast-growing piece is cloud infrastructure signed through big multi-year deals.",
+        "SIZE": "One of the largest enterprise-software firms in the world and a rising cloud-infrastructure provider, with database products embedded across big institutions.",
+        "RIVALS": "Microsoft, Amazon Web Services and Google in cloud; SAP in business applications; and database challengers like Snowflake and open-source options.",
+        "WATCH": "Whether huge AI-cloud contracts convert to steady revenue, how the new co-CEO structure settles, capital spending on data centres, and competition from bigger cloud rivals."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "67357", "unit": "$ million", "period": "FY26", "source": { "title": "Oracle FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/ORCL/financials/" } },
+        { "label": "Net income", "value": "16984", "unit": "$ million", "period": "FY26", "source": { "title": "Oracle FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/ORCL/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Oracle best known for?", "options": ["Search engines", "Database software", "Smartphones", "Payment cards"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "Which is a fast-growing Oracle business?", "options": ["Cloud infrastructure", "Film studios", "Grocery stores", "Airlines"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is an Oracle cloud rival?", "options": ["Amazon Web Services", "Pfizer", "Nike", "PepsiCo"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Oracle sells databases, business apps and fast-growing cloud infrastructure for AI. FY2026 revenue $67,357 million, net income $16,984 million. Watch whether big AI-cloud deals become steady revenue.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "pepsico",
+      "name": "PepsiCo",
+      "type": "listed",
+      "industry": "fmcg",
+      "profile": { "hq": "Purchase, New York, USA", "leader": "Ramon Laguarta", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "PepsiCo sells drinks and snacks: Pepsi, Gatorade, Tropicana and Mountain Dew alongside Lay's, Doritos, Cheetos and Quaker foods. Snacks, through its Frito-Lay and Quaker arms, are as central as beverages. It is pushing smaller pack sizes and healthier and functional options.",
+        "EARNS": "PepsiCo earns from selling packaged snacks and drinks through shops, restaurants and vending, backed by heavy marketing and its own distribution. Its North American snacks business is the biggest profit engine; drinks and fast-growing international markets add the rest.",
+        "SIZE": "One of the world's largest food-and-beverage companies, with brands sold in almost every country and a vast snacks and drinks distribution network.",
+        "RIVALS": "Coca-Cola in drinks; Mondelez, Kellanova, Nestle and General Mills in snacks and packaged food; plus cheaper private-label brands.",
+        "WATCH": "How it restages big brands to lift growth, shifting tastes toward health, weight-loss drugs' effect on snacking, and input-cost and pricing pressure."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "93925", "unit": "$ million", "period": "FY2025", "source": { "title": "PepsiCo FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/PEP/financials/" } },
+        { "label": "Net income", "value": "8240", "unit": "$ million", "period": "FY2025", "source": { "title": "PepsiCo FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/PEP/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which snack brand does PepsiCo own?", "options": ["Pringles", "Doritos", "Oreo", "KitKat"], "correct_idx": 1, "part_kind": "SELLS" },
+        { "prompt": "What is PepsiCo's biggest profit engine?", "options": ["North American snacks", "European water", "Coffee shops", "Restaurants"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is PepsiCo's main drinks rival?", "options": ["Coca-Cola", "Nestle", "Unilever", "Danone"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "PepsiCo sells drinks and snacks, from Pepsi and Gatorade to Lay's and Doritos. FY2025 revenue $93,925 million, net income $8,240 million. Watch health trends and brand restaging.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "pfizer",
+      "name": "Pfizer",
+      "type": "listed",
+      "industry": "pharma",
+      "profile": { "hq": "New York City, New York, USA", "leader": "Albert Bourla", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Pfizer discovers, makes and sells prescription medicines and vaccines, spanning cancer, vaccines, heart and immune diseases, and rare conditions. After the COVID boom faded, it is leaning on an expanded cancer portfolio, helped by its Seagen acquisition, and other new launches.",
+        "EARNS": "Pfizer earns by selling patented drugs and vaccines to health systems, pharmacies and governments, protected for years by patents. Oncology is now a central growth area; COVID products still contribute but far less than at their peak.",
+        "SIZE": "One of the largest pharmaceutical companies in the world, with a broad drug pipeline and global manufacturing and research operations.",
+        "RIVALS": "Merck, Johnson & Johnson, AbbVie, Novartis, Roche, AstraZeneca and, in vaccines, Moderna and GSK.",
+        "WATCH": "Patent expiries on big sellers, whether the oncology pipeline delivers, cost-cutting, deal-making to refill the pipeline, and US drug-pricing policy."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "62579", "unit": "$ million", "period": "FY2025", "source": { "title": "Pfizer FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/PFE/financials/" } },
+        { "label": "Net income", "value": "7771", "unit": "$ million", "period": "FY2025", "source": { "title": "Pfizer FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/PFE/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What does Pfizer mainly make?", "options": ["Medicines and vaccines", "Medical scanners", "Hospital buildings", "Health insurance"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which area is now a key Pfizer growth focus?", "options": ["Oncology", "Pet food", "Cosmetics", "Baby formula"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is a Pfizer rival in vaccines?", "options": ["Moderna", "Tesla", "Oracle", "Visa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Pfizer discovers and sells patented medicines and vaccines, now leaning on oncology as COVID sales fade. FY2025 revenue $62,579 million, net income $7,771 million. Watch patent expiries and pipeline.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "procter-and-gamble",
+      "name": "Procter & Gamble",
+      "type": "listed",
+      "industry": "fmcg",
+      "profile": { "hq": "Cincinnati, Ohio, USA", "leader": "Shailesh Jejurikar", "leader_role": "Chairman, President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Procter & Gamble makes everyday household and personal-care products: Tide, Ariel, Pampers, Gillette, Pantene, Oral-B and Olay among them. It focuses on big, daily-use brands across fabric and home care, baby, grooming, hair and health. Shailesh Jejurikar became CEO in early 2026 and added the chairman role.",
+        "EARNS": "P&G earns by selling branded consumer staples through shops and online worldwide, using scale, marketing and steady innovation to hold premium prices. Fabric and home care is its largest segment; most profit comes from leading brands in each category.",
+        "SIZE": "One of the world's largest consumer-goods companies, with several billion-dollar brands sold in most countries.",
+        "RIVALS": "Unilever, Colgate-Palmolive, Kimberly-Clark, Henkel, Reckitt and L'Oreal, plus cheaper private-label products.",
+        "WATCH": "Whether shoppers keep paying up for brands, the new CEO's plans and announced restructuring, input costs, and growth in developing markets."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "87032", "unit": "$ million", "period": "FY26", "source": { "title": "Procter & Gamble FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/PG/financials/" } },
+        { "label": "Net income", "value": "15754", "unit": "$ million", "period": "FY26", "source": { "title": "Procter & Gamble FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/PG/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "Which brand does P&G own?", "options": ["Tide", "Surf", "Persil", "Dove"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "What is P&G's largest segment?", "options": ["Fabric and home care", "Pet food", "Snacks", "Electronics"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is a direct P&G rival?", "options": ["Unilever", "Pfizer", "Nvidia", "Walmart"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "P&G makes household and personal-care brands like Tide, Pampers and Gillette. FY2026 revenue $87,032 million, net income $15,754 million. Watch pricing power and new CEO Shailesh Jejurikar's plans.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "qualcomm",
+      "name": "Qualcomm",
+      "type": "listed",
+      "industry": "semiconductors",
+      "profile": { "hq": "San Diego, California, USA", "leader": "Cristiano Amon", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Qualcomm designs chips and wireless technology for smartphones, its Snapdragon processors and modems powering many Android phones. It also licenses its huge library of mobile patents, and is expanding into chips for cars, PCs and connected devices.",
+        "EARNS": "Qualcomm earns two ways: selling chips (its QCT arm) and collecting royalties when device makers license its patents (its QTL arm). Chip sales are the larger line; patent licensing is smaller but very high margin. Handsets are the biggest end market.",
+        "SIZE": "A leading supplier of smartphone chips and wireless patents, with a licensing business that touches most of the mobile industry.",
+        "RIVALS": "MediaTek in phone chips, Apple designing its own silicon, plus Nvidia, AMD and Intel as it pushes into PCs and automotive.",
+        "WATCH": "Apple building its own modems, the move into car and PC chips, patent-licensing renewals, and reliance on a few big handset customers."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "44284", "unit": "$ million", "period": "FY2025", "source": { "title": "Qualcomm FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/QCOM/financials/" } },
+        { "label": "Net income", "value": "5541", "unit": "$ million", "period": "FY2025", "source": { "title": "Qualcomm FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/QCOM/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What are Qualcomm's phone processors called?", "options": ["Snapdragon", "Ryzen", "Exynos", "Tensor"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Qualcomm's licensing arm make money?", "options": ["Patent royalties", "Ad sales", "App store fees", "Cloud rentals"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is a Qualcomm rival in phone chips?", "options": ["MediaTek", "Salesforce", "PepsiCo", "Visa"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Qualcomm designs Snapdragon phone chips and licenses mobile patents, now pushing into cars and PCs. FY2025 revenue $44,284 million, net income $5,541 million. Watch Apple's in-house modem shift.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "salesforce",
+      "name": "Salesforce",
+      "type": "listed",
+      "industry": "saas",
+      "profile": { "hq": "San Francisco, California, USA", "leader": "Marc Benioff", "leader_role": "Chair & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Salesforce sells cloud software that companies use to manage sales, customer service, marketing and commerce, all rented over the internet. It owns Slack, Tableau and MuleSoft, and is pushing Agentforce, AI agents that handle customer tasks inside its apps.",
+        "EARNS": "Salesforce earns from subscriptions to its software, billed per user over multi-year contracts, plus add-ons for analytics, integration and AI. Its core sales and service clouds bring in most revenue; it grows by adding products and raising usage per customer.",
+        "SIZE": "The leading customer-relationship-management software provider and one of the largest business-software companies in the world.",
+        "RIVALS": "Microsoft Dynamics, Oracle, SAP, Adobe, HubSpot and ServiceNow across the different clouds it sells.",
+        "WATCH": "Whether Agentforce AI drives new spending, margin improvement after cost cuts, large deal-making, and competition from Microsoft bundling rival tools."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "41525", "unit": "$ million", "period": "FY26", "source": { "title": "Salesforce FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/CRM/financials/" } },
+        { "label": "Net income", "value": "7457", "unit": "$ million", "period": "FY26", "source": { "title": "Salesforce FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/CRM/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What does Salesforce mainly sell?", "options": ["Cloud business software", "Smartphones", "Sportswear", "Soft drinks"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does Salesforce mostly earn?", "options": ["Software subscriptions", "Ad clicks", "Device sales", "Loan interest"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Which messaging app does Salesforce own?", "options": ["Slack", "Teams", "Zoom", "Discord"], "correct_idx": 0, "part_kind": "SELLS" }
+      ],
+      "note_30w": "Salesforce rents cloud software for sales, service and marketing, and owns Slack and Tableau. FY2026 revenue $41,525 million, net income $7,457 million. Watch adoption of its Agentforce AI agents.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "tesla",
+      "name": "Tesla, Inc.",
+      "type": "listed",
+      "industry": "automobiles",
+      "profile": { "hq": "Austin, Texas, USA", "leader": "Elon Musk", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Tesla makes electric cars, the Model 3, Y, S, X and Cybertruck, plus energy products: home and grid batteries and solar. It also sells software like driver-assistance features and is developing robotaxis and a humanoid robot. Cars remain the core, with energy storage growing fast.",
+        "EARNS": "Tesla earns mainly from selling electric vehicles, topped up by software upgrades, charging, regulatory credits and a fast-growing energy-storage business. Automotive is the largest segment; energy and services add a rising share as deliveries face tougher competition.",
+        "SIZE": "One of the world's most valuable carmakers and a leading seller of battery-electric vehicles, with its own charging network and battery operations.",
+        "RIVALS": "BYD and other Chinese EV makers, legacy carmakers like Volkswagen, Ford, GM and Hyundai, plus energy-storage and self-driving competitors.",
+        "WATCH": "Price competition and demand for EVs, progress on robotaxis and the Optimus robot, energy-storage growth, and how much Musk's other ventures distract."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "94827", "unit": "$ million", "period": "FY2025", "source": { "title": "Tesla FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/TSLA/financials/" } },
+        { "label": "Net income", "value": "3794", "unit": "$ million", "period": "FY2025", "source": { "title": "Tesla FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/TSLA/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What is Tesla's core product?", "options": ["Electric cars", "Airliners", "Smartphones", "Groceries"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which is a growing non-car Tesla business?", "options": ["Energy storage", "Film studios", "Banking", "Fashion"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is a major Tesla EV rival?", "options": ["BYD", "Pfizer", "Oracle", "Nike"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Tesla sells electric cars plus energy storage and driver-assistance software. FY2025 revenue $94,827 million, net income $3,794 million. Watch EV price competition and progress on robotaxis and Optimus.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "unitedhealth",
+      "name": "UnitedHealth Group",
+      "type": "listed",
+      "industry": "healthcare-services",
+      "profile": { "hq": "Eden Prairie, Minnesota, USA", "leader": "Stephen Hemsley", "leader_role": "Chairman & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "UnitedHealth runs two arms: UnitedHealthcare, which sells health insurance to employers, individuals and government programmes, and Optum, which provides care, pharmacy benefits and health-data services. Stephen Hemsley returned as CEO in 2025 to steady the group after a difficult year.",
+        "EARNS": "UnitedHealth earns premiums from insurance plans and fees from Optum's pharmacy, care-delivery and data services. Insurance brings in the most revenue, while Optum is the faster-growing, higher-margin engine; government programmes are a large customer base.",
+        "SIZE": "One of the largest healthcare companies in the world by revenue, combining a giant insurer with a sprawling health-services business.",
+        "RIVALS": "Insurers Elevance, Cigna, CVS Health's Aetna, Humana and Centene; Optum competes with other pharmacy-benefit and care providers.",
+        "WATCH": "Medical cost trends running high, pricing discipline after a weak stretch, regulatory and public scrutiny, and how fast Optum keeps expanding."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "447964", "unit": "$ million", "period": "FY2025", "source": { "title": "UnitedHealth Group FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/UNH/financials/" } },
+        { "label": "Net income", "value": "12056", "unit": "$ million", "period": "FY2025", "source": { "title": "UnitedHealth Group FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/UNH/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What are UnitedHealth's two main arms?", "options": ["UnitedHealthcare and Optum", "Retail and oil", "Search and ads", "Cars and energy"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "How does the insurance arm mainly earn?", "options": ["Insurance premiums", "Ticket sales", "App downloads", "Chip royalties"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is a UnitedHealth insurance rival?", "options": ["Cigna", "Nvidia", "Walmart", "Netflix"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "UnitedHealth pairs insurer UnitedHealthcare with health-services arm Optum. FY2025 revenue $447,964 million, net income $12,056 million. Watch medical costs and Optum's growth under returning CEO Stephen Hemsley.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "visa",
+      "name": "Visa Inc.",
+      "type": "listed",
+      "industry": "fintech-payments",
+      "profile": { "hq": "San Francisco, California, USA", "leader": "Ryan McInerney", "leader_role": "CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Visa runs one of the world's largest payment networks, connecting banks, merchants and cardholders so card and digital payments clear in seconds. It does not lend or issue cards itself; banks do that. It also sells fraud, data and value-added services, and is building into new payment flows.",
+        "EARNS": "Visa earns fees each time its network processes a payment, based on transaction volume and the money moving across borders, plus charges for data and security services. Cross-border transactions are especially lucrative; banks and merchants, not consumers, pay Visa directly.",
+        "SIZE": "One of the two dominant global card networks, handling a vast share of the world's electronic payments across more than 200 countries.",
+        "RIVALS": "Mastercard most directly, American Express, China's UnionPay, PayPal and account-to-account and real-time payment systems springing up worldwide.",
+        "WATCH": "Growth of account-to-account and real-time payments that bypass cards, regulation of fees, cross-border travel trends, and the push into new flows and agentic commerce."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "40000", "unit": "$ million", "period": "FY2025", "source": { "title": "Visa FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/V/financials/" } },
+        { "label": "Net income", "value": "19853", "unit": "$ million", "period": "FY2025", "source": { "title": "Visa FY2025 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY2025", "url": "https://stockanalysis.com/stocks/V/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What does Visa actually do?", "options": ["Runs a payment network", "Lends money to shoppers", "Issues its own cards", "Sells phones"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which payments are especially lucrative for Visa?", "options": ["Cross-border", "Cash withdrawals", "Cheque clearing", "Barter"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is Visa's closest rival?", "options": ["Mastercard", "Oracle", "Pfizer", "Nike"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Visa runs a global payment network, earning fees as transactions clear; banks issue the cards. FY2025 revenue $40,000 million, net income $19,853 million. Watch real-time payments that bypass cards.",
+      "review": "unreviewed"
+    },
+    {
+      "v": 2,
+      "slug": "walmart",
+      "name": "Walmart",
+      "type": "listed",
+      "industry": "retail",
+      "profile": { "hq": "Bentonville, Arkansas, USA", "leader": "John Furner", "leader_role": "President & CEO", "as_of": "Oct 2026" },
+      "parts": {
+        "SELLS": "Walmart runs supercentres, discount stores and Sam's Club warehouse clubs, selling groceries, household goods and general merchandise cheaply, plus a fast-growing online store and marketplace. Groceries are the biggest draw. John Furner became CEO in early 2026, succeeding Doug McMillon.",
+        "EARNS": "Walmart earns mainly by selling huge volumes of goods at thin margins, topped up by membership fees, a growing advertising business and marketplace and delivery fees. US stores and groceries drive the most revenue; advertising and services add higher-margin growth.",
+        "SIZE": "The world's largest retailer by revenue, with thousands of stores and one of the biggest private workforces anywhere.",
+        "RIVALS": "Amazon online, Costco in warehouse clubs, Target, Kroger in grocery, and dollar stores, plus fast-growing discounters.",
+        "WATCH": "E-commerce and advertising growth, automation in stores and warehouses, grocery price pressure, and the leadership handover to John Furner."
+      },
+      "figures": [
+        { "label": "Revenue", "value": "713163", "unit": "$ million", "period": "FY26", "source": { "title": "Walmart FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/WMT/financials/" } },
+        { "label": "Net income", "value": "21893", "unit": "$ million", "period": "FY26", "source": { "title": "Walmart FY2026 income statement (stockanalysis.com)", "doc_type": "annual_report", "period": "FY26", "url": "https://stockanalysis.com/stocks/WMT/financials/" } }
+      ],
+      "quiz": [
+        { "prompt": "What draws the most Walmart shoppers?", "options": ["Groceries", "Jewellery", "Cars", "Furniture only"], "correct_idx": 0, "part_kind": "SELLS" },
+        { "prompt": "Which higher-margin business is Walmart growing?", "options": ["Advertising", "Airlines", "Oil drilling", "Film studios"], "correct_idx": 0, "part_kind": "EARNS" },
+        { "prompt": "Who is Walmart's biggest online rival?", "options": ["Amazon", "Pfizer", "Visa", "Nvidia"], "correct_idx": 0, "part_kind": "RIVALS" }
+      ],
+      "note_30w": "Walmart sells groceries and general goods cheaply through stores, clubs and online, adding advertising. FY2026 revenue $713,163 million, net income $21,893 million. Watch e-commerce, ads and new CEO John Furner.",
+      "review": "unreviewed"
+    }
+  ]
+}
