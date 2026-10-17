@@ -20,7 +20,7 @@ export default function AboutPage() {
       <Header />
       <main className="column pt-14">
         <h1 className="font-display text-[34px] font-semibold leading-[1.08] tracking-[-0.02em]">
-          Understand any Indian company in 60 seconds —{" "}
+          Understand any company in 60 seconds —{" "}
           <span className="font-serif font-normal italic tracking-normal">and keep what you learn.</span>
         </h1>
 
@@ -44,7 +44,7 @@ export default function AboutPage() {
         <section id="free" className="mt-14 scroll-mt-8">
           <h2 className="label">ANANT Free · ₹0</h2>
           <p className="mt-3 text-[16px] leading-[1.5]">
-            60-second explainers on Indian listed companies, notable startups and business models. Each explainer has
+            60-second explainers on listed companies worldwide, notable startups and business models. Each explainer has
             the same five parts: what it sells, how it earns, how big it is, who it competes with, and what to watch.
             It ends with a 30-word note saved to your notebook and a quick quiz.
           </p>

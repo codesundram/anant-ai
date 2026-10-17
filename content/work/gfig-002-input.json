@@ -1,0 +1,149 @@
+{
+ "wave": "g1",
+ "part": 2,
+ "companies": [
+  {
+   "slug": "costco",
+   "name": "Costco",
+   "type": "listed",
+   "market": "us",
+   "symbol": "COST",
+   "cik": "909832",
+   "hq": "Issaquah, Washington",
+   "industry": "fmcg",
+   "status": "pending"
+  },
+  {
+   "slug": "exxonmobil",
+   "name": "ExxonMobil",
+   "type": "listed",
+   "market": "us",
+   "symbol": "XOM",
+   "cik": "2115436",
+   "hq": "Irving, Texas",
+   "industry": "oil-gas-fuels",
+   "status": "pending"
+  },
+  {
+   "slug": "goldman-sachs",
+   "name": "Goldman Sachs",
+   "type": "listed",
+   "market": "us",
+   "symbol": "GS",
+   "cik": "886982",
+   "hq": "New York City, New York",
+   "industry": "banking",
+   "status": "pending"
+  },
+  {
+   "slug": "home-depot",
+   "name": "Home Depot (The)",
+   "type": "listed",
+   "market": "us",
+   "symbol": "HD",
+   "cik": "354950",
+   "hq": "Atlanta, Georgia",
+   "industry": "consumer-durables",
+   "status": "pending"
+  },
+  {
+   "slug": "ibm",
+   "name": "IBM",
+   "type": "listed",
+   "market": "us",
+   "symbol": "IBM",
+   "cik": "51143",
+   "hq": "Armonk, New York",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "intel",
+   "name": "Intel",
+   "type": "listed",
+   "market": "us",
+   "symbol": "INTC",
+   "cik": "50863",
+   "hq": "Santa Clara, California",
+   "industry": "semiconductors",
+   "status": "pending"
+  },
+  {
+   "slug": "johnson-and-johnson",
+   "name": "Johnson & Johnson",
+   "type": "listed",
+   "market": "us",
+   "symbol": "JNJ",
+   "cik": "200406",
+   "hq": "New Brunswick, New Jersey",
+   "industry": "pharma",
+   "status": "pending"
+  },
+  {
+   "slug": "jpmorgan-chase",
+   "name": "JPMorgan Chase",
+   "type": "listed",
+   "market": "us",
+   "symbol": "JPM",
+   "cik": "19617",
+   "hq": "New York City, New York",
+   "industry": "banking",
+   "status": "pending"
+  },
+  {
+   "slug": "lilly-eli",
+   "name": "Lilly (Eli)",
+   "type": "listed",
+   "market": "us",
+   "symbol": "LLY",
+   "cik": "59478",
+   "hq": "Indianapolis, Indiana",
+   "industry": "pharma",
+   "status": "pending"
+  },
+  {
+   "slug": "mastercard",
+   "name": "Mastercard",
+   "type": "listed",
+   "market": "us",
+   "symbol": "MA",
+   "cik": "1141391",
+   "hq": "Harrison, New York",
+   "industry": "capital-markets",
+   "status": "pending"
+  },
+  {
+   "slug": "mcdonalds",
+   "name": "McDonald's",
+   "type": "listed",
+   "market": "us",
+   "symbol": "MCD",
+   "cik": "63908",
+   "hq": "Chicago, Illinois",
+   "industry": "restaurants",
+   "status": "pending"
+  },
+  {
+   "slug": "meta-platforms",
+   "name": "Meta Platforms",
+   "type": "listed",
+   "market": "us",
+   "symbol": "META",
+   "cik": "1326801",
+   "hq": "Menlo Park, California",
+   "industry": "media-entertainment",
+   "status": "pending"
+  },
+  {
+   "slug": "microsoft",
+   "name": "Microsoft",
+   "type": "listed",
+   "market": "us",
+   "symbol": "MSFT",
+   "cik": "789019",
+   "hq": "Redmond, Washington",
+   "industry": "internet-software",
+   "status": "pending"
+  }
+ ]
+}

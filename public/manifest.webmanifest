@@ -1,7 +1,7 @@
 {
   "name": "ANANT.AI",
   "short_name": "ANANT.AI",
-  "description": "Understand any Indian company in 60 seconds",
+  "description": "Understand any company in 60 seconds",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

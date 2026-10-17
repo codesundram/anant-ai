@@ -1,0 +1,97 @@
+{
+ "wave": "g1",
+ "part": 4,
+ "companies": [
+  {
+   "slug": "walt-disney",
+   "name": "Walt Disney Company (The)",
+   "type": "listed",
+   "market": "us",
+   "symbol": "DIS",
+   "cik": "1744489",
+   "hq": "Burbank, California",
+   "industry": "media-entertainment",
+   "status": "pending"
+  },
+  {
+   "slug": "asml-holding",
+   "name": "ASML Holding",
+   "type": "listed",
+   "market": "eu",
+   "industry": "semiconductors",
+   "status": "pending"
+  },
+  {
+   "slug": "lvmh",
+   "name": "LVMH",
+   "type": "listed",
+   "market": "eu",
+   "industry": "luxury-goods",
+   "status": "pending"
+  },
+  {
+   "slug": "novo-nordisk",
+   "name": "Novo Nordisk",
+   "type": "listed",
+   "market": "eu",
+   "industry": "pharma",
+   "status": "pending"
+  },
+  {
+   "slug": "nestl",
+   "name": "Nestlé",
+   "type": "listed",
+   "market": "eu",
+   "industry": "fmcg",
+   "status": "pending"
+  },
+  {
+   "slug": "sap",
+   "name": "SAP",
+   "type": "listed",
+   "market": "eu",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "shell",
+   "name": "Shell",
+   "type": "listed",
+   "market": "eu",
+   "industry": "oil-gas-fuels",
+   "status": "pending"
+  },
+  {
+   "slug": "spotify",
+   "name": "Spotify",
+   "type": "listed",
+   "market": "eu",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "openai",
+   "name": "OpenAI",
+   "type": "startup",
+   "market": "global-startup",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "anthropic",
+   "name": "Anthropic",
+   "type": "startup",
+   "market": "global-startup",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "stripe",
+   "name": "Stripe",
+   "type": "startup",
+   "market": "global-startup",
+   "industry": "fintech-payments",
+   "status": "pending"
+  }
+ ]
+}

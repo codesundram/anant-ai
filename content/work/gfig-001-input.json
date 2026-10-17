@@ -1,0 +1,149 @@
+{
+ "wave": "g1",
+ "part": 1,
+ "companies": [
+  {
+   "slug": "adobe",
+   "name": "Adobe Inc.",
+   "type": "listed",
+   "market": "us",
+   "symbol": "ADBE",
+   "cik": "796343",
+   "hq": "San Jose, California",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "advanced-micro-devices",
+   "name": "Advanced Micro Devices",
+   "type": "listed",
+   "market": "us",
+   "symbol": "AMD",
+   "cik": "2488",
+   "hq": "Santa Clara, California",
+   "industry": "semiconductors",
+   "status": "pending"
+  },
+  {
+   "slug": "alphabet",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "listed",
+   "market": "us",
+   "symbol": "GOOGL",
+   "cik": "1652044",
+   "hq": "Mountain View, California",
+   "industry": "media-entertainment",
+   "status": "pending"
+  },
+  {
+   "slug": "amazon",
+   "name": "Amazon",
+   "type": "listed",
+   "market": "us",
+   "symbol": "AMZN",
+   "cik": "1018724",
+   "hq": "Seattle, Washington",
+   "industry": "retail",
+   "status": "pending"
+  },
+  {
+   "slug": "apple",
+   "name": "Apple Inc.",
+   "type": "listed",
+   "market": "us",
+   "symbol": "AAPL",
+   "cik": "320193",
+   "hq": "Cupertino, California",
+   "industry": "consumer-electronics-d2c",
+   "status": "pending"
+  },
+  {
+   "slug": "bank-of-america",
+   "name": "Bank of America",
+   "type": "listed",
+   "market": "us",
+   "symbol": "BAC",
+   "cik": "70858",
+   "hq": "Charlotte, North Carolina",
+   "industry": "banking",
+   "status": "pending"
+  },
+  {
+   "slug": "berkshire-hathaway",
+   "name": "Berkshire Hathaway",
+   "type": "listed",
+   "market": "us",
+   "symbol": "BRK.B",
+   "cik": "1067983",
+   "hq": "Omaha, Nebraska",
+   "industry": "capital-markets",
+   "status": "pending"
+  },
+  {
+   "slug": "boeing",
+   "name": "Boeing",
+   "type": "listed",
+   "market": "us",
+   "symbol": "BA",
+   "cik": "12927",
+   "hq": "Arlington, Virginia",
+   "industry": "aerospace-defense",
+   "status": "pending"
+  },
+  {
+   "slug": "broadcom",
+   "name": "Broadcom",
+   "type": "listed",
+   "market": "us",
+   "symbol": "AVGO",
+   "cik": "1730168",
+   "hq": "Palo Alto, California",
+   "industry": "semiconductors",
+   "status": "pending"
+  },
+  {
+   "slug": "caterpillar",
+   "name": "Caterpillar Inc.",
+   "type": "listed",
+   "market": "us",
+   "symbol": "CAT",
+   "cik": "18230",
+   "hq": "Irving, Texas",
+   "industry": "construction-infrastructure",
+   "status": "pending"
+  },
+  {
+   "slug": "chevron",
+   "name": "Chevron Corporation",
+   "type": "listed",
+   "market": "us",
+   "symbol": "CVX",
+   "cik": "93410",
+   "hq": "Houston, Texas",
+   "industry": "oil-gas-fuels",
+   "status": "pending"
+  },
+  {
+   "slug": "cisco",
+   "name": "Cisco",
+   "type": "listed",
+   "market": "us",
+   "symbol": "CSCO",
+   "cik": "858877",
+   "hq": "San Jose, California",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "coca-cola",
+   "name": "Coca-Cola Company (The)",
+   "type": "listed",
+   "market": "us",
+   "symbol": "KO",
+   "cik": "21344",
+   "hq": "Atlanta, Georgia",
+   "industry": "fmcg",
+   "status": "pending"
+  }
+ ]
+}

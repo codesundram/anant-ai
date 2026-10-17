@@ -1,7 +1,7 @@
 // Single home for fixed vocabulary and approved copy. Edit here, nowhere else.
 
 export const BRAND = "ANANT";
-export const TAGLINE = "Understand any Indian company in 60 seconds";
+export const TAGLINE = "Understand any company in 60 seconds";
 // Placeholder until the legal entity is registered.
 export const COPYRIGHT = "© 2026 ANANT";
 export const DISCLAIMER =
@@ -65,6 +65,13 @@ export const INDUSTRIES = {
   "textiles-apparel": "Textiles & apparel",
   "media-entertainment": "Media, gaming & entertainment",
   "consumer-services": "Consumer services",
+  // Added for global (US/EU) coverage.
+  semiconductors: "Semiconductors",
+  biotech: "Biotech",
+  "aerospace-defense": "Aerospace & defence",
+  "internet-software": "Internet & software",
+  restaurants: "Restaurants & food service",
+  "luxury-goods": "Luxury goods",
 } as const;
 export type IndustrySlug = keyof typeof INDUSTRIES;
 

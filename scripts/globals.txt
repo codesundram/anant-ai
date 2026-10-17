@@ -1,0 +1,85 @@
+# European large-caps and global startups, one per line: Name | market | industry slug
+# market: eu (listed Europe/UK) or global-startup (unlisted). Figures in native currency.
+# European / UK large caps
+ASML Holding | eu | semiconductors
+LVMH | eu | luxury-goods
+Novo Nordisk | eu | pharma
+Nestlé | eu | fmcg
+SAP | eu | internet-software
+Shell | eu | oil-gas-fuels
+AstraZeneca | eu | pharma
+Roche | eu | pharma
+Novartis | eu | pharma
+Unilever | eu | fmcg
+TotalEnergies | eu | oil-gas-fuels
+Siemens | eu | capital-goods
+Hermès | eu | luxury-goods
+HSBC | eu | banking
+BP | eu | oil-gas-fuels
+GSK | eu | pharma
+Airbus | eu | aerospace-defense
+Schneider Electric | eu | capital-goods
+L'Oréal | eu | fmcg
+SAP SE | eu | internet-software
+Volkswagen | eu | automobiles
+Mercedes-Benz Group | eu | automobiles
+BMW | eu | automobiles
+Ferrari | eu | automobiles
+Stellantis | eu | automobiles
+Allianz | eu | insurtech
+AXA | eu | insurtech
+BNP Paribas | eu | banking
+Banco Santander | eu | banking
+UBS | eu | banking
+Deutsche Bank | eu | banking
+Barclays | eu | banking
+Diageo | eu | fmcg
+Anheuser-Busch InBev | eu | fmcg
+BAT (British American Tobacco) | eu | fmcg
+Rio Tinto | eu | metals-materials
+Glencore | eu | metals-materials
+BASF | eu | chemicals
+Rolls-Royce Holdings | eu | aerospace-defense
+BAE Systems | eu | aerospace-defense
+Vodafone Group | eu | telecom
+Deutsche Telekom | eu | telecom
+Enel | eu | energy-utilities
+Iberdrola | eu | energy-utilities
+Prosus | eu | internet-software
+Spotify | eu | internet-software
+Adyen | eu | fintech-payments
+Nokia | eu | telecom
+Ericsson | eu | telecom
+Philips | eu | healthcare-services
+# Global startups / notable unlisted
+OpenAI | global-startup | internet-software
+Anthropic | global-startup | internet-software
+Stripe | global-startup | fintech-payments
+SpaceX | global-startup | aerospace-defense
+Databricks | global-startup | internet-software
+Canva | global-startup | internet-software
+Revolut | global-startup | fintech-payments
+ByteDance | global-startup | internet-software
+Epic Games | global-startup | internet-software
+Discord | global-startup | internet-software
+Figma | global-startup | internet-software
+Notion | global-startup | internet-software
+Chime | global-startup | fintech-payments
+Plaid | global-startup | fintech-payments
+Klarna | global-startup | fintech-payments
+Checkout.com | global-startup | fintech-payments
+xAI | global-startup | internet-software
+Perplexity | global-startup | internet-software
+Mistral AI | global-startup | internet-software
+Scale AI | global-startup | internet-software
+Ramp | global-startup | fintech-payments
+Brex | global-startup | fintech-payments
+Rippling | global-startup | internet-software
+Deel | global-startup | internet-software
+Instacart | global-startup | food-tech-quick-commerce
+Shein | global-startup | fashion-ecommerce
+Grammarly | global-startup | internet-software
+Miro | global-startup | internet-software
+Monzo | global-startup | fintech-payments
+N26 | global-startup | fintech-payments
+Wise | eu | fintech-payments

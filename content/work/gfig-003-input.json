@@ -1,0 +1,149 @@
+{
+ "wave": "g1",
+ "part": 3,
+ "companies": [
+  {
+   "slug": "netflix",
+   "name": "Netflix",
+   "type": "listed",
+   "market": "us",
+   "symbol": "NFLX",
+   "cik": "1065280",
+   "hq": "Los Gatos, California",
+   "industry": "media-entertainment",
+   "status": "pending"
+  },
+  {
+   "slug": "nike",
+   "name": "Nike, Inc.",
+   "type": "listed",
+   "market": "us",
+   "symbol": "NKE",
+   "cik": "320187",
+   "hq": "Washington County, Oregon",
+   "industry": "textiles-apparel",
+   "status": "pending"
+  },
+  {
+   "slug": "nvidia",
+   "name": "Nvidia",
+   "type": "listed",
+   "market": "us",
+   "symbol": "NVDA",
+   "cik": "1045810",
+   "hq": "Santa Clara, California",
+   "industry": "semiconductors",
+   "status": "pending"
+  },
+  {
+   "slug": "oracle",
+   "name": "Oracle Corporation",
+   "type": "listed",
+   "market": "us",
+   "symbol": "ORCL",
+   "cik": "1341439",
+   "hq": "Austin, Texas",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "pepsico",
+   "name": "PepsiCo",
+   "type": "listed",
+   "market": "us",
+   "symbol": "PEP",
+   "cik": "77476",
+   "hq": "Purchase, New York",
+   "industry": "fmcg",
+   "status": "pending"
+  },
+  {
+   "slug": "pfizer",
+   "name": "Pfizer",
+   "type": "listed",
+   "market": "us",
+   "symbol": "PFE",
+   "cik": "78003",
+   "hq": "New York City, New York",
+   "industry": "pharma",
+   "status": "pending"
+  },
+  {
+   "slug": "procter-and-gamble",
+   "name": "Procter & Gamble",
+   "type": "listed",
+   "market": "us",
+   "symbol": "PG",
+   "cik": "80424",
+   "hq": "Cincinnati, Ohio",
+   "industry": "fmcg",
+   "status": "pending"
+  },
+  {
+   "slug": "qualcomm",
+   "name": "Qualcomm",
+   "type": "listed",
+   "market": "us",
+   "symbol": "QCOM",
+   "cik": "804328",
+   "hq": "San Diego, California",
+   "industry": "semiconductors",
+   "status": "pending"
+  },
+  {
+   "slug": "salesforce",
+   "name": "Salesforce",
+   "type": "listed",
+   "market": "us",
+   "symbol": "CRM",
+   "cik": "1108524",
+   "hq": "San Francisco, California",
+   "industry": "internet-software",
+   "status": "pending"
+  },
+  {
+   "slug": "tesla",
+   "name": "Tesla, Inc.",
+   "type": "listed",
+   "market": "us",
+   "symbol": "TSLA",
+   "cik": "1318605",
+   "hq": "Austin, Texas",
+   "industry": "automobiles",
+   "status": "pending"
+  },
+  {
+   "slug": "unitedhealth",
+   "name": "UnitedHealth Group",
+   "type": "listed",
+   "market": "us",
+   "symbol": "UNH",
+   "cik": "731766",
+   "hq": "Eden Prairie, Minnesota",
+   "industry": "healthcare-services",
+   "status": "pending"
+  },
+  {
+   "slug": "visa",
+   "name": "Visa Inc.",
+   "type": "listed",
+   "market": "us",
+   "symbol": "V",
+   "cik": "1403161",
+   "hq": "San Francisco, California",
+   "industry": "capital-markets",
+   "status": "pending"
+  },
+  {
+   "slug": "walmart",
+   "name": "Walmart",
+   "type": "listed",
+   "market": "us",
+   "symbol": "WMT",
+   "cik": "104169",
+   "hq": "Bentonville, Arkansas",
+   "industry": "fmcg",
+   "status": "pending"
+  }
+ ]
+}
