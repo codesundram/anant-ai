@@ -15,3 +15,5 @@ next-env.d.ts
 
 # agent helper scripts (not part of the app)
 scratchpad/
+.vercel
+.env*

@@ -7,7 +7,7 @@ export function InfinityMark({ className = "w-[150px]", draw = false }: { classN
       viewBox="0 0 100 50"
       xmlns="http://www.w3.org/2000/svg"
       role="img"
-      aria-label="ANANT.AI"
+      aria-label="ANANT"
       className={`block h-auto ${draw ? "infinity-draw" : ""} ${className}`}
     >
       <path

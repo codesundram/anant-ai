@@ -1,11 +1,11 @@
 // Single home for fixed vocabulary and approved copy. Edit here, nowhere else.
 
-export const BRAND = "ANANT.AI";
+export const BRAND = "ANANT";
 export const TAGLINE = "Understand any Indian company in 60 seconds";
 // Placeholder until the legal entity is registered.
-export const COPYRIGHT = "© 2026 ANANT.AI";
+export const COPYRIGHT = "© 2026 ANANT";
 export const DISCLAIMER =
-  "ANANT.AI is for education only. It does not provide stock tips, investment advice or recommendations.";
+  "ANANT is for education only. It does not provide stock tips, investment advice or recommendations.";
 
 export const PART_KINDS = ["SELLS", "EARNS", "SIZE", "RIVALS", "WATCH"] as const;
 export type PartKind = (typeof PART_KINDS)[number];

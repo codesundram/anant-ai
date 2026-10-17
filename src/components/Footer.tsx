@@ -17,7 +17,7 @@ export function Footer() {
   return (
     <footer className="column mt-auto pb-8 pt-20 text-center">
       <hr className="hairline mb-10" />
-      <Link href="/search" aria-label="ANANT.AI home" className="mx-auto">
+      <Link href="/search" aria-label="ANANT home" className="mx-auto">
         <Wordmark className="w-[150px]" />
       </Link>
       <p className="mt-3 text-[14px]">{TAGLINE}</p>
