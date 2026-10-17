@@ -3,13 +3,13 @@ import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { Screen } from "@/components/Screen";
 import { Search } from "@/components/Search";
-import { searchCompanies } from "@/lib/catalogue";
+import { countCompanies, searchCompanies } from "@/lib/catalogue";
 
 export const metadata: Metadata = { title: "Search" };
 export const dynamic = "force-dynamic";
 
 export default async function SearchHome() {
-  const initial = await searchCompanies("", 1000);
+  const [initial, total] = await Promise.all([searchCompanies("", 48), countCompanies()]);
   return (
     <Screen theme="watch">
       <Header />
@@ -19,7 +19,7 @@ export default async function SearchHome() {
           <span className="font-serif font-normal italic tracking-normal">Ready for the interview.</span>
         </h1>
         <div className="mt-12">
-          <Search initial={initial} />
+          <Search initial={initial} total={total} />
         </div>
       </main>
       <Footer />

@@ -138,3 +138,9 @@ export async function getIndustryTotals() {
     .filter((r) => r._count.companies > 0)
     .map((r) => ({ slug: r.slug, name: r.name, total: r._count.companies }));
 }
+
+export async function countCompanies() {
+  return prisma.company.count({
+    where: { status: "published", explainers: { some: { status: "published" } } },
+  });
+}

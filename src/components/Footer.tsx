@@ -25,7 +25,7 @@ export function Footer() {
         <ul className="mx-auto grid max-w-[320px] grid-cols-4 gap-x-2 gap-y-1 text-[14px]">
           {LINKS.map(([label, href]) => (
             <li key={label}>
-              <Link href={href} className="inline-block py-2 underline-offset-4 hover:underline">
+              <Link href={href} className="lk inline-block py-2 underline-offset-4 hover:underline">
                 {label}
               </Link>
             </li>

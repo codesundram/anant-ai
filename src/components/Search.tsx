@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import type { SearchResult } from "@/lib/types";
 
-export function Search({ initial }: { initial: SearchResult[] }) {
+export function Search({ initial, total }: { initial: SearchResult[]; total: number }) {
   const [q, setQ] = useState("");
   const [results, setResults] = useState(initial);
   const [settledQuery, setSettledQuery] = useState("");
@@ -44,7 +44,7 @@ export function Search({ initial }: { initial: SearchResult[] }) {
         autoCorrect="off"
         spellCheck={false}
         enterKeyHint="search"
-        className="mt-2 h-[52px] w-full rounded-[4px] border border-ash bg-transparent px-4 font-display text-[18px] font-semibold text-fg placeholder:font-sans placeholder:font-normal placeholder:text-ash focus:border-fg focus:outline-none"
+        className="mt-2 h-[52px] w-full rounded-[4px] border border-ash bg-transparent px-4 font-display text-[18px] font-semibold text-fg transition-colors placeholder:font-sans placeholder:font-normal placeholder:text-ash focus:border-fg focus:outline-none"
       />
 
       {results.length === 0 && searching ? (
@@ -59,13 +59,17 @@ export function Search({ initial }: { initial: SearchResult[] }) {
       ) : (
         <>
           <p className="label mt-10" role="status">
-            {searching ? `${results.length} found` : `Covered so far · ${results.length}`}
+            {searching ? `${results.length} found` : `${total} companies · type to search`}
           </p>
           <ul className="mt-2">
             {results.map((r) => (
               <li key={r.slug} className="border-t border-ash last:border-b">
-                <Link href={`/c/${r.slug}`} className="flex items-baseline justify-between gap-4 py-4">
-                  <span className="font-display text-[18px] font-semibold">{r.name}</span>
+                <Link
+                  href={`/c/${r.slug}`}
+                  prefetch={false}
+                  className="row-link -mx-3 flex items-baseline justify-between gap-4 px-3 py-4"
+                >
+                  <span className="row-name font-display text-[18px] font-semibold">{r.name}</span>
                   <span className="shrink-0 text-right text-[12px] text-ash">{r.industry}</span>
                 </Link>
               </li>

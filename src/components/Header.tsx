@@ -9,8 +9,8 @@ export function Header() {
         <Wordmark className="w-[104px]" />
       </Link>
       <nav aria-label="Main" className="flex items-center gap-5 text-[14px]">
-        <Link href="/notebook">Notebook</Link>
-        <Link href="/progress">Progress</Link>
+        <Link href="/notebook" className="lk">Notebook</Link>
+        <Link href="/progress" className="lk">Progress</Link>
         <SignOutButton />
       </nav>
     </header>

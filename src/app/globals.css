@@ -178,3 +178,83 @@ body {
   .intro-content--hidden { opacity: 1; }
   .intro-content--in { animation: none; }
 }
+
+/* ---- Hover affordances: make clickable things feel clickable ---- */
+.row-link {
+  position: relative;
+  border-radius: 6px;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+.row-link::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 22%;
+  bottom: 22%;
+  width: 2px;
+  border-radius: 2px;
+  background: var(--brass);
+  transform: scaleY(0);
+  transform-origin: center;
+  transition: transform 0.15s ease;
+}
+.row-link:hover,
+.row-link:focus-visible {
+  background: rgba(232, 223, 207, 0.06); /* bone, very faint */
+  transform: translateX(6px);
+}
+.row-link:hover::before,
+.row-link:focus-visible::before {
+  transform: scaleY(1);
+}
+.row-name {
+  transition: color 0.15s ease;
+}
+.row-link:hover .row-name,
+.row-link:focus-visible .row-name {
+  color: var(--brass);
+}
+
+/* Buttons lift on hover, press down on click. */
+.btn,
+.btn-quiet {
+  transition: transform 0.12s ease, box-shadow 0.15s ease, filter 0.15s ease, border-color 0.15s ease,
+    color 0.15s ease;
+}
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  filter: brightness(0.96);
+}
+.btn-quiet:hover {
+  transform: translateY(-2px);
+  border-color: var(--brass);
+  color: var(--brass);
+}
+.btn:active,
+.btn-quiet:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+/* Text links tint to Brass on hover. */
+.lk {
+  transition: color 0.15s ease;
+}
+.lk:hover {
+  color: var(--brass);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .row-link,
+  .btn,
+  .btn-quiet {
+    transition: none;
+  }
+  .row-link:hover,
+  .row-link:focus-visible,
+  .btn:hover,
+  .btn-quiet:hover {
+    transform: none;
+  }
+}
