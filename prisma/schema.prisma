@@ -125,3 +125,15 @@ model QuizQuestion {
 
   @@unique([explainerId, order])
 }
+
+// Pro entitlement, set by Dodo Payments webhooks and keyed by the account email.
+model ProSubscription {
+  id                 String   @id @default(cuid())
+  email              String   @unique
+  status             String // active | renewed | on_hold | cancelled | expired
+  dodoSubscriptionId String?  @map("dodo_subscription_id")
+  dodoCustomerId     String?  @map("dodo_customer_id")
+  currentPeriodEnd   DateTime? @map("current_period_end")
+  createdAt          DateTime @default(now()) @map("created_at")
+  updatedAt          DateTime @updatedAt @map("updated_at")
+}

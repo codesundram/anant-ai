@@ -3,6 +3,8 @@ import Link from "next/link";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { Screen } from "@/components/Screen";
+import { GoPro } from "@/components/GoPro";
+import { getProState } from "@/lib/pro";
 import { DISCLAIMER } from "@/lib/constants";
 
 export const metadata: Metadata = { title: "About" };
@@ -14,7 +16,8 @@ const STEPS = [
   ["Keep.", "A 30-word note in your notebook, and a quick quiz."],
 ] as const;
 
-export default function AboutPage() {
+export default async function AboutPage() {
+  const { isPro } = await getProState();
   return (
     <Screen theme="keep">
       <Header />
@@ -59,7 +62,13 @@ export default function AboutPage() {
             <em className="font-serif text-[20px]">Interview ready.</em> Prep kits, sector tracks and certificates. ₹149
             a month.
           </p>
-          <p className="mt-3 text-[14px] text-ash">Not open yet.</p>
+          {isPro ? (
+            <p className="mt-5 text-[14px] uppercase tracking-label text-brass">✓ You’re a Pro member</p>
+          ) : (
+            <div className="mt-6">
+              <GoPro />
+            </div>
+          )}
         </section>
 
         <section id="campus" className="mt-14 scroll-mt-8">
