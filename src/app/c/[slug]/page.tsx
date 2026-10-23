@@ -4,6 +4,7 @@ import { Player } from "@/components/Player";
 import { Screen } from "@/components/Screen";
 import { Wordmark } from "@/components/Wordmark";
 import { getExplainer } from "@/lib/catalogue";
+import { getProState } from "@/lib/pro";
 
 export const dynamic = "force-dynamic";
 
@@ -15,7 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function ExplainerPage({ params }: Props) {
-  const explainer = await getExplainer(params.slug);
+  const [explainer, { isPro }] = await Promise.all([getExplainer(params.slug), getProState()]);
   if (!explainer) {
     return (
       <Screen theme="watch">
@@ -32,5 +33,5 @@ export default async function ExplainerPage({ params }: Props) {
       </Screen>
     );
   }
-  return <Player explainer={explainer} />;
+  return <Player explainer={explainer} isPro={isPro} />;
 }

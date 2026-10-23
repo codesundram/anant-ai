@@ -6,6 +6,7 @@ import { EXPLAINER_SECONDS, PART_SECONDS, PART_TITLES } from "@/lib/constants";
 import { formatFigure, sourceLine } from "@/lib/format";
 import { keepNote } from "@/lib/progress";
 import type { ExplainerDTO, FigureDTO } from "@/lib/types";
+import { ProBadge } from "./ProBadge";
 import { Quiz } from "./Quiz";
 
 const TOTAL_MS = EXPLAINER_SECONDS * 1000;
@@ -51,7 +52,7 @@ function Profile({ profile }: { profile: NonNullable<ExplainerDTO["profile"]> })
   );
 }
 
-export function Player({ explainer }: { explainer: ExplainerDTO }) {
+export function Player({ explainer, isPro = false }: { explainer: ExplainerDTO; isPro?: boolean }) {
   const [phase, setPhase] = useState<Phase>("watch");
   const [index, setIndex] = useState(0);
   const [paused, setPaused] = useState(false);
@@ -180,6 +181,7 @@ export function Player({ explainer }: { explainer: ExplainerDTO }) {
               {explainer.review === "unreviewed" && <p className="label mt-2">Draft · not yet reviewed</p>}
             </div>
             <div className="flex items-center gap-4">
+              {isPro && <ProBadge />}
               <span ref={clock} className="label tabular-nums" aria-hidden="true">
                 1:00
               </span>

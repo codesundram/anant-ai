@@ -8,11 +8,16 @@ import { Wordmark } from "./Wordmark";
 export async function Header() {
   const { isPro } = await getProState();
   return (
-    <header className="column flex items-center justify-between pt-6">
-      <Link href="/search" aria-label="ANANT home">
-        <Wordmark className="w-[104px]" />
-      </Link>
-      <nav aria-label="Main" className="flex items-center gap-5 text-[14px]">
+    <header className="column pt-6">
+      {/* Row 1: wordmark left, Pro status pinned top-right */}
+      <div className="flex items-center justify-between gap-3">
+        <Link href="/search" aria-label="ANANT home">
+          <Wordmark className="w-[100px]" />
+        </Link>
+        {isPro ? <ProBadge /> : <GoPro className="lk text-[13px]" label="Go Pro" />}
+      </div>
+      {/* Row 2: nav */}
+      <nav aria-label="Main" className="mt-4 flex items-center gap-5 text-[14px]">
         <Link href="/tracks" className="lk">
           Tracks
         </Link>
@@ -22,8 +27,7 @@ export async function Header() {
         <Link href="/progress" className="lk">
           Progress
         </Link>
-        {isPro ? <ProBadge /> : <GoPro className="lk text-[14px]" label="Go Pro" />}
-        <SignOutButton />
+        <SignOutButton className="ml-auto" />
       </nav>
     </header>
   );
