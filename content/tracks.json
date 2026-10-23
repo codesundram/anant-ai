@@ -12,6 +12,29 @@
     { "slug": "it-services-giants", "name": "IT-services giants", "blurb": "India's global software exporters.",
       "companies": ["tcs", "infosys", "hcltech", "wipro", "larsen-infotech"] },
     { "slug": "global-payments", "name": "Global payments", "blurb": "How money moves, worldwide.",
-      "companies": ["visa", "mastercard", "paytm", "phonepe", "razorpay", "adyen", "stripe"] }
+      "companies": ["visa", "mastercard", "paytm", "phonepe", "razorpay", "adyen", "stripe"] },
+
+    { "slug": "fmcg-giants", "name": "FMCG giants", "blurb": "The everyday-brands powerhouses.",
+      "companies": ["hul", "itc", "nestle-india", "britannia", "dabur", "marico", "godrej-consumer", "tata-consumer", "varun-beverages"] },
+    { "slug": "auto-and-ev", "name": "Autos & EVs", "blurb": "From petrol to electric.",
+      "companies": ["maruti-suzuki", "tata-motors", "mahindra", "bajaj-auto", "hero-motocorp", "ola-electric", "ather", "tesla"] },
+    { "slug": "pharma-leaders", "name": "Pharma leaders", "blurb": "India's medicine makers.",
+      "companies": ["sun-pharma", "cipla", "dr-reddys", "divis-labs", "mankind-pharma"] },
+    { "slug": "adani-group", "name": "The Adani group", "blurb": "Ports to power to green energy.",
+      "companies": ["adani-enterprises", "adani-ports", "adani-green", "adani-power"] },
+    { "slug": "tata-group", "name": "The Tata group", "blurb": "India's largest conglomerate.",
+      "companies": ["tcs", "titan", "tata-motors", "tata-steel", "tata-consumer", "indian-hotels", "trent"] },
+    { "slug": "the-ai-wave", "name": "The AI wave", "blurb": "Who's building (and funding) AI.",
+      "companies": ["nvidia", "microsoft", "alphabet", "amazon", "meta-platforms", "apple", "tesla"] },
+    { "slug": "semiconductors", "name": "Semiconductors", "blurb": "The chips behind everything.",
+      "companies": ["nvidia", "advanced-micro-devices", "broadcom", "intel", "qualcomm", "asml-holding"] },
+    { "slug": "indian-it", "name": "Indian IT", "blurb": "The software-services exporters.",
+      "companies": ["tcs", "infosys", "hcltech", "wipro", "larsen-infotech", "coforge", "persistent"] },
+    { "slug": "new-age-india-ipos", "name": "New-age India IPOs", "blurb": "The startups that went public.",
+      "companies": ["eternal", "paytm", "nykaa", "pb-fintech", "delhivery", "honasa", "lenskart", "swiggy"] },
+    { "slug": "energy-and-oil", "name": "Energy & oil", "blurb": "Fuel, power and the majors.",
+      "companies": ["reliance", "ongc", "ntpc", "coal-india", "exxonmobil", "shell", "chevron"] },
+    { "slug": "wall-street-banks", "name": "Wall Street banks", "blurb": "The big US financial houses.",
+      "companies": ["jpmorgan-chase", "bank-of-america", "goldman-sachs"] }
   ]
 }

@@ -9,17 +9,23 @@ export async function Header() {
   const { isPro } = await getProState();
   return (
     <header className="column pt-6">
-      {/* Row 1: wordmark left, Pro status pinned top-right */}
+      {/* Row 1: wordmark left; Pro status pinned top-right, then sign out */}
       <div className="flex items-center justify-between gap-3">
         <Link href="/search" aria-label="ANANT home">
           <Wordmark className="w-[100px]" />
         </Link>
-        {isPro ? <ProBadge /> : <GoPro className="lk text-[13px]" label="Go Pro" />}
+        <div className="flex items-center gap-4">
+          {isPro ? <ProBadge /> : <GoPro className="lk text-[13px]" label="Go Pro" />}
+          <SignOutButton className="text-[13px]" />
+        </div>
       </div>
       {/* Row 2: nav */}
       <nav aria-label="Main" className="mt-4 flex items-center gap-5 text-[14px]">
         <Link href="/tracks" className="lk">
           Tracks
+        </Link>
+        <Link href="/learn" className="lk">
+          Learn
         </Link>
         <Link href="/notebook" className="lk">
           Notebook
@@ -27,7 +33,6 @@ export async function Header() {
         <Link href="/progress" className="lk">
           Progress
         </Link>
-        <SignOutButton className="ml-auto" />
       </nav>
     </header>
   );
