@@ -3,7 +3,7 @@ import { createServerClient } from "@supabase/ssr";
 import { SUPABASE_ANON_KEY, SUPABASE_URL, isSupabaseConfigured } from "@/lib/supabase/config";
 
 // App routes that require a signed-in user. "/" (login) and "/about" stay public.
-const PROTECTED = ["/search", "/c/", "/notebook", "/progress"];
+const PROTECTED = ["/search", "/c/", "/notebook", "/progress", "/tracks", "/certificate"];
 
 export async function middleware(request: NextRequest) {
   // Before the Supabase keys are set, don't gate anything — the app stays usable

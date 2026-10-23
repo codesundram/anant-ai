@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 import { scoreQuiz } from "@/lib/catalogue";
+import { prisma } from "@/lib/db";
+import { createClient } from "@/lib/supabase/server";
 
 export const dynamic = "force-dynamic";
 
@@ -12,5 +14,23 @@ export async function POST(req: Request, { params }: { params: { explainerId: st
   }
   const result = await scoreQuiz(params.explainerId, answers);
   if (!result) return NextResponse.json({ error: "not_found" }, { status: 404 });
+
+  // Record a server-side completion for the signed-in account (powers Pro tracks).
+  try {
+    const supabase = await createClient();
+    const { data: { user } } = await supabase.auth.getUser();
+    const email = user?.email?.toLowerCase();
+    if (email) {
+      const companySlug = params.explainerId.replace(/-v\d+$/, "");
+      await prisma.completion.upsert({
+        where: { email_companySlug: { email, companySlug } },
+        create: { email, companySlug },
+        update: {},
+      });
+    }
+  } catch {
+    // never block quiz scoring on completion recording
+  }
+
   return NextResponse.json(result);
 }

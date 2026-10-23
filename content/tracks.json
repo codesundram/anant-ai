@@ -1,0 +1,17 @@
+{
+  "_meta": { "about": "Curated interview-kit tracks. Sector tracks are generated per industry by the seed. Company slugs are filtered to those that exist.", "generated": "2026-10-23" },
+  "kits": [
+    { "slug": "quick-commerce-war", "name": "Quick-commerce war", "blurb": "The battle for 10-minute delivery.",
+      "companies": ["eternal", "swiggy", "zepto", "swiggy-instamart", "reliance"] },
+    { "slug": "indian-fintech", "name": "Indian fintech", "blurb": "Payments, broking and lending apps.",
+      "companies": ["phonepe", "paytm", "razorpay", "cred", "groww", "zerodha", "pb-fintech", "mobikwik"] },
+    { "slug": "indian-banks", "name": "Indian banks", "blurb": "The big private and public lenders.",
+      "companies": ["hdfc-bank", "icici-bank", "sbi", "kotak-bank", "axis-bank"] },
+    { "slug": "magnificent-seven", "name": "Magnificent Seven", "blurb": "The US tech mega-caps.",
+      "companies": ["apple", "microsoft", "nvidia", "alphabet", "amazon", "meta-platforms", "tesla"] },
+    { "slug": "it-services-giants", "name": "IT-services giants", "blurb": "India's global software exporters.",
+      "companies": ["tcs", "infosys", "hcltech", "wipro", "larsen-infotech"] },
+    { "slug": "global-payments", "name": "Global payments", "blurb": "How money moves, worldwide.",
+      "companies": ["visa", "mastercard", "paytm", "phonepe", "razorpay", "adyen", "stripe"] }
+  ]
+}

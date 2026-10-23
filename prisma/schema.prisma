@@ -137,3 +137,51 @@ model ProSubscription {
   createdAt          DateTime @default(now()) @map("created_at")
   updatedAt          DateTime @updatedAt @map("updated_at")
 }
+
+// Server-side Pro progress: one row when a signed-in user finishes a company
+// (watches the explainer and attempts its quiz). Source of truth for tracks.
+model Completion {
+  id          String   @id @default(cuid())
+  email       String
+  companySlug String   @map("company_slug")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  @@unique([email, companySlug])
+  @@index([email])
+}
+
+// A Pro track: a themed, ordered list of companies. kind = sector | interview_kit.
+model Track {
+  id           String      @id
+  slug         String      @unique
+  name         String
+  blurb        String?
+  kind         String
+  industrySlug String?     @map("industry_slug")
+  isPro        Boolean     @default(true) @map("is_pro")
+  order        Int         @default(0)
+  items        TrackItem[]
+}
+
+model TrackItem {
+  id          String @id
+  trackId     String @map("track_id")
+  track       Track  @relation(fields: [trackId], references: [id], onDelete: Cascade)
+  companySlug String @map("company_slug")
+  order       Int
+
+  @@unique([trackId, companySlug])
+  @@index([trackId])
+}
+
+// Issued when a Pro user completes every company in a track.
+model Certificate {
+  id        String   @id @default(cuid())
+  email     String
+  trackSlug String   @map("track_slug")
+  name      String?
+  attests   String   @default("track_completion")
+  issuedAt  DateTime @default(now()) @map("issued_at")
+
+  @@unique([email, trackSlug])
+}

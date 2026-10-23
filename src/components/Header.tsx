@@ -13,6 +13,9 @@ export async function Header() {
         <Wordmark className="w-[104px]" />
       </Link>
       <nav aria-label="Main" className="flex items-center gap-5 text-[14px]">
+        <Link href="/tracks" className="lk">
+          Tracks
+        </Link>
         <Link href="/notebook" className="lk">
           Notebook
         </Link>

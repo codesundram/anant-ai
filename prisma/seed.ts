@@ -142,6 +142,49 @@ async function main() {
   for (const part of chunk(questionRows, 1000)) await prisma.quizQuestion.createMany({ data: part });
   for (const part of chunk(figureRows, 1000)) await prisma.figure.createMany({ data: part });
 
+  // ---- Pro tracks: sector tracks (per industry) + curated interview kits ----
+  const existing = new Set(companies.map((c) => c.slug));
+  await prisma.trackItem.deleteMany();
+  await prisma.track.deleteMany();
+
+  const trackRows: any[] = [];
+  const itemRows: any[] = [];
+  const byIndustry = new Map<string, typeof companies>();
+  for (const c of companies) {
+    const arr = byIndustry.get(c.industry) ?? [];
+    arr.push(c);
+    byIndustry.set(c.industry, arr);
+  }
+  let sOrder = 0;
+  for (const [ind, cs] of byIndustry) {
+    if (cs.length < 3) continue;
+    const label = (INDUSTRIES as Record<string, string>)[ind] ?? ind;
+    const sorted = [...cs].sort(
+      (a, b) => (b.figures.length > 0 ? 1 : 0) - (a.figures.length > 0 ? 1 : 0) || a.name.localeCompare(b.name),
+    );
+    const id = `sector-${ind}`;
+    trackRows.push({ id, slug: id, name: label, blurb: `Every ${label.toLowerCase()} company we cover.`, kind: "sector", industrySlug: ind, isPro: true, order: sOrder++ });
+    sorted.forEach((c, i) => itemRows.push({ id: `${id}:${c.slug}`, trackId: id, companySlug: c.slug, order: i }));
+  }
+  try {
+    const kits = (JSON.parse(readFileSync(resolve("content/tracks.json"), "utf8")).kits ?? []) as {
+      slug: string; name: string; blurb?: string; companies: string[];
+    }[];
+    let kOrder = 0;
+    for (const k of kits) {
+      const members = k.companies.filter((x) => existing.has(x));
+      if (members.length < 2) continue;
+      const id = `kit-${k.slug}`;
+      trackRows.push({ id, slug: id, name: k.name, blurb: k.blurb ?? null, kind: "interview_kit", industrySlug: null, isPro: true, order: kOrder++ });
+      members.forEach((x, i) => itemRows.push({ id: `${id}:${x}`, trackId: id, companySlug: x, order: i }));
+    }
+  } catch {
+    // no tracks.json
+  }
+  await prisma.track.createMany({ data: trackRows });
+  for (const part of chunk(itemRows, 1000)) await prisma.trackItem.createMany({ data: part });
+  console.log(`Seeded ${trackRows.length} tracks (${itemRows.length} items).`);
+
   console.log(`\nSeeded ${summary}.`);
 }
 
