@@ -12,7 +12,7 @@ export const dynamic = "force-dynamic";
 const FEATURES: [string, string][] = [
   ["Sector tracks", "Follow a path through any industry — every company ticks in Brass as you finish it."],
   ["Interview kits", "17 curated sets: Quick-commerce war, Magnificent Seven, Indian banks, the AI wave and more."],
-  ["Finance 101", "56 finance-interview terms — valuation, returns, banking, unit economics — in plain English."],
+  ["Finance 101", "Finance-interview prep — valuation, returns, banking, unit economics."],
   ["Certificates", "Earn a certificate of completion when you finish a track."],
   ["Progress by industry", "See how much of each sector you’ve covered, across your account."],
   ["The Pro badge", "A PRO mark on your account, everywhere you go in ANANT."],
