@@ -18,6 +18,14 @@ const FEATURES: [string, string][] = [
   ["The Pro badge", "A PRO mark on your account, everywhere you go in ANANT."],
 ];
 
+const FAQ: [string, string][] = [
+  ["How much is it, and can I cancel?", "₹149 a month. Cancel anytime — your Pro access runs to the end of the period you’ve paid for."],
+  ["How do payments work?", "Secure checkout handled by Dodo Payments. Your card details never touch ANANT."],
+  ["Does my progress follow me?", "Yes. Tracks, completions and certificates are tied to your account, so they’re there on any device."],
+  ["Is this investment advice?", "No. ANANT is for education only — it explains companies and terms, and never gives stock tips or recommendations."],
+  ["What happens to the free features?", "Nothing — search, explainers, notes, quizzes and streaks stay free. Pro adds tracks, kits, Finance 101 and certificates on top."],
+];
+
 export default async function ProPage() {
   const { isPro } = await getProState();
   return (
@@ -73,7 +81,19 @@ export default async function ProPage() {
           )}
         </div>
 
-        <p className="mx-auto mt-16 max-w-[34em] pb-10 text-center text-[12px] leading-[1.5] text-ash">{DISCLAIMER}</p>
+        <section className="mt-16">
+          <h2 className="label border-t border-brass pt-4">FAQ</h2>
+          <dl className="mt-2">
+            {FAQ.map(([q, a]) => (
+              <div key={q} className="border-t border-ash py-4 last:border-b">
+                <dt className="font-display text-[16px] font-semibold">{q}</dt>
+                <dd className="mt-1 text-[15px] leading-[1.5] text-ash">{a}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+
+        <p className="mx-auto mt-14 max-w-[34em] pb-10 text-center text-[12px] leading-[1.5] text-ash">{DISCLAIMER}</p>
       </main>
     </Screen>
   );
