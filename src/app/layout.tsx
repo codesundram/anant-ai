@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   manifest: "/manifest.webmanifest",
   icons: { icon: "/icons/192", apple: "/icons/180" },
   appleWebApp: { capable: true, title: BRAND, statusBarStyle: "black-translucent" },
+  verification: { google: "JjygApzuTR1b4LY50l6DYPxHlepruRup_HTLDlg1D1U" },
 };
 
 export const viewport: Viewport = {
