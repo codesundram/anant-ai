@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function ExplainerPage({ params }: Props) {
-  const [explainer, { isPro }] = await Promise.all([getExplainer(params.slug), getProState()]);
+  const [explainer, { isPro, email }] = await Promise.all([getExplainer(params.slug), getProState()]);
   if (!explainer) {
     return (
       <Screen theme="watch">
@@ -33,5 +33,5 @@ export default async function ExplainerPage({ params }: Props) {
       </Screen>
     );
   }
-  return <Player explainer={explainer} isPro={isPro} />;
+  return <Player explainer={explainer} isPro={isPro} isAuthed={!!email} />;
 }

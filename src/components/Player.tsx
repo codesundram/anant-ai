@@ -52,7 +52,17 @@ function Profile({ profile }: { profile: NonNullable<ExplainerDTO["profile"]> })
   );
 }
 
-export function Player({ explainer, isPro = false }: { explainer: ExplainerDTO; isPro?: boolean }) {
+export function Player({
+  explainer,
+  isPro = false,
+  isAuthed = true,
+}: {
+  explainer: ExplainerDTO;
+  isPro?: boolean;
+  // When false (a public sample viewed logged-out), the note isn't kept and the
+  // quiz is replaced with a sign-in prompt. The 60-second watch stays open.
+  isAuthed?: boolean;
+}) {
   const [phase, setPhase] = useState<Phase>("watch");
   const [index, setIndex] = useState(0);
   const [paused, setPaused] = useState(false);
@@ -125,10 +135,10 @@ export function Player({ explainer, isPro = false }: { explainer: ExplainerDTO; 
     return () => window.removeEventListener("keydown", onKey);
   }, [phase, step, setPause]);
 
-  // The note is kept the moment the explainer ends.
+  // The note is kept the moment the explainer ends — for signed-in viewers only.
   useEffect(() => {
-    if (phase === "note") keepNote(explainer);
-  }, [phase, explainer]);
+    if (phase === "note" && isAuthed) keepNote(explainer);
+  }, [phase, explainer, isAuthed]);
 
   const onPointerDown = () => {
     hold.current.held = false;
@@ -232,6 +242,30 @@ export function Player({ explainer, isPro = false }: { explainer: ExplainerDTO; 
             </button>
           </nav>
         </>
+      ) : phase === "note" && !isAuthed ? (
+        <main className="column flex flex-1 flex-col pb-8 pt-16">
+          <div className="settle flex flex-1 flex-col">
+            <p className="flex items-center gap-2 text-[12px] uppercase tracking-label text-brass">
+              <span className="inline-block h-[10px] w-[10px] bg-brass" aria-hidden="true" />
+              That’s the sixty
+            </p>
+            <h1 className="mt-6 font-display text-[28px] font-semibold leading-[1.1] tracking-[-0.01em]">
+              {explainer.name}
+            </h1>
+            <p className="mt-4 text-[16px] leading-[1.5] text-ash">
+              Sign in to keep the 30-word note in your notebook and take the quick quiz — then search
+              every company we cover.
+            </p>
+            <div className="mt-auto flex flex-col gap-3 pt-12">
+              <Link href={`/?next=/c/${explainer.slug}`} className="btn">
+                Sign in to keep this
+              </Link>
+              <button type="button" className="btn-quiet" onClick={backToSlides}>
+                ‹ Back to the slides
+              </button>
+            </div>
+          </div>
+        </main>
       ) : phase === "note" ? (
         <main className="column flex flex-1 flex-col pb-8 pt-16">
           <div className="settle flex flex-1 flex-col">

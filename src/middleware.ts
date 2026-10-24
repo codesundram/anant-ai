@@ -1,9 +1,13 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient } from "@supabase/ssr";
 import { SUPABASE_ANON_KEY, SUPABASE_URL, isSupabaseConfigured } from "@/lib/supabase/config";
+import { SAMPLE_SLUGS } from "@/lib/constants";
 
 // App routes that require a signed-in user. "/" (login) and "/about" stay public.
 const PROTECTED = ["/search", "/c/", "/notebook", "/progress", "/tracks", "/certificate", "/learn"];
+
+// A few explainer pages are public so visitors can try one before signing in.
+const PUBLIC_SAMPLES = SAMPLE_SLUGS.map((s) => `/c/${s}`);
 
 export async function middleware(request: NextRequest) {
   // Before the Supabase keys are set, don't gate anything — the app stays usable
@@ -36,7 +40,8 @@ export async function middleware(request: NextRequest) {
   }
 
   const path = request.nextUrl.pathname;
-  const needsAuth = PROTECTED.some((p) => path === p || path.startsWith(p));
+  const isPublicSample = PUBLIC_SAMPLES.some((p) => path === p || path.startsWith(`${p}/`));
+  const needsAuth = !isPublicSample && PROTECTED.some((p) => path === p || path.startsWith(p));
 
   if (needsAuth && !user) {
     const url = request.nextUrl.clone();

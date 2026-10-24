@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { InfinityMark } from "@/components/InfinityMark";
 import { Intro } from "@/components/Intro";
 import { LoginForm } from "@/components/LoginForm";
 import { Screen } from "@/components/Screen";
 import { Wordmark } from "@/components/Wordmark";
-import { DISCLAIMER, TAGLINE } from "@/lib/constants";
+import { DISCLAIMER, SAMPLE_SLUGS, TAGLINE } from "@/lib/constants";
 
 export const metadata: Metadata = { title: "Sign in" };
 
@@ -26,6 +27,16 @@ export default async function Landing({ searchParams }: { searchParams: Promise<
           <div className="mt-2 w-full max-w-[360px] text-left">
             <LoginForm next={dest} />
           </div>
+
+          <p className="mt-8 text-[14px] text-ash">
+            No account yet?{" "}
+            <Link
+              href={`/c/${SAMPLE_SLUGS[0]}`}
+              className="text-bone underline decoration-brass underline-offset-4 transition-colors hover:text-brass"
+            >
+              Try one now
+            </Link>
+          </p>
         </main>
 
         <footer className="column pb-10 pt-16 text-center">

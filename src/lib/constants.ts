@@ -7,6 +7,10 @@ export const COPYRIGHT = "© 2026 ANANT";
 export const DISCLAIMER =
   "ANANT is for education only. It does not provide stock tips, investment advice or recommendations.";
 
+// Three explainers anyone can watch without signing in, to try the product.
+// The notebook note and the quiz stay behind login.
+export const SAMPLE_SLUGS = ["eternal", "reliance", "nykaa"] as const;
+
 export const PART_KINDS = ["SELLS", "EARNS", "SIZE", "RIVALS", "WATCH"] as const;
 export type PartKind = (typeof PART_KINDS)[number];
 
