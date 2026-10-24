@@ -1,11 +1,16 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect } from "react";
 import { sourceLine } from "@/lib/format";
-import { useProgress } from "@/lib/progress";
+import { syncFromServer, useProgress } from "@/lib/progress";
 
 export function Notebook() {
   const { noteCards, explainers } = useProgress();
+  // Pull notes saved on other devices once on mount (no-op when logged out).
+  useEffect(() => {
+    void syncFromServer();
+  }, []);
 
   if (noteCards.length === 0) {
     return (

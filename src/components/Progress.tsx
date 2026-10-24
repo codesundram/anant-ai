@@ -1,12 +1,17 @@
 "use client";
 
-import { liveStreak, useProgress } from "@/lib/progress";
+import { useEffect } from "react";
+import { liveStreak, syncFromServer, useProgress } from "@/lib/progress";
 import { StreakMark } from "./StreakMark";
 
 type IndustryTotal = { slug: string; name: string; total: number };
 
 export function Progress({ industries }: { industries: IndustryTotal[] }) {
   const { streak, industryProgress } = useProgress();
+  // Pull streak / industry progress saved on other devices (no-op when logged out).
+  useEffect(() => {
+    void syncFromServer();
+  }, []);
   const live = liveStreak(streak);
   const done = (slug: string) => industryProgress.find((p) => p.industry_id === slug)?.explainers_done ?? 0;
   const rows = [...industries].sort((a, b) => done(b.slug) - done(a.slug) || a.name.localeCompare(b.name));

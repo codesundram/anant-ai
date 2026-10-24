@@ -1,55 +1,32 @@
 "use client";
 
-// On-device user progress for Phase 1. Record shapes mirror ARCHITECTURE.md §4
-// so they can be posted to server tables unchanged once accounts exist.
+// On-device user progress. This is the source of truth on the device and works
+// fully offline. When the viewer is signed in, each change is also mirrored to
+// their account (src/lib/progress-server.ts via /api/progress), and syncFromServer
+// pulls anything saved on another device. The server attaches records to the
+// signed-in user and silently ignores writes from logged-out visitors.
 import { useSyncExternalStore } from "react";
-import type { ExplainerDTO, SourceDTO } from "./types";
+import type { ExplainerDTO } from "./types";
+import {
+  EMPTY,
+  LOCAL_USER_ID,
+  dayBefore,
+  istDate,
+  liveStreak,
+} from "./progress-shared";
+import type {
+  ExplainerRef,
+  IndustryProgress,
+  NoteCard,
+  ProgressState,
+  QuizAttempt,
+  Streak,
+} from "./progress-shared";
 
-export const LOCAL_USER_ID = "local";
+export { LOCAL_USER_ID, istDate, liveStreak };
+export type { ExplainerRef, IndustryProgress, NoteCard, ProgressState, QuizAttempt, Streak };
+
 const KEY = "anant.progress.v1";
-
-export type NoteCard = { id: string; user_id: string; explainer_id: string; text_30w: string; created_at: string };
-export type QuizAttempt = {
-  id: string;
-  user_id: string;
-  explainer_id: string;
-  score: number;
-  answers: number[];
-  created_at: string;
-};
-export type Streak = { user_id: string; current_len: number; longest_len: number; last_active_date: string | null };
-export type IndustryProgress = {
-  id: string;
-  user_id: string;
-  industry_id: string;
-  explainers_done: number;
-  total_at_snapshot: number;
-};
-// What the notebook needs to show a note offline, including its sources.
-export type ExplainerRef = {
-  explainer_id: string;
-  slug: string;
-  name: string;
-  industry_id: string;
-  industry_name: string;
-  sources: SourceDTO[];
-};
-
-export type ProgressState = {
-  noteCards: NoteCard[];
-  quizAttempts: QuizAttempt[];
-  streak: Streak;
-  industryProgress: IndustryProgress[];
-  explainers: Record<string, ExplainerRef>;
-};
-
-const EMPTY: ProgressState = {
-  noteCards: [],
-  quizAttempts: [],
-  streak: { user_id: LOCAL_USER_ID, current_len: 0, longest_len: 0, last_active_date: null },
-  industryProgress: [],
-  explainers: {},
-};
 
 let cache: ProgressState | null = null;
 const listeners = new Set<() => void>();
@@ -89,20 +66,19 @@ export function useProgress(): ProgressState {
 const newId = () =>
   typeof crypto !== "undefined" && "randomUUID" in crypto ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`;
 
-// Calendar date in India, as YYYY-MM-DD.
-export const istDate = (d = new Date()) =>
-  new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Kolkata" }).format(d);
-
-const dayBefore = (day: string) => {
-  const d = new Date(`${day}T00:00:00Z`);
-  d.setUTCDate(d.getUTCDate() - 1);
-  return d.toISOString().slice(0, 10);
-};
-
-// A streak only counts as alive if it was extended today or yesterday.
-export function liveStreak(s: Streak, today = istDate()) {
-  const alive = s.last_active_date === today || s.last_active_date === dayBefore(today);
-  return { length: alive ? s.current_len : 0, doneToday: s.last_active_date === today };
+// Mirror a change to the signed-in account. Fire-and-forget: the server scopes
+// it to the caller and ignores it when logged out, so failures never block the UI.
+function mirror(path: string, body: unknown) {
+  try {
+    void fetch(path, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(body),
+      keepalive: true,
+    }).catch(() => {});
+  } catch {
+    // ignore
+  }
 }
 
 const refOf = (e: ExplainerDTO): ExplainerRef => ({
@@ -125,6 +101,7 @@ export function keepNote(e: ExplainerDTO) {
         { id: newId(), user_id: LOCAL_USER_ID, explainer_id: e.id, text_30w: e.note_30w, created_at: new Date().toISOString() },
       ];
   write({ ...s, noteCards, explainers: { ...s.explainers, [e.id]: refOf(e) } });
+  mirror("/api/progress/note", { explainerId: e.id, slug: e.slug, text30w: e.note_30w });
 }
 
 // Records the attempt, advances the streak (once per India day) and counts the
@@ -168,4 +145,61 @@ export function recordQuizAttempt(e: ExplainerDTO, answers: number[], score: num
     industryProgress,
     explainers: { ...s.explainers, [e.id]: refOf(e) },
   });
+  mirror("/api/progress/quiz", {
+    explainerId: e.id,
+    slug: e.slug,
+    industrySlug: e.industry.slug,
+    industryTotal: e.industry.total,
+    score,
+    answers,
+  });
+}
+
+// Pull account progress saved on other devices and merge it into the local
+// cache. Runs once per page load; safe when logged out (returns nothing).
+let syncing: Promise<void> | null = null;
+export function syncFromServer(): Promise<void> {
+  if (syncing) return syncing;
+  syncing = (async () => {
+    try {
+      const res = await fetch("/api/progress", { cache: "no-store" });
+      if (!res.ok) return;
+      const server = (await res.json()) as ProgressState;
+      write(merge(read(), server));
+    } catch {
+      // offline or logged out: keep the local cache
+    }
+  })();
+  return syncing;
+}
+
+// Union local and server progress. Notes are one per explainer; quiz attempts
+// are deduped by id; the streak and each industry count take the higher value.
+function merge(local: ProgressState, server: ProgressState): ProgressState {
+  const notesByExplainer = new Map<string, NoteCard>();
+  for (const n of [...server.noteCards, ...local.noteCards]) notesByExplainer.set(n.explainer_id, n);
+
+  const attemptsById = new Map<string, QuizAttempt>();
+  for (const a of [...server.quizAttempts, ...local.quizAttempts]) attemptsById.set(a.id, a);
+
+  const industryById = new Map<string, IndustryProgress>();
+  for (const p of [...server.industryProgress, ...local.industryProgress]) {
+    const prev = industryById.get(p.industry_id);
+    industryById.set(
+      p.industry_id,
+      prev ? { ...p, explainers_done: Math.max(prev.explainers_done, p.explainers_done) } : p,
+    );
+  }
+
+  const streak =
+    (server.streak.last_active_date ?? "") >= (local.streak.last_active_date ?? "") ? server.streak : local.streak;
+  const longest = Math.max(server.streak.longest_len, local.streak.longest_len);
+
+  return {
+    noteCards: [...notesByExplainer.values()],
+    quizAttempts: [...attemptsById.values()],
+    streak: { ...streak, longest_len: longest },
+    industryProgress: [...industryById.values()],
+    explainers: { ...local.explainers, ...server.explainers },
+  };
 }

@@ -22,7 +22,8 @@ BEGIN
     WHERE n.nspname = 'public' AND c.relkind = 'r'
       AND c.relname IN (
         'Industry','Company','Explainer','ExplainerPart','Figure','Source',
-        'QuizQuestion','ProSubscription','Completion','Track','TrackItem','Certificate'
+        'QuizQuestion','ProSubscription','Completion','Track','TrackItem','Certificate',
+        'ProgressNote','ProgressQuiz','ProgressStreak','ProgressIndustry'
       )
   LOOP
     EXECUTE format('ALTER TABLE public.%I ENABLE ROW LEVEL SECURITY;', t);

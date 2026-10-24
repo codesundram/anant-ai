@@ -150,6 +150,51 @@ model Completion {
   @@index([email])
 }
 
+// Signed-in user progress, keyed by email — mirrors the on-device cache in
+// src/lib/progress.ts so a member's notes, quizzes and streak follow them
+// across devices. The device keeps its own copy and works offline.
+model ProgressNote {
+  id          String   @id @default(cuid())
+  email       String
+  explainerId String   @map("explainer_id")
+  slug        String
+  text30w     String   @map("text_30w")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  @@unique([email, explainerId])
+  @@index([email])
+}
+
+model ProgressQuiz {
+  id          String   @id @default(cuid())
+  email       String
+  explainerId String   @map("explainer_id")
+  slug        String
+  score       Int
+  answers     Int[]
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  @@index([email])
+}
+
+model ProgressStreak {
+  email          String  @id
+  currentLen     Int     @default(0) @map("current_len")
+  longestLen     Int     @default(0) @map("longest_len")
+  lastActiveDate String? @map("last_active_date")
+}
+
+model ProgressIndustry {
+  id              String @id @default(cuid())
+  email           String
+  industrySlug    String @map("industry_slug")
+  explainersDone  Int    @default(0) @map("explainers_done")
+  totalAtSnapshot Int    @default(0) @map("total_at_snapshot")
+
+  @@unique([email, industrySlug])
+  @@index([email])
+}
+
 // A Pro track: a themed, ordered list of companies. kind = sector | interview_kit.
 model Track {
   id           String      @id
