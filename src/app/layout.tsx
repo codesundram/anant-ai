@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Instrument_Serif, Inter, Inter_Tight } from "next/font/google";
+import { Clarity } from "@/components/Clarity";
 import { ServiceWorker } from "@/components/ServiceWorker";
 import { BRAND, TAGLINE } from "@/lib/constants";
 import "./globals.css";
@@ -28,6 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         {children}
         <ServiceWorker />
+        <Clarity />
       </body>
     </html>
   );
